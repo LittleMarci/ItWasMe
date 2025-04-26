@@ -3,13 +3,14 @@
 	type: "party"
 	owner: "984c4811-73c4-3e6e-8751-7c2a2f7b7ccc"
 	ranks: {
+		64c63124-ce40-32e5-ac7e-34fda48b4ffc: "member"
 		984c4811-73c4-3e6e-8751-7c2a2f7b7ccc: "owner"
 		f59533d1-310c-378e-bf12-657e6d2b2e2a: "member"
 	}
 	properties: {
 		"ftbteams:display_name": "Chupapis"
 		"ftbteams:description": "Survive"
-		"ftbteams:color": "#99FF59"
+		"ftbteams:color": "#A16B00"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}
@@ -19,6 +20,8 @@
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1745635345678L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"carlitox_x1\"}]}" }
 		{ from: "984c4811-73c4-3e6e-8751-7c2a2f7b7ccc", date: 1745635358257L, text: "{\"text\":\"la kgada\"}" }
 		{ from: "f59533d1-310c-378e-bf12-657e6d2b2e2a", date: 1745635365126L, text: "{\"text\":\"xd\"}" }
+		{ from: "984c4811-73c4-3e6e-8751-7c2a2f7b7ccc", date: 1745690339106L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"AlonsoVanDeKap\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1745690342332L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"AlonsoVanDeKap\"}]}" }
 	]
 	extra: { }
 }

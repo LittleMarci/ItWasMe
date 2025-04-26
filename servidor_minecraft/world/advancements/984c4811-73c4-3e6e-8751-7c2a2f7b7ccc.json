@@ -75,10 +75,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-04-26 02:21:33 +0000",
+      "minecraft:deep_ocean": "2025-04-26 18:12:18 +0000",
+      "minecraft:dark_forest": "2025-04-26 18:14:48 +0000",
       "minecraft:river": "2025-04-26 02:23:58 +0000",
       "minecraft:stony_shore": "2025-04-26 02:24:45 +0000",
       "minecraft:cold_ocean": "2025-04-26 02:30:28 +0000",
       "minecraft:forest": "2025-04-26 02:23:42 +0000",
+      "minecraft:lush_caves": "2025-04-26 18:21:28 +0000",
+      "minecraft:deep_cold_ocean": "2025-04-26 18:12:10 +0000",
+      "minecraft:ocean": "2025-04-26 18:13:00 +0000",
       "minecraft:deep_dark": "2025-04-26 05:00:53 +0000",
       "minecraft:plains": "2025-04-26 02:24:21 +0000"
     },
@@ -2130,7 +2135,8 @@
       "cooked_mutton": "2025-04-26 05:37:12 +0000",
       "apple": "2025-04-26 02:56:05 +0000",
       "potato": "2025-04-26 04:04:14 +0000",
-      "bread": "2025-04-26 02:31:50 +0000"
+      "bread": "2025-04-26 02:31:50 +0000",
+      "carrot": "2025-04-26 18:13:35 +0000"
     },
     "done": false
   },
@@ -6012,15 +6018,21 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+  "psg:verylittlechemist": {
     "criteria": {
-      "has_wool": "2025-04-26 17:23:51 +0000"
+      "verylittlechemist_0": "2025-04-26 16:37:50 +0000"
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
+  "overworld_netherite_ore:pieceofdebris": {
     "criteria": {
-      "diamond_boots": "2025-04-26 17:44:05 +0000"
+      "pieceofdebris_0": "2025-04-26 16:43:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2025-04-26 17:23:51 +0000"
     },
     "done": true
   },
@@ -6036,12 +6048,6 @@
     },
     "done": true
   },
-  "psg:verylittlechemist": {
-    "criteria": {
-      "verylittlechemist_0": "2025-04-26 16:37:50 +0000"
-    },
-    "done": true
-  },
   "projectvibrantjourneys:recipes/misc/brown_dye_from_light_brown_bark_mushroom": {
     "criteria": {
       "has_light_brown_bark_mushroom": "2025-04-26 17:23:51 +0000"
@@ -6051,12 +6057,6 @@
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_white_wool": "2025-04-26 17:23:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2025-04-26 17:44:20 +0000"
     },
     "done": true
   },
@@ -6090,12 +6090,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_shell": "2025-04-26 17:32:03 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/green_seat": {
     "criteria": {
       "has_wool": "2025-04-26 17:23:51 +0000"
@@ -6111,12 +6105,6 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-04-26 17:23:51 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2025-04-26 17:33:06 +0000"
     },
     "done": true
   },
@@ -6141,12 +6129,6 @@
   "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
     "criteria": {
       "has_wool": "2025-04-26 17:23:51 +0000"
-    },
-    "done": true
-  },
-  "overworld_netherite_ore:pieceofdebris": {
-    "criteria": {
-      "pieceofdebris_0": "2025-04-26 16:43:46 +0000"
     },
     "done": true
   },
@@ -6195,6 +6177,354 @@
   "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
     "criteria": {
       "has_wool": "2025-04-26 17:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-04-26 17:32:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-04-26 17:33:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-04-26 17:44:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-04-26 17:44:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-26 18:18:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_side_table": {
+    "criteria": {
+      "has_dark_oak_side_table": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_crate": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_fancy_bed": {
+    "criteria": {
+      "has_dark_oak_fancy_bed": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_cutting_board": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_mail_box": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/dark_oak_pallet": {
+    "criteria": {
+      "has_planks": "2025-04-26 18:15:00 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/dark_oak_support": {
+    "criteria": {
+      "has_plank": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/dark_oak_trim": {
+    "criteria": {
+      "has_block": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/dark_oak_layer": {
+    "criteria": {
+      "has_block": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/dark_oak_palisade": {
+    "criteria": {
+      "has_log": "2025-04-26 18:15:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_bench": {
+    "criteria": {
+      "has_dark_oak_bench": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_drawer": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_couch": {
+    "criteria": {
+      "has_dark_oak_couch": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_chair": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_desk": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-26 18:18:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-26 18:18:28 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/dark_oak_frame": {
+    "criteria": {
+      "has_planks": "2025-04-26 18:15:00 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/dark_oak_support": {
+    "criteria": {
+      "has_block": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_nightstand": {
+    "criteria": {
+      "has_dark_oak_nightstand": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_shelf": {
+    "criteria": {
+      "has_dark_oak_shelf": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_dining_bench": {
+    "criteria": {
+      "has_dark_oak_dining_bench": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_cupboard": {
+    "criteria": {
+      "has_dark_oak_cupboard": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_corner_trim": {
+    "criteria": {
+      "has_dark_oak_corner_trim": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/dark_oak_beam": {
+    "criteria": {
+      "has_log": "2025-04-26 18:15:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-26 18:18:28 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/dark_oak_wall": {
+    "criteria": {
+      "has_logs": "2025-04-26 18:15:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_counter": {
+    "criteria": {
+      "has_dark_oak_counter": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/misc/orange_dye_from_orange_bark_mushroom": {
+    "criteria": {
+      "has_orange_bark_mushroom": "2025-04-26 18:20:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-26 18:15:00 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/dark_oak_ladder": {
+    "criteria": {
+      "has_planks": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-26 18:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-26 18:15:02 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/dark_oak_seat": {
+    "criteria": {
+      "has_plank": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_pillar_trim": {
+    "criteria": {
+      "has_dark_oak_pillar_trim": "2025-04-26 18:16:04 +0000"
     },
     "done": true
   },
