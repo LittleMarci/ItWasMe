@@ -1080,6 +1080,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-26 19:35:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 19:18:49 +0000"
@@ -1760,7 +1766,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-04-26 19:03:23 +0000"
+      "bread": "2025-04-26 19:03:23 +0000",
+      "rotten_flesh": "2025-04-26 19:29:21 +0000"
     },
     "done": false
   },
