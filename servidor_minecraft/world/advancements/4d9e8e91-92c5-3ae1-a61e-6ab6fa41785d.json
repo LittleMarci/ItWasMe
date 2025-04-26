@@ -1,4 +1,10 @@
 {
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-04-26 16:42:06 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/acacia_lantern": {
     "criteria": {
       "has_torch": "2025-04-26 16:29:57 +0000"
@@ -17,9 +23,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-26 16:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2025-04-26 16:38:22 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-04-26 16:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-26 16:42:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-26 16:42:07 +0000"
     },
     "done": true
   },
@@ -29,9 +59,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-04-26 16:32:31 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-04-26 16:34:14 +0000"
+    },
+    "done": true
+  },
   "overworld_netherite_ore:overworld_netherite": {
     "criteria": {
       "overworld_netherite_0": "2025-04-26 16:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-26 16:32:31 +0000"
     },
     "done": true
   },
@@ -41,9 +89,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-04-26 16:32:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-04-26 16:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-04-26 16:42:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-04-26 16:32:31 +0000"
+    },
+    "done": false
+  },
   "decorative_blocks:recipes/decorations/torch_from_chandelier": {
     "criteria": {
       "has_torch": "2025-04-26 16:29:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-04-26 16:42:07 +0000"
     },
     "done": true
   },
@@ -64,6 +142,12 @@
       "has_torch": "2025-04-26 16:29:57 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-04-26 16:42:06 +0000"
+    },
+    "done": false
   },
   "bbb:recipes/crimson_lantern": {
     "criteria": {
@@ -86,6 +170,12 @@
   "bbb:recipes/bamboo_beam": {
     "criteria": {
       "has_log": "2025-04-26 16:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-26 16:42:06 +0000"
     },
     "done": true
   },
@@ -132,9 +222,27 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-26 16:32:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-04-26 16:38:22 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/birch_lantern": {
     "criteria": {
       "has_torch": "2025-04-26 16:29:57 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/brazier": {
+    "criteria": {
+      "has_coal": "2025-04-26 16:38:22 +0000"
     },
     "done": true
   },
@@ -153,9 +261,16 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-04-26 16:29:17 +0000",
-      "minecraft:stony_shore": "2025-04-26 16:29:26 +0000"
+      "minecraft:stony_shore": "2025-04-26 16:29:26 +0000",
+      "minecraft:plains": "2025-04-26 16:32:14 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-26 16:42:06 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
