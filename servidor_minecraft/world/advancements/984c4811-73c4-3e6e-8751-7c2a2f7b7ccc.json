@@ -6251,6 +6251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-04-26 18:56:14 +0000"
+    },
+    "done": true
+  },
   "lootr:1cart": {
     "criteria": {
       "opened_cart": "2025-04-26 18:36:38 +0000"
@@ -6329,6 +6335,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-26 19:19:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-26 19:19:40 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/walnut_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-26 18:39:52 +0000"
@@ -6338,6 +6356,12 @@
   "bbb:recipes/dark_oak_pallet": {
     "criteria": {
       "has_planks": "2025-04-26 18:15:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-26 18:55:43 +0000"
     },
     "done": true
   },
@@ -6419,6 +6443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-04-26 18:56:14 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_drawer": {
     "criteria": {
       "has_dark_oak_drawer": "2025-04-26 18:16:04 +0000"
@@ -6449,6 +6479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-04-26 18:56:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-26 18:39:52 +0000"
@@ -6461,9 +6497,33 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/iron_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-26 18:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-26 19:19:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-04-26 18:56:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2025-04-26 18:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-04-26 18:55:43 +0000"
     },
     "done": true
   },
@@ -6485,6 +6545,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-26 19:19:40 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_hull": {
+    "criteria": {
+      "has_item": "2025-04-26 18:56:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-04-26 18:56:14 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/dark_oak_frame": {
     "criteria": {
       "has_planks": "2025-04-26 18:15:00 +0000"
@@ -6494,6 +6572,12 @@
   "bbb:recipes/dark_oak_support": {
     "criteria": {
       "has_block": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-04-26 18:56:14 +0000"
     },
     "done": true
   },
@@ -6539,6 +6623,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/copper_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-26 18:56:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-04-26 18:16:04 +0000"
@@ -6566,6 +6656,12 @@
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-26 19:19:40 +0000"
     },
     "done": true
   },
@@ -6641,6 +6737,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/iron_hull": {
+    "criteria": {
+      "has_item": "2025-04-26 18:55:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-04-26 18:15:00 +0000"
@@ -6680,6 +6782,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_desk": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-04-26 18:55:43 +0000"
     },
     "done": true
   },

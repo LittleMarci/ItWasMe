@@ -1775,3 +1775,26 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Apr2025 18:52:43.201] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xander_Aqp lost connection: Disconnected
 [26Apr2025 18:52:43.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp left the game
 [26Apr2025 18:52:43.202] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Xander_Aqp
+[26Apr2025 18:59:59.412] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xander_Aqp[/127.98.12.191:49593] logged in with entity id 97810 at (-69.10429292471164, 72.0, -68.62090513280674)
+[26Apr2025 18:59:59.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp joined the game
+[26Apr2025 18:59:59.466] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Xander_Aqp
+[26Apr2025 18:59:59.974] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Xander_Aqp
+[26Apr2025 18:59:59.976] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Xander_Aqp (18)
+[26Apr2025 18:59:59.976] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Xander_Aqp
+[26Apr2025 19:01:14.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-70, y=66, z=-69} BlockPos{x=-38, y=81, z=-93}
+[26Apr2025 19:03:10.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp has made the advancement [Getting an Upgrade]
+[26Apr2025 19:03:11.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp has made the advancement [Stone Age]
+[26Apr2025 19:03:27.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp was slain by A1lenSS
+[26Apr2025 19:03:28.997] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[26Apr2025 19:05:31.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp has made the advancement [Sweet Dreams]
+[26Apr2025 19:05:46.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp has made the advancement [Alex's Mobs]
+[26Apr2025 19:12:36.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp has made the advancement [Monster Hunter]
+[26Apr2025 19:15:06.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp was slain by A1lenSS
+[26Apr2025 19:15:07.708] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[26Apr2025 19:15:17.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Teleported Xander_Aqp to A1lenSS]
+[26Apr2025 19:15:33.192] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
+[26Apr2025 19:18:49.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp has made the advancement [Acquire Hardware]
+[26Apr2025 19:22:00.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp has made the advancement [The Hoarding Begins]
+[26Apr2025 19:26:32.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp was burnt to a crisp whilst fighting Zombie
+[26Apr2025 19:26:34.329] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[26Apr2025 19:26:59.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Teleported Xander_Aqp to A1lenSS]
