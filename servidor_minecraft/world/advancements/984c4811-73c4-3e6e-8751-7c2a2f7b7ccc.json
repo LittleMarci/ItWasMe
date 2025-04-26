@@ -76,6 +76,7 @@
     "criteria": {
       "minecraft:taiga": "2025-04-26 02:21:33 +0000",
       "minecraft:deep_ocean": "2025-04-26 18:12:18 +0000",
+      "minecraft:birch_forest": "2025-04-26 18:23:26 +0000",
       "minecraft:dark_forest": "2025-04-26 18:14:48 +0000",
       "minecraft:river": "2025-04-26 02:23:58 +0000",
       "minecraft:stony_shore": "2025-04-26 02:24:45 +0000",
@@ -85,6 +86,7 @@
       "minecraft:deep_cold_ocean": "2025-04-26 18:12:10 +0000",
       "minecraft:ocean": "2025-04-26 18:13:00 +0000",
       "minecraft:deep_dark": "2025-04-26 05:00:53 +0000",
+      "minecraft:meadow": "2025-04-26 18:29:06 +0000",
       "minecraft:plains": "2025-04-26 02:24:21 +0000"
     },
     "done": false
@@ -1928,7 +1930,8 @@
   },
   "lootr:social": {
     "criteria": {
-      "opened_chest": "2025-04-26 02:31:01 +0000"
+      "opened_chest": "2025-04-26 02:31:01 +0000",
+      "opened_cart": "2025-04-26 18:36:38 +0000"
     },
     "done": false
   },
@@ -2136,6 +2139,8 @@
       "apple": "2025-04-26 02:56:05 +0000",
       "potato": "2025-04-26 04:04:14 +0000",
       "bread": "2025-04-26 02:31:50 +0000",
+      "golden_apple": "2025-04-26 18:45:51 +0000",
+      "glow_berries": "2025-04-26 18:28:40 +0000",
       "carrot": "2025-04-26 18:13:35 +0000"
     },
     "done": false
@@ -6210,6 +6215,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/azalea_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-26 18:39:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/dark_oak_window": {
     "criteria": {
       "has_ingredient": "2025-04-26 18:16:04 +0000"
@@ -6228,15 +6239,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-26 18:39:52 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_crate": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-26 18:16:04 +0000"
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-04-26 18:36:38 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_drawer": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-04-26 18:24:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-26 18:39:52 +0000"
     },
     "done": true
   },
@@ -6258,9 +6293,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-26 18:29:49 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_drawer": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-26 18:39:52 +0000"
     },
     "done": true
   },
@@ -6282,15 +6329,39 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/walnut_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-26 18:39:52 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/dark_oak_pallet": {
     "criteria": {
       "has_planks": "2025-04-26 18:15:00 +0000"
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/oak_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-04-26 18:29:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-04-26 18:24:21 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/dark_oak_support": {
     "criteria": {
       "has_plank": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-26 18:29:49 +0000"
     },
     "done": true
   },
@@ -6312,9 +6383,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-04-26 18:51:31 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/dark_oak_palisade": {
     "criteria": {
       "has_log": "2025-04-26 18:15:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/glow_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-04-26 18:27:08 +0000"
     },
     "done": true
   },
@@ -6327,6 +6410,12 @@
   "handcrafted:recipes/misc/dark_oak_bench": {
     "criteria": {
       "has_dark_oak_bench": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-26 18:39:52 +0000"
     },
     "done": true
   },
@@ -6360,6 +6449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-26 18:39:52 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_desk": {
     "criteria": {
       "has_dark_oak_desk": "2025-04-26 18:16:04 +0000"
@@ -6375,6 +6470,18 @@
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-04-26 18:18:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-04-26 18:27:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-26 18:39:52 +0000"
     },
     "done": true
   },
@@ -6396,15 +6503,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-26 18:27:08 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_shelf": {
     "criteria": {
       "has_dark_oak_shelf": "2025-04-26 18:16:04 +0000"
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/flowering_azalea_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-26 18:39:52 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_dining_bench": {
     "criteria": {
       "has_dark_oak_dining_bench": "2025-04-26 18:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-04-26 18:39:52 +0000"
     },
     "done": true
   },
@@ -6468,9 +6593,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-26 18:39:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-26 18:39:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-26 18:39:52 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/building_blocks/dark_oak_planks_from_dark_oak_hollow_log": {
+    "criteria": {
+      "has_dark_oak_hollow_log": "2025-04-26 18:39:29 +0000"
+    },
+    "done": true
+  },
   "projectvibrantjourneys:recipes/misc/orange_dye_from_orange_bark_mushroom": {
     "criteria": {
       "has_orange_bark_mushroom": "2025-04-26 18:20:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-04-26 18:36:44 +0000"
     },
     "done": true
   },
@@ -6507,6 +6662,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-04-26 18:15:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-04-26 18:36:44 +0000"
     },
     "done": true
   },

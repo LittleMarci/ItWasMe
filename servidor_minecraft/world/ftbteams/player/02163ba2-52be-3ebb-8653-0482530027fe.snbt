@@ -1,0 +1,17 @@
+{
+	id: "02163ba2-52be-3ebb-8653-0482530027fe"
+	type: "player"
+	player_name: "Xander_Aqp"
+	ranks: {
+		02163ba2-52be-3ebb-8653-0482530027fe: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Xander_Aqp"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59DAFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
