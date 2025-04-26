@@ -1,0 +1,21 @@
+
+["Generation&World"]
+	#Whether the Cult Temple will be place at 0,0 or not
+	PlaceCultTemple = true
+	#Whether Players will teleport to the Deep Void when jumping in the Void or not
+	PlayersTeleportInVoid = true
+	#Whether Players will teleport to the Deep Void when falling in the Void in the End or not (If PlayersTeleportInVoid is false, this will automatically be false)
+	PlayersTeleportInEnd = true
+
+[Spawns]
+	#Whether Abductors will spawn in the Overworld or not
+	SpawnAbductors = true
+
+[Misc]
+	#Whether the ''Seek Light'' warning should appear when the Stalker is close or not (Happens only one time)
+	SeekLightWarning = false
+	#Whether light sources should be destroyed in the Deep Void or not
+	DestroyLightSources = true
+	#How long the Void Blessing effect should last when entering the Deep Void (In ticks)
+	VoidBlessingTimer = 600.0
+

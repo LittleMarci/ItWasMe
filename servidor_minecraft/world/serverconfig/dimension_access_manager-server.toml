@@ -1,0 +1,7 @@
+#Defines if new dimensions are GRANTED or LOCKED by default.
+#Allowed Values: GRANTED, LOCKED
+default_dimension_access_type = "GRANTED"
+#Defines which permission level is required to run the /dimension command
+#Range: 0 ~ 4
+dimension_command_permission_level = 3
+

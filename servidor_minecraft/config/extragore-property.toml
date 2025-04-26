@@ -1,0 +1,270 @@
+# ExtraGore Particle Group Configuration
+# ------------------------------------------------------
+# This file enables the creation of custom blood particle properties for various entities.
+# Begin by uniquely naming each property group to effectively manage different settings.
+
+# Particle Behavior Options:
+# - Bounce: The particle will bounce off surfaces like a solid object.
+# - Stick: The particle will stick to walls and other surfaces.
+# - Magic: Some particles will fall to the ground while the majority will fly up to the sky.
+# - None: The particle won't have any special effects.
+
+# Particle Weight Options:
+# - Heavy: The particle will sink to the bottom when it's underwater.
+# - Light: The particle will float up to the top of the water.
+
+# Particle State Options:
+# - Liquid: The particle will get larger during its lifetime.
+# - Solid: The particle will remain the same size all the time.
+
+# Color Settings:
+# Set an RGB color value to visually distinguish particles for various entities.
+
+# How to Use:
+# 1. Define a group with a name, including behavior, weight, state, color and entity values.
+# 2. Example:
+#    ["Color Group Name"]
+#    behavior = Choose from "Stuck", "Bounce" or "None"
+#    weight = Choose from "Heavy" or "Light"
+#    state = Choose from "Liquid" or "Solid"
+#    color = "R,G,B"
+#    entities = ["entityID1", "entityID2"]
+# 3. You can modify or delete any predefined groups, except for the red group. The red group is non editable and serves only to show you unused entities which are compatible with different color groups.
+# 4. Add your custom color groups under an already predefined group, except for the red one.
+# 5. Ensure each color group has a unique name and is properly structured.
+
+# Note: Incorrectly formatted lines or unrecognized entity IDs will be ignored.
+# ------------------------------------------------------
+
+["Violet Group"]
+behavior = "Magic"
+weight = "Light"
+state = "Liquid"
+color = "128,0,128"
+entities = ["minecraft:enderman", "minecraft:endermite", "minecraft:phantom", "minecraft:shulker", "minecraft:silverfish", "minecraft:warden", "minecraft:ender_dragon"]
+
+["White Group"]
+behavior = "Bounce"
+weight = "Heavy"
+state = "Solid"
+color = "255,255,255"
+entities = ["minecraft:skeleton", "minecraft:ghast", "minecraft:iron_golem", "minecraft:skeleton_horse", "minecraft:snow_golem", "minecraft:stray", "minecraft:vex", "minecraft:wither_skeleton", "minecraft:allay", "minecraft:wither"]
+
+["Green Group"]
+behavior = "Stuck"
+weight = "Light"
+state = "Liquid"
+color = "0,255,0"
+entities = ["minecraft:cave_spider", "minecraft:creeper", "minecraft:slime", "minecraft:spider", "minecraft:witch"]
+
+["Yellow Group"]
+behavior = "Bounce"
+weight = "Heavy"
+state = "Solid"
+color = "255,255,0"
+entities = ["minecraft:blaze", "minecraft:magma_cube", "minecraft:strider"]
+
+["Blue Group"]
+behavior = "None"
+weight = "Light"
+state = "Liquid"
+color = "0,0,255"
+entities = ["minecraft:squid", "minecraft:elder_guardian", "minecraft:guardian", "minecraft:glow_squid"]
+
+# Auto generated red color group - do not edit. Use this as reference for unused entity IDs.
+"255,0,0" = [
+    "alexsmobs:snow_leopard",
+    "alexsmobs:seal",
+    "alexsmobs:roadrunner",
+    "alexsmobs:laviathan",
+    "minecraft:trader_llama",
+    "alexsmobs:endergrade",
+    "minecraft:horse",
+    "the_deep_void:light",
+    "minecraft:llama",
+    "alexsmobs:maned_wolf",
+    "alexsmobs:skreecher",
+    "the_deep_void:gravekeeper",
+    "minecraft:tadpole",
+    "minecraft:dolphin",
+    "alexsmobs:gelada_monkey",
+    "alexsmobs:hammerhead_shark",
+    "alexsmobs:dropbear",
+    "alexsmobs:tiger",
+    "alexsmobs:grizzly_bear",
+    "alexsmobs:murmur_head",
+    "minecraft:bee",
+    "alexsmobs:devils_hole_pupfish",
+    "the_deep_void:rotten_corpse",
+    "minecraft:illusioner",
+    "minecraft:mooshroom",
+    "alexsmobs:bison",
+    "minecraft:drowned",
+    "minecraft:axolotl",
+    "the_deep_void:ghostly_nightmare",
+    "alexsmobs:gorilla",
+    "alexsmobs:tusklin",
+    "alexsmobs:cosmic_cod",
+    "the_deep_void:void_dweller",
+    "alexsmobs:underminer",
+    "minecraft:wandering_trader",
+    "alexsmobs:kangaroo",
+    "the_deep_void:nightmare",
+    "ecologics:coconut_crab",
+    "bloomingnature:termite",
+    "alexsmobs:hummingbird",
+    "mutantmonsters:mutant_zombie",
+    "hordes:drowned_player",
+    "alexsmobs:crow",
+    "alexsmobs:guster",
+    "minecraft:pufferfish",
+    "minecraft:fox",
+    "the_deep_void:abductor",
+    "bloomingnature:wandering_gardener",
+    "alexsmobs:warped_toad",
+    "minecraft:chicken",
+    "alexsmobs:giant_squid",
+    "minecraft:zombie",
+    "the_deep_void:small_flesh_cube",
+    "alexsmobs:emu",
+    "alexsmobs:cockroach",
+    "alexsmobs:flutter",
+    "minecraft:hoglin",
+    "alexsmobs:capuchin_monkey",
+    "hordes:husk_player",
+    "minecraft:polar_bear",
+    "minecraft:zombified_piglin",
+    "the_deep_void:big_eye",
+    "minecraft:turtle",
+    "minecraft:sheep",
+    "the_deep_void:mourner",
+    "alexsmobs:rattlesnake",
+    "the_deep_void:lurker",
+    "alexsmobs:bone_serpent_part",
+    "alexsmobs:raccoon",
+    "minecraft:ravager",
+    "alexsmobs:bone_serpent",
+    "alexsmobs:potoo",
+    "alexsmobs:fly",
+    "alexsmobs:straddler",
+    "alexsmobs:sea_bear",
+    "alexsmobs:mudskipper",
+    "the_deep_void:big_light",
+    "alexsmobs:sugar_glider",
+    "alexsmobs:crimson_mosquito",
+    "alexsmobs:orca",
+    "the_deep_void:stalker",
+    "alexsmobs:jerboa",
+    "minecraft:bat",
+    "alexsmobs:cosmaw",
+    "alexsmobs:comb_jelly",
+    "railways:conductor",
+    "the_deep_void:sulfur_tnt_entity",
+    "the_deep_void:damned",
+    "alexsmobs:skunk",
+    "alexsmobs:enderiophage",
+    "alexsmobs:sunbird",
+    "the_deep_void:licker",
+    "the_deep_void:wanderer",
+    "alexsmobs:tasmanian_devil",
+    "the_deep_void:four_eyes",
+    "minecraft:cat",
+    "alexsmobs:stradpole",
+    "ecologics:penguin",
+    "minecraft:tropical_fish",
+    "minecraft:panda",
+    "minecraft:zombie_villager",
+    "alexsmobs:froststalker",
+    "minecraft:giant",
+    "alexsmobs:lobster",
+    "alexsmobs:seagull",
+    "alexsmobs:moose",
+    "alexsmobs:shoebill",
+    "alexsmobs:farseer",
+    "alexsmobs:warped_mosco",
+    "hordes:zombie_player",
+    "minecraft:husk",
+    "jeffsgibbing:flesh_2",
+    "alexsmobs:komodo_dragon",
+    "minecraft:donkey",
+    "mutantmonsters:mutant_skeleton",
+    "minecraft:piglin_brute",
+    "the_deep_void:flesh_cube",
+    "alexsmobs:crocodile",
+    "alexsmobs:triops",
+    "the_deep_void:hallucination",
+    "alexsmobs:rhinoceros",
+    "alexsmobs:frilled_shark",
+    "alexsmobs:bald_eagle",
+    "alexsmobs:blobfish",
+    "ecologics:squirrel",
+    "alexsmobs:mimicube",
+    "alexsmobs:void_worm",
+    "minecraft:parrot",
+    "alexsmobs:centipede_head",
+    "jeffsgibbing:flesh_entity",
+    "minecraft:frog",
+    "warrior:warrior",
+    "alexsmobs:banana_slug",
+    "mutantmonsters:mutant_creeper",
+    "alexsmobs:mimic_octopus",
+    "alexsmobs:bunfungus",
+    "alexsmobs:void_worm_part",
+    "the_deep_void:cross_eyes",
+    "minecraft:mule",
+    "the_deep_void:fool_eater",
+    "minecraft:vindicator",
+    "alexsmobs:flying_fish",
+    "minecraft:evoker",
+    "alexsmobs:tarantula_hawk",
+    "alexsmobs:cachalot_whale",
+    "the_deep_void:stalker_stalking",
+    "jeffs_cursed_walking_structures:driller",
+    "jeffsgibbing:ribs",
+    "alexsmobs:terrapin",
+    "alexsmobs:anaconda",
+    "the_deep_void:multiple_eyes",
+    "minecraft:pig",
+    "the_deep_void:devourer",
+    "alexsmobs:alligator_snapping_turtle",
+    "minecraft:goat",
+    "mutantmonsters:mutant_enderman",
+    "the_deep_void:bone_crawler",
+    "minecraft:cod",
+    "alexsmobs:mantis_shrimp",
+    "the_deep_void:tiny_light",
+    "alexsmobs:platypus",
+    "mutantmonsters:spider_pig",
+    "minecraft:cow",
+    "alexsmobs:rocky_roller",
+    "alexsmobs:soul_vulture",
+    "the_deep_void:amalgam",
+    "alexsmobs:blue_jay",
+    "alexsmobs:toucan",
+    "minecraft:salmon",
+    "alexsmobs:anteater",
+    "alexsmobs:rain_frog",
+    "minecraft:rabbit",
+    "minecraft:pillager",
+    "alexsmobs:murmur",
+    "minecraft:zoglin",
+    "alexsmobs:leafcutter_ant",
+    "alexsmobs:mungus",
+    "alexsmobs:caiman",
+    "alexsmobs:spectre",
+    "alexsmobs:catfish",
+    "mutantmonsters:endersoul_clone",
+    "minecraft:piglin",
+    "the_deep_void:falling_corpse",
+    "alexsmobs:skelewag",
+    "the_deep_void:roamer",
+    "alexsmobs:elephant",
+    "alexsmobs:gazelle",
+    "minecraft:sniffer",
+    "minecraft:zombie_horse",
+    "the_deep_void:spore_spewer",
+    "minecraft:camel",
+    "minecraft:ocelot",
+    "jeffsgibbing:bone_entity",
+    "minecraft:wolf"
+]

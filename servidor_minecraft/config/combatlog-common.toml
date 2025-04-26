@@ -1,0 +1,8 @@
+[config]
+	#The amount of time a player should be in combat
+	combatTime = 30
+	#Weather a player should be put in combat from just other players or all damage(true is all damage false is just players)
+	allDamage = false
+	#The message that shows up when I player disconnects while in combat
+	#If you don't add a space to the beginning it will look like "(player)deathmessage" instead of "(player) deathmessage" ingame
+	deathMessage = " has died of cowardice"

@@ -1,0 +1,45 @@
+{
+  "materials": [
+  {
+  "item": {
+   "item": "the_deep_void:refined_onyx"
+      },
+      "count": 2
+  },
+  {
+   "item": {
+   "item": "pointblank:guninternals"
+    },
+    "count": 8
+  },
+  
+  {
+   "item": {
+     "item": "cw_additions:plastic_sheet"
+     },
+    "count": 4
+  },
+  {
+    "item": {
+      "item": "cw_additions:gunsteel"
+      },
+     "count": 12
+   },
+   {
+    "item": {
+      "item": "minecraft:gold_ingot"
+      },
+     "count": 40
+   },
+   {
+    "item": {
+      "item": "cw_additions:gun_parts"
+    },
+    "count": 6
+  }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:deagle_golden"
+  }
+}

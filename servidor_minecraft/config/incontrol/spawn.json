@@ -1,0 +1,162 @@
+[
+  
+  {
+    "dimension": "minecraft:overworld",
+    "mod": "mutantmonsters",
+    "when": "onjoin",
+    "result": "deny"
+  },
+
+  
+  {
+    "dimension": "the_deep_void:deep_void",
+    "mod": "the_deep_void",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  
+   {
+    "dimension": "minecraft:overworld",
+    "mod": "the_deep_void",
+    "when": "onjoin",
+    "result": "deny"
+  },
+
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:phantom",
+    "when": "onjoin",
+    "result": "deny"
+  },
+
+  {
+      "dimension": "the_deep_void:deep_void",
+      "mob": "immersive_aircraft:quadrocopter",
+      "when": "onjoin",
+      "result": "deny"
+    },
+    
+    {
+      "dimension": "the_deep_void:deep_void",
+      "mob": "immersive_aircraft:biplane",
+      "when": "onjoin",
+      "result": "deny"
+    },
+
+    {
+      "dimension": "the_deep_void:deep_void",
+      "mob": "immersive_aircraft:gyrodyne",
+      "when": "onjoin",
+      "result": "deny"
+    },
+
+    {
+      "dimension": "the_deep_void:deep_void",
+      "mob": "immersive_aircraft:warship",
+      "when": "onjoin",
+      "result": "deny"
+    },
+
+    {
+      "dimension": "the_deep_void:deep_void",
+      "mob": "immersive_aircraft:cargo_airship",
+      "when": "onjoin",
+      "result": "deny"
+    },
+
+    {
+      "dimension": "the_deep_void:deep_void",
+      "mob": "immersive_aircraft:airship",
+      "when": "onjoin",
+      "result": "deny"
+    },
+
+  {
+  "mob": ["minecraft:zombie"],
+        "result": "allow",
+        "random": 0.125,
+        "mindaycount": 30,
+        "armorhelmet": ["mcore:steel_helmet"],
+        "armorchest": ["mcore:steel_chestplate"],
+        "armorlegs": ["mcore:steel_leggings"],
+        "armorboots": ["mcore:steel_boots"],
+        "helditem": [{ "empty": true }]
+        },
+  {
+  "mob": ["minecraft:zombie"],
+        "result": "allow",
+        "random": 0.125,
+        "mindaycount": 30,
+        "armorhelmet": ["marbledsarsenal:riot_armor_helmet"],
+        "armorchest": ["marbledsarsenal:riot_armor_chestplate"],
+        "armorlegs": ["marbledsarsenal:riot_armor_leggings"],
+        "armorboots": ["marbledsarsenal:riot_armor_boots"],
+        "helditem": [{ "empty": true }]
+        },
+        {
+  "mob": ["minecraft:zombie"],
+        "result": "allow",
+        "random": 0.125,
+        "mindaycount": 30,
+        "armorhelmet": ["marbledsarsenal:swat_armor_helmet"],
+        "armorchest": ["marbledsarsenal:swat_armor_chestplate"],
+        "armorlegs": ["marbledsarsenal:swat_armor_leggings"],
+        "armorboots": ["marbledsarsenal:swat_armor_boots"],
+        "helditem": [{ "empty": true }]
+        },
+        {
+  "mob": ["minecraft:zombie"],
+        "result": "allow",
+        "random": 0.125,
+        "mindaycount": 60,
+        "armorhelmet": ["marbledsarsenal:desert_military_armor_helmet"],
+        "armorchest": ["marbledsarsenal:desert_military_armor_chestplate"],
+        "armorlegs": ["marbledsarsenal:desert_military_armor_leggings"],
+        "armorboots": ["marbledsarsenal:desert_military_armor_boots"],
+        "helditem": [{ "empty": true }]
+        },
+        {
+  "mob": ["minecraft:zombie"],
+        "result": "allow",
+        "random": 0.125,
+        "mindaycount": 30,
+        "armorhelmet": ["mcore:titanium_helmet"],
+        "armorchest": ["mcore:titanium_chestplate"],
+        "armorlegs": ["mcore:titanium_leggings"],
+        "armorboots": ["mcore:titanium_boots"],
+        "helditem": [{ "empty": true }]
+        },
+        {
+  "mob": ["minecraft:zombie"],
+        "result": "allow",
+        "random": 0.125,
+        "mindaycount": 60,
+        "armorhelmet": ["marbledsarsenal:winter_military_armor_helmet"],
+        "armorchest": ["marbledsarsenal:winter_military_armor_chestplate"],
+        "armorlegs": ["marbledsarsenal:winter_military_armor_leggings"],
+        "armorboots": ["marbledsarsenal:winter_military_armor_boots"],
+        "helditem": [{ "empty": true }]
+        },
+        {
+  "mob": ["minecraft:zombie"],
+        "result": "allow",
+        "random": 0.125,
+        "mindaycount": 90,
+        "armorhelmet": ["marbledsarsenal:olive_juggernaut_armor_helmet"],
+        "armorchest": ["marbledsarsenal:olive_juggernaut_armor_chestplate"],
+        "armorlegs": ["marbledsarsenal:olive_juggernaut_armor_leggings"],
+        "armorboots": ["marbledsarsenal:olive_juggernaut_armor_boots"],
+        "helditem": [{ "empty": true }]
+        },
+        {
+  "mob": ["minecraft:zombie"],
+        "result": "allow",
+        "random": 0.125,
+        "mindaycount": 90,
+        "armorhelmet": ["marbledsarsenal:black_juggernaut_armor_helmet"],
+        "armorchest": ["marbledsarsenal:black_juggernaut_armor_chestplate"],
+        "armorlegs": ["marbledsarsenal:black_juggernaut_armor_leggings"],
+        "armorboots": ["marbledsarsenal:black_juggernaut_armor_boots"],
+        "helditem": [{ "empty": true }]
+        }
+]

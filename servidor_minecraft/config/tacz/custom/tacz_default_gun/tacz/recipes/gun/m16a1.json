@@ -1,0 +1,38 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "pointblank:guninternals"
+      },
+      "count": 12
+    },
+    {
+      "item": {
+        "item": "the_deep_void:refined_onyx"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "item": "cw_additions:plastic_sheet"
+      },
+      "count": 15
+    },
+    {
+      "item": {
+        "item": "cw_additions:rubber_sheet"
+      },
+      "count": 25
+    },
+    {
+      "item": {
+        "item": "cw_additions:reinforced_barrel"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:m16a1"
+  }
+}

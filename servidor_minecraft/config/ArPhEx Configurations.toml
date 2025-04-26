@@ -1,0 +1,28 @@
+
+[Spawning]
+	#This controls whether all dweller versions will require specific weather conditions to spawn. Without this, they will appear much more frequently. 
+	"Bosses Require Weather?" = true
+	#Do you want the dwellers and clone versions to spawn naturally, or only from summoning structures?
+	"Boss Natural Spawning" = true
+	#Dwellers and variant spawns are rare by default. 1=twice as common. 2=default rarity. 3=twice as rare. 4=three times rarer. Avoid decimal and negative numbers.
+	"Boss Rarity" = 2.0
+	#This controls whether the dweller bosses (spider moth, scorpioid bloodluster, draconic voidlasher, tormentor) are included in general. Set to false if you only want the other mobs, and the dwellers will become unable to be spawned in any way.
+	"Boss Inclusion" = true
+	#Controls the spawnrate of ALL non-boss mobs in this mod, including minibosses and all regular arthropods. Default multiplier value is 8. To double ArPhEx spawnrates, set it to 4. Lower values = more spawns (minimum value is 1). No maximum rarity. Avoid decimal and negative numbers.
+	"Non-Boss ArPhEx Global Spawnrates" = 8.0
+	#ArPhEx has an additional spawning system that gives a 1 in (10) chance to spawn a random ArPhEx mob each time the natural spawn triggers. This system allows ArPhEx mobs to spawn in non-vanilla overworld biomes, while still accounting for mob rarity. Default number is 10, meaning it has a 1 in 10 chance to spawn each time. Setting it to 0 disables the additional spawning system entirely. Avoid decimal and negative numbers.
+	random_system_spawns = 10.0
+	all_entity_inclusion = true
+	#Maximum tamed ants per player (furthest ants despawn, 20 default)
+	max_ants = 20.0
+
+[Difficulty]
+	#By default, the dweller bosses have hundreds of health points. Choose true to decrease their maximum to just 60 health. Avoid decimal and negative numbers.
+	"Dweller Easy Mode" = false
+	#Controls difficulty for ALL ArPhEx mobs, minibosses, and bosses. Affects their ranged projectiles too. Default value is 0. Positive values will give that level of strength. Negative values will give that equivalent level of weakness. E.g. To give all ArPhEx mobs permanent strength 5 (extreme difficulty!), set the value to 6, or for weakness 5, set it to -6. Avoid decimal and negative numbers.
+	"Overall Difficulty Control" = 0.0
+
+[Other]
+	#When you join a world for the first time with ArPhEx installed, it shows a welcome message, informing you about the wiki and showing that the mod is active. Set to false to disable.
+	welcome_message = true
+

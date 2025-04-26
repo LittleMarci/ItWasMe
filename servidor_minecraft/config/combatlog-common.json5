@@ -1,0 +1,8 @@
+{
+	// The amount of time in seconds a player should be in combat
+	combatTime: 30,
+	// Weather a player should be put in combat from just other players or all damage(true is all damage false is just players)
+	allDamage: false,
+	// The death message that shows when a player disconnects while in combat, note that not having a space at the beginning will attach the message to the players name
+	deathMessage: " has died of cowardice"
+}

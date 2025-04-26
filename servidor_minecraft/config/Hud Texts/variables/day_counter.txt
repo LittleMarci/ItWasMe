@@ -1,0 +1,8 @@
+{
+  "Day Counter Variables": {
+    "Variables": {
+      "Player days": "$player_days$",
+      "Server days": "$server_days$"
+    }
+  }
+}

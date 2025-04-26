@@ -1,0 +1,45 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "pointblank:guninternals"
+      },
+      "count": 12
+    },
+    {
+      "item": {
+        "item": "the_deep_void:refined_onyx"
+      },
+      "count": 5
+    },
+    
+    {
+      "item": {
+        "tag": "minecraft:planks"
+      },
+      "count": 32
+    },
+   {
+      "item": {
+        "item": "cw_additions:plastic_sheet"
+      },
+      "count": 15
+    },
+    {
+      "item": {
+        "item": "cw_additions:rubber_sheet"
+      },
+      "count": 15
+    },
+    {
+      "item": {
+        "item": "cw_additions:advanced_gun_internals"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:rpk"
+  }
+}

@@ -1,0 +1,113 @@
+
+[locker]
+	#items to restock in lockers
+	item1 = "minecraft:copper_ingot"
+	item2 = "minecraft:gunpowder"
+	item3 = "minecraft:iron_ingot"
+	item4 = "minecraft:coal"
+	item5 = ""
+	#locker item tag
+	item1tag = ""
+	item2tag = ""
+	item3tag = ""
+	item4tag = ""
+	item5tag = ""
+	#item count range: 0.0 - 64.0
+	min = 0.0
+	max = 4.0
+
+[military_box]
+	#items to restock in military boxes
+	item1 = "minecraft:copper_ingot"
+	item2 = "minecraft:gunpowder"
+	item3 = "minecraft:iron_ingot"
+	item4 = "minecraft:coal"
+	item5 = ""
+	#military box item tag
+	item1tag = ""
+	item2tag = ""
+	item3tag = ""
+	item4tag = ""
+	item5tag = ""
+	#item count range: 0.0 - 64.0
+	min = 0.0
+	max = 1.0
+
+[ammo_box]
+	#items to restock in ammo boxes
+	item1 = "minecraft:copper_ingot"
+	item2 = "minecraft:gunpowder"
+	item3 = "minecraft:iron_ingot"
+	item4 = "minecraft:arrow"
+	item5 = ""
+	#ammo box item tag
+	item1tag = ""
+	item2tag = ""
+	item3tag = ""
+	item4tag = ""
+	item5tag = ""
+	#item count range: 0.0 - 64.0
+	min = 0.0
+	max = 16.0
+
+[ammo_case]
+	#items to restock in ammo cases
+	item1 = "minecraft:arrow"
+	item2 = "minecraft:arrow"
+	item3 = "minecraft:arrow"
+	item4 = "minecraft:arrow"
+	item5 = ""
+	#ammo case item tag
+	item1tag = ""
+	item2tag = ""
+	item3tag = ""
+	item4tag = ""
+	item5tag = ""
+	#item count range: 0.0 - 64.0
+	min = 0.0
+	max = 16.0
+
+[crate]
+	#items to restock in crates
+	item1 = "minecraft:copper_ingot"
+	item2 = "minecraft:gunpowder"
+	item3 = "minecraft:iron_ingot"
+	item4 = "minecraft:coal"
+	item5 = ""
+	#crate item tag
+	item1tag = ""
+	item2tag = ""
+	item3tag = ""
+	item4tag = ""
+	item5tag = ""
+	#item count range: 0.0 - 64.0
+	min = 0.0
+	max = 4.0
+
+[metal_chest]
+	#items to restock in metal chests
+	item1 = "minecraft:copper_ingot"
+	item2 = "minecraft:gunpowder"
+	item3 = "minecraft:iron_ingot"
+	item4 = "minecraft:coal"
+	item5 = "minecraft:arrow"
+	item6 = "minecraft:gold_ingot"
+	item7 = ""
+	item8 = "minecraft:emerald"
+	item9 = "minecraft:redstone"
+	item10 = ""
+	#metal chest item tag
+	tem1tag = ""
+	tem2tag = ""
+	tem3tag = ""
+	tem4tag = ""
+	tem5tag = ""
+	tem6tag = ""
+	tem7tag = ""
+	tem8tag = ""
+	tem9tag = ""
+	tem10tag = ""
+	#item count range: 0.0 - 64.0
+	min = 0.0
+	max = 1.0
+

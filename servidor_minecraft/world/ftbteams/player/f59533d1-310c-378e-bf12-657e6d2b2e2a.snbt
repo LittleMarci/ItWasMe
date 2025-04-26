@@ -1,0 +1,17 @@
+{
+	id: "f59533d1-310c-378e-bf12-657e6d2b2e2a"
+	type: "player"
+	player_name: "carlitox_x1"
+	ranks: {
+		f59533d1-310c-378e-bf12-657e6d2b2e2a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "carlitox_x1"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59D6FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

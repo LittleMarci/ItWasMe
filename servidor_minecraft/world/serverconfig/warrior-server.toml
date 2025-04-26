@@ -1,0 +1,5 @@
+
+[server]
+	#weighted list of spawned weapons [item|weight]
+	weapon_list = ["crossbow|1", "bow|1", "iron_sword|1"]
+

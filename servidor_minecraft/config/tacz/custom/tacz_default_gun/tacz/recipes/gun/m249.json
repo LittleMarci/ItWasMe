@@ -1,0 +1,46 @@
+{
+  "materials": [
+    
+    {
+      "item": {
+        "item": "mcore:titanium_ingot"
+      },
+      "count": 25
+    },
+    {
+      "item": {
+        "item": "the_deep_void:refined_onyx"
+      },
+      "count": 8
+    },
+    
+    {
+      "item": {
+        "item": "cw_additions:plastic_sheet"
+      },
+      "count": 16
+    },
+    {
+      "item": {
+        "item": "cw_additions:rubber_sheet"
+      },
+      "count": 30
+    },
+    {
+      "item": {
+        "item": "pointblank:guninternals"
+      },
+      "count": 18
+    },
+    {
+      "item": {
+        "item": "cw_additions:advanced_gun_internals"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:m249"
+  }
+}

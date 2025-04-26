@@ -1,0 +1,25 @@
+[
+    {
+        "mob": "mutantmonsters:mutant_zombie",
+        "player": true,
+        "item": "totem_fragments:fragment",
+        "itemcount": 1
+        
+    },
+
+    {
+        "mob": "mutantmonsters:mutant_zombie",
+        "player": true,
+        "item": "cw_additions:rubber_sheet",
+        "itemcount": 15
+        
+    },
+
+    {
+        "mob": "mutantmonsters:mutant_zombie",
+        "player": true,
+        "item": "cw_additions:plastic_sheet",
+        "itemcount": 15
+        
+      }
+]

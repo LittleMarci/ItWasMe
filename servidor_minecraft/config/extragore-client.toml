@@ -1,0 +1,7 @@
+#Enable blood particle effect for players only.
+OnlyPlayer = false
+#Enable blood particle effect for mobs only.
+OnlyMobs = false
+#Enable blood particle effect for both players and mobs, overriding other settings.
+Both = true
+

@@ -1,0 +1,45 @@
+{
+  "materials": [
+    
+    {
+      "item": {
+        "item": "mcore:titanium_ingot"
+      },
+      "count": 30
+    },
+     {
+      "item": {
+        "item": "the_deep_void:refined_onyx"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "item": "cw_additions:plastic_sheet"
+      },
+      "count": 30
+    },
+    {
+      "item": {
+        "item": "cw_additions:gunsteel"
+      },
+      "count": 40
+    },
+    {
+      "item": {
+        "item": "pointblank:guninternals"
+      },
+      "count": 15
+    },
+    {
+      "item": {
+        "item": "cw_additions:advanced_gun_internals"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:m95"
+  }
+}

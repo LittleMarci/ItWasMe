@@ -1,0 +1,76 @@
+Trying to load common config
+Trying to load client config
+Config files are up to date, skipping data/asset generation
+Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 35, min day 0 and max day 20
+Loaded entity minecraft:zombie_villager as entity.minecraft.zombie_villager with weight 1, min day 0 and max day 20
+Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 20 and max day 40
+Loaded entity minecraft:husk as entity.minecraft.husk with weight 40, min day 20 and max day 40
+Loaded entity minecraft:drowned as entity.minecraft.drowned with weight 3, min day 30 and max day 40
+Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 3, min day 40 and max day 40
+Loaded entity minecraft:zombified_piglin as entity.minecraft.zombified_piglin with weight 10, min day 40 and max day 0
+Loaded entity minecraft:husk as entity.minecraft.husk with weight 25, min day 50 and max day 0
+Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 3, min day 50 and max day 0
+Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 50 and max day 0
+loaded horde table hordes:default
+Loaded entity minecraft:drowned as entity.minecraft.drowned with weight 40, min day 0 and max day 20
+Loaded entity minecraft:drowned as entity.minecraft.drowned with weight 3, min day 30 and max day 40
+loaded horde table hordes:drowned
+Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 20, min day 0 and max day 20
+Loaded entity minecraft:skeleton as entity.minecraft.skeleton with weight 10, min day 20 and max day 30
+Loaded entity minecraft:spider as entity.minecraft.spider with weight 15, min day 20 and max day 30
+Loaded entity minecraft:creeper as entity.minecraft.creeper with weight 5, min day 30 and max day 30
+Loaded entity minecraft:husk as entity.minecraft.husk with weight 20, min day 30 and max day 50
+Loaded entity minecraft:stray as entity.minecraft.stray with weight 10, min day 40 and max day 50
+Loaded entity minecraft:cave_spider as entity.minecraft.cave_spider with weight 10, min day 40 and max day 50
+Loaded entity minecraft:witch as entity.minecraft.witch with weight 5, min day 40 and max day 50
+Loaded entity minecraft:pillager as entity.minecraft.pillager with weight 10, min day 40 and max day 50
+Loaded entity minecraft:zombified_piglin as entity.minecraft.zombified_piglin with weight 10, min day 40 and max day 50
+Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 40 and max day 50
+Loaded entity minecraft:wither_skeleton as entity.minecraft.wither_skeleton with weight 10, min day 50 and max day 0
+Loaded entity minecraft:phantom as entity.minecraft.phantom with weight 5, min day 50 and max day 50
+Loaded entity minecraft:vindicator as entity.minecraft.vindicator with weight 10, min day 50 and max day 50
+Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 5, min day 40 and max day 40
+Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 5, min day 50 and max day 50
+Loaded entity minecraft:evoker as entity.minecraft.evoker with weight 5, min day 50 and max day 50
+Loaded entity minecraft:piglin_brute as entity.minecraft.piglin_brute with weight 10, min day 60 and max day 0
+Loaded entity minecraft:cave_spider as entity.minecraft.cave_spider with weight 15, min day 60 and max day 0
+Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 5, min day 60 and max day 0
+Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 3, min day 60 and max day 0
+Loaded entity minecraft:phantom as entity.minecraft.phantom with weight 3, min day 60 and max day 0
+loaded horde table hordes:mixed_mobs
+Loaded entity minecraft:pillager as entity.minecraft.pillager with weight 15, min day 0 and max day 0
+Loaded entity minecraft:vindicator as entity.minecraft.vindicator with weight 10, min day 0 and max day 0
+Loaded entity minecraft:witch as entity.minecraft.witch with weight 5, min day 20 and max day 0
+Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 5, min day 30 and max day 40
+Loaded entity minecraft:evoker as entity.minecraft.evoker with weight 3, min day 40 and max day 40
+Loaded entity minecraft:illusioner as entity.minecraft.illusioner with weight 5, min day 50 and max day 0
+Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 3, min day 50 and max day 0
+Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 5, min day 50 and max day 0
+loaded horde table hordes:illagers
+Loaded entity minecraft:skeleton as entity.minecraft.skeleton with weight 10, min day 0 and max day 20
+Loaded entity minecraft:skeleton as entity.minecraft.skeleton with weight 20, min day 0 and max day 30
+Loaded entity minecraft:skeleton_horse as entity.minecraft.skeleton_horse with weight 5, min day 20 and max day 50
+Loaded entity minecraft:stray as entity.minecraft.stray with weight 10, min day 20 and max day 0
+Loaded entity minecraft:wither_skeleton as entity.minecraft.wither_skeleton with weight 10, min day 40 and max day 0
+Loaded entity minecraft:skeleton_horse as entity.minecraft.skeleton_horse with weight 5, min day 40 and max day 0
+loaded horde table hordes:skeletons
+Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 30, min day 0 and max day 0
+loaded horde table hordes:fallback
+loaded horde script hordes:default
+Loading conversion tables
+Loading conversion table hordes:infection_conversions
+Loaded conversion entity.minecraft.horse to entity.minecraft.zombie_horse with chance of 0.65
+Loaded conversion entity.minecraft.piglin to entity.minecraft.zombified_piglin with chance of 0.75
+Loaded conversion entity.minecraft.piglin_brute to entity.minecraft.zombified_piglin{Attributes:[{Base:50.0f,Name:"generic.max_health"}],chat_name:"entity.hordes.ZombifiedPiglinBrute.name",texture:"hordes:textures/entity/zombified_piglin_brute.png"} with chance of 0.35
+Loaded conversion entity.minecraft.hoglin to entity.minecraft.zoglin with chance of 0.15
+Loaded conversion entity.minecraft.wandering_trader to entity.minecraft.zombie_villager{VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieWanderingTrader.name",texture:"hordes:textures/entity/zombie_wandering_trader.png"} with chance of 0.75
+Loaded conversion entity.minecraft.pillager to entity.minecraft.zombie_villager{Attributes:[{Base:24.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombiePillager.name",texture:"hordes:textures/entity/zombie_pillager.png"} with chance of 0.75
+Loaded conversion entity.minecraft.vindicator to entity.minecraft.zombie_villager{Attributes:[{Base:24.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieVindicator.name",texture:"hordes:textures/entity/zombie_vindicator.png"} with chance of 0.35
+Loaded conversion entity.minecraft.evoker to entity.minecraft.zombie_villager{Attributes:[{Base:24.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieEvoker.name",texture:"hordes:textures/entity/zombie_evoker.png"} with chance of 0.5
+Loaded conversion entity.minecraft.illusioner to entity.minecraft.zombie_villager{Attributes:[{Base:32.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieIllusioner.name",texture:"hordes:textures/entity/zombie_illusioner.png"} with chance of 0.15
+Loaded conversion entity.minecraft.witch to entity.minecraft.zombie_villager{Attributes:[{Base:26.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieWitch.name",texture:"hordes:textures/entity/zombie_witch.png"} with chance of 0.25
+Loading immunity item list
+Loading immunity item list hordes:immunity_items
+Loaded immunity item cure:vaccine with duration 350
+Loading wearables protection list
+Loading wearables protection list hordes:immune_wearables

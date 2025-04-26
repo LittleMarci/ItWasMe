@@ -1,0 +1,44 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "pointblank:guninternals"
+      },
+      "count": 16
+    },
+    {
+      "item": {
+        "item": "mcore:titanium_ingot"
+      },
+      "count": 15
+    },
+    {
+      "item": {
+        "item": "the_deep_void:refined_onyx"
+      },
+      "count": 5
+    },
+    {
+      "item": {
+        "item": "cw_additions:plastic_sheet"
+      },
+      "count": 15
+    },
+    {
+      "item": {
+        "item": "cw_additions:gun_parts"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "item": "cw_additions:advanced_gun_internals"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:ai_awp"
+  }
+}

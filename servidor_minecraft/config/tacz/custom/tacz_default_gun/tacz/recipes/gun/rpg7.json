@@ -1,0 +1,45 @@
+{
+  "materials": [
+    
+    {
+      "item": {
+        "item": "mcore:titanium_ingot"
+      },
+      "count": 26
+    },
+    {
+      "item": {
+        "item": "the_deep_void:refined_onyx"
+      },
+      "count": 7
+    },
+    {
+      "item": {
+        "item": "cw_additions:plastic_sheet"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "item": "cw_additions:rubber_sheet"
+      },
+      "count": 20
+    },
+    {
+      "item": {
+        "item": "pointblank:guninternals"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "item": "cw_additions:advanced_gun_internals"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:rpg7"
+  }
+}

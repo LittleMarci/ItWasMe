@@ -1,0 +1,102 @@
+[
+  { 
+    "mob": [  
+      "minecraft:zombie" 
+    ],
+    "persecond": 1.0, 
+    "attempts": 5, 
+    "amount": { 
+      "minimum": 1, 
+      "maximum": 2 
+    }, 
+    "conditions": { 
+      "dimension": "minecraft:overworld", 
+      "mindist": 20, 
+      "maxdist": 60, 
+      "norestrictions": true, 
+      "maxthis": 20,
+      "minheight": 64
+    } 
+  }, 
+
+  {
+    "mob": [  
+      "minecraft:zombie" 
+    ],
+    "persecond": 0.5, 
+    "attempts": 5, 
+    "amount": { 
+      "minimum": 1, 
+      "maximum": 5
+    }, 
+    "conditions": { 
+      "dimension": "the_deep_void:deep_void", 
+      "mindist": 20, 
+      "maxdist": 70, 
+      "norestrictions": true, 
+      "maxthis": 15,
+      "minheight": 60
+    } 
+  },
+
+  {
+    "mob": [  
+      "minecraft:zombie" 
+    ],
+    "persecond": 0.5, 
+    "attempts": 5, 
+    "amount": { 
+      "minimum": 1, 
+      "maximum": 5
+    }, 
+    "conditions": { 
+      "dimension": "the_deep_void:deep_void", 
+      "mindist": 20, 
+      "maxdist": 45, 
+      "norestrictions": true, 
+      "maxthis": 40,
+      "minheight": -30
+    } 
+  },
+
+  { 
+    "mob": [  
+      "mutantmonsters:mutant_zombie" 
+    ],
+    "persecond": 0.01, 
+    "attempts": 5, 
+    "amount": { 
+      "minimum": 1, 
+      "maximum": 2
+    }, 
+    "conditions": { 
+      "dimension": "the_deep_void:deep_void", 
+      "mindist": 30, 
+      "maxdist": 70, 
+      "norestrictions": true, 
+      "maxthis": 2,
+      "minheight": 60
+    } 
+  },
+  { 
+    "mob": [  
+      "warrior:warrior" 
+    ],
+    "persecond": 0.005, 
+    "attempts": 5, 
+    "amount": { 
+      "minimum": 1, 
+      "maximum": 2 
+    }, 
+    "conditions": { 
+      "dimension": "minecraft:overworld", 
+      "mindist": 30, 
+      "maxdist": 60, 
+      "norestrictions": true, 
+      "maxthis": 1,
+      "minheight": 64
+    } 
+  }
+
+  
+  ]

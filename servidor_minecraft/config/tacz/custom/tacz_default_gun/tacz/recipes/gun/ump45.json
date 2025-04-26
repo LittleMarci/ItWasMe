@@ -1,0 +1,40 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "pointblank:guninternals"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "item": "the_deep_void:refined_onyx"
+      },
+      "count": 2
+    },
+   
+    
+    {
+      "item": {
+        "item": "cw_additions:plastic_sheet"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "item": "cw_additions:gunsteel"
+      },
+      "count": 12
+    },
+    {
+      "item": {
+        "item": "cw_additions:rubber_sheet"
+      },
+      "count": 8
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:ump45"
+  }
+}
