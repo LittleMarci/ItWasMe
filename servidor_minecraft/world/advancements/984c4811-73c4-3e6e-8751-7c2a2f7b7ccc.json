@@ -6353,6 +6353,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-04-26 19:43:12 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/dark_oak_pallet": {
     "criteria": {
       "has_planks": "2025-04-26 18:15:00 +0000"
@@ -6440,6 +6446,12 @@
   "ecologics:recipes/ecologics/coconut_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-26 18:39:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-04-26 19:43:12 +0000"
     },
     "done": true
   },
@@ -6764,6 +6776,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-04-26 18:15:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-04-26 19:43:05 +0000"
     },
     "done": true
   },

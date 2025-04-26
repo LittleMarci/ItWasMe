@@ -1800,3 +1800,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Apr2025 19:26:59.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Teleported Xander_Aqp to A1lenSS]
 [26Apr2025 19:33:24.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Teleported A1lenSS to Xander_Aqp]
 [26Apr2025 19:35:35.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp has made the advancement [Isn't It Iron Pick]
+[26Apr2025 19:45:36.363] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
+[26Apr2025 19:45:49.879] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 193871347, path: 49d58b26-415b-4adf-a52a-cec71618473b/hamr/air, elements: {}} attempted to update empty stack 0 air
+[26Apr2025 19:45:49.879] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1545089732, path: 49d58b26-415b-4adf-a52a-cec71618473b/air, elements: {}} attempted to update empty stack 0 air
+[26Apr2025 19:45:50.880] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1545089732, path: 49d58b26-415b-4adf-a52a-cec71618473b/air, elements: {}} attempted to update empty stack 0 air
+[26Apr2025 19:45:52.263] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1788330614, path: 49d58b26-415b-4adf-a52a-cec71618473b/hamr/air, elements: {}} attempted to update empty stack 0 air
+[26Apr2025 19:45:52.263] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1545089732, path: 49d58b26-415b-4adf-a52a-cec71618473b/air, elements: {}} attempted to update empty stack 0 air
+[26Apr2025 19:45:53.729] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1545089732, path: 49d58b26-415b-4adf-a52a-cec71618473b/air, elements: {}} attempted to update empty stack 0 air
+[26Apr2025 19:46:35.162] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 677589296, path: 49d58b26-415b-4adf-a52a-cec71618473b/air, elements: {}} attempted to update empty stack 0 air

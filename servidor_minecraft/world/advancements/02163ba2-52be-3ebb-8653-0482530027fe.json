@@ -384,6 +384,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-04-26 19:40:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_toilet": {
     "criteria": {
       "has_copper_ingot": "2025-04-26 19:18:20 +0000"
@@ -1134,6 +1140,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-04-26 19:40:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/limited_use_keycard": {
     "criteria": {
       "has_iron": "2025-04-26 19:18:49 +0000"
@@ -1798,6 +1810,12 @@
   "handcrafted:recipes/misc/skeleton_horse_trophy": {
     "criteria": {
       "has_skeleton_horse_trophy": "2025-04-26 19:02:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-04-26 19:40:54 +0000"
     },
     "done": true
   },
