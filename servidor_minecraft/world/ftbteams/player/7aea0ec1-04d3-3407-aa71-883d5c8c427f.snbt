@@ -1,0 +1,17 @@
+{
+	id: "7aea0ec1-04d3-3407-aa71-883d5c8c427f"
+	type: "player"
+	player_name: "Zerocalcare"
+	ranks: {
+		7aea0ec1-04d3-3407-aa71-883d5c8c427f: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Zerocalcare"
+		"ftbteams:description": ""
+		"ftbteams:color": "#AA59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

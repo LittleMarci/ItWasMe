@@ -1,0 +1,17 @@
+{
+	id: "64c63124-ce40-32e5-ac7e-34fda48b4ffc"
+	type: "player"
+	player_name: "AlonsoVanDeKap"
+	ranks: {
+		64c63124-ce40-32e5-ac7e-34fda48b4ffc: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "AlonsoVanDeKap"
+		"ftbteams:description": ""
+		"ftbteams:color": "#598CFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

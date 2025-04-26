@@ -2,13 +2,11 @@
 	id: "984c4811-73c4-3e6e-8751-7c2a2f7b7ccc"
 	type: "player"
 	player_name: "A1lenSS"
-	ranks: {
-		984c4811-73c4-3e6e-8751-7c2a2f7b7ccc: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "A1lenSS"
 		"ftbteams:description": ""
-		"ftbteams:color": "#FFD359"
+		"ftbteams:color": "#99FF59"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}

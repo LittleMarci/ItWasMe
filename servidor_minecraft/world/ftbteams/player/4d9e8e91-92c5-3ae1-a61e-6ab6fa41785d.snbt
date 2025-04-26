@@ -1,0 +1,17 @@
+{
+	id: "4d9e8e91-92c5-3ae1-a61e-6ab6fa41785d"
+	type: "player"
+	player_name: "CamilaUva"
+	ranks: {
+		4d9e8e91-92c5-3ae1-a61e-6ab6fa41785d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "CamilaUva"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF97"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
