@@ -1397,3 +1397,27 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Apr2025 23:17:05.215] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigan_viendo01 lost connection: Disconnected
 [27Apr2025 23:17:05.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 left the game
 [27Apr2025 23:17:05.216] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sigan_viendo01
+[27Apr2025 23:21:39.663] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jetli2000 lost connection: Disconnected
+[27Apr2025 23:21:39.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jetli2000 left the game
+[27Apr2025 23:21:39.665] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jetli2000
+[27Apr2025 23:22:07.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonsoVanDeKap was slain by Drowned
+[27Apr2025 23:22:10.866] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[27Apr2025 23:22:50.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonsoVanDeKap was impaled by Drowned
+[27Apr2025 23:22:51.360] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[27Apr2025 23:23:45.635] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sigan_viendo01[/127.192.3.43:51941] logged in with entity id 156764 at (-32.951752893643175, 94.0, -88.59933223626399)
+[27Apr2025 23:23:45.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 joined the game
+[27Apr2025 23:23:45.681] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to sigan_viendo01
+[27Apr2025 23:23:49.072] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from sigan_viendo01
+[27Apr2025 23:23:49.339] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of sigan_viendo01 (18)
+[27Apr2025 23:23:49.340] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to sigan_viendo01
+[27Apr2025 23:25:43.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonsoVanDeKap was impaled by Drowned
+[27Apr2025 23:25:51.566] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[27Apr2025 23:35:07.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 has made the advancement [Diamonds!]
+[27Apr2025 23:40:17.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 has made the advancement [Alex's Mobs]
+[27Apr2025 23:41:54.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonsoVanDeKap suffocated in a wall
+[27Apr2025 23:43:03.188] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[27Apr2025 23:44:51.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 was slain by AlonsoVanDeKap
+[27Apr2025 23:44:53.366] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[27Apr2025 23:50:58.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigan_viendo01) moved wrongly! 0.2774572704021807
+[27Apr2025 23:58:39.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 was slain by AlonsoVanDeKap
+[27Apr2025 23:58:41.829] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.

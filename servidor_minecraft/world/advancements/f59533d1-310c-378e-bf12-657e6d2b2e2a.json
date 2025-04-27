@@ -2842,6 +2842,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:zombie": "2025-04-26 02:38:43 +0000",
+      "minecraft:drowned": "2025-04-27 23:15:34 +0000",
       "minecraft:zombie_villager": "2025-04-26 03:12:17 +0000"
     },
     "done": false
@@ -4676,6 +4677,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-27 23:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-27 23:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-27 23:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-27 23:46:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-27 22:42:05 +0000"
@@ -4694,6 +4719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-27 23:46:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/wooden_bracket": {
     "criteria": {
       "has_item": "2025-04-27 22:59:58 +0000"
@@ -4703,6 +4734,12 @@
   "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-27 22:42:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-27 23:46:11 +0000"
     },
     "done": true
   },
@@ -4814,6 +4851,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-27 23:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-27 23:46:11 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/andesite_trapdoor": {
     "criteria": {
       "has_item": "2025-04-27 22:59:58 +0000"
@@ -4868,6 +4917,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-04-27 23:42:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/cuckoo_clock": {
     "criteria": {
       "has_item": "2025-04-27 22:59:58 +0000"
@@ -4886,6 +4941,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-04-27 23:42:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-04-27 23:31:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/filter": {
     "criteria": {
       "has_item": "2025-04-27 22:59:58 +0000"
@@ -4895,6 +4962,12 @@
   "create:recipes/misc/crafting/kinetics/white_sail": {
     "criteria": {
       "has_item": "2025-04-27 22:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-27 23:46:11 +0000"
     },
     "done": true
   },
@@ -5030,6 +5103,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-27 23:46:11 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_shaft": {
     "criteria": {
       "has_item": "2025-04-27 22:58:48 +0000"
@@ -5075,6 +5154,24 @@
   "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
     "criteria": {
       "has_item": "2025-04-27 22:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-27 23:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-27 23:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-04-27 23:31:43 +0000"
     },
     "done": true
   },
@@ -5150,6 +5247,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-27 23:46:11 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_slope": {
     "criteria": {
       "has_item": "2025-04-27 22:58:48 +0000"
@@ -5171,6 +5274,12 @@
   "createdeco:recipes/decorations/zinc_support": {
     "criteria": {
       "has_item": "2025-04-27 22:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-04-27 23:42:50 +0000"
     },
     "done": true
   },
@@ -5513,6 +5622,12 @@
   "copycats:recipes/misc/stonecutting/copycat_half_layer": {
     "criteria": {
       "has_item": "2025-04-27 22:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-27 23:46:11 +0000"
     },
     "done": true
   },

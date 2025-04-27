@@ -79,6 +79,7 @@
       "minecraft:stony_shore": "2025-04-26 04:38:14 +0000",
       "minecraft:cold_ocean": "2025-04-26 04:54:35 +0000",
       "minecraft:forest": "2025-04-26 05:06:19 +0000",
+      "minecraft:deep_cold_ocean": "2025-04-27 23:53:32 +0000",
       "minecraft:deep_dark": "2025-04-26 05:05:20 +0000",
       "minecraft:plains": "2025-04-26 04:40:13 +0000"
     },
@@ -5745,6 +5746,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-04-27 23:51:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "salmon": "2025-04-27 22:42:10 +0000"
@@ -5757,15 +5764,33 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_side_table": {
+    "criteria": {
+      "has_dark_oak_side_table": "2025-04-27 23:51:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-04-27 21:40:56 +0000"
     },
     "done": true
   },
+  "bbb:recipes/dark_prismarine_layer": {
+    "criteria": {
+      "has_block": "2025-04-27 23:53:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-04-27 21:40:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 23:51:32 +0000"
     },
     "done": true
   },
@@ -5787,6 +5812,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_crate": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 23:51:32 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/prismarine_brick_layer": {
+    "criteria": {
+      "has_block": "2025-04-27 23:53:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-04-27 23:09:00 +0000"
@@ -5799,9 +5836,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 23:51:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-04-27 21:40:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_fancy_bed": {
+    "criteria": {
+      "has_dark_oak_fancy_bed": "2025-04-27 23:51:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2025-04-27 23:51:32 +0000"
     },
     "done": true
   },
@@ -5811,9 +5866,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_cutting_board": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 23:51:32 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-04-27 21:40:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 23:51:32 +0000"
     },
     "done": true
   },
@@ -5823,9 +5890,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-27 23:51:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-04-27 22:11:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_mail_box": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 23:51:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-27 23:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-27 23:51:32 +0000"
     },
     "done": true
   },
@@ -5853,9 +5944,27 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/dark_oak_support": {
+    "criteria": {
+      "has_plank": "2025-04-27 23:51:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-27 23:53:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-04-27 23:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-04-27 23:53:10 +0000"
     },
     "done": true
   },
@@ -5871,9 +5980,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 23:51:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-04-27 23:09:00 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/dark_oak_trim": {
+    "criteria": {
+      "has_block": "2025-04-27 23:51:32 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/dark_oak_layer": {
+    "criteria": {
+      "has_block": "2025-04-27 23:51:32 +0000"
     },
     "done": true
   },
@@ -5883,9 +6010,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-27 23:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-04-27 23:53:48 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/frying/glow_berry_jam": {
     "criteria": {
       "has_ingredient": "2025-04-27 23:08:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 23:51:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_bench": {
+    "criteria": {
+      "has_dark_oak_bench": "2025-04-27 23:51:32 +0000"
     },
     "done": true
   },
@@ -5913,6 +6064,42 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-04-27 23:53:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_drawer": "2025-04-27 23:51:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_couch": {
+    "criteria": {
+      "has_dark_oak_couch": "2025-04-27 23:51:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-27 23:51:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-27 23:51:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_chair": "2025-04-27 23:51:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-04-27 23:15:11 +0000"
@@ -5928,6 +6115,12 @@
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2025-04-27 21:48:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_desk": "2025-04-27 23:51:32 +0000"
     },
     "done": true
   },
@@ -5952,6 +6145,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-04-27 22:45:12 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/prismarine_bricks": {
+    "criteria": {
+      "has_copper_block": "2025-04-27 23:53:47 +0000"
     },
     "done": true
   },
@@ -6009,6 +6208,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-04-27 23:53:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-04-27 23:09:00 +0000"
@@ -6018,6 +6223,12 @@
   "bbb:recipes/dark_oak_frame": {
     "criteria": {
       "has_planks": "2025-04-27 21:54:44 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/dark_oak_support": {
+    "criteria": {
+      "has_block": "2025-04-27 23:51:32 +0000"
     },
     "done": true
   },
@@ -6033,15 +6244,39 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_nightstand": {
+    "criteria": {
+      "has_dark_oak_nightstand": "2025-04-27 23:51:32 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-04-27 23:08:28 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-04-27 23:53:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/kelp_roll": {
     "criteria": {
       "has_dried_kelp": "2025-04-27 21:48:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_shelf": {
+    "criteria": {
+      "has_dark_oak_shelf": "2025-04-27 23:51:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_dining_bench": {
+    "criteria": {
+      "has_dark_oak_dining_bench": "2025-04-27 23:51:32 +0000"
     },
     "done": true
   },
@@ -6057,9 +6292,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-04-27 23:53:47 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorations/soul_torch_from_soul_chandelier": {
     "criteria": {
       "has_torch": "2025-04-27 23:08:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_cupboard": {
+    "criteria": {
+      "has_dark_oak_cupboard": "2025-04-27 23:51:32 +0000"
     },
     "done": true
   },
@@ -6087,9 +6334,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-04-27 23:53:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-27 23:51:32 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/prismarine_layer": {
+    "criteria": {
+      "has_block": "2025-04-27 23:53:10 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_corner_trim": {
+    "criteria": {
+      "has_dark_oak_corner_trim": "2025-04-27 23:51:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-04-27 22:11:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-27 23:51:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-04-27 23:53:10 +0000"
     },
     "done": true
   },
@@ -6102,6 +6385,12 @@
   "bbb:recipes/dark_oak_beam": {
     "criteria": {
       "has_log": "2025-04-27 21:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-27 23:51:32 +0000"
     },
     "done": true
   },
@@ -6135,9 +6424,33 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_counter": {
+    "criteria": {
+      "has_dark_oak_counter": "2025-04-27 23:51:32 +0000"
+    },
+    "done": true
+  },
   "overworld_netherite_ore:pieceofdebris": {
     "criteria": {
       "pieceofdebris_0": "2025-04-27 23:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-27 23:51:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-04-27 23:53:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-04-27 23:53:10 +0000"
     },
     "done": true
   },
@@ -6147,9 +6460,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-27 23:53:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-04-27 23:15:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 23:51:32 +0000"
     },
     "done": true
   },
@@ -6159,9 +6484,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-27 23:51:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-04-27 21:54:44 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/dark_oak_ladder": {
+    "criteria": {
+      "has_planks": "2025-04-27 23:51:32 +0000"
     },
     "done": true
   },
@@ -6189,6 +6526,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-04-27 23:53:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-04-27 23:15:11 +0000"
@@ -6201,15 +6544,33 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/dark_oak_seat": {
+    "criteria": {
+      "has_plank": "2025-04-27 23:51:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-04-27 22:11:34 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 23:51:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2025-04-27 23:08:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_pillar_trim": {
+    "criteria": {
+      "has_dark_oak_pillar_trim": "2025-04-27 23:51:32 +0000"
     },
     "done": true
   },
