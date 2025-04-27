@@ -1343,3 +1343,57 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Apr2025 22:38:05.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlitox_x1 has made the advancement [Suit Up]
 [27Apr2025 22:38:10.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonsoVanDeKap moved wrongly!
 [27Apr2025 22:38:13.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonsoVanDeKap moved wrongly!
+[27Apr2025 22:42:02.617] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zerocalcare lost connection: Disconnected
+[27Apr2025 22:42:02.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zerocalcare left the game
+[27Apr2025 22:42:02.619] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zerocalcare
+[27Apr2025 22:42:10.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonsoVanDeKap has made the advancement [Fishy Business]
+[27Apr2025 22:56:31.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlitox_x1 starved to death
+[27Apr2025 22:56:32.409] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[27Apr2025 23:01:00.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonsoVanDeKap drowned
+[27Apr2025 23:01:01.623] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[27Apr2025 23:06:22.682] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sigan_viendo01[/127.192.3.43:49425] logged in with entity id 128985 at (-24.5, 79.0, -82.5)
+[27Apr2025 23:06:22.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 joined the game
+[27Apr2025 23:06:22.766] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to sigan_viendo01
+[27Apr2025 23:06:25.836] [Netty Epoll Server IO #3/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from sigan_viendo01
+[27Apr2025 23:06:25.926] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of sigan_viendo01 (18)
+[27Apr2025 23:06:25.926] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to sigan_viendo01
+[27Apr2025 23:07:28.571] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-28, y=80, z=-77}
+[27Apr2025 23:07:37.119] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-25, y=81, z=-71}
+[27Apr2025 23:09:15.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jetli2000 has made the advancement [Cover Me with Diamonds]
+[27Apr2025 23:09:18.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 has made the advancement [Stone Age]
+[27Apr2025 23:10:10.221] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@18fb8d96]Trying to start horde event on day 20 with nextDay 20 and time 10000
+[27Apr2025 23:10:10.224] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@611af80a
+[27Apr2025 23:10:10.226] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[27Apr2025 23:10:10.226] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[27Apr2025 23:10:10.267] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[27Apr2025 23:10:10.268] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[27Apr2025 23:10:10.268] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[27Apr2025 23:10:10.268] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[27Apr2025 23:10:18.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 has made the advancement [Getting an Upgrade]
+[27Apr2025 23:11:00.267] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[27Apr2025 23:11:00.268] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[27Apr2025 23:11:00.268] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[27Apr2025 23:11:00.268] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[27Apr2025 23:11:50.265] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[27Apr2025 23:11:50.265] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[27Apr2025 23:11:50.265] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[27Apr2025 23:11:50.266] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[27Apr2025 23:12:40.271] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[27Apr2025 23:12:40.271] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[27Apr2025 23:12:40.272] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[27Apr2025 23:12:40.272] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[27Apr2025 23:13:28.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 has made the advancement [Monster Hunter]
+[27Apr2025 23:13:30.265] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[27Apr2025 23:13:30.265] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[27Apr2025 23:13:30.266] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[27Apr2025 23:13:30.266] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[27Apr2025 23:14:20.267] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[27Apr2025 23:14:20.268] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[27Apr2025 23:14:20.268] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[27Apr2025 23:14:20.268] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[27Apr2025 23:14:45.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonsoVanDeKap has made the advancement [Ancient Shard]
+[27Apr2025 23:15:38.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 was slain by Zombie
+[27Apr2025 23:15:41.922] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[27Apr2025 23:17:05.215] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigan_viendo01 lost connection: Disconnected
+[27Apr2025 23:17:05.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 left the game
+[27Apr2025 23:17:05.216] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sigan_viendo01

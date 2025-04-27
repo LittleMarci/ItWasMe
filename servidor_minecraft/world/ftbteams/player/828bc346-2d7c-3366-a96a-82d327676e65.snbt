@@ -1,0 +1,17 @@
+{
+	id: "828bc346-2d7c-3366-a96a-82d327676e65"
+	type: "player"
+	player_name: "sigan_viendo01"
+	ranks: {
+		828bc346-2d7c-3366-a96a-82d327676e65: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "sigan_viendo01"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFDE59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
