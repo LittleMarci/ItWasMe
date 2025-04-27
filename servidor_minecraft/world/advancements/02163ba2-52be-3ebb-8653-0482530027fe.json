@@ -4275,6 +4275,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-04-27 20:20:07 +0000"
+    },
+    "done": true
+  },
   "bloomingnature:recipes/swamp_oak_boat": {
     "criteria": {
       "has_swamp_oak_planks": "2025-04-27 20:16:40 +0000"
