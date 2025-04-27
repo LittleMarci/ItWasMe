@@ -1331,3 +1331,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Apr2025 22:27:38.574] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-38, y=85, z=-77}
 [27Apr2025 22:27:57.967] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=85, z=-56} BlockPos{x=-38, y=82, z=-78}
 [27Apr2025 22:28:07.963] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=85, z=-56} BlockPos{x=-38, y=84, z=-70}
+[27Apr2025 22:31:59.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zerocalcare has made the advancement [Mine? Mine? Mine?]
+[27Apr2025 22:32:42.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zerocalcare has made the advancement [Getting an Upgrade]
+[27Apr2025 22:36:12.146] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carlitox_x1[/127.60.127.180:35261] logged in with entity id 83398 at (-133.30000001192093, 42.0, 120.76510002919518)
+[27Apr2025 22:36:12.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlitox_x1 joined the game
+[27Apr2025 22:36:12.217] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to carlitox_x1
+[27Apr2025 22:36:16.681] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from carlitox_x1
+[27Apr2025 22:36:16.863] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of carlitox_x1 (18)
+[27Apr2025 22:36:16.864] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to carlitox_x1
+[27Apr2025 22:37:56.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jetli2000 moved wrongly!
+[27Apr2025 22:38:05.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlitox_x1 has made the advancement [Suit Up]
+[27Apr2025 22:38:10.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonsoVanDeKap moved wrongly!
+[27Apr2025 22:38:13.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonsoVanDeKap moved wrongly!
