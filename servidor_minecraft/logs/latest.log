@@ -4,3 +4,26 @@
 [28Apr2025 00:04:10.759] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonsoVanDeKap lost connection: Disconnected
 [28Apr2025 00:04:10.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonsoVanDeKap left the game
 [28Apr2025 00:04:10.760] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlonsoVanDeKap
+[28Apr2025 00:10:10.208] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@28d62865]Trying to start horde event on day 10 with nextDay 10 and time 10000
+[28Apr2025 00:10:10.208] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@6e6c52aa
+[28Apr2025 00:10:10.208] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+[28Apr2025 00:10:10.208] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[28Apr2025 00:10:10.260] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[28Apr2025 00:10:10.260] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[28Apr2025 00:11:00.260] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[28Apr2025 00:11:00.261] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[28Apr2025 00:11:50.263] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[28Apr2025 00:11:50.263] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[28Apr2025 00:12:40.262] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[28Apr2025 00:12:40.263] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[28Apr2025 00:13:30.258] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[28Apr2025 00:13:30.258] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[28Apr2025 00:14:20.261] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[28Apr2025 00:14:20.261] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[28Apr2025 00:18:43.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlitox_x1 has made the advancement [Sweet Dreams]
+[28Apr2025 00:22:29.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlitox_x1 starved to death
+[28Apr2025 00:22:31.707] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Apr2025 00:23:34.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 was slain by Warrior
+[28Apr2025 00:23:36.165] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Apr2025 00:24:32.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 was slain by Warrior
+[28Apr2025 00:24:34.234] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.

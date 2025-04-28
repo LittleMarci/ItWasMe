@@ -4707,9 +4707,33 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/swamp_oak_trapdoor": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-04-28 00:09:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-04-28 00:20:31 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/zinc_mesh_fence_from_stonecutting": {
     "criteria": {
       "has_item": "2025-04-27 22:58:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-04-28 00:21:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-28 00:18:43 +0000"
     },
     "done": true
   },
@@ -4875,6 +4899,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-04-28 00:21:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-27 22:42:05 +0000"
@@ -4884,6 +4914,12 @@
   "copycats:recipes/misc/stonecutting/copycat_slice": {
     "criteria": {
       "has_item": "2025-04-27 22:58:48 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_button": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-04-28 00:09:45 +0000"
     },
     "done": true
   },
@@ -4953,6 +4989,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-04-28 00:21:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/filter": {
     "criteria": {
       "has_item": "2025-04-27 22:59:58 +0000"
@@ -4992,6 +5034,18 @@
   "create:recipes/misc/crafting/kinetics/linear_chassis": {
     "criteria": {
       "has_item": "2025-04-27 22:59:58 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_fence": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-04-28 00:09:45 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_fence_gate": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-04-28 00:09:45 +0000"
     },
     "done": true
   },
@@ -5037,9 +5091,21 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/swamp_oak_window": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-04-28 00:09:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
     "criteria": {
       "has_ingots_zinc": "2025-04-27 22:58:48 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_sign": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-04-28 00:09:45 +0000"
     },
     "done": true
   },
@@ -5127,6 +5193,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/swamp_oak_door": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-04-28 00:09:45 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/zinc_trapdoor": {
     "criteria": {
       "has_item": "2025-04-27 22:58:48 +0000"
@@ -5163,9 +5235,21 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/swamp_oak_chest_boat": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-04-28 00:09:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-04-27 23:46:11 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_slab": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-04-28 00:09:45 +0000"
     },
     "done": true
   },
@@ -5229,6 +5313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-04-28 00:21:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-27 22:42:05 +0000"
@@ -5238,6 +5328,12 @@
   "bbb:recipes/dark_oak_frame": {
     "criteria": {
       "has_planks": "2025-04-27 22:42:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-04-28 00:21:32 +0000"
     },
     "done": true
   },
@@ -5331,6 +5427,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/swamp_oak_stairs": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-04-28 00:09:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-27 22:42:05 +0000"
@@ -5409,6 +5511,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-04-28 00:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-28 00:20:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/analog_lever": {
     "criteria": {
       "has_item": "2025-04-27 22:59:58 +0000"
@@ -5469,6 +5583,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-04-28 00:21:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-27 22:42:05 +0000"
@@ -5481,6 +5601,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/swamp_oak_boat": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-04-28 00:09:45 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/zinc_catwalk_from_stonecutting": {
     "criteria": {
       "has_item": "2025-04-27 22:58:48 +0000"
@@ -5490,6 +5616,12 @@
   "create:recipes/misc/crafting/logistics/andesite_tunnel": {
     "criteria": {
       "has_item": "2025-04-27 22:59:58 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-04-28 00:21:32 +0000"
     },
     "done": true
   },
@@ -5544,6 +5676,12 @@
   "createdeco:recipes/decorations/zinc_door": {
     "criteria": {
       "has_item": "2025-04-27 22:58:48 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_hanging_sign": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-04-28 00:09:45 +0000"
     },
     "done": true
   },
@@ -5628,6 +5766,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-04-27 23:46:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-04-28 00:20:31 +0000"
     },
     "done": true
   },
