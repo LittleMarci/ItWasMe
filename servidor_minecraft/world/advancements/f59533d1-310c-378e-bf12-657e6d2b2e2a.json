@@ -4743,6 +4743,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2025-04-28 01:18:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-04-27 23:46:11 +0000"
@@ -5208,6 +5214,12 @@
   "createdeco:recipes/building_blocks/zinc_window": {
     "criteria": {
       "has_item": "2025-04-27 22:58:48 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/crafting/copycat_cogwheel": {
+    "criteria": {
+      "has_item": "2025-04-28 01:18:33 +0000"
     },
     "done": true
   },
@@ -5736,6 +5748,12 @@
   "copycats:recipes/misc/stonecutting/copycat_board": {
     "criteria": {
       "has_item": "2025-04-27 22:58:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2025-04-28 01:18:33 +0000"
     },
     "done": true
   },
