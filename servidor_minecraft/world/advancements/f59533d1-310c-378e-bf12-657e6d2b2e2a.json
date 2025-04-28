@@ -1335,6 +1335,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-04-26 02:30:45 +0000",
+      "golden_apple": "2025-04-28 01:26:52 +0000",
       "rotten_flesh": "2025-04-26 02:48:43 +0000"
     },
     "done": false
@@ -4671,6 +4672,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_press": {
+    "criteria": {
+      "has_item": "2025-04-28 01:23:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2025-04-27 22:59:58 +0000"
@@ -4692,6 +4699,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-04-27 23:46:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/andesite_door": {
+    "criteria": {
+      "has_item": "2025-04-28 01:23:47 +0000"
     },
     "done": true
   },
@@ -4722,6 +4735,12 @@
   "createdeco:recipes/decorations/zinc_mesh_fence_from_stonecutting": {
     "criteria": {
       "has_item": "2025-04-27 22:58:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
+    "criteria": {
+      "has_item": "2025-04-28 01:23:47 +0000"
     },
     "done": true
   },
@@ -4761,6 +4780,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/weighted_ejector": {
+    "criteria": {
+      "has_item": "2025-04-28 01:23:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-27 22:42:05 +0000"
@@ -4791,6 +4816,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_plough": {
+    "criteria": {
+      "has_item": "2025-04-28 01:23:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/belt_connector": {
     "criteria": {
       "has_item": "2025-04-27 22:59:58 +0000"
@@ -4803,9 +4834,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-28 01:23:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-27 22:42:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
+    "criteria": {
+      "has_item": "2025-04-28 01:23:47 +0000"
     },
     "done": true
   },
@@ -4845,6 +4888,12 @@
     },
     "done": true
   },
+  "railways:recipes/misc/crafting/track_switch_andesite": {
+    "criteria": {
+      "has_item": "2025-04-28 01:23:47 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_vertical_stairs": {
     "criteria": {
       "has_item": "2025-04-27 22:58:48 +0000"
@@ -4881,9 +4930,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-28 01:21:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-04-27 23:46:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
+    "criteria": {
+      "has_item": "2025-04-28 01:23:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_drill": {
+    "criteria": {
+      "has_item": "2025-04-28 01:23:47 +0000"
     },
     "done": true
   },
@@ -4908,6 +4975,12 @@
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-04-28 00:21:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_piston": {
+    "criteria": {
+      "has_item": "2025-04-28 01:23:47 +0000"
     },
     "done": true
   },
@@ -5001,6 +5074,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_roller": {
+    "criteria": {
+      "has_item": "2025-04-28 01:23:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/filter": {
     "criteria": {
       "has_item": "2025-04-27 22:59:58 +0000"
@@ -5010,6 +5089,12 @@
   "create:recipes/misc/crafting/kinetics/white_sail": {
     "criteria": {
       "has_item": "2025-04-27 22:59:58 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/spruce_bark": {
+    "criteria": {
+      "has_copper_block": "2025-04-28 01:23:27 +0000"
     },
     "done": true
   },
@@ -5043,6 +5128,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gantry_carriage": {
+    "criteria": {
+      "has_item": "2025-04-28 01:23:47 +0000"
+    },
+    "done": true
+  },
   "bloomingnature:recipes/swamp_oak_fence": {
     "criteria": {
       "has_swamp_oak_planks": "2025-04-28 00:09:45 +0000"
@@ -5073,6 +5164,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/millstone": {
+    "criteria": {
+      "has_item": "2025-04-28 01:23:47 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_slab": {
     "criteria": {
       "has_item": "2025-04-27 22:58:48 +0000"
@@ -5100,6 +5197,12 @@
   "bloomingnature:recipes/swamp_oak_window": {
     "criteria": {
       "has_swamp_oak_planks": "2025-04-28 00:09:45 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/spruce_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-04-28 01:23:29 +0000"
     },
     "done": true
   },
@@ -5151,9 +5254,21 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/iron_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-28 01:21:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-04-27 22:42:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-04-28 01:29:13 +0000"
     },
     "done": true
   },
@@ -5199,6 +5314,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-04-28 01:21:45 +0000"
+    },
+    "done": true
+  },
   "bloomingnature:recipes/swamp_oak_door": {
     "criteria": {
       "has_swamp_oak_planks": "2025-04-28 00:09:45 +0000"
@@ -5220,6 +5341,12 @@
   "copycats:recipes/misc/crafting/copycat_cogwheel": {
     "criteria": {
       "has_item": "2025-04-28 01:18:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_saw": {
+    "criteria": {
+      "has_item": "2025-04-28 01:23:47 +0000"
     },
     "done": true
   },
@@ -5331,6 +5458,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-28 01:23:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-27 22:42:05 +0000"
@@ -5409,6 +5542,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/clutch": {
+    "criteria": {
+      "has_item": "2025-04-28 01:23:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/depot": {
+    "criteria": {
+      "has_item": "2025-04-28 01:23:47 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_light_weighted_pressure_plate": {
     "criteria": {
       "has_item": "2025-04-27 22:58:48 +0000"
@@ -5454,6 +5599,12 @@
   "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-27 22:42:05 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-04-28 01:29:11 +0000"
     },
     "done": true
   },
@@ -5571,6 +5722,12 @@
     },
     "done": true
   },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-04-28 01:23:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-27 22:42:05 +0000"
@@ -5586,6 +5743,12 @@
   "bbb:recipes/dark_oak_wall": {
     "criteria": {
       "has_logs": "2025-04-27 22:42:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
+    "criteria": {
+      "has_item": "2025-04-28 01:23:47 +0000"
     },
     "done": true
   },
@@ -5676,6 +5839,18 @@
   "create:recipes/misc/crafting/logistics/andesite_funnel": {
     "criteria": {
       "has_item": "2025-04-27 22:59:58 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_hull": {
+    "criteria": {
+      "has_item": "2025-04-28 01:21:45 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/bark_off": {
+    "criteria": {
+      "wax_off": "2025-04-28 01:23:26 +0000"
     },
     "done": true
   },
@@ -5775,9 +5950,21 @@
     },
     "done": true
   },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-04-28 01:21:45 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_half_layer": {
     "criteria": {
       "has_item": "2025-04-27 22:58:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearshift": {
+    "criteria": {
+      "has_item": "2025-04-28 01:23:47 +0000"
     },
     "done": true
   },
