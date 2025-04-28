@@ -6653,9 +6653,111 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
+  "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
-      "has_oak_planks": "2025-04-28 02:34:19 +0000"
+      "has_flint": "2025-04-28 01:48:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-28 01:48:05 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/stone_brick_layer": {
+    "criteria": {
+      "has_block": "2025-04-28 01:52:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-28 01:52:52 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/stone_bricks": {
+    "criteria": {
+      "has_copper_block": "2025-04-28 01:52:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-28 01:52:52 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/stone_urn": {
+    "criteria": {
+      "has_block": "2025-04-28 01:52:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-28 01:52:52 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/stone_moulding": {
+    "criteria": {
+      "has_block": "2025-04-28 01:52:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-28 01:52:52 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/stone_tiles": {
+    "criteria": {
+      "has_block": "2025-04-28 01:52:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-28 01:52:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-28 01:52:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-28 01:52:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-04-28 01:52:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-28 01:52:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2025-04-28 02:03:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2025-04-28 02:03:05 +0000"
     },
     "done": true
   },
@@ -6671,18 +6773,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/oak_drawer": {
-    "criteria": {
-      "has_oak_drawer": "2025-04-28 02:34:19 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
-    "criteria": {
-      "has_oak_planks": "2025-04-28 02:34:19 +0000"
-    },
-    "done": true
-  },
   "bbb:recipes/oak_pallet": {
     "criteria": {
       "has_planks": "2025-04-28 02:26:50 +0000"
@@ -6695,9 +6785,39 @@
     },
     "done": true
   },
-  "bbb:recipes/stone_brick_layer": {
+  "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
-      "has_block": "2025-04-28 01:52:52 +0000"
+      "has_logs": "2025-04-28 02:26:50 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/oak_palisade": {
+    "criteria": {
+      "has_log": "2025-04-28 02:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-28 02:26:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
+    "criteria": {
+      "has_oak_planks": "2025-04-28 02:34:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_drawer": {
+    "criteria": {
+      "has_oak_drawer": "2025-04-28 02:34:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
+    "criteria": {
+      "has_oak_planks": "2025-04-28 02:34:19 +0000"
     },
     "done": true
   },
@@ -6713,12 +6833,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-04-28 01:52:52 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_cabinetry": {
     "criteria": {
       "has_oak_planks": "2025-04-28 02:34:19 +0000"
@@ -6728,12 +6842,6 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-04-28 02:34:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2025-04-28 02:26:50 +0000"
     },
     "done": true
   },
@@ -6752,18 +6860,6 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-28 02:34:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_leggings": "2025-04-28 02:03:05 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:recipes/stone_bricks": {
-    "criteria": {
-      "has_copper_block": "2025-04-28 01:52:52 +0000"
     },
     "done": true
   },
@@ -6809,24 +6905,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-04-28 01:52:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_flint": "2025-04-28 01:48:05 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/stone_urn": {
-    "criteria": {
-      "has_block": "2025-04-28 01:52:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-28 02:34:19 +0000"
@@ -6851,45 +6929,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-04-28 01:48:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-04-28 02:34:19 +0000"
     },
     "done": true
   },
-  "decorative_blocks:recipes/building_blocks/oak_palisade": {
-    "criteria": {
-      "has_log": "2025-04-28 02:26:50 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/oak_fancy_bed": {
     "criteria": {
       "has_oak_fancy_bed": "2025-04-28 02:34:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2025-04-28 01:52:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_leggings": "2025-04-28 02:03:05 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/stone_moulding": {
-    "criteria": {
-      "has_block": "2025-04-28 01:52:52 +0000"
     },
     "done": true
   },
@@ -6929,12 +6977,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2025-04-28 01:52:52 +0000"
-    },
-    "done": true
-  },
   "bbb:recipes/oak_layer": {
     "criteria": {
       "has_block": "2025-04-28 02:34:19 +0000"
@@ -6959,42 +7001,6 @@
     },
     "done": true
   },
-  "bbb:recipes/stone_tiles": {
-    "criteria": {
-      "has_block": "2025-04-28 01:52:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2025-04-28 02:26:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2025-04-28 01:52:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2025-04-28 01:52:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-04-28 01:52:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2025-04-28 01:52:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-04-28 02:34:19 +0000"
@@ -7004,12 +7010,6 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-04-28 02:34:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-04-28 01:52:52 +0000"
     },
     "done": true
   },
@@ -7046,6 +7046,18 @@
   "bbb:recipes/oak_ladder": {
     "criteria": {
       "has_planks": "2025-04-28 02:34:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-04-28 03:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-04-28 03:02:01 +0000"
     },
     "done": true
   },
