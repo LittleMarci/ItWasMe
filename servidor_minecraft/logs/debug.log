@@ -16444,3 +16444,28 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Apr2025 03:14:37.277] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Apr2025 03:14:37.294] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [28Apr2025 03:16:45.753] [IO-Worker-42/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[28Apr2025 03:18:52.907] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[28Apr2025 03:19:12.249] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 863768759 to 20
+[28Apr2025 03:19:17.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonsoVanDeKap has made the advancement [Sweet Dreams]
+[28Apr2025 03:19:24.451] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonsoVanDeKap lost connection: Disconnected
+[28Apr2025 03:19:24.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonsoVanDeKap left the game
+[28Apr2025 03:19:24.452] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of AlonsoVanDeKap
+[28Apr2025 03:19:24.452] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlonsoVanDeKap
+[28Apr2025 03:19:37.250] [IO-Worker-44/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[28Apr2025 03:19:37.250] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[28Apr2025 03:19:37.259] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Apr2025 03:19:37.260] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[28Apr2025 03:19:37.276] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Apr2025 03:20:24.503] [Worker-Main-15/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-15 shutdown
+[28Apr2025 03:21:24.503] [Worker-Main-13/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-13 shutdown
+[28Apr2025 03:22:24.503] [Worker-Main-12/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-12 shutdown
+[28Apr2025 03:23:24.503] [Worker-Main-16/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-16 shutdown
+[28Apr2025 03:24:24.503] [Worker-Main-9/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-9 shutdown
+[28Apr2025 03:24:37.239] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[28Apr2025 03:24:37.239] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[28Apr2025 03:24:37.243] [IO-Worker-49/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[28Apr2025 03:24:37.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Apr2025 03:24:37.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Apr2025 03:25:24.503] [Worker-Main-2/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-2 shutdown
+[28Apr2025 03:26:24.503] [Worker-Main-11/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-11 shutdown
+[28Apr2025 03:27:24.503] [Worker-Main-10/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-10 shutdown

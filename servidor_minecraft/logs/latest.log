@@ -1373,3 +1373,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Apr2025 03:09:03.653] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carlitox_x1 lost connection: Disconnected
 [28Apr2025 03:09:03.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlitox_x1 left the game
 [28Apr2025 03:09:03.653] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client carlitox_x1
+[28Apr2025 03:19:17.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonsoVanDeKap has made the advancement [Sweet Dreams]
+[28Apr2025 03:19:24.451] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonsoVanDeKap lost connection: Disconnected
+[28Apr2025 03:19:24.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonsoVanDeKap left the game
+[28Apr2025 03:19:24.452] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlonsoVanDeKap
