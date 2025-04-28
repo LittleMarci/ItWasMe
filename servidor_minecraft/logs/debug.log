@@ -16421,3 +16421,26 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Apr2025 03:06:49.403] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AlonsoVanDeKap'/22482, l='ServerLevel[world]', x=-189.88, y=63.00, z=171.88] sends hit scan notification to ServerPlayer['carlitox_x1'/37, l='ServerLevel[world]', x=-134.00, y=39.00, z=107.99]
 [28Apr2025 03:06:49.403] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AlonsoVanDeKap'/22482, l='ServerLevel[world]', x=-189.88, y=63.00, z=171.88] sends hit scan notification to ServerPlayer['AlonsoVanDeKap'/22482, l='ServerLevel[world]', x=-189.88, y=63.00, z=171.88]
 [28Apr2025 03:07:35.665] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1577803220 to 5
+[28Apr2025 03:08:51.956] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[28Apr2025 03:08:51.957] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[28Apr2025 03:08:51.957] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[28Apr2025 03:08:51.957] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[28Apr2025 03:08:51.957] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[28Apr2025 03:08:51.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <carlitox_x1> ya me voy muchacho
+[28Apr2025 03:09:00.854] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[28Apr2025 03:09:00.854] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[28Apr2025 03:09:00.854] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[28Apr2025 03:09:00.854] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[28Apr2025 03:09:00.854] [ForkJoinPool.commonPool-worker-5/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[28Apr2025 03:09:00.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <carlitox_x1> chau
+[28Apr2025 03:09:03.653] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carlitox_x1 lost connection: Disconnected
+[28Apr2025 03:09:03.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlitox_x1 left the game
+[28Apr2025 03:09:03.653] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of carlitox_x1
+[28Apr2025 03:09:03.653] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client carlitox_x1
+[28Apr2025 03:09:37.273] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[28Apr2025 03:09:37.276] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Apr2025 03:09:37.294] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Apr2025 03:14:37.276] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[28Apr2025 03:14:37.277] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Apr2025 03:14:37.294] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Apr2025 03:16:45.753] [IO-Worker-42/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
