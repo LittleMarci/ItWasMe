@@ -19826,3 +19826,78 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Apr2025 23:58:41.012] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 123001403 to 5
 [27Apr2025 23:58:41.829] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [27Apr2025 23:59:10.787] [IO-Worker-120/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-123
+[28Apr2025 00:00:19.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Apr2025 00:00:19.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Apr2025 00:00:30.363] [Server thread/DEBUG] [pointblank/]: 30363 handling client fire request
+[28Apr2025 00:00:30.363] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 123001403 to 4
+[28Apr2025 00:00:30.363] [Server thread/DEBUG] [pointblank/]: 30363 - obtained hit result in 0ms
+[28Apr2025 00:00:30.363] [Server thread/DEBUG] [pointblank/]: 30363 obtained hit results
+[28Apr2025 00:00:30.363] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@577200a0
+[28Apr2025 00:00:30.364] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AlonsoVanDeKap'/2060, l='ServerLevel[world]', x=-208.81, y=64.00, z=183.43] sends hit scan notification to ServerPlayer['AlonsoVanDeKap'/2060, l='ServerLevel[world]', x=-208.81, y=64.00, z=183.43]
+[28Apr2025 00:00:30.364] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AlonsoVanDeKap'/2060, l='ServerLevel[world]', x=-208.81, y=64.00, z=183.43] sends hit scan notification to ServerPlayer['sigan_viendo01'/156764, l='ServerLevel[world]', x=-222.82, y=61.51, z=202.55]
+[28Apr2025 00:00:31.417] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 123001403 to 5
+[28Apr2025 00:01:13.075] [IO-Worker-118/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-124
+[28Apr2025 00:01:21.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigan_viendo01) moved wrongly! 0.3623305433968653
+[28Apr2025 00:01:21.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigan_viendo01) moved wrongly! 0.39909207314053674
+[28Apr2025 00:01:21.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigan_viendo01) moved wrongly! 0.4690899275399545
+[28Apr2025 00:02:08.713] [Server thread/DEBUG] [pointblank/]: 28713 handling client fire request
+[28Apr2025 00:02:08.713] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 411160355 to 19
+[28Apr2025 00:02:08.713] [Server thread/DEBUG] [pointblank/]: 28713 - obtained hit result in 0ms
+[28Apr2025 00:02:08.713] [Server thread/DEBUG] [pointblank/]: 28713 obtained hit results
+[28Apr2025 00:02:08.713] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1879020b
+[28Apr2025 00:02:08.713] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AlonsoVanDeKap'/2060, l='ServerLevel[world]', x=-201.31, y=64.50, z=183.29] sends hit scan notification to ServerPlayer['carlitox_x1'/83398, l='ServerLevel[world]', x=-105.30, y=28.00, z=125.69]
+[28Apr2025 00:02:08.713] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AlonsoVanDeKap'/2060, l='ServerLevel[world]', x=-201.31, y=64.50, z=183.29] sends hit scan notification to ServerPlayer['AlonsoVanDeKap'/2060, l='ServerLevel[world]', x=-201.31, y=64.50, z=183.29]
+[28Apr2025 00:02:08.713] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AlonsoVanDeKap'/2060, l='ServerLevel[world]', x=-201.31, y=64.50, z=183.29] sends hit scan notification to ServerPlayer['sigan_viendo01'/156764, l='ServerLevel[world]', x=-202.35, y=68.50, z=190.76]
+[28Apr2025 00:02:08.865] [Server thread/DEBUG] [pointblank/]: 28865 handling client fire request
+[28Apr2025 00:02:08.865] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 411160355 to 18
+[28Apr2025 00:02:08.865] [Server thread/DEBUG] [pointblank/]: 28865 - obtained hit result in 0ms
+[28Apr2025 00:02:08.865] [Server thread/DEBUG] [pointblank/]: 28865 obtained hit results
+[28Apr2025 00:02:08.865] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4c021701
+[28Apr2025 00:02:08.866] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AlonsoVanDeKap'/2060, l='ServerLevel[world]', x=-201.40, y=64.50, z=182.83] sends hit scan notification to ServerPlayer['carlitox_x1'/83398, l='ServerLevel[world]', x=-105.30, y=28.00, z=125.69]
+[28Apr2025 00:02:08.866] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AlonsoVanDeKap'/2060, l='ServerLevel[world]', x=-201.40, y=64.50, z=182.83] sends hit scan notification to ServerPlayer['AlonsoVanDeKap'/2060, l='ServerLevel[world]', x=-201.40, y=64.50, z=182.83]
+[28Apr2025 00:02:08.866] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AlonsoVanDeKap'/2060, l='ServerLevel[world]', x=-201.40, y=64.50, z=182.83] sends hit scan notification to ServerPlayer['sigan_viendo01'/156764, l='ServerLevel[world]', x=-202.98, y=68.50, z=191.24]
+[28Apr2025 00:02:09.114] [Server thread/DEBUG] [pointblank/]: 29114 handling client fire request
+[28Apr2025 00:02:09.114] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 411160355 to 17
+[28Apr2025 00:02:09.114] [Server thread/DEBUG] [pointblank/]: 29114 - obtained hit result in 0ms
+[28Apr2025 00:02:09.114] [Server thread/DEBUG] [pointblank/]: 29114 obtained hit results
+[28Apr2025 00:02:09.114] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7cda3cc6
+[28Apr2025 00:02:09.115] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AlonsoVanDeKap'/2060, l='ServerLevel[world]', x=-201.37, y=64.50, z=182.78] sends hit scan notification to ServerPlayer['carlitox_x1'/83398, l='ServerLevel[world]', x=-105.30, y=28.00, z=125.69]
+[28Apr2025 00:02:09.115] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AlonsoVanDeKap'/2060, l='ServerLevel[world]', x=-201.37, y=64.50, z=182.78] sends hit scan notification to ServerPlayer['AlonsoVanDeKap'/2060, l='ServerLevel[world]', x=-201.37, y=64.50, z=182.78]
+[28Apr2025 00:02:09.115] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AlonsoVanDeKap'/2060, l='ServerLevel[world]', x=-201.37, y=64.50, z=182.78] sends hit scan notification to ServerPlayer['sigan_viendo01'/156764, l='ServerLevel[world]', x=-203.92, y=69.64, z=192.50]
+[28Apr2025 00:02:09.967] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 411160355 to 20
+[28Apr2025 00:02:18.063] [Server thread/DEBUG] [pointblank/]: 38063 handling client fire request
+[28Apr2025 00:02:18.064] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 411160355 to 19
+[28Apr2025 00:02:18.064] [Server thread/DEBUG] [pointblank/]: 38064 - obtained hit result in 0ms
+[28Apr2025 00:02:18.064] [Server thread/DEBUG] [pointblank/]: 38064 obtained hit results
+[28Apr2025 00:02:18.064] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@b4898b6
+[28Apr2025 00:02:18.064] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AlonsoVanDeKap'/2060, l='ServerLevel[world]', x=-212.77, y=70.50, z=191.58] sends hit scan notification to ServerPlayer['carlitox_x1'/83398, l='ServerLevel[world]', x=-105.30, y=28.00, z=125.69]
+[28Apr2025 00:02:18.064] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AlonsoVanDeKap'/2060, l='ServerLevel[world]', x=-212.77, y=70.50, z=191.58] sends hit scan notification to ServerPlayer['AlonsoVanDeKap'/2060, l='ServerLevel[world]', x=-212.77, y=70.50, z=191.58]
+[28Apr2025 00:02:18.064] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AlonsoVanDeKap'/2060, l='ServerLevel[world]', x=-212.77, y=70.50, z=191.58] sends hit scan notification to ServerPlayer['sigan_viendo01'/156764, l='ServerLevel[world]', x=-219.62, y=56.78, z=186.75]
+[28Apr2025 00:02:23.108] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 411160355 to 20
+[28Apr2025 00:02:43.309] [Server thread/DEBUG] [pointblank/]: 63309 handling client fire request
+[28Apr2025 00:02:43.310] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 411160355 to 19
+[28Apr2025 00:02:43.310] [Server thread/DEBUG] [pointblank/]: 63310 - obtained hit result in 0ms
+[28Apr2025 00:02:43.310] [Server thread/DEBUG] [pointblank/]: 63310 obtained hit results
+[28Apr2025 00:02:43.310] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@73a19aaf
+[28Apr2025 00:02:43.310] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AlonsoVanDeKap'/2060, l='ServerLevel[world]', x=-200.75, y=65.00, z=183.87] sends hit scan notification to ServerPlayer['AlonsoVanDeKap'/2060, l='ServerLevel[world]', x=-200.75, y=65.00, z=183.87]
+[28Apr2025 00:02:43.310] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AlonsoVanDeKap'/2060, l='ServerLevel[world]', x=-200.75, y=65.00, z=183.87] sends hit scan notification to ServerPlayer['sigan_viendo01'/156764, l='ServerLevel[world]', x=-200.13, y=63.00, z=175.88]
+[28Apr2025 00:02:43.560] [Server thread/DEBUG] [pointblank/]: 63560 handling client fire request
+[28Apr2025 00:02:43.560] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 411160355 to 18
+[28Apr2025 00:02:43.560] [Server thread/DEBUG] [pointblank/]: 63560 - obtained hit result in 0ms
+[28Apr2025 00:02:43.560] [Server thread/DEBUG] [pointblank/]: 63560 obtained hit results
+[28Apr2025 00:02:43.560] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5abe05bb
+[28Apr2025 00:02:43.561] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AlonsoVanDeKap'/2060, l='ServerLevel[world]', x=-200.75, y=65.00, z=183.87] sends hit scan notification to ServerPlayer['AlonsoVanDeKap'/2060, l='ServerLevel[world]', x=-200.75, y=65.00, z=183.87]
+[28Apr2025 00:02:43.561] [Server thread/DEBUG] [pointblank/]: ServerPlayer['AlonsoVanDeKap'/2060, l='ServerLevel[world]', x=-200.75, y=65.00, z=183.87] sends hit scan notification to ServerPlayer['sigan_viendo01'/156764, l='ServerLevel[world]', x=-200.80, y=63.12, z=175.47]
+[28Apr2025 00:02:44.224] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 411160355 to 20
+[28Apr2025 00:04:10.759] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonsoVanDeKap lost connection: Disconnected
+[28Apr2025 00:04:10.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonsoVanDeKap left the game
+[28Apr2025 00:04:10.760] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of AlonsoVanDeKap
+[28Apr2025 00:04:10.760] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlonsoVanDeKap
+[28Apr2025 00:04:17.010] [IO-Worker-122/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-125
+[28Apr2025 00:05:19.074] [IO-Worker-124/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-126
+[28Apr2025 00:05:19.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Apr2025 00:05:19.083] [IO-Worker-125/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-127
+[28Apr2025 00:05:19.084] [IO-Worker-122/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-128
+[28Apr2025 00:05:19.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Apr2025 00:07:43.709] [IO-Worker-124/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-129
+[28Apr2025 00:09:15.654] [IO-Worker-128/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-130

@@ -1538,6 +1538,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_cod": "2025-04-28 00:02:35 +0000",
       "bread": "2025-04-27 23:14:33 +0000"
     },
     "done": false
@@ -2022,6 +2023,12 @@
     },
     "done": true
   },
+  "bbb:recipes/dark_prismarine_layer": {
+    "criteria": {
+      "has_block": "2025-04-27 23:55:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-27 23:50:43 +0000"
@@ -2070,6 +2077,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-27 23:55:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-04-27 23:33:55 +0000"
@@ -2091,6 +2104,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-04-27 23:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-27 23:55:26 +0000"
     },
     "done": true
   },
@@ -2127,6 +2146,18 @@
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-04-27 23:40:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-27 23:55:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2025-04-27 23:56:29 +0000"
     },
     "done": true
   },
@@ -2175,6 +2206,12 @@
   "decorative_blocks:recipes/decorations/torch_from_chandelier": {
     "criteria": {
       "has_torch": "2025-04-27 23:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-04-27 23:56:29 +0000"
     },
     "done": true
   },
@@ -2256,6 +2293,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-04-27 23:56:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-04-27 23:35:07 +0000"
@@ -2322,6 +2365,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-04-27 23:56:29 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/warped_lantern": {
     "criteria": {
       "has_torch": "2025-04-27 23:32:55 +0000"
@@ -2352,6 +2401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-27 23:55:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-27 23:50:43 +0000"
@@ -2379,6 +2434,12 @@
   "minecraft:recipes/building_blocks/prismarine_stairs": {
     "criteria": {
       "has_prismarine": "2025-04-27 23:48:39 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-04-27 23:56:29 +0000"
     },
     "done": true
   },
