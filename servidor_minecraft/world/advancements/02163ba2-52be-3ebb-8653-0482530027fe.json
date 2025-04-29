@@ -6566,6 +6566,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-04-29 18:07:56 +0000"
+    },
+    "done": true
+  },
   "walkietalkie:recipes/golden_walkietalkie": {
     "criteria": {
       "has_redstone": "2025-04-29 17:53:38 +0000"
@@ -6722,6 +6728,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-04-29 18:07:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_item": "2025-04-29 17:53:38 +0000"
@@ -6845,6 +6857,12 @@
   "securitycraft:recipes/misc/claymore": {
     "criteria": {
       "has_redstone": "2025-04-29 17:53:38 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-04-29 18:06:27 +0000"
     },
     "done": true
   },

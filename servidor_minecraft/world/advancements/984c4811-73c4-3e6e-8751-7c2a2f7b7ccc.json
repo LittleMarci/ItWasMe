@@ -7303,6 +7303,12 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-04-29 18:05:45 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/witch_trophy": {
     "criteria": {
       "has_witch_trophy": "2025-04-29 17:22:07 +0000"

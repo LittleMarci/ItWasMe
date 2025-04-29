@@ -1354,3 +1354,55 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Apr2025 18:07:44.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jetli2000 withered away
 [29Apr2025 18:07:47.748] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [29Apr2025 18:07:50.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Teleported Jetli2000 to A1lenSS]
+[29Apr2025 18:09:58.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jetli2000 was slain by Wither Skeleton
+[29Apr2025 18:10:00.388] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Apr2025 18:10:05.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Teleported Jetli2000 to A1lenSS]
+[29Apr2025 18:10:30.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp was slain by Wither Skeleton
+[29Apr2025 18:10:32.085] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Apr2025 18:10:36.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Teleported Xander_Aqp to A1lenSS]
+[29Apr2025 18:11:00.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp was slain by Wither Skeleton
+[29Apr2025 18:11:01.348] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Apr2025 18:11:03.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Teleported Xander_Aqp to A1lenSS]
+[29Apr2025 18:11:13.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp was slain by Wither Skeleton
+[29Apr2025 18:11:14.236] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Apr2025 18:11:15.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Teleported Xander_Aqp to A1lenSS]
+[29Apr2025 18:12:04.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jetli2000 has made the advancement [Disme A Dozen]
+[29Apr2025 18:13:40.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jetli2000 was slain by Wither Skeleton
+[29Apr2025 18:13:41.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp was slain by Wither Skeleton
+[29Apr2025 18:13:42.849] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Apr2025 18:13:44.544] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Apr2025 18:13:46.488] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-39, y=90, z=-74}
+[29Apr2025 18:13:47.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Teleported Xander_Aqp to A1lenSS]
+[29Apr2025 18:13:47.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-39, y=89, z=-74}
+[29Apr2025 18:13:48.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Teleported Jetli2000 to A1lenSS]
+[29Apr2025 18:14:18.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp withered away whilst fighting Wither Skeleton
+[29Apr2025 18:14:20.049] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Apr2025 18:14:51.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp was slain by Wither Skeleton
+[29Apr2025 18:14:52.748] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Apr2025 18:14:59.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Teleported Xander_Aqp to A1lenSS]
+[29Apr2025 18:16:47.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp hit the ground too hard whilst trying to escape Wither Skeleton
+[29Apr2025 18:16:49.084] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Apr2025 18:17:12.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp was slain by Wither Skeleton
+[29Apr2025 18:17:14.211] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Apr2025 18:17:27.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Teleported Xander_Aqp to Jetli2000]
+[29Apr2025 18:19:46.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp was slain by A1lenSS
+[29Apr2025 18:19:48.109] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Apr2025 18:19:54.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Teleported Xander_Aqp to A1lenSS]
+[29Apr2025 18:20:01.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Teleported Xander_Aqp to A1lenSS]
+[29Apr2025 18:20:38.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Teleported A1lenSS to -144.500000, 63.500000, 123.500000]
+[29Apr2025 18:20:57.354] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xander_Aqp lost connection: Disconnected
+[29Apr2025 18:20:57.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp left the game
+[29Apr2025 18:20:57.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp has died of cowardice
+[29Apr2025 18:20:57.366] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Xander_Aqp
+[29Apr2025 18:21:17.494] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@6e93da6d]Trying to start horde event on day 10 with nextDay 10 and time 10000
+[29Apr2025 18:21:17.498] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@75f62e6e
+[29Apr2025 18:21:17.500] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+[29Apr2025 18:21:17.500] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[29Apr2025 18:21:17.550] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[29Apr2025 18:21:17.550] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[29Apr2025 18:21:20.196] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jetli2000 lost connection: Disconnected
+[29Apr2025 18:21:20.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jetli2000 left the game
+[29Apr2025 18:21:20.198] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jetli2000
+[29Apr2025 18:21:30.627] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A1lenSS lost connection: Disconnected
+[29Apr2025 18:21:30.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A1lenSS left the game
+[29Apr2025 18:21:30.629] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client A1lenSS
