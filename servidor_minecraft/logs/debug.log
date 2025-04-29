@@ -17003,3 +17003,673 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Apr2025 17:39:00.891] [Server thread/DEBUG] [pointblank/]: Creating state 3eb8d806-9f58-4128-804e-8d15e868409b
 [29Apr2025 17:39:00.892] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/41813, l='ServerLevel[world]', x=-16.97, y=75.00, z=127.26] sends hit scan notification to ServerPlayer['A1lenSS'/41813, l='ServerLevel[world]', x=-16.97, y=75.00, z=127.26]
 [29Apr2025 17:39:09.337] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 674363735 to 20
+[29Apr2025 17:40:06.340] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
+[29Apr2025 17:40:06.345] [Server thread/DEBUG] [pointblank/]: Created {vi: 1641137116, path: e061cf1f-900c-4e2f-84c8-7abd05575b5b, elements: {AttachmentCategory[muzzle]={vi: 997354333, path: e061cf1f-900c-4e2f-84c8-7abd05575b5b/air, elements: {}}}} with stack: 1 spas12, tag {GeckoLibID:15L,aim:0b,ammo:0,ammox:{},fmid:[I;1187609750,-1596638245,-1850892805,962291126],lid:-8878711713103914149L,mid:-2278312202005098961L,sa:{scope:"/"},seed:-7217534375481950431L}, elements: {AttachmentCategory[muzzle]={vi: 997354333, path: e061cf1f-900c-4e2f-84c8-7abd05575b5b/air, elements: {}}}
+[29Apr2025 17:40:06.346] [Server thread/DEBUG] [pointblank/]: Created container 0
+[29Apr2025 17:40:06.346] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #0 id: 1306025682, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.346] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #0 id: 1306025682, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.346] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #0 id: 1306025682, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.346] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #0 id: 1306025682, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.346] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #0 id: 1306025682, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.346] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #0 id: 1306025682, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.347] [Server thread/DEBUG] [pointblank/]: Added attachment slot 7 to container {Container #0 id: 1306025682, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.347] [Server thread/DEBUG] [pointblank/]: Added attachment slot 8 to container {Container #0 id: 1306025682, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.347] [Server thread/DEBUG] [pointblank/]: Added attachment slot 9 to container {Container #0 id: 1306025682, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.347] [Server thread/DEBUG] [pointblank/]: Added attachment slot 10 to container {Container #0 id: 1306025682, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.347] [Server thread/DEBUG] [pointblank/]: Added attachment slot 11 to container {Container #0 id: 1306025682, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.347] [Server thread/DEBUG] [pointblank/]: Created container 1
+[29Apr2025 17:40:06.347] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #1 id: 1652561496, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.347] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #1 id: 1652561496, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.347] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #1 id: 1652561496, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.347] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #1 id: 1652561496, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.347] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #1 id: 1652561496, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.347] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #1 id: 1652561496, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.347] [Server thread/DEBUG] [pointblank/]: Created container 2
+[29Apr2025 17:40:06.347] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #2 id: 608784170, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.347] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #2 id: 608784170, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.347] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #2 id: 608784170, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.347] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #2 id: 608784170, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.348] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #2 id: 608784170, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.348] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #2 id: 608784170, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.348] [Server thread/DEBUG] [pointblank/]: Created container 3
+[29Apr2025 17:40:06.348] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #3 id: 1124888589, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.348] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #3 id: 1124888589, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.348] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #3 id: 1124888589, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.348] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #3 id: 1124888589, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.348] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #3 id: 1124888589, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.348] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #3 id: 1124888589, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.348] [Server thread/DEBUG] [pointblank/]: Created container 4
+[29Apr2025 17:40:06.348] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #4 id: 1278056560, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.348] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #4 id: 1278056560, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.348] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #4 id: 1278056560, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.348] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #4 id: 1278056560, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.348] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #4 id: 1278056560, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.348] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #4 id: 1278056560, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.348] [Server thread/DEBUG] [pointblank/]: Created container 5
+[29Apr2025 17:40:06.348] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #5 id: 779974011, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.348] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #5 id: 779974011, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.348] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #5 id: 779974011, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.348] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #5 id: 779974011, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.348] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #5 id: 779974011, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.348] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #5 id: 779974011, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.348] [Server thread/DEBUG] [pointblank/]: Created container 6
+[29Apr2025 17:40:06.348] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #6 id: 1076060033, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.348] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #6 id: 1076060033, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.348] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #6 id: 1076060033, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.348] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #6 id: 1076060033, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.348] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #6 id: 1076060033, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.349] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #6 id: 1076060033, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.349] [Server thread/DEBUG] [pointblank/]: Created container 7
+[29Apr2025 17:40:06.349] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #7 id: 1620034448, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.349] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #7 id: 1620034448, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.349] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #7 id: 1620034448, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.349] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #7 id: 1620034448, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.349] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #7 id: 1620034448, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.349] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #7 id: 1620034448, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.349] [Server thread/DEBUG] [pointblank/]: Created container 8
+[29Apr2025 17:40:06.349] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #8 id: 1078016489, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.349] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #8 id: 1078016489, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.349] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #8 id: 1078016489, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.349] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #8 id: 1078016489, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.349] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #8 id: 1078016489, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.349] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #8 id: 1078016489, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.349] [Server thread/DEBUG] [pointblank/]: Created container 9
+[29Apr2025 17:40:06.349] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #9 id: 89279031, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.349] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #9 id: 89279031, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.349] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #9 id: 89279031, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.349] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #9 id: 89279031, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.349] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #9 id: 89279031, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.349] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #9 id: 89279031, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.349] [Server thread/DEBUG] [pointblank/]: Updating attachment slots for inventory {vi: 1641137116, path: e061cf1f-900c-4e2f-84c8-7abd05575b5b, elements: {AttachmentCategory[muzzle]={vi: 997354333, path: e061cf1f-900c-4e2f-84c8-7abd05575b5b/air, elements: {}}}} for container 0
+[29Apr2025 17:40:06.349] [Server thread/DEBUG] [pointblank/]: Creating a slot mapping for key e061cf1f-900c-4e2f-84c8-7abd05575b5b in inventory {vi: 1641137116, path: e061cf1f-900c-4e2f-84c8-7abd05575b5b, elements: {AttachmentCategory[muzzle]={vi: 997354333, path: e061cf1f-900c-4e2f-84c8-7abd05575b5b/air, elements: {}}}}
+[29Apr2025 17:40:06.349] [Server thread/DEBUG] [pointblank/]: Created a slot mapping for key e061cf1f-900c-4e2f-84c8-7abd05575b5b in inventory {vi: 1641137116, path: e061cf1f-900c-4e2f-84c8-7abd05575b5b, elements: {AttachmentCategory[muzzle]={vi: 997354333, path: e061cf1f-900c-4e2f-84c8-7abd05575b5b/air, elements: {}}}}. Here it is: {}
+[29Apr2025 17:40:06.350] [Server thread/DEBUG] [pointblank/]: Setting item 0 in container {Container #0 id: 1306025682, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 1 spas12 with tag {GeckoLibID:15L,aim:0b,ammo:0,ammox:{},fmid:[I;1187609750,-1596638245,-1850892805,962291126],lid:-8878711713103914149L,mid:-2278312202005098961L,sa:{scope:"/"},seed:-7217534375481950431L}
+[29Apr2025 17:40:06.350] [Server thread/DEBUG] [pointblank/]: Setting item 1 in container {Container #0 id: 1306025682, items: [1 spas12, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 0 air with tag null
+[29Apr2025 17:40:06.350] [Server thread/DEBUG] [pointblank/]: Updated slot #1 in container {Container #0 id: 1306025682, items: [1 spas12, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } with empty item 0 air
+[29Apr2025 17:40:06.350] [Server thread/DEBUG] [pointblank/]: Changing status for slot 1 in container {Container #0 id: 1306025682, items: [1 spas12, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to true,
+[29Apr2025 17:40:06.350] [Server thread/DEBUG] [pointblank/]: Container active attachment count: 1 in container {Container #0 id: 1306025682, items: [1 spas12, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:06.350] [Server thread/DEBUG] [pointblank/]: Updated attachment slots for container {Container #0 id: 1306025682, items: [1 spas12, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:07.715] [Server thread/DEBUG] [pointblank/]: Setting attachment slot 1 for container {Container #0 id: 1306025682, items: [1 spas12, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 1 sg_suppressor with tag {}
+[29Apr2025 17:40:07.715] [Server thread/DEBUG] [pointblank/]: Setting item 1 in container {Container #0 id: 1306025682, items: [1 spas12, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 1 sg_suppressor with tag {}
+[29Apr2025 17:40:07.716] [Server thread/DEBUG] [pointblank/]: Virtual inventory {vi: 1641137116, path: e061cf1f-900c-4e2f-84c8-7abd05575b5b, elements: {AttachmentCategory[muzzle]={vi: 997354333, path: e061cf1f-900c-4e2f-84c8-7abd05575b5b/air, elements: {}}}} handling changes in container {Container #0 id: 1306025682, items: [1 spas12, 1 sg_suppressor, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }, stack tags {GeckoLibID:15L,aim:0b,ammo:0,ammox:{},fmid:[I;1187609750,-1596638245,-1850892805,962291126],lid:-8878711713103914149L,mid:-2278312202005098961L,sa:{scope:"/"},seed:-7217534375481950431L}
+[29Apr2025 17:40:07.716] [Server thread/DEBUG] [pointblank/]: Adding attachment '1 sg_suppressor' from slot 1 with tag {} to stack '1 spas12'
+[29Apr2025 17:40:07.716] [Server thread/DEBUG] [pointblank/]: Added new attachment '1 sg_suppressor' from slot 1 with tag {} to stack '1 spas12' with tag {GeckoLibID:15L,aim:0b,ammo:0,ammox:{},as:[{id:"pointblank:sg_suppressor",rmv:1b}],fmid:[I;1187609750,-1596638245,-1850892805,962291126],lid:-8878711713103914149L,mid:-2278312202005098961L,sa:{scope:"/"},seed:-7217534375481950431L} and path {}
+[29Apr2025 17:40:07.716] [Server thread/DEBUG] [pointblank/]: Created {vi: 1807681791, path: e061cf1f-900c-4e2f-84c8-7abd05575b5b/sg_suppressor, elements: {}} with stack: 1 sg_suppressor, tag {}, elements: {}
+[29Apr2025 17:40:07.717] [Server thread/DEBUG] [pointblank/]: Updating attachment slots for inventory {vi: 1641137116, path: e061cf1f-900c-4e2f-84c8-7abd05575b5b, elements: {AttachmentCategory[muzzle]={vi: 1807681791, path: e061cf1f-900c-4e2f-84c8-7abd05575b5b/sg_suppressor, elements: {}}}} for container 0
+[29Apr2025 17:40:07.717] [Server thread/DEBUG] [pointblank/]: Setting item 0 in container {Container #0 id: 1306025682, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 1 spas12 with tag {GeckoLibID:15L,aim:0b,ammo:0,ammox:{},as:[{id:"pointblank:sg_suppressor",rmv:1b}],fmid:[I;1187609750,-1596638245,-1850892805,962291126],lid:-8878711713103914149L,mid:-2278312202005098961L,sa:{scope:"/"},seed:-7217534375481950431L}
+[29Apr2025 17:40:07.717] [Server thread/DEBUG] [pointblank/]: Setting item 1 in container {Container #0 id: 1306025682, items: [1 spas12, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 1 sg_suppressor with tag {}
+[29Apr2025 17:40:07.717] [Server thread/DEBUG] [pointblank/]: Updated slot #1 in container {Container #0 id: 1306025682, items: [1 spas12, 1 sg_suppressor, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } with item 1 sg_suppressor
+[29Apr2025 17:40:07.717] [Server thread/DEBUG] [pointblank/]: Container active attachment count: 1 in container {Container #0 id: 1306025682, items: [1 spas12, 1 sg_suppressor, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:07.717] [Server thread/DEBUG] [pointblank/]: Updated attachment slots for container {Container #0 id: 1306025682, items: [1 spas12, 1 sg_suppressor, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[29Apr2025 17:40:07.719] [Server thread/DEBUG] [pointblank/]: Virtual inventory {vi: 1641137116, path: e061cf1f-900c-4e2f-84c8-7abd05575b5b, elements: {AttachmentCategory[muzzle]={vi: 1807681791, path: e061cf1f-900c-4e2f-84c8-7abd05575b5b/sg_suppressor, elements: {}}}} handled changes for container {Container #0 id: 1306025682, items: [1 spas12, 1 sg_suppressor, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }, stack tags {GeckoLibID:15L,aim:0b,ammo:0,ammox:{},as:[{id:"pointblank:sg_suppressor",rmv:1b}],fmid:[I;1187609750,-1596638245,-1850892805,962291126],lid:-8878711713103914149L,mid:-2278312202005098961L,sa:{scope:"/"},seed:-7217534375481950431L}
+[29Apr2025 17:40:19.227] [IO-Worker-91/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-92
+[29Apr2025 17:40:19.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 17:40:19.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 17:40:19.449] [IO-Worker-83/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-93
+[29Apr2025 17:42:10.197] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 307249945 to 9
+[29Apr2025 17:42:20.582] [IO-Worker-88/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-94
+[29Apr2025 17:45:19.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 17:45:19.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 17:45:19.382] [IO-Worker-92/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-95
+[29Apr2025 17:47:17.834] [Server thread/DEBUG] [pointblank/]: 37833 handling client fire request
+[29Apr2025 17:47:17.834] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 516392546 to 8
+[29Apr2025 17:47:17.835] [Server thread/DEBUG] [pointblank/]: 37835 - obtained hit result in 0ms
+[29Apr2025 17:47:17.835] [Server thread/DEBUG] [pointblank/]: 37835 - obtained hit result in 0ms
+[29Apr2025 17:47:17.835] [Server thread/DEBUG] [pointblank/]: 37835 - obtained hit result in 0ms
+[29Apr2025 17:47:17.835] [Server thread/DEBUG] [pointblank/]: 37835 - obtained hit result in 0ms
+[29Apr2025 17:47:17.835] [Server thread/DEBUG] [pointblank/]: 37835 - obtained hit result in 0ms
+[29Apr2025 17:47:17.835] [Server thread/DEBUG] [pointblank/]: 37835 - obtained hit result in 0ms
+[29Apr2025 17:47:17.835] [Server thread/DEBUG] [pointblank/]: 37835 - obtained hit result in 0ms
+[29Apr2025 17:47:17.835] [Server thread/DEBUG] [pointblank/]: 37835 - obtained hit result in 0ms
+[29Apr2025 17:47:17.835] [Server thread/DEBUG] [pointblank/]: 37835 - obtained hit result in 0ms
+[29Apr2025 17:47:17.835] [Server thread/DEBUG] [pointblank/]: 37835 - obtained hit result in 0ms
+[29Apr2025 17:47:17.835] [Server thread/DEBUG] [pointblank/]: 37835 - obtained hit result in 0ms
+[29Apr2025 17:47:17.835] [Server thread/DEBUG] [pointblank/]: 37835 - obtained hit result in 0ms
+[29Apr2025 17:47:17.835] [Server thread/DEBUG] [pointblank/]: 37835 - obtained hit result in 0ms
+[29Apr2025 17:47:17.835] [Server thread/DEBUG] [pointblank/]: 37835 - obtained hit result in 0ms
+[29Apr2025 17:47:17.835] [Server thread/DEBUG] [pointblank/]: 37835 - obtained hit result in 0ms
+[29Apr2025 17:47:17.835] [Server thread/DEBUG] [pointblank/]: 37835 - obtained hit result in 0ms
+[29Apr2025 17:47:17.835] [Server thread/DEBUG] [pointblank/]: 37835 - obtained hit result in 0ms
+[29Apr2025 17:47:17.835] [Server thread/DEBUG] [pointblank/]: 37835 - obtained hit result in 0ms
+[29Apr2025 17:47:17.835] [Server thread/DEBUG] [pointblank/]: 37835 - obtained hit result in 0ms
+[29Apr2025 17:47:17.835] [Server thread/DEBUG] [pointblank/]: 37835 - obtained hit result in 0ms
+[29Apr2025 17:47:17.835] [Server thread/DEBUG] [pointblank/]: 37835 - obtained hit result in 0ms
+[29Apr2025 17:47:17.835] [Server thread/DEBUG] [pointblank/]: 37835 - obtained hit result in 0ms
+[29Apr2025 17:47:17.835] [Server thread/DEBUG] [pointblank/]: 37835 - obtained hit result in 0ms
+[29Apr2025 17:47:17.835] [Server thread/DEBUG] [pointblank/]: 37835 - obtained hit result in 0ms
+[29Apr2025 17:47:17.835] [Server thread/DEBUG] [pointblank/]: 37835 - obtained hit result in 0ms
+[29Apr2025 17:47:17.835] [Server thread/DEBUG] [pointblank/]: 37835 - obtained hit result in 0ms
+[29Apr2025 17:47:17.835] [Server thread/DEBUG] [pointblank/]: 37835 - obtained hit result in 0ms
+[29Apr2025 17:47:17.835] [Server thread/DEBUG] [pointblank/]: 37835 - obtained hit result in 0ms
+[29Apr2025 17:47:17.835] [Server thread/DEBUG] [pointblank/]: 37835 - obtained hit result in 0ms
+[29Apr2025 17:47:17.835] [Server thread/DEBUG] [pointblank/]: 37835 - obtained hit result in 0ms
+[29Apr2025 17:47:17.835] [Server thread/DEBUG] [pointblank/]: 37835 obtained hit results
+[29Apr2025 17:47:17.835] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@766899cd
+[29Apr2025 17:47:17.836] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:17.836] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@e651dbe
+[29Apr2025 17:47:17.836] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:17.836] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2c337e86
+[29Apr2025 17:47:17.837] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:17.837] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@ed220f4
+[29Apr2025 17:47:17.837] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:17.837] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@61c4a0ea
+[29Apr2025 17:47:17.837] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:17.837] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@251e0507
+[29Apr2025 17:47:17.838] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:17.838] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@59e2b0b3
+[29Apr2025 17:47:17.838] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:17.838] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2eeab29d
+[29Apr2025 17:47:17.838] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:17.838] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@38a06687
+[29Apr2025 17:47:17.838] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:17.838] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6d436aa9
+[29Apr2025 17:47:17.839] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:17.839] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2168389a
+[29Apr2025 17:47:17.839] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:17.839] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5a6d0870
+[29Apr2025 17:47:17.839] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:17.839] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@61c2d9e4
+[29Apr2025 17:47:17.839] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:17.839] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1722f157
+[29Apr2025 17:47:17.840] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:17.840] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@776eb7c1
+[29Apr2025 17:47:17.840] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:17.840] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2a0ea889
+[29Apr2025 17:47:17.840] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:17.840] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1525b95c
+[29Apr2025 17:47:17.840] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:17.841] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@601c26ed
+[29Apr2025 17:47:17.841] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:17.841] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5058a602
+[29Apr2025 17:47:17.841] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:17.841] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@fcd0660
+[29Apr2025 17:47:17.841] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:17.841] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@379aa19c
+[29Apr2025 17:47:17.841] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:17.842] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3630c2cc
+[29Apr2025 17:47:17.842] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:17.842] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@23cd0abe
+[29Apr2025 17:47:17.842] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:17.842] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@44d4f6a1
+[29Apr2025 17:47:17.842] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:17.843] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@26a039e6
+[29Apr2025 17:47:17.843] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:17.843] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2af51a5
+[29Apr2025 17:47:17.843] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:17.843] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@26502be8
+[29Apr2025 17:47:17.843] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:17.843] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@43e1b627
+[29Apr2025 17:47:17.844] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:17.844] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@60bcbd3f
+[29Apr2025 17:47:17.844] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:17.844] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@69155ccd
+[29Apr2025 17:47:17.844] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:19.033] [Server thread/DEBUG] [pointblank/]: 39033 handling client fire request
+[29Apr2025 17:47:19.033] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 516392546 to 7
+[29Apr2025 17:47:19.033] [Server thread/DEBUG] [pointblank/]: 39033 - obtained hit result in 0ms
+[29Apr2025 17:47:19.033] [Server thread/DEBUG] [pointblank/]: 39033 - obtained hit result in 0ms
+[29Apr2025 17:47:19.033] [Server thread/DEBUG] [pointblank/]: 39033 - obtained hit result in 0ms
+[29Apr2025 17:47:19.033] [Server thread/DEBUG] [pointblank/]: 39033 - obtained hit result in 0ms
+[29Apr2025 17:47:19.033] [Server thread/DEBUG] [pointblank/]: 39033 - obtained hit result in 0ms
+[29Apr2025 17:47:19.033] [Server thread/DEBUG] [pointblank/]: 39033 - obtained hit result in 0ms
+[29Apr2025 17:47:19.033] [Server thread/DEBUG] [pointblank/]: 39033 - obtained hit result in 0ms
+[29Apr2025 17:47:19.033] [Server thread/DEBUG] [pointblank/]: 39033 - obtained hit result in 0ms
+[29Apr2025 17:47:19.033] [Server thread/DEBUG] [pointblank/]: 39033 - obtained hit result in 0ms
+[29Apr2025 17:47:19.033] [Server thread/DEBUG] [pointblank/]: 39033 - obtained hit result in 0ms
+[29Apr2025 17:47:19.033] [Server thread/DEBUG] [pointblank/]: 39033 - obtained hit result in 0ms
+[29Apr2025 17:47:19.033] [Server thread/DEBUG] [pointblank/]: 39033 - obtained hit result in 0ms
+[29Apr2025 17:47:19.033] [Server thread/DEBUG] [pointblank/]: 39033 - obtained hit result in 0ms
+[29Apr2025 17:47:19.033] [Server thread/DEBUG] [pointblank/]: 39033 - obtained hit result in 0ms
+[29Apr2025 17:47:19.034] [Server thread/DEBUG] [pointblank/]: 39034 - obtained hit result in 1ms
+[29Apr2025 17:47:19.034] [Server thread/DEBUG] [pointblank/]: 39034 - obtained hit result in 0ms
+[29Apr2025 17:47:19.034] [Server thread/DEBUG] [pointblank/]: 39034 - obtained hit result in 0ms
+[29Apr2025 17:47:19.034] [Server thread/DEBUG] [pointblank/]: 39034 - obtained hit result in 0ms
+[29Apr2025 17:47:19.034] [Server thread/DEBUG] [pointblank/]: 39034 - obtained hit result in 0ms
+[29Apr2025 17:47:19.034] [Server thread/DEBUG] [pointblank/]: 39034 - obtained hit result in 0ms
+[29Apr2025 17:47:19.034] [Server thread/DEBUG] [pointblank/]: 39034 - obtained hit result in 0ms
+[29Apr2025 17:47:19.034] [Server thread/DEBUG] [pointblank/]: 39034 - obtained hit result in 0ms
+[29Apr2025 17:47:19.034] [Server thread/DEBUG] [pointblank/]: 39034 - obtained hit result in 0ms
+[29Apr2025 17:47:19.034] [Server thread/DEBUG] [pointblank/]: 39034 - obtained hit result in 0ms
+[29Apr2025 17:47:19.034] [Server thread/DEBUG] [pointblank/]: 39034 - obtained hit result in 0ms
+[29Apr2025 17:47:19.034] [Server thread/DEBUG] [pointblank/]: 39034 - obtained hit result in 0ms
+[29Apr2025 17:47:19.034] [Server thread/DEBUG] [pointblank/]: 39034 - obtained hit result in 0ms
+[29Apr2025 17:47:19.034] [Server thread/DEBUG] [pointblank/]: 39034 - obtained hit result in 0ms
+[29Apr2025 17:47:19.034] [Server thread/DEBUG] [pointblank/]: 39034 - obtained hit result in 0ms
+[29Apr2025 17:47:19.034] [Server thread/DEBUG] [pointblank/]: 39034 - obtained hit result in 0ms
+[29Apr2025 17:47:19.034] [Server thread/DEBUG] [pointblank/]: 39034 obtained hit results
+[29Apr2025 17:47:19.034] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@62b6861
+[29Apr2025 17:47:19.034] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:19.034] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@39a4586a
+[29Apr2025 17:47:19.035] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:19.035] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2f1e8ffb
+[29Apr2025 17:47:19.035] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:19.035] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3e14ed36
+[29Apr2025 17:47:19.035] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:19.035] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6321e2f5
+[29Apr2025 17:47:19.035] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:19.036] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@785d81f3
+[29Apr2025 17:47:19.036] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:19.036] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@23e7b854
+[29Apr2025 17:47:19.036] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:19.036] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2b9b7fd0
+[29Apr2025 17:47:19.036] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:19.037] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5fec15e4
+[29Apr2025 17:47:19.037] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:19.037] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@397c224b
+[29Apr2025 17:47:19.037] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:19.037] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@78eae4e0
+[29Apr2025 17:47:19.037] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:19.037] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@8ff61d2
+[29Apr2025 17:47:19.038] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:19.038] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3783061c
+[29Apr2025 17:47:19.038] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:19.038] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6fb504dd
+[29Apr2025 17:47:19.038] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:19.038] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@40d7302f
+[29Apr2025 17:47:19.039] [Server thread/DEBUG] [pointblank/]: Creating state e061cf1f-900c-4e2f-84c8-7abd05575b5b
+[29Apr2025 17:47:19.040] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:19.040] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@33553816
+[29Apr2025 17:47:19.040] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:19.040] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1c496b86
+[29Apr2025 17:47:19.040] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:19.040] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5b9d073e
+[29Apr2025 17:47:19.040] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:19.040] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2232022a
+[29Apr2025 17:47:19.040] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:19.040] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@383d1bf2
+[29Apr2025 17:47:19.040] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:19.041] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6fff4228
+[29Apr2025 17:47:19.041] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:19.041] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5c681c1e
+[29Apr2025 17:47:19.041] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:19.041] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6ef966eb
+[29Apr2025 17:47:19.041] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:19.041] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3e4b124d
+[29Apr2025 17:47:19.041] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:19.041] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2b30e9ae
+[29Apr2025 17:47:19.041] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:19.041] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@37a4883a
+[29Apr2025 17:47:19.041] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:19.041] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@124f7e1b
+[29Apr2025 17:47:19.041] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:19.041] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7470df65
+[29Apr2025 17:47:19.042] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:19.042] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@58a125dc
+[29Apr2025 17:47:19.042] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:19.042] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4b5793aa
+[29Apr2025 17:47:19.042] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.30, y=3.00, z=136.70]
+[29Apr2025 17:47:20.648] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 516392546 to 9
+[29Apr2025 17:47:30.584] [Server thread/DEBUG] [pointblank/]: 50584 handling client fire request
+[29Apr2025 17:47:30.585] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 516392546 to 8
+[29Apr2025 17:47:30.585] [Server thread/DEBUG] [pointblank/]: 50585 - obtained hit result in 0ms
+[29Apr2025 17:47:30.585] [Server thread/DEBUG] [pointblank/]: 50585 - obtained hit result in 0ms
+[29Apr2025 17:47:30.585] [Server thread/DEBUG] [pointblank/]: 50585 - obtained hit result in 0ms
+[29Apr2025 17:47:30.585] [Server thread/DEBUG] [pointblank/]: 50585 - obtained hit result in 0ms
+[29Apr2025 17:47:30.585] [Server thread/DEBUG] [pointblank/]: 50585 - obtained hit result in 0ms
+[29Apr2025 17:47:30.585] [Server thread/DEBUG] [pointblank/]: 50585 - obtained hit result in 0ms
+[29Apr2025 17:47:30.585] [Server thread/DEBUG] [pointblank/]: 50585 - obtained hit result in 0ms
+[29Apr2025 17:47:30.585] [Server thread/DEBUG] [pointblank/]: 50585 - obtained hit result in 0ms
+[29Apr2025 17:47:30.585] [Server thread/DEBUG] [pointblank/]: 50585 - obtained hit result in 0ms
+[29Apr2025 17:47:30.585] [Server thread/DEBUG] [pointblank/]: 50585 - obtained hit result in 0ms
+[29Apr2025 17:47:30.585] [Server thread/DEBUG] [pointblank/]: 50585 - obtained hit result in 0ms
+[29Apr2025 17:47:30.585] [Server thread/DEBUG] [pointblank/]: 50585 - obtained hit result in 0ms
+[29Apr2025 17:47:30.585] [Server thread/DEBUG] [pointblank/]: 50585 - obtained hit result in 0ms
+[29Apr2025 17:47:30.585] [Server thread/DEBUG] [pointblank/]: 50585 - obtained hit result in 0ms
+[29Apr2025 17:47:30.585] [Server thread/DEBUG] [pointblank/]: 50585 - obtained hit result in 0ms
+[29Apr2025 17:47:30.585] [Server thread/DEBUG] [pointblank/]: 50585 - obtained hit result in 0ms
+[29Apr2025 17:47:30.585] [Server thread/DEBUG] [pointblank/]: 50585 - obtained hit result in 0ms
+[29Apr2025 17:47:30.585] [Server thread/DEBUG] [pointblank/]: 50585 - obtained hit result in 0ms
+[29Apr2025 17:47:30.585] [Server thread/DEBUG] [pointblank/]: 50585 - obtained hit result in 0ms
+[29Apr2025 17:47:30.585] [Server thread/DEBUG] [pointblank/]: 50585 - obtained hit result in 0ms
+[29Apr2025 17:47:30.585] [Server thread/DEBUG] [pointblank/]: 50585 - obtained hit result in 0ms
+[29Apr2025 17:47:30.585] [Server thread/DEBUG] [pointblank/]: 50585 - obtained hit result in 0ms
+[29Apr2025 17:47:30.585] [Server thread/DEBUG] [pointblank/]: 50585 - obtained hit result in 0ms
+[29Apr2025 17:47:30.585] [Server thread/DEBUG] [pointblank/]: 50585 - obtained hit result in 0ms
+[29Apr2025 17:47:30.585] [Server thread/DEBUG] [pointblank/]: 50585 - obtained hit result in 0ms
+[29Apr2025 17:47:30.585] [Server thread/DEBUG] [pointblank/]: 50585 - obtained hit result in 0ms
+[29Apr2025 17:47:30.585] [Server thread/DEBUG] [pointblank/]: 50585 - obtained hit result in 0ms
+[29Apr2025 17:47:30.585] [Server thread/DEBUG] [pointblank/]: 50585 - obtained hit result in 0ms
+[29Apr2025 17:47:30.585] [Server thread/DEBUG] [pointblank/]: 50585 - obtained hit result in 0ms
+[29Apr2025 17:47:30.585] [Server thread/DEBUG] [pointblank/]: 50585 - obtained hit result in 0ms
+[29Apr2025 17:47:30.586] [Server thread/DEBUG] [pointblank/]: 50586 obtained hit results
+[29Apr2025 17:47:30.586] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@279e30be
+[29Apr2025 17:47:30.586] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30]
+[29Apr2025 17:47:30.586] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@594dac57
+[29Apr2025 17:47:30.587] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30]
+[29Apr2025 17:47:30.587] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@34fcb8f4
+[29Apr2025 17:47:30.587] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30]
+[29Apr2025 17:47:30.587] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7c231394
+[29Apr2025 17:47:30.587] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30]
+[29Apr2025 17:47:30.587] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2aeec76e
+[29Apr2025 17:47:30.587] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30]
+[29Apr2025 17:47:30.587] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1ef5e970
+[29Apr2025 17:47:30.588] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30]
+[29Apr2025 17:47:30.588] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4f1fd942
+[29Apr2025 17:47:30.588] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30]
+[29Apr2025 17:47:30.588] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2bc4dc86
+[29Apr2025 17:47:30.589] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30]
+[29Apr2025 17:47:30.589] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@77cdbb27
+[29Apr2025 17:47:30.589] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30]
+[29Apr2025 17:47:30.589] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@464272c7
+[29Apr2025 17:47:30.589] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30]
+[29Apr2025 17:47:30.589] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@77267684
+[29Apr2025 17:47:30.589] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30]
+[29Apr2025 17:47:30.589] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7a0bb40a
+[29Apr2025 17:47:30.590] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30]
+[29Apr2025 17:47:30.590] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@60852cef
+[29Apr2025 17:47:30.590] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30]
+[29Apr2025 17:47:30.590] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3584ae72
+[29Apr2025 17:47:30.590] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30]
+[29Apr2025 17:47:30.590] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@71526c10
+[29Apr2025 17:47:30.590] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30]
+[29Apr2025 17:47:30.590] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@56de2dd4
+[29Apr2025 17:47:30.591] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30]
+[29Apr2025 17:47:30.591] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1ff591b4
+[29Apr2025 17:47:30.591] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30]
+[29Apr2025 17:47:30.591] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@f124b06
+[29Apr2025 17:47:30.591] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30]
+[29Apr2025 17:47:30.591] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6dc28418
+[29Apr2025 17:47:30.591] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30]
+[29Apr2025 17:47:30.591] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4ad5b4f9
+[29Apr2025 17:47:30.592] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30]
+[29Apr2025 17:47:30.592] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@799ee426
+[29Apr2025 17:47:30.592] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30]
+[29Apr2025 17:47:30.592] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@64c9ca68
+[29Apr2025 17:47:30.592] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30]
+[29Apr2025 17:47:30.592] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1d5270ad
+[29Apr2025 17:47:30.592] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30]
+[29Apr2025 17:47:30.592] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7a476d82
+[29Apr2025 17:47:30.593] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30]
+[29Apr2025 17:47:30.593] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@74f61938
+[29Apr2025 17:47:30.593] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30]
+[29Apr2025 17:47:30.593] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5ec61744
+[29Apr2025 17:47:30.593] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30]
+[29Apr2025 17:47:30.593] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@501fd329
+[29Apr2025 17:47:30.594] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30]
+[29Apr2025 17:47:30.594] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@11f58fd5
+[29Apr2025 17:47:30.594] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30]
+[29Apr2025 17:47:30.594] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@558e7b0a
+[29Apr2025 17:47:30.594] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30]
+[29Apr2025 17:47:30.594] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3b9c2ac8
+[29Apr2025 17:47:30.594] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.78, y=3.00, z=136.30]
+[29Apr2025 17:47:31.983] [Server thread/DEBUG] [pointblank/]: 51983 handling client fire request
+[29Apr2025 17:47:31.983] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 516392546 to 7
+[29Apr2025 17:47:31.984] [Server thread/DEBUG] [pointblank/]: 51984 - obtained hit result in 1ms
+[29Apr2025 17:47:31.984] [Server thread/DEBUG] [pointblank/]: 51984 - obtained hit result in 0ms
+[29Apr2025 17:47:31.984] [Server thread/DEBUG] [pointblank/]: 51984 - obtained hit result in 0ms
+[29Apr2025 17:47:31.984] [Server thread/DEBUG] [pointblank/]: 51984 - obtained hit result in 0ms
+[29Apr2025 17:47:31.984] [Server thread/DEBUG] [pointblank/]: 51984 - obtained hit result in 0ms
+[29Apr2025 17:47:31.984] [Server thread/DEBUG] [pointblank/]: 51984 - obtained hit result in 0ms
+[29Apr2025 17:47:31.984] [Server thread/DEBUG] [pointblank/]: 51984 - obtained hit result in 0ms
+[29Apr2025 17:47:31.984] [Server thread/DEBUG] [pointblank/]: 51984 - obtained hit result in 0ms
+[29Apr2025 17:47:31.984] [Server thread/DEBUG] [pointblank/]: 51984 - obtained hit result in 0ms
+[29Apr2025 17:47:31.984] [Server thread/DEBUG] [pointblank/]: 51984 - obtained hit result in 0ms
+[29Apr2025 17:47:31.984] [Server thread/DEBUG] [pointblank/]: 51984 - obtained hit result in 0ms
+[29Apr2025 17:47:31.984] [Server thread/DEBUG] [pointblank/]: 51984 - obtained hit result in 0ms
+[29Apr2025 17:47:31.984] [Server thread/DEBUG] [pointblank/]: 51984 - obtained hit result in 0ms
+[29Apr2025 17:47:31.984] [Server thread/DEBUG] [pointblank/]: 51984 - obtained hit result in 0ms
+[29Apr2025 17:47:31.984] [Server thread/DEBUG] [pointblank/]: 51984 - obtained hit result in 0ms
+[29Apr2025 17:47:31.984] [Server thread/DEBUG] [pointblank/]: 51984 - obtained hit result in 0ms
+[29Apr2025 17:47:31.984] [Server thread/DEBUG] [pointblank/]: 51984 - obtained hit result in 0ms
+[29Apr2025 17:47:31.984] [Server thread/DEBUG] [pointblank/]: 51984 - obtained hit result in 0ms
+[29Apr2025 17:47:31.984] [Server thread/DEBUG] [pointblank/]: 51984 - obtained hit result in 0ms
+[29Apr2025 17:47:31.984] [Server thread/DEBUG] [pointblank/]: 51984 - obtained hit result in 0ms
+[29Apr2025 17:47:31.984] [Server thread/DEBUG] [pointblank/]: 51984 - obtained hit result in 0ms
+[29Apr2025 17:47:31.984] [Server thread/DEBUG] [pointblank/]: 51984 - obtained hit result in 0ms
+[29Apr2025 17:47:31.984] [Server thread/DEBUG] [pointblank/]: 51984 - obtained hit result in 0ms
+[29Apr2025 17:47:31.984] [Server thread/DEBUG] [pointblank/]: 51984 - obtained hit result in 0ms
+[29Apr2025 17:47:31.984] [Server thread/DEBUG] [pointblank/]: 51984 - obtained hit result in 0ms
+[29Apr2025 17:47:31.984] [Server thread/DEBUG] [pointblank/]: 51984 - obtained hit result in 0ms
+[29Apr2025 17:47:31.984] [Server thread/DEBUG] [pointblank/]: 51984 - obtained hit result in 0ms
+[29Apr2025 17:47:31.984] [Server thread/DEBUG] [pointblank/]: 51984 - obtained hit result in 0ms
+[29Apr2025 17:47:31.984] [Server thread/DEBUG] [pointblank/]: 51984 - obtained hit result in 0ms
+[29Apr2025 17:47:31.984] [Server thread/DEBUG] [pointblank/]: 51984 - obtained hit result in 0ms
+[29Apr2025 17:47:31.984] [Server thread/DEBUG] [pointblank/]: 51984 obtained hit results
+[29Apr2025 17:47:31.984] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@70c74ecc
+[29Apr2025 17:47:31.985] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30]
+[29Apr2025 17:47:31.985] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7405ee39
+[29Apr2025 17:47:31.985] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30]
+[29Apr2025 17:47:31.985] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6374bc80
+[29Apr2025 17:47:31.985] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30]
+[29Apr2025 17:47:31.985] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@66339c88
+[29Apr2025 17:47:31.985] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30]
+[29Apr2025 17:47:31.985] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2c481fac
+[29Apr2025 17:47:31.986] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30]
+[29Apr2025 17:47:31.986] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7767483a
+[29Apr2025 17:47:31.986] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30]
+[29Apr2025 17:47:31.986] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@31316aea
+[29Apr2025 17:47:31.986] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30]
+[29Apr2025 17:47:31.986] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4b9c7798
+[29Apr2025 17:47:31.986] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30]
+[29Apr2025 17:47:31.986] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2745a438
+[29Apr2025 17:47:31.987] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30]
+[29Apr2025 17:47:31.987] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6a2e0e72
+[29Apr2025 17:47:31.987] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30]
+[29Apr2025 17:47:31.987] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@50724fe7
+[29Apr2025 17:47:31.987] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30]
+[29Apr2025 17:47:31.987] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@787ac2c6
+[29Apr2025 17:47:31.987] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30]
+[29Apr2025 17:47:31.987] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7294dd95
+[29Apr2025 17:47:31.988] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30]
+[29Apr2025 17:47:31.988] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@52edd5d1
+[29Apr2025 17:47:31.988] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30]
+[29Apr2025 17:47:31.988] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1c8f288c
+[29Apr2025 17:47:31.988] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30]
+[29Apr2025 17:47:31.988] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@196c2e6c
+[29Apr2025 17:47:31.989] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30]
+[29Apr2025 17:47:31.989] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2b6d7b4a
+[29Apr2025 17:47:31.989] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30]
+[29Apr2025 17:47:31.989] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@179270ab
+[29Apr2025 17:47:31.989] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30]
+[29Apr2025 17:47:31.989] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@723cf19d
+[29Apr2025 17:47:31.989] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30]
+[29Apr2025 17:47:31.989] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@a5baef8
+[29Apr2025 17:47:31.990] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30]
+[29Apr2025 17:47:31.990] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4a2c33d2
+[29Apr2025 17:47:31.991] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30]
+[29Apr2025 17:47:31.991] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4ebf1514
+[29Apr2025 17:47:31.991] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30]
+[29Apr2025 17:47:31.991] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5b9ab547
+[29Apr2025 17:47:31.991] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30]
+[29Apr2025 17:47:31.991] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@c61eca2
+[29Apr2025 17:47:31.991] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30]
+[29Apr2025 17:47:31.991] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2778fc5f
+[29Apr2025 17:47:31.991] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30]
+[29Apr2025 17:47:31.991] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@11d94a11
+[29Apr2025 17:47:31.992] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30]
+[29Apr2025 17:47:31.992] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1fe7f5e0
+[29Apr2025 17:47:31.992] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30]
+[29Apr2025 17:47:31.992] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1ce00e42
+[29Apr2025 17:47:31.992] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30]
+[29Apr2025 17:47:31.992] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7c1a9385
+[29Apr2025 17:47:31.992] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30]
+[29Apr2025 17:47:31.992] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2748d7d5
+[29Apr2025 17:47:31.992] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.51, y=3.00, z=136.30]
+[29Apr2025 17:47:33.233] [Server thread/DEBUG] [pointblank/]: 53233 handling client fire request
+[29Apr2025 17:47:33.233] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 516392546 to 6
+[29Apr2025 17:47:33.233] [Server thread/DEBUG] [pointblank/]: 53233 - obtained hit result in 0ms
+[29Apr2025 17:47:33.233] [Server thread/DEBUG] [pointblank/]: 53233 - obtained hit result in 0ms
+[29Apr2025 17:47:33.233] [Server thread/DEBUG] [pointblank/]: 53233 - obtained hit result in 0ms
+[29Apr2025 17:47:33.233] [Server thread/DEBUG] [pointblank/]: 53233 - obtained hit result in 0ms
+[29Apr2025 17:47:33.233] [Server thread/DEBUG] [pointblank/]: 53233 - obtained hit result in 0ms
+[29Apr2025 17:47:33.233] [Server thread/DEBUG] [pointblank/]: 53233 - obtained hit result in 0ms
+[29Apr2025 17:47:33.233] [Server thread/DEBUG] [pointblank/]: 53233 - obtained hit result in 0ms
+[29Apr2025 17:47:33.233] [Server thread/DEBUG] [pointblank/]: 53233 - obtained hit result in 0ms
+[29Apr2025 17:47:33.233] [Server thread/DEBUG] [pointblank/]: 53233 - obtained hit result in 0ms
+[29Apr2025 17:47:33.233] [Server thread/DEBUG] [pointblank/]: 53233 - obtained hit result in 0ms
+[29Apr2025 17:47:33.233] [Server thread/DEBUG] [pointblank/]: 53233 - obtained hit result in 0ms
+[29Apr2025 17:47:33.233] [Server thread/DEBUG] [pointblank/]: 53233 - obtained hit result in 0ms
+[29Apr2025 17:47:33.233] [Server thread/DEBUG] [pointblank/]: 53233 - obtained hit result in 0ms
+[29Apr2025 17:47:33.233] [Server thread/DEBUG] [pointblank/]: 53233 - obtained hit result in 0ms
+[29Apr2025 17:47:33.233] [Server thread/DEBUG] [pointblank/]: 53233 - obtained hit result in 0ms
+[29Apr2025 17:47:33.233] [Server thread/DEBUG] [pointblank/]: 53233 - obtained hit result in 0ms
+[29Apr2025 17:47:33.233] [Server thread/DEBUG] [pointblank/]: 53233 - obtained hit result in 0ms
+[29Apr2025 17:47:33.233] [Server thread/DEBUG] [pointblank/]: 53233 - obtained hit result in 0ms
+[29Apr2025 17:47:33.234] [Server thread/DEBUG] [pointblank/]: 53234 - obtained hit result in 0ms
+[29Apr2025 17:47:33.234] [Server thread/DEBUG] [pointblank/]: 53234 - obtained hit result in 0ms
+[29Apr2025 17:47:33.234] [Server thread/DEBUG] [pointblank/]: 53234 - obtained hit result in 0ms
+[29Apr2025 17:47:33.234] [Server thread/DEBUG] [pointblank/]: 53234 - obtained hit result in 0ms
+[29Apr2025 17:47:33.234] [Server thread/DEBUG] [pointblank/]: 53234 - obtained hit result in 0ms
+[29Apr2025 17:47:33.234] [Server thread/DEBUG] [pointblank/]: 53234 - obtained hit result in 0ms
+[29Apr2025 17:47:33.234] [Server thread/DEBUG] [pointblank/]: 53234 - obtained hit result in 0ms
+[29Apr2025 17:47:33.234] [Server thread/DEBUG] [pointblank/]: 53234 - obtained hit result in 0ms
+[29Apr2025 17:47:33.234] [Server thread/DEBUG] [pointblank/]: 53234 - obtained hit result in 0ms
+[29Apr2025 17:47:33.234] [Server thread/DEBUG] [pointblank/]: 53234 - obtained hit result in 0ms
+[29Apr2025 17:47:33.234] [Server thread/DEBUG] [pointblank/]: 53234 - obtained hit result in 0ms
+[29Apr2025 17:47:33.234] [Server thread/DEBUG] [pointblank/]: 53234 - obtained hit result in 0ms
+[29Apr2025 17:47:33.234] [Server thread/DEBUG] [pointblank/]: 53234 obtained hit results
+[29Apr2025 17:47:33.234] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@f4789fa
+[29Apr2025 17:47:33.234] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:33.234] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@67a05451
+[29Apr2025 17:47:33.235] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:33.235] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@24d3ae3e
+[29Apr2025 17:47:33.235] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:33.235] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3d7d19de
+[29Apr2025 17:47:33.235] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:33.235] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@ec65fd2
+[29Apr2025 17:47:33.235] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:33.236] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6b218087
+[29Apr2025 17:47:33.236] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:33.236] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@52ba6183
+[29Apr2025 17:47:33.236] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:33.236] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@75c21e3
+[29Apr2025 17:47:33.236] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:33.236] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3b58c615
+[29Apr2025 17:47:33.236] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:33.236] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5c9a4c41
+[29Apr2025 17:47:33.237] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:33.237] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5d2d8828
+[29Apr2025 17:47:33.237] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:33.237] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3b18e957
+[29Apr2025 17:47:33.237] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:33.237] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@460de84f
+[29Apr2025 17:47:33.237] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:33.237] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@487b5c8b
+[29Apr2025 17:47:33.237] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:33.238] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7926e164
+[29Apr2025 17:47:33.238] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:33.238] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@588fd46
+[29Apr2025 17:47:33.238] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:33.238] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2cee2228
+[29Apr2025 17:47:33.238] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:33.238] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3e63bc3a
+[29Apr2025 17:47:33.238] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:33.238] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@70805753
+[29Apr2025 17:47:33.239] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:33.239] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@30ccf3df
+[29Apr2025 17:47:33.239] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:33.239] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6f3d5b55
+[29Apr2025 17:47:33.239] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:33.239] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2ad86759
+[29Apr2025 17:47:33.239] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:33.239] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@10ed2b22
+[29Apr2025 17:47:33.240] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:33.240] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@47e860eb
+[29Apr2025 17:47:33.240] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:33.240] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@428a6cb0
+[29Apr2025 17:47:33.240] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:33.240] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2b012917
+[29Apr2025 17:47:33.240] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:33.241] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@524ca36e
+[29Apr2025 17:47:33.241] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:33.241] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@56276ef4
+[29Apr2025 17:47:33.241] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:33.241] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@47d9676c
+[29Apr2025 17:47:33.241] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:33.241] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@65b2b711
+[29Apr2025 17:47:33.241] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:34.438] [Server thread/DEBUG] [pointblank/]: 54438 handling client fire request
+[29Apr2025 17:47:34.438] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 516392546 to 5
+[29Apr2025 17:47:34.438] [Server thread/DEBUG] [pointblank/]: 54438 - obtained hit result in 0ms
+[29Apr2025 17:47:34.438] [Server thread/DEBUG] [pointblank/]: 54438 - obtained hit result in 0ms
+[29Apr2025 17:47:34.438] [Server thread/DEBUG] [pointblank/]: 54438 - obtained hit result in 0ms
+[29Apr2025 17:47:34.438] [Server thread/DEBUG] [pointblank/]: 54438 - obtained hit result in 0ms
+[29Apr2025 17:47:34.438] [Server thread/DEBUG] [pointblank/]: 54438 - obtained hit result in 0ms
+[29Apr2025 17:47:34.438] [Server thread/DEBUG] [pointblank/]: 54438 - obtained hit result in 0ms
+[29Apr2025 17:47:34.438] [Server thread/DEBUG] [pointblank/]: 54438 - obtained hit result in 0ms
+[29Apr2025 17:47:34.438] [Server thread/DEBUG] [pointblank/]: 54438 - obtained hit result in 0ms
+[29Apr2025 17:47:34.438] [Server thread/DEBUG] [pointblank/]: 54438 - obtained hit result in 0ms
+[29Apr2025 17:47:34.438] [Server thread/DEBUG] [pointblank/]: 54438 - obtained hit result in 0ms
+[29Apr2025 17:47:34.438] [Server thread/DEBUG] [pointblank/]: 54438 - obtained hit result in 0ms
+[29Apr2025 17:47:34.438] [Server thread/DEBUG] [pointblank/]: 54438 - obtained hit result in 0ms
+[29Apr2025 17:47:34.438] [Server thread/DEBUG] [pointblank/]: 54438 - obtained hit result in 0ms
+[29Apr2025 17:47:34.438] [Server thread/DEBUG] [pointblank/]: 54438 - obtained hit result in 0ms
+[29Apr2025 17:47:34.438] [Server thread/DEBUG] [pointblank/]: 54438 - obtained hit result in 0ms
+[29Apr2025 17:47:34.438] [Server thread/DEBUG] [pointblank/]: 54438 - obtained hit result in 0ms
+[29Apr2025 17:47:34.438] [Server thread/DEBUG] [pointblank/]: 54438 - obtained hit result in 0ms
+[29Apr2025 17:47:34.438] [Server thread/DEBUG] [pointblank/]: 54438 - obtained hit result in 0ms
+[29Apr2025 17:47:34.439] [Server thread/DEBUG] [pointblank/]: 54439 - obtained hit result in 0ms
+[29Apr2025 17:47:34.439] [Server thread/DEBUG] [pointblank/]: 54439 - obtained hit result in 0ms
+[29Apr2025 17:47:34.439] [Server thread/DEBUG] [pointblank/]: 54439 - obtained hit result in 0ms
+[29Apr2025 17:47:34.439] [Server thread/DEBUG] [pointblank/]: 54439 - obtained hit result in 0ms
+[29Apr2025 17:47:34.439] [Server thread/DEBUG] [pointblank/]: 54439 - obtained hit result in 0ms
+[29Apr2025 17:47:34.439] [Server thread/DEBUG] [pointblank/]: 54439 - obtained hit result in 0ms
+[29Apr2025 17:47:34.439] [Server thread/DEBUG] [pointblank/]: 54439 - obtained hit result in 0ms
+[29Apr2025 17:47:34.439] [Server thread/DEBUG] [pointblank/]: 54439 - obtained hit result in 0ms
+[29Apr2025 17:47:34.439] [Server thread/DEBUG] [pointblank/]: 54439 - obtained hit result in 0ms
+[29Apr2025 17:47:34.439] [Server thread/DEBUG] [pointblank/]: 54439 - obtained hit result in 0ms
+[29Apr2025 17:47:34.439] [Server thread/DEBUG] [pointblank/]: 54439 - obtained hit result in 0ms
+[29Apr2025 17:47:34.439] [Server thread/DEBUG] [pointblank/]: 54439 - obtained hit result in 0ms
+[29Apr2025 17:47:34.439] [Server thread/DEBUG] [pointblank/]: 54439 obtained hit results
+[29Apr2025 17:47:34.439] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2bbe6d
+[29Apr2025 17:47:34.439] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:34.440] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@9232053
+[29Apr2025 17:47:34.440] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:34.440] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@71e27a9d
+[29Apr2025 17:47:34.440] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:34.440] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3631d285
+[29Apr2025 17:47:34.440] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:34.440] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6bb4caf8
+[29Apr2025 17:47:34.441] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:34.441] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7b054e65
+[29Apr2025 17:47:34.441] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:34.441] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1951e50a
+[29Apr2025 17:47:34.442] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:34.442] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@21ccb95f
+[29Apr2025 17:47:34.442] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:34.442] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6c625494
+[29Apr2025 17:47:34.442] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:34.442] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3d45491b
+[29Apr2025 17:47:34.442] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:34.442] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2baa820c
+[29Apr2025 17:47:34.442] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:34.442] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6fe8d067
+[29Apr2025 17:47:34.442] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:34.442] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1150fffa
+[29Apr2025 17:47:34.442] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:34.442] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@64a715a
+[29Apr2025 17:47:34.443] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:34.443] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@790f397d
+[29Apr2025 17:47:34.443] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:34.443] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@50cdb5d3
+[29Apr2025 17:47:34.443] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:34.443] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@46742f1f
+[29Apr2025 17:47:34.443] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:34.443] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1361562a
+[29Apr2025 17:47:34.443] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:34.443] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@13a541ea
+[29Apr2025 17:47:34.443] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:34.443] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2e7b0d60
+[29Apr2025 17:47:34.443] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:34.443] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4910c367
+[29Apr2025 17:47:34.443] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:34.443] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@50d90c69
+[29Apr2025 17:47:34.443] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:34.444] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@694aad89
+[29Apr2025 17:47:34.444] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:34.444] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1f2cadcd
+[29Apr2025 17:47:34.444] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:34.444] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@50684eb4
+[29Apr2025 17:47:34.444] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:34.444] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@48caaa94
+[29Apr2025 17:47:34.444] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:34.444] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@745070e1
+[29Apr2025 17:47:34.444] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:34.444] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@ee8f963
+[29Apr2025 17:47:34.444] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:34.444] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1c671be4
+[29Apr2025 17:47:34.444] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:34.444] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1648cf6
+[29Apr2025 17:47:34.444] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-34.47, y=3.00, z=136.30]
+[29Apr2025 17:47:36.198] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 516392546 to 9
+[29Apr2025 17:48:33.685] [IO-Worker-88/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-96
