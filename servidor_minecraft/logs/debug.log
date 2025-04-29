@@ -22260,3 +22260,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Apr2025 18:27:30.680] [Worker-Main-3/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-3 shutdown
 [29Apr2025 18:28:30.680] [Worker-Main-11/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-11 shutdown
 [29Apr2025 18:29:30.680] [Worker-Main-24/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-24 shutdown
+[29Apr2025 18:30:19.173] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-116
+[29Apr2025 18:30:19.173] [IO-Worker-116/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-117
+[29Apr2025 18:30:19.176] [IO-Worker-116/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-118
+[29Apr2025 18:30:19.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 18:30:19.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 18:30:30.680] [Worker-Main-8/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-8 shutdown
+[29Apr2025 18:31:30.680] [Worker-Main-5/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-5 shutdown
+[29Apr2025 18:32:30.680] [Worker-Main-12/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-12 shutdown
+[29Apr2025 18:33:30.680] [Worker-Main-2/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-2 shutdown
+[29Apr2025 18:34:30.680] [Worker-Main-13/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-13 shutdown
+[29Apr2025 18:35:19.173] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-119
+[29Apr2025 18:35:19.173] [IO-Worker-119/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-120
+[29Apr2025 18:35:19.176] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-121
+[29Apr2025 18:35:19.180] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 18:35:19.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 18:35:30.680] [Worker-Main-10/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-10 shutdown
+[29Apr2025 18:36:30.680] [Worker-Main-4/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-4 shutdown
