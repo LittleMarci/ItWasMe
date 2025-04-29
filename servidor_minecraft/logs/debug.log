@@ -16873,3 +16873,133 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Apr2025 17:25:19.219] [IO-Worker-81/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
 [29Apr2025 17:25:19.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Apr2025 17:28:25.582] [IO-Worker-76/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[29Apr2025 17:30:04.755] [Server thread/DEBUG] [pointblank/]: 4755 handling client fire request
+[29Apr2025 17:30:04.755] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1033934441 to 1
+[29Apr2025 17:30:04.755] [Server thread/DEBUG] [pointblank/]: 4755 - obtained hit result in 0ms
+[29Apr2025 17:30:04.756] [Server thread/DEBUG] [pointblank/]: 4756 obtained hit results
+[29Apr2025 17:30:04.756] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@54be9340
+[29Apr2025 17:30:04.757] [Server thread/DEBUG] [pointblank/]: Creating state 7ec41503-e97c-4933-b902-6aa45e129233
+[29Apr2025 17:30:04.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp was slain by A1lenSS
+[29Apr2025 17:30:04.776] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/41813, l='ServerLevel[world]', x=-201.91, y=63.00, z=175.32] sends hit scan notification to ServerPlayer['A1lenSS'/41813, l='ServerLevel[world]', x=-201.91, y=63.00, z=175.32]
+[29Apr2025 17:30:04.777] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/41813, l='ServerLevel[world]', x=-201.91, y=63.00, z=175.32] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-199.17, y=63.00, z=177.28]
+[29Apr2025 17:30:08.316] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Apr2025 17:30:08.447] [IO-Worker-82/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[29Apr2025 17:30:17.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Teleported Xander_Aqp to A1lenSS]
+[29Apr2025 17:30:19.223] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 17:30:19.225] [IO-Worker-82/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[29Apr2025 17:30:19.225] [IO-Worker-83/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-86
+[29Apr2025 17:30:19.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 17:30:26.194] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1033934441 to 5
+[29Apr2025 17:30:39.531] [Server thread/DEBUG] [pointblank/]: 39531 handling client fire request
+[29Apr2025 17:30:39.531] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 674363735 to 7
+[29Apr2025 17:30:39.531] [Server thread/DEBUG] [pointblank/]: 39531 - obtained hit result in 0ms
+[29Apr2025 17:30:39.531] [Server thread/DEBUG] [pointblank/]: 39531 obtained hit results
+[29Apr2025 17:30:39.531] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1bcf7ebc
+[29Apr2025 17:30:39.532] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/41813, l='ServerLevel[world]', x=-202.79, y=63.00, z=174.22] sends hit scan notification to ServerPlayer['A1lenSS'/41813, l='ServerLevel[world]', x=-202.79, y=63.00, z=174.22]
+[29Apr2025 17:30:39.532] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/41813, l='ServerLevel[world]', x=-202.79, y=63.00, z=174.22] sends hit scan notification to ServerPlayer['Xander_Aqp'/81455, l='ServerLevel[world]', x=-202.87, y=63.00, z=177.35]
+[29Apr2025 17:30:40.606] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 674363735 to 20
+[29Apr2025 17:31:59.381] [IO-Worker-85/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-87
+[29Apr2025 17:34:10.188] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[29Apr2025 17:34:10.189] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[29Apr2025 17:34:10.189] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[29Apr2025 17:34:10.189] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[29Apr2025 17:34:10.190] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[29Apr2025 17:34:10.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A1lenSS> XD
+[29Apr2025 17:34:29.458] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[29Apr2025 17:34:29.458] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[29Apr2025 17:34:29.458] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[29Apr2025 17:34:29.459] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[29Apr2025 17:34:29.459] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[29Apr2025 17:34:29.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xander_Aqp> normal
+[29Apr2025 17:34:30.704] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[29Apr2025 17:34:30.704] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[29Apr2025 17:34:30.704] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[29Apr2025 17:34:30.704] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[29Apr2025 17:34:30.705] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[29Apr2025 17:34:30.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xander_Aqp> bro
+[29Apr2025 17:34:34.154] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[29Apr2025 17:34:34.154] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[29Apr2025 17:34:34.154] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[29Apr2025 17:34:34.155] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[29Apr2025 17:34:34.155] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[29Apr2025 17:34:34.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xander_Aqp> tiene confianza
+[29Apr2025 17:34:38.153] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[29Apr2025 17:34:38.153] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[29Apr2025 17:34:38.154] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[29Apr2025 17:34:38.154] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[29Apr2025 17:34:38.154] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[29Apr2025 17:34:38.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xander_Aqp> mi mama con miguel xd
+[29Apr2025 17:34:40.282] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[29Apr2025 17:34:40.283] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[29Apr2025 17:34:40.283] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[29Apr2025 17:34:40.283] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[29Apr2025 17:34:40.283] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[29Apr2025 17:34:40.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xander_Aqp> xddd
+[29Apr2025 17:34:40.832] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[29Apr2025 17:34:40.833] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[29Apr2025 17:34:40.833] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[29Apr2025 17:34:40.833] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[29Apr2025 17:34:40.833] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[29Apr2025 17:34:40.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A1lenSS> XD
+[29Apr2025 17:34:43.370] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[29Apr2025 17:34:43.370] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[29Apr2025 17:34:43.370] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[29Apr2025 17:34:43.371] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[29Apr2025 17:34:43.371] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[29Apr2025 17:34:43.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <A1lenSS> JHAJAJJaJJa
+[29Apr2025 17:35:03.135] [IO-Worker-85/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-88
+[29Apr2025 17:35:19.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 17:35:19.222] [IO-Worker-85/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-89
+[29Apr2025 17:35:19.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 17:36:01.193] [IO-Worker-83/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-90
+[29Apr2025 17:37:31.972] [IO-Worker-90/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-91
+[29Apr2025 17:38:55.290] [Server thread/DEBUG] [pointblank/]: 35290 handling client fire request
+[29Apr2025 17:38:55.291] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 674363735 to 19
+[29Apr2025 17:38:55.291] [Server thread/DEBUG] [pointblank/]: 35291 - obtained hit result in 0ms
+[29Apr2025 17:38:55.291] [Server thread/DEBUG] [pointblank/]: 35291 obtained hit results
+[29Apr2025 17:38:55.291] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@463ff30f
+[29Apr2025 17:38:55.291] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/41813, l='ServerLevel[world]', x=-16.97, y=75.00, z=127.26] sends hit scan notification to ServerPlayer['A1lenSS'/41813, l='ServerLevel[world]', x=-16.97, y=75.00, z=127.26]
+[29Apr2025 17:38:55.836] [Server thread/DEBUG] [pointblank/]: 35836 handling client fire request
+[29Apr2025 17:38:55.836] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 674363735 to 18
+[29Apr2025 17:38:55.836] [Server thread/DEBUG] [pointblank/]: 35836 - obtained hit result in 0ms
+[29Apr2025 17:38:55.836] [Server thread/DEBUG] [pointblank/]: 35836 obtained hit results
+[29Apr2025 17:38:55.836] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6814cb0b
+[29Apr2025 17:38:55.837] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/41813, l='ServerLevel[world]', x=-16.97, y=75.00, z=127.26] sends hit scan notification to ServerPlayer['A1lenSS'/41813, l='ServerLevel[world]', x=-16.97, y=75.00, z=127.26]
+[29Apr2025 17:38:56.390] [Server thread/DEBUG] [pointblank/]: 36390 handling client fire request
+[29Apr2025 17:38:56.390] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 674363735 to 17
+[29Apr2025 17:38:56.390] [Server thread/DEBUG] [pointblank/]: 36390 - obtained hit result in 0ms
+[29Apr2025 17:38:56.390] [Server thread/DEBUG] [pointblank/]: 36390 obtained hit results
+[29Apr2025 17:38:56.390] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3d1f44c2
+[29Apr2025 17:38:56.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/41813, l='ServerLevel[world]', x=-16.97, y=75.00, z=127.26] sends hit scan notification to ServerPlayer['A1lenSS'/41813, l='ServerLevel[world]', x=-16.97, y=75.00, z=127.26]
+[29Apr2025 17:38:56.970] [Server thread/DEBUG] [pointblank/]: 36970 handling client fire request
+[29Apr2025 17:38:56.970] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 674363735 to 16
+[29Apr2025 17:38:56.970] [Server thread/DEBUG] [pointblank/]: 36970 - obtained hit result in 0ms
+[29Apr2025 17:38:56.970] [Server thread/DEBUG] [pointblank/]: 36970 obtained hit results
+[29Apr2025 17:38:56.970] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4b719f0f
+[29Apr2025 17:38:56.971] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/41813, l='ServerLevel[world]', x=-16.97, y=75.00, z=127.26] sends hit scan notification to ServerPlayer['A1lenSS'/41813, l='ServerLevel[world]', x=-16.97, y=75.00, z=127.26]
+[29Apr2025 17:38:57.836] [Server thread/DEBUG] [pointblank/]: 37836 handling client fire request
+[29Apr2025 17:38:57.837] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 674363735 to 15
+[29Apr2025 17:38:57.837] [Server thread/DEBUG] [pointblank/]: 37837 - obtained hit result in 0ms
+[29Apr2025 17:38:57.837] [Server thread/DEBUG] [pointblank/]: 37837 obtained hit results
+[29Apr2025 17:38:57.837] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@bf5e22c
+[29Apr2025 17:38:57.837] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/41813, l='ServerLevel[world]', x=-16.97, y=75.00, z=127.26] sends hit scan notification to ServerPlayer['A1lenSS'/41813, l='ServerLevel[world]', x=-16.97, y=75.00, z=127.26]
+[29Apr2025 17:38:59.438] [Server thread/DEBUG] [pointblank/]: 39438 handling client fire request
+[29Apr2025 17:38:59.438] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 674363735 to 14
+[29Apr2025 17:38:59.439] [Server thread/DEBUG] [pointblank/]: 39439 - obtained hit result in 0ms
+[29Apr2025 17:38:59.439] [Server thread/DEBUG] [pointblank/]: 39439 obtained hit results
+[29Apr2025 17:38:59.439] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@27668e87
+[29Apr2025 17:38:59.439] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/41813, l='ServerLevel[world]', x=-16.97, y=75.00, z=127.26] sends hit scan notification to ServerPlayer['A1lenSS'/41813, l='ServerLevel[world]', x=-16.97, y=75.00, z=127.26]
+[29Apr2025 17:39:00.087] [Server thread/DEBUG] [pointblank/]: 40087 handling client fire request
+[29Apr2025 17:39:00.087] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 674363735 to 13
+[29Apr2025 17:39:00.087] [Server thread/DEBUG] [pointblank/]: 40087 - obtained hit result in 0ms
+[29Apr2025 17:39:00.087] [Server thread/DEBUG] [pointblank/]: 40087 obtained hit results
+[29Apr2025 17:39:00.087] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4cb03030
+[29Apr2025 17:39:00.087] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/41813, l='ServerLevel[world]', x=-16.97, y=75.00, z=127.26] sends hit scan notification to ServerPlayer['A1lenSS'/41813, l='ServerLevel[world]', x=-16.97, y=75.00, z=127.26]
+[29Apr2025 17:39:00.890] [Server thread/DEBUG] [pointblank/]: 40890 handling client fire request
+[29Apr2025 17:39:00.890] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 674363735 to 12
+[29Apr2025 17:39:00.890] [Server thread/DEBUG] [pointblank/]: 40890 - obtained hit result in 0ms
+[29Apr2025 17:39:00.890] [Server thread/DEBUG] [pointblank/]: 40890 obtained hit results
+[29Apr2025 17:39:00.890] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@348e38b2
+[29Apr2025 17:39:00.891] [Server thread/DEBUG] [pointblank/]: Creating state 3eb8d806-9f58-4128-804e-8d15e868409b
+[29Apr2025 17:39:00.892] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/41813, l='ServerLevel[world]', x=-16.97, y=75.00, z=127.26] sends hit scan notification to ServerPlayer['A1lenSS'/41813, l='ServerLevel[world]', x=-16.97, y=75.00, z=127.26]
+[29Apr2025 17:39:09.337] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 674363735 to 20
