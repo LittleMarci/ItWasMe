@@ -1204,3 +1204,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Apr2025 16:13:00.426] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Xander_Aqp
 [29Apr2025 16:13:00.501] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Xander_Aqp (18)
 [29Apr2025 16:13:00.503] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Xander_Aqp
+[29Apr2025 16:27:04.672] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-445, y=-55, z=249}
+[29Apr2025 16:27:36.934] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=95, y=-58, z=-437}
+[29Apr2025 16:27:36.938] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-59, z=246}
+[29Apr2025 16:27:36.939] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-59, z=246}
+[29Apr2025 16:28:28.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp has made the advancement ['X' Marks the Spot]
+[29Apr2025 16:28:30.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp has made the advancement [Crops of the Wild]
+[29Apr2025 16:32:47.041] [Worker-Main-24/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, -10], pos: BlockPos{x=670, y=-21, z=-148}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Apr2025 16:32:47.042] [Worker-Main-24/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, -10], pos: BlockPos{x=671, y=-21, z=-148}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Apr2025 16:32:47.042] [Worker-Main-24/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, -10], pos: BlockPos{x=671, y=-20, z=-148}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]

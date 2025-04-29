@@ -15236,3 +15236,136 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Apr2025 16:18:14.346] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
 [29Apr2025 16:18:15.396] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
 [29Apr2025 16:18:16.995] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
+[29Apr2025 16:18:36.094] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.air) [respectsCutoff: false]
+[29Apr2025 16:18:44.843] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
+[29Apr2025 16:19:07.661] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[29Apr2025 16:19:07.661] [IO-Worker-35/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[29Apr2025 16:20:19.237] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[29Apr2025 16:20:19.238] [IO-Worker-38/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[29Apr2025 16:20:19.239] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[29Apr2025 16:20:19.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 16:20:19.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 16:21:55.750] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[29Apr2025 16:22:02.110] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[29Apr2025 16:22:51.115] [IO-Worker-44/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[29Apr2025 16:23:04.669] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[29Apr2025 16:24:34.609] [IO-Worker-40/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[29Apr2025 16:24:34.713] [IO-Worker-40/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[29Apr2025 16:25:19.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 16:25:19.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 16:25:59.895] [Worker-Main-2/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[29Apr2025 16:25:59.909] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[29Apr2025 16:26:00.235] [Worker-Main-13/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium-common.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[29Apr2025 16:26:18.405] [Server thread/DEBUG] [mixin/]: Mixing MixinVillagerGoalPackages from golemsarefriends.mixin.json into net.minecraft.world.entity.ai.behavior.VillagerGoalPackages
+[29Apr2025 16:26:35.779] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[29Apr2025 16:26:35.779] [IO-Worker-47/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[29Apr2025 16:27:04.672] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-445, y=-55, z=249}
+[29Apr2025 16:27:36.934] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=95, y=-58, z=-437}
+[29Apr2025 16:27:36.938] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-59, z=246}
+[29Apr2025 16:27:36.939] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-59, z=246}
+[29Apr2025 16:28:18.191] [Server thread/DEBUG] [pointblank/]: 98191 handling client fire request
+[29Apr2025 16:28:18.192] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1148006867 to 29
+[29Apr2025 16:28:18.196] [Server thread/DEBUG] [pointblank/]: 98196 - obtained hit result in 1ms
+[29Apr2025 16:28:18.196] [Server thread/DEBUG] [pointblank/]: 98196 obtained hit results
+[29Apr2025 16:28:18.196] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@53d9f8d9
+[29Apr2025 16:28:18.199] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/32, l='ServerLevel[world]', x=154.50, y=64.88, z=-314.95] sends hit scan notification to ServerPlayer['Xander_Aqp'/32, l='ServerLevel[world]', x=154.50, y=64.88, z=-314.95]
+[29Apr2025 16:28:18.347] [Server thread/DEBUG] [pointblank/]: 98347 handling client fire request
+[29Apr2025 16:28:18.347] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1148006867 to 28
+[29Apr2025 16:28:18.347] [Server thread/DEBUG] [pointblank/]: 98347 - obtained hit result in 0ms
+[29Apr2025 16:28:18.347] [Server thread/DEBUG] [pointblank/]: 98347 obtained hit results
+[29Apr2025 16:28:18.348] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@d8cc405
+[29Apr2025 16:28:18.348] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/32, l='ServerLevel[world]', x=154.47, y=64.88, z=-315.45] sends hit scan notification to ServerPlayer['Xander_Aqp'/32, l='ServerLevel[world]', x=154.47, y=64.88, z=-315.45]
+[29Apr2025 16:28:18.595] [Server thread/DEBUG] [pointblank/]: 98595 handling client fire request
+[29Apr2025 16:28:18.595] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1148006867 to 27
+[29Apr2025 16:28:18.596] [Server thread/DEBUG] [pointblank/]: 98596 - obtained hit result in 1ms
+[29Apr2025 16:28:18.596] [Server thread/DEBUG] [pointblank/]: 98596 obtained hit results
+[29Apr2025 16:28:18.596] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2f93b484
+[29Apr2025 16:28:18.596] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/32, l='ServerLevel[world]', x=154.38, y=64.88, z=-316.27] sends hit scan notification to ServerPlayer['Xander_Aqp'/32, l='ServerLevel[world]', x=154.38, y=64.88, z=-316.27]
+[29Apr2025 16:28:18.745] [Server thread/DEBUG] [pointblank/]: 98745 handling client fire request
+[29Apr2025 16:28:18.745] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1148006867 to 26
+[29Apr2025 16:28:18.746] [Server thread/DEBUG] [pointblank/]: 98746 - obtained hit result in 1ms
+[29Apr2025 16:28:18.746] [Server thread/DEBUG] [pointblank/]: 98746 obtained hit results
+[29Apr2025 16:28:18.746] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6f57e5fd
+[29Apr2025 16:28:18.758] [Server thread/DEBUG] [pointblank/]: Creating state 49d58b26-415b-4adf-a52a-cec71618473b
+[29Apr2025 16:28:18.765] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/32, l='ServerLevel[world]', x=154.35, y=64.88, z=-316.77] sends hit scan notification to ServerPlayer['Xander_Aqp'/32, l='ServerLevel[world]', x=154.35, y=64.88, z=-316.77]
+[29Apr2025 16:28:18.937] [Server thread/DEBUG] [pointblank/]: 98937 handling client fire request
+[29Apr2025 16:28:18.937] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1148006867 to 25
+[29Apr2025 16:28:18.937] [Server thread/DEBUG] [pointblank/]: 98937 - obtained hit result in 0ms
+[29Apr2025 16:28:18.938] [Server thread/DEBUG] [pointblank/]: 98938 obtained hit results
+[29Apr2025 16:28:18.938] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@79ae4ca7
+[29Apr2025 16:28:18.938] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/32, l='ServerLevel[world]', x=154.33, y=64.88, z=-317.43] sends hit scan notification to ServerPlayer['Xander_Aqp'/32, l='ServerLevel[world]', x=154.33, y=64.88, z=-317.43]
+[29Apr2025 16:28:19.144] [Server thread/DEBUG] [pointblank/]: 99144 handling client fire request
+[29Apr2025 16:28:19.144] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1148006867 to 24
+[29Apr2025 16:28:19.145] [Server thread/DEBUG] [pointblank/]: 99145 - obtained hit result in 0ms
+[29Apr2025 16:28:19.145] [Server thread/DEBUG] [pointblank/]: 99145 obtained hit results
+[29Apr2025 16:28:19.145] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5f5c3b3a
+[29Apr2025 16:28:19.145] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/32, l='ServerLevel[world]', x=154.33, y=64.88, z=-317.71] sends hit scan notification to ServerPlayer['Xander_Aqp'/32, l='ServerLevel[world]', x=154.33, y=64.88, z=-317.71]
+[29Apr2025 16:28:19.740] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1148006867 to 30
+[29Apr2025 16:28:28.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp has made the advancement ['X' Marks the Spot]
+[29Apr2025 16:28:28.307] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[29Apr2025 16:28:30.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp has made the advancement [Crops of the Wild]
+[29Apr2025 16:28:47.677] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
+[29Apr2025 16:30:19.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 16:30:19.259] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 16:31:25.004] [IO-Worker-46/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[29Apr2025 16:32:15.419] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[29Apr2025 16:32:47.041] [Worker-Main-24/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, -10], pos: BlockPos{x=670, y=-21, z=-148}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Apr2025 16:32:47.042] [Worker-Main-24/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, -10], pos: BlockPos{x=671, y=-21, z=-148}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Apr2025 16:32:47.042] [Worker-Main-24/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, -10], pos: BlockPos{x=671, y=-20, z=-148}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[29Apr2025 16:33:52.254] [IO-Worker-46/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[29Apr2025 16:34:12.978] [IO-Worker-50/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[29Apr2025 16:35:19.223] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 16:35:19.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 16:35:24.380] [Server thread/DEBUG] [pointblank/]: 24380 handling client fire request
+[29Apr2025 16:35:24.380] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1148006867 to 29
+[29Apr2025 16:35:24.380] [Server thread/DEBUG] [pointblank/]: 24380 - obtained hit result in 0ms
+[29Apr2025 16:35:24.380] [Server thread/DEBUG] [pointblank/]: 24380 obtained hit results
+[29Apr2025 16:35:24.380] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@327e66a1
+[29Apr2025 16:35:24.381] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/32, l='ServerLevel[world]', x=-57.21, y=74.00, z=171.05] sends hit scan notification to ServerPlayer['Xander_Aqp'/32, l='ServerLevel[world]', x=-57.21, y=74.00, z=171.05]
+[29Apr2025 16:35:24.533] [Server thread/DEBUG] [pointblank/]: 24533 handling client fire request
+[29Apr2025 16:35:24.533] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1148006867 to 28
+[29Apr2025 16:35:24.533] [Server thread/DEBUG] [pointblank/]: 24533 - obtained hit result in 0ms
+[29Apr2025 16:35:24.533] [Server thread/DEBUG] [pointblank/]: 24533 obtained hit results
+[29Apr2025 16:35:24.534] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2ad9acb4
+[29Apr2025 16:35:24.534] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/32, l='ServerLevel[world]', x=-57.87, y=74.00, z=171.06] sends hit scan notification to ServerPlayer['Xander_Aqp'/32, l='ServerLevel[world]', x=-57.87, y=74.00, z=171.06]
+[29Apr2025 16:35:24.687] [Server thread/DEBUG] [pointblank/]: 24687 handling client fire request
+[29Apr2025 16:35:24.687] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1148006867 to 27
+[29Apr2025 16:35:24.687] [Server thread/DEBUG] [pointblank/]: 24687 - obtained hit result in 0ms
+[29Apr2025 16:35:24.687] [Server thread/DEBUG] [pointblank/]: 24687 obtained hit results
+[29Apr2025 16:35:24.687] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2e0d6d55
+[29Apr2025 16:35:24.688] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/32, l='ServerLevel[world]', x=-58.51, y=74.00, z=170.99] sends hit scan notification to ServerPlayer['Xander_Aqp'/32, l='ServerLevel[world]', x=-58.51, y=74.00, z=170.99]
+[29Apr2025 16:35:24.890] [Server thread/DEBUG] [pointblank/]: 24890 handling client fire request
+[29Apr2025 16:35:24.890] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1148006867 to 26
+[29Apr2025 16:35:24.890] [Server thread/DEBUG] [pointblank/]: 24890 - obtained hit result in 0ms
+[29Apr2025 16:35:24.890] [Server thread/DEBUG] [pointblank/]: 24890 obtained hit results
+[29Apr2025 16:35:24.890] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@32f9480c
+[29Apr2025 16:35:24.892] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/32, l='ServerLevel[world]', x=-59.37, y=74.00, z=170.89] sends hit scan notification to ServerPlayer['Xander_Aqp'/32, l='ServerLevel[world]', x=-59.37, y=74.00, z=170.89]
+[29Apr2025 16:35:25.043] [Server thread/DEBUG] [pointblank/]: 25043 handling client fire request
+[29Apr2025 16:35:25.043] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1148006867 to 25
+[29Apr2025 16:35:25.043] [Server thread/DEBUG] [pointblank/]: 25043 - obtained hit result in 0ms
+[29Apr2025 16:35:25.043] [Server thread/DEBUG] [pointblank/]: 25043 obtained hit results
+[29Apr2025 16:35:25.043] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@22878f20
+[29Apr2025 16:35:25.045] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/32, l='ServerLevel[world]', x=-60.01, y=74.00, z=170.82] sends hit scan notification to ServerPlayer['Xander_Aqp'/32, l='ServerLevel[world]', x=-60.01, y=74.00, z=170.82]
+[29Apr2025 16:35:25.192] [Server thread/DEBUG] [pointblank/]: 25192 handling client fire request
+[29Apr2025 16:35:25.192] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1148006867 to 24
+[29Apr2025 16:35:25.192] [Server thread/DEBUG] [pointblank/]: 25192 - obtained hit result in 0ms
+[29Apr2025 16:35:25.192] [Server thread/DEBUG] [pointblank/]: 25192 obtained hit results
+[29Apr2025 16:35:25.192] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@134b78c3
+[29Apr2025 16:35:25.192] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/32, l='ServerLevel[world]', x=-60.87, y=74.00, z=170.70] sends hit scan notification to ServerPlayer['Xander_Aqp'/32, l='ServerLevel[world]', x=-60.87, y=74.00, z=170.70]
+[29Apr2025 16:35:25.432] [Server thread/DEBUG] [pointblank/]: 25432 handling client fire request
+[29Apr2025 16:35:25.433] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1148006867 to 23
+[29Apr2025 16:35:25.433] [Server thread/DEBUG] [pointblank/]: 25433 - obtained hit result in 0ms
+[29Apr2025 16:35:25.433] [Server thread/DEBUG] [pointblank/]: 25433 obtained hit results
+[29Apr2025 16:35:25.433] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@382f588d
+[29Apr2025 16:35:25.433] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/32, l='ServerLevel[world]', x=-61.72, y=74.00, z=170.61] sends hit scan notification to ServerPlayer['Xander_Aqp'/32, l='ServerLevel[world]', x=-61.72, y=74.00, z=170.61]
+[29Apr2025 16:35:25.634] [Server thread/DEBUG] [pointblank/]: 25634 handling client fire request
+[29Apr2025 16:35:25.635] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1148006867 to 22
+[29Apr2025 16:35:25.635] [Server thread/DEBUG] [pointblank/]: 25635 - obtained hit result in 0ms
+[29Apr2025 16:35:25.635] [Server thread/DEBUG] [pointblank/]: 25635 obtained hit results
+[29Apr2025 16:35:25.635] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@26dc3b83
+[29Apr2025 16:35:25.635] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Xander_Aqp'/32, l='ServerLevel[world]', x=-62.58, y=74.00, z=170.51] sends hit scan notification to ServerPlayer['Xander_Aqp'/32, l='ServerLevel[world]', x=-62.58, y=74.00, z=170.51]
+[29Apr2025 16:35:25.933] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1148006867 to 30
+[29Apr2025 16:35:43.897] [IO-Worker-55/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[29Apr2025 16:37:42.294] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[29Apr2025 16:37:42.304] [IO-Worker-50/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[29Apr2025 16:37:42.421] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
