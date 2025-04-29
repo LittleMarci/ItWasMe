@@ -4779,12 +4779,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-27 22:00:52 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-27 21:40:30 +0000"
@@ -4797,51 +4791,9 @@
     },
     "done": true
   },
-  "bloomingnature:recipes/chestnut_fence": {
-    "criteria": {
-      "has_chestnut_planks": "2025-04-27 22:13:33 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/stone_fence": {
-    "criteria": {
-      "has_block": "2025-04-27 21:55:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite": {
-    "criteria": {
-      "has_diorite": "2025-04-27 21:42:15 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/black_dye_from_dried_kelp": {
-    "criteria": {
-      "has_dried_kelp": "2025-04-27 21:55:14 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/creeper_trophy": {
-    "criteria": {
-      "has_creeper_trophy": "2025-04-27 21:55:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-27 21:40:30 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/diorite_layer": {
-    "criteria": {
-      "has_block": "2025-04-27 21:42:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-04-27 21:55:49 +0000"
     },
     "done": true
   },
@@ -4854,18 +4806,6 @@
   "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-27 21:40:30 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-04-27 21:42:15 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2025-04-27 22:00:48 +0000"
     },
     "done": true
   },
@@ -4887,12 +4827,6 @@
     },
     "done": true
   },
-  "bbb:recipes/stone_brick_layer": {
-    "criteria": {
-      "has_block": "2025-04-27 21:56:00 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-27 21:40:30 +0000"
@@ -4905,39 +4839,9 @@
     },
     "done": true
   },
-  "railways:recipes/misc/crafting/smokestack_coalburner": {
-    "criteria": {
-      "has_item": "2025-04-27 22:14:26 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/granite_pillar_trim": {
     "criteria": {
       "has_granite_pillar_trim": "2025-04-27 21:40:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-04-27 21:42:15 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/vindicator_trophy": {
-    "criteria": {
-      "has_vindicator_trophy": "2025-04-27 21:55:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
-    "criteria": {
-      "has_stone": "2025-04-27 21:55:49 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_wood": {
-    "criteria": {
-      "has_chestnut_log": "2025-04-27 21:59:15 +0000"
     },
     "done": true
   },
@@ -4947,21 +4851,153 @@
     },
     "done": true
   },
-  "bloomingnature:recipes/chestnut_button": {
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
-      "has_chestnut_planks": "2025-04-27 22:13:33 +0000"
+      "has_granite": "2025-04-27 21:40:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+  "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
-      "has_stone_bricks": "2025-04-27 21:56:00 +0000"
+      "has_stone_types_granite": "2025-04-27 21:40:30 +0000"
     },
     "done": true
   },
-  "bloomingnature:recipes/chestnut_window": {
+  "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
-      "has_chestnut_planks": "2025-04-27 22:13:33 +0000"
+      "has_stone_types_granite": "2025-04-27 21:40:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-04-27 21:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-04-27 21:40:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
+    "criteria": {
+      "has_granite": "2025-04-27 21:40:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-04-27 21:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-27 21:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-04-27 21:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-27 21:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-04-27 21:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-27 21:40:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-04-27 21:40:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-04-27 21:40:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-04-27 21:40:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-04-27 21:40:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-04-27 21:40:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-04-27 21:40:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-04-27 21:40:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-04-27 21:40:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-04-27 21:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-04-27 21:42:15 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/diorite_layer": {
+    "criteria": {
+      "has_block": "2025-04-27 21:42:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-04-27 21:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-27 21:42:15 +0000"
     },
     "done": true
   },
@@ -4983,33 +5019,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-04-27 21:40:30 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/skeleton_trophy": {
-    "criteria": {
-      "has_skeleton_trophy": "2025-04-27 21:55:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2025-04-27 21:55:49 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-04-27 21:42:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2025-04-27 21:47:52 +0000"
     },
     "done": true
   },
@@ -5049,12 +5061,6 @@
     },
     "done": true
   },
-  "immersive_weathering:recipes/stone_bricks": {
-    "criteria": {
-      "has_copper_block": "2025-04-27 21:56:00 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-04-27 21:42:15 +0000"
@@ -5067,15 +5073,189 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stonecutter": {
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-27 21:42:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-04-27 21:42:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-04-27 21:42:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-04-27 21:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-27 21:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-04-27 21:42:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-04-27 21:42:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-04-27 21:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-27 21:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-04-27 21:42:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-04-27 21:42:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/diorite_corner_trim": {
+    "criteria": {
+      "has_diorite_corner_trim": "2025-04-27 21:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-27 21:42:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/diorite_pillar_trim": {
+    "criteria": {
+      "has_diorite_pillar_trim": "2025-04-27 21:42:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
+    "criteria": {
+      "has_diorite": "2025-04-27 21:42:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-04-27 21:42:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-04-27 21:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-27 21:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-04-27 21:47:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_dried_kelp": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-27 21:55:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-27 21:55:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-27 21:55:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-27 21:55:14 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/stone_fence": {
+    "criteria": {
+      "has_block": "2025-04-27 21:55:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/creeper_trophy": {
+    "criteria": {
+      "has_creeper_trophy": "2025-04-27 21:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-27 21:55:49 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
+  "handcrafted:recipes/misc/vindicator_trophy": {
     "criteria": {
-      "has_stone_types_granite": "2025-04-27 21:40:30 +0000"
+      "has_vindicator_trophy": "2025-04-27 21:55:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
+    "criteria": {
+      "has_stone": "2025-04-27 21:55:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_trophy": {
+    "criteria": {
+      "has_skeleton_trophy": "2025-04-27 21:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-04-27 21:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-04-27 21:55:49 +0000"
     },
     "done": true
   },
@@ -5097,87 +5277,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dried_kelp_block": {
-    "criteria": {
-      "has_dried_kelp": "2025-04-27 21:55:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-04-27 21:40:30 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/smokestack_diesel": {
-    "criteria": {
-      "has_item": "2025-04-27 22:14:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-04-27 21:56:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-27 21:55:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-04-27 21:42:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-04-27 21:40:30 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-04-27 21:42:15 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/stone_urn": {
-    "criteria": {
-      "has_block": "2025-04-27 21:56:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite": {
-    "criteria": {
-      "has_granite": "2025-04-27 21:40:30 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_fence_gate": {
-    "criteria": {
-      "has_chestnut_planks": "2025-04-27 22:13:33 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-04-27 21:42:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-04-27 21:42:15 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_boat": {
-    "criteria": {
-      "has_chestnut_planks": "2025-04-27 22:13:33 +0000"
     },
     "done": true
   },
@@ -5187,51 +5289,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-04-27 21:42:15 +0000"
-    },
-    "done": true
-  },
   "bbb:recipes/stone_layer": {
     "criteria": {
       "has_block": "2025-04-27 21:55:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_red_mushroom": "2025-04-27 22:00:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs": {
-    "criteria": {
-      "has_diorite": "2025-04-27 21:42:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-04-27 21:55:49 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-27 22:00:52 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-04-27 21:42:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2025-04-27 21:56:00 +0000"
     },
     "done": true
   },
@@ -5247,42 +5313,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-04-27 21:42:15 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
-    "criteria": {
-      "has_granite": "2025-04-27 21:40:30 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-04-27 21:40:30 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/stone_moulding": {
-    "criteria": {
-      "has_block": "2025-04-27 21:56:00 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_campfire": {
-    "criteria": {
-      "campfire": "2025-04-27 22:14:46 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/smokestack_woodburner": {
-    "criteria": {
-      "has_item": "2025-04-27 22:14:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-04-27 21:55:49 +0000"
@@ -5295,117 +5325,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-04-27 21:40:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-04-27 21:42:15 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/kelp_roll": {
-    "criteria": {
-      "has_dried_kelp": "2025-04-27 21:55:14 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_planks": {
-    "criteria": {
-      "has_chestnut_log": "2025-04-27 21:59:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_stairs": {
-    "criteria": {
-      "has_granite": "2025-04-27 21:40:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-04-27 21:40:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall": {
-    "criteria": {
-      "has_granite": "2025-04-27 21:40:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2025-04-27 21:56:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-04-27 21:40:30 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/smokestack_oilburner": {
-    "criteria": {
-      "has_item": "2025-04-27 22:14:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite": {
-    "criteria": {
-      "has_stone": "2025-04-27 21:42:15 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/evoker_trophy": {
     "criteria": {
       "has_evoker_trophy": "2025-04-27 21:55:49 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-04-27 21:40:30 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-04-27 21:40:30 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_slab": {
-    "criteria": {
-      "has_chestnut_planks": "2025-04-27 22:13:33 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/smokestack_long": {
-    "criteria": {
-      "has_item": "2025-04-27 22:14:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-04-27 21:42:15 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/diorite_corner_trim": {
-    "criteria": {
-      "has_diorite_corner_trim": "2025-04-27 21:42:15 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/stone_tiles": {
-    "criteria": {
-      "has_block": "2025-04-27 21:56:00 +0000"
     },
     "done": true
   },
@@ -5415,111 +5337,9 @@
     },
     "done": true
   },
-  "bloomingnature:recipes/chestnut_hanging_sign": {
-    "criteria": {
-      "has_chestnut_planks": "2025-04-27 22:13:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-04-27 21:42:15 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_stairs": {
-    "criteria": {
-      "has_chestnut_planks": "2025-04-27 22:13:33 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/stone_corner_trim": {
     "criteria": {
       "has_stone_corner_trim": "2025-04-27 21:55:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2025-04-27 21:56:00 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_sign": {
-    "criteria": {
-      "has_chestnut_planks": "2025-04-27 22:13:33 +0000"
-    },
-    "done": true
-  },
-  "projectvibrantjourneys:recipes/building_blocks/oak_planks_from_oak_hollow_log": {
-    "criteria": {
-      "has_oak_hollow_log": "2025-04-27 22:00:52 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-04-27 21:40:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2025-04-27 21:56:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-04-27 21:56:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_red_mushroom": "2025-04-27 22:00:52 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-04-27 21:40:30 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/diorite_pillar_trim": {
-    "criteria": {
-      "has_diorite_pillar_trim": "2025-04-27 21:42:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-04-27 21:40:30 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/noodle_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-27 21:55:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2025-04-27 21:56:00 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
-    "criteria": {
-      "has_diorite": "2025-04-27 21:42:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-04-27 21:40:30 +0000"
     },
     "done": true
   },
@@ -5529,93 +5349,9 @@
     },
     "done": true
   },
-  "bloomingnature:recipes/chestnut_chest_boat": {
-    "criteria": {
-      "has_chestnut_planks": "2025-04-27 22:13:33 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-04-27 21:40:30 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/rocky_dirt": {
-    "criteria": {
-      "has_dirt": "2025-04-27 21:59:12 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/smokestack_streamlined": {
-    "criteria": {
-      "has_item": "2025-04-27 22:14:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-04-27 21:56:00 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_door": {
-    "criteria": {
-      "has_chestnut_planks": "2025-04-27 22:13:33 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-04-27 21:42:15 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/smokestack_caboosestyle": {
-    "criteria": {
-      "has_item": "2025-04-27 22:14:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-04-27 21:42:15 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:recipes/oak_bark": {
-    "criteria": {
-      "has_copper_block": "2025-04-27 22:07:05 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/stove": {
-    "criteria": {
-      "has_campfire": "2025-04-27 22:14:26 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
-    "criteria": {
-      "has_red_mushroom": "2025-04-27 22:00:52 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/witch_trophy": {
     "criteria": {
       "has_witch_trophy": "2025-04-27 21:55:49 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-04-27 21:40:30 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-04-27 21:40:30 +0000"
     },
     "done": true
   },
@@ -5631,15 +5367,231 @@
     },
     "done": true
   },
+  "bbb:recipes/stone_column": {
+    "criteria": {
+      "has_block": "2025-04-27 21:55:49 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/stone_brick_layer": {
+    "criteria": {
+      "has_block": "2025-04-27 21:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-27 21:56:00 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/stone_bricks": {
+    "criteria": {
+      "has_copper_block": "2025-04-27 21:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-27 21:56:00 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/stone_urn": {
+    "criteria": {
+      "has_block": "2025-04-27 21:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-27 21:56:00 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/stone_moulding": {
+    "criteria": {
+      "has_block": "2025-04-27 21:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-27 21:56:00 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/stone_tiles": {
+    "criteria": {
+      "has_block": "2025-04-27 21:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-27 21:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-27 21:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-27 21:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-04-27 21:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-27 21:56:00 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2025-04-27 21:59:12 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
       "dirt": "2025-04-27 21:59:12 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+  "bloomingnature:recipes/chestnut_wood": {
     "criteria": {
-      "has_diorite": "2025-04-27 21:42:15 +0000"
+      "has_chestnut_log": "2025-04-27 21:59:15 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_planks": {
+    "criteria": {
+      "has_chestnut_log": "2025-04-27 21:59:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-04-27 22:00:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-27 22:00:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-04-27 22:00:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-27 22:00:52 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/building_blocks/oak_planks_from_oak_hollow_log": {
+    "criteria": {
+      "has_oak_hollow_log": "2025-04-27 22:00:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-04-27 22:00:52 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
+    "criteria": {
+      "has_red_mushroom": "2025-04-27 22:00:52 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/oak_bark": {
+    "criteria": {
+      "has_copper_block": "2025-04-27 22:07:05 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_fence": {
+    "criteria": {
+      "has_chestnut_planks": "2025-04-27 22:13:33 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_button": {
+    "criteria": {
+      "has_chestnut_planks": "2025-04-27 22:13:33 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_window": {
+    "criteria": {
+      "has_chestnut_planks": "2025-04-27 22:13:33 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_fence_gate": {
+    "criteria": {
+      "has_chestnut_planks": "2025-04-27 22:13:33 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_boat": {
+    "criteria": {
+      "has_chestnut_planks": "2025-04-27 22:13:33 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_slab": {
+    "criteria": {
+      "has_chestnut_planks": "2025-04-27 22:13:33 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_hanging_sign": {
+    "criteria": {
+      "has_chestnut_planks": "2025-04-27 22:13:33 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_stairs": {
+    "criteria": {
+      "has_chestnut_planks": "2025-04-27 22:13:33 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_sign": {
+    "criteria": {
+      "has_chestnut_planks": "2025-04-27 22:13:33 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_chest_boat": {
+    "criteria": {
+      "has_chestnut_planks": "2025-04-27 22:13:33 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_door": {
+    "criteria": {
+      "has_chestnut_planks": "2025-04-27 22:13:33 +0000"
     },
     "done": true
   },
@@ -5649,9 +5601,57 @@
     },
     "done": true
   },
-  "bbb:recipes/stone_column": {
+  "railways:recipes/misc/crafting/smokestack_coalburner": {
     "criteria": {
-      "has_block": "2025-04-27 21:55:49 +0000"
+      "has_item": "2025-04-27 22:14:26 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_diesel": {
+    "criteria": {
+      "has_item": "2025-04-27 22:14:26 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_woodburner": {
+    "criteria": {
+      "has_item": "2025-04-27 22:14:26 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_oilburner": {
+    "criteria": {
+      "has_item": "2025-04-27 22:14:26 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_long": {
+    "criteria": {
+      "has_item": "2025-04-27 22:14:26 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_streamlined": {
+    "criteria": {
+      "has_item": "2025-04-27 22:14:26 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_caboosestyle": {
+    "criteria": {
+      "has_item": "2025-04-27 22:14:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-04-27 22:14:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-04-27 22:14:46 +0000"
     },
     "done": true
   },
