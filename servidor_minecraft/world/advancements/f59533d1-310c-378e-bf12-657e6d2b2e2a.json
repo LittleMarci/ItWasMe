@@ -2846,6 +2846,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:husk": "2025-04-30 02:59:23 +0000",
       "minecraft:zombie": "2025-04-26 02:38:43 +0000",
       "minecraft:drowned": "2025-04-27 23:15:34 +0000",
       "minecraft:zombie_villager": "2025-04-26 03:12:17 +0000"
@@ -7206,6 +7207,24 @@
   "createdeco:recipes/decorations/iron_support_wedge": {
     "criteria": {
       "has_item": "2025-04-28 03:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-30 02:52:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-04-30 02:52:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-04-30 02:52:53 +0000"
     },
     "done": true
   },
