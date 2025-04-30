@@ -15237,3 +15237,36 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Apr2025 21:33:13.937] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
 [30Apr2025 21:33:19.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Apr2025 21:33:19.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Apr2025 21:37:04.162] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[30Apr2025 21:38:16.268] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[30Apr2025 21:38:16.269] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[30Apr2025 21:38:19.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Apr2025 21:38:19.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Apr2025 21:39:35.029] [IO-Worker-44/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[30Apr2025 21:41:32.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 has made the advancement [Cover Me with Diamonds]
+[30Apr2025 21:42:09.961] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[30Apr2025 21:42:15.019] [Server thread/DEBUG] [pointblank/]: 35019 handling client fire request
+[30Apr2025 21:42:15.019] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 485606856 to 6
+[30Apr2025 21:42:15.019] [Server thread/DEBUG] [pointblank/]: 35019 - obtained hit result in 0ms
+[30Apr2025 21:42:15.020] [Server thread/DEBUG] [pointblank/]: 35019 obtained hit results
+[30Apr2025 21:42:15.020] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@15c22ebc
+[30Apr2025 21:42:15.022] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/151, l='ServerLevel[world]', x=-169.67, y=57.08, z=172.04] sends hit scan notification to ServerPlayer['sigan_viendo01'/151, l='ServerLevel[world]', x=-169.67, y=57.08, z=172.04]
+[30Apr2025 21:42:15.514] [Server thread/DEBUG] [pointblank/]: 35514 handling client fire request
+[30Apr2025 21:42:15.514] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 485606856 to 5
+[30Apr2025 21:42:15.514] [Server thread/DEBUG] [pointblank/]: 35514 - obtained hit result in 0ms
+[30Apr2025 21:42:15.514] [Server thread/DEBUG] [pointblank/]: 35514 obtained hit results
+[30Apr2025 21:42:15.514] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@34d69db4
+[30Apr2025 21:42:15.516] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/151, l='ServerLevel[world]', x=-169.67, y=56.80, z=172.04] sends hit scan notification to ServerPlayer['sigan_viendo01'/151, l='ServerLevel[world]', x=-169.67, y=56.80, z=172.04]
+[30Apr2025 21:42:16.264] [Server thread/DEBUG] [pointblank/]: 36264 handling client fire request
+[30Apr2025 21:42:16.264] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 485606856 to 4
+[30Apr2025 21:42:16.264] [Server thread/DEBUG] [pointblank/]: 36264 - obtained hit result in 0ms
+[30Apr2025 21:42:16.264] [Server thread/DEBUG] [pointblank/]: 36264 obtained hit results
+[30Apr2025 21:42:16.264] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4a73b3a0
+[30Apr2025 21:42:16.265] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/151, l='ServerLevel[world]', x=-168.61, y=56.42, z=171.90] sends hit scan notification to ServerPlayer['sigan_viendo01'/151, l='ServerLevel[world]', x=-168.61, y=56.42, z=171.90]
+[30Apr2025 21:42:20.369] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 485606856 to 7
+[30Apr2025 21:43:19.096] [IO-Worker-44/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[30Apr2025 21:43:19.097] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[30Apr2025 21:43:19.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Apr2025 21:43:19.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Apr2025 21:44:41.781] [IO-Worker-44/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[30Apr2025 21:46:27.713] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
