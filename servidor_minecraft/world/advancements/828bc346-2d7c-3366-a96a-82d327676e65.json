@@ -5407,6 +5407,60 @@
     },
     "done": true
   },
+  "bbb:recipes/smooth_stone_layer": {
+    "criteria": {
+      "has_block": "2025-04-28 02:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-28 02:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-28 02:46:09 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/polished_stone": {
+    "criteria": {
+      "has_block": "2025-04-28 02:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-28 02:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-04-28 02:46:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-04-28 02:52:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-04-28 02:53:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-04-28 02:53:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_wool": "2025-04-28 02:58:13 +0000"
@@ -5431,12 +5485,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2025-04-28 02:46:28 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/red_seat": {
     "criteria": {
       "has_wool": "2025-04-28 02:58:13 +0000"
@@ -5449,18 +5497,6 @@
     },
     "done": true
   },
-  "bbb:recipes/smooth_stone_layer": {
-    "criteria": {
-      "has_block": "2025-04-28 02:46:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2025-04-28 02:46:09 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2025-04-28 02:58:13 +0000"
@@ -5470,24 +5506,6 @@
   "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2025-04-28 02:58:13 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/oak_cabinet": {
-    "criteria": {
-      "has_oak_trapdoor": "2025-04-28 02:52:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-04-28 02:46:09 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/polished_stone": {
-    "criteria": {
-      "has_block": "2025-04-28 02:46:09 +0000"
     },
     "done": true
   },
@@ -5551,21 +5569,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2025-04-28 02:46:09 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2025-04-28 02:58:13 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/fluid_tank": {
-    "criteria": {
-      "has_item": "2025-04-28 02:53:43 +0000"
     },
     "done": true
   },
@@ -5590,12 +5596,6 @@
   "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2025-04-28 02:58:13 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/item_vault": {
-    "criteria": {
-      "has_item": "2025-04-28 02:53:43 +0000"
     },
     "done": true
   },
