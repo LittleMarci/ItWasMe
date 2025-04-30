@@ -15323,3 +15323,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Apr2025 22:04:49.474] [Worker-Main-10/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-10 shutdown
 [30Apr2025 22:05:49.474] [Worker-Main-5/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-5 shutdown
 [30Apr2025 22:06:49.474] [Worker-Main-24/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-24 shutdown
+[30Apr2025 22:07:49.474] [Worker-Main-11/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-11 shutdown
+[30Apr2025 22:08:19.055] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[30Apr2025 22:08:19.056] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[30Apr2025 22:08:19.056] [IO-Worker-69/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[30Apr2025 22:08:19.059] [IO-Worker-69/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[30Apr2025 22:08:19.060] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[30Apr2025 22:08:19.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Apr2025 22:08:19.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Apr2025 22:13:19.054] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[30Apr2025 22:13:19.054] [IO-Worker-73/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[30Apr2025 22:13:19.064] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Apr2025 22:13:19.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
