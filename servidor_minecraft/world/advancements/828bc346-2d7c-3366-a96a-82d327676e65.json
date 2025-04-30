@@ -5648,5 +5648,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-04-30 21:25:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

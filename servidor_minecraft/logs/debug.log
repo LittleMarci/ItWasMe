@@ -15216,3 +15216,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Apr2025 21:23:19.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Apr2025 21:23:19.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Apr2025 21:23:28.744] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
+[30Apr2025 21:26:55.381] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
+[30Apr2025 21:26:55.381] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[30Apr2025 21:26:55.411] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from hordes.mixin.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[30Apr2025 21:26:55.424] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[30Apr2025 21:27:38.415] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[30Apr2025 21:28:19.129] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[30Apr2025 21:28:19.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Apr2025 21:28:19.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Apr2025 21:29:44.486] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[30Apr2025 21:30:05.995] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[30Apr2025 21:32:58.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigan_viendo01) moved wrongly! 0.5429223217070103
+[30Apr2025 21:32:58.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigan_viendo01) moved wrongly! 0.5743014338495698
+[30Apr2025 21:32:58.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigan_viendo01) moved wrongly! 0.6025426340297315
+[30Apr2025 21:32:58.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigan_viendo01) moved wrongly! 0.6279597135185497
+[30Apr2025 21:32:58.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigan_viendo01) moved wrongly! 0.6508350844524955
+[30Apr2025 21:33:04.114] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[30Apr2025 21:33:06.238] [IO-Worker-40/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[30Apr2025 21:33:06.300] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[30Apr2025 21:33:13.937] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[30Apr2025 21:33:19.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Apr2025 21:33:19.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

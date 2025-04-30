@@ -1196,3 +1196,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Apr2025 21:21:35.162] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from sigan_viendo01
 [30Apr2025 21:21:35.168] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of sigan_viendo01 (18)
 [30Apr2025 21:21:35.170] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to sigan_viendo01
+[30Apr2025 21:32:58.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigan_viendo01) moved wrongly! 0.5429223217070103
+[30Apr2025 21:32:58.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigan_viendo01) moved wrongly! 0.5743014338495698
+[30Apr2025 21:32:58.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigan_viendo01) moved wrongly! 0.6025426340297315
+[30Apr2025 21:32:58.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigan_viendo01) moved wrongly! 0.6279597135185497
+[30Apr2025 21:32:58.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigan_viendo01) moved wrongly! 0.6508350844524955
