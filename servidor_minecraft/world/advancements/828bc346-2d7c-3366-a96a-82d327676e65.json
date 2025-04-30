@@ -1539,7 +1539,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_cod": "2025-04-28 00:02:35 +0000",
-      "bread": "2025-04-27 23:14:33 +0000"
+      "bread": "2025-04-27 23:14:33 +0000",
+      "golden_apple": "2025-04-30 21:23:06 +0000"
     },
     "done": false
   },
@@ -5629,12 +5630,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-04-30 03:24:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-04-30 03:15:56 +0000"
@@ -5644,6 +5639,12 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-04-30 03:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-30 03:24:47 +0000"
     },
     "done": true
   },
