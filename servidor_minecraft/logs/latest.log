@@ -1212,3 +1212,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Apr2025 02:41:13.933] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from sigan_viendo01
 [30Apr2025 02:41:14.057] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of sigan_viendo01 (18)
 [30Apr2025 02:41:14.058] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to sigan_viendo01
+[30Apr2025 02:52:18.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlitox_x1 has made the advancement [Hot Stuff]
