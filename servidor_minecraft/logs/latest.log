@@ -1272,3 +1272,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Apr2025 03:04:07.592] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
 [30Apr2025 03:04:57.591] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
 [30Apr2025 03:04:57.591] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Apr2025 03:05:47.591] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Apr2025 03:05:47.592] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Apr2025 03:07:18.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 was slain by Drowned
+[30Apr2025 03:07:20.970] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[30Apr2025 03:12:46.292] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
+[30Apr2025 03:12:47.703] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1814933179, path: 7ec41503-e97c-4933-b902-6aa45e129233/hawk_scope/air, elements: {}} attempted to update empty stack 0 air
+[30Apr2025 03:12:47.703] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 659315508, path: 7ec41503-e97c-4933-b902-6aa45e129233/air, elements: {}} attempted to update empty stack 0 air
+[30Apr2025 03:12:54.131] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
+[30Apr2025 03:21:09.137] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-194, y=49, z=177} BlockPos{x=-194, y=48, z=177}
+[30Apr2025 03:21:09.196] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-194, y=49, z=177} BlockPos{x=-194, y=48, z=177}
+[30Apr2025 03:24:47.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 has made the advancement [Sweet Dreams]
