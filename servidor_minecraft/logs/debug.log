@@ -15270,3 +15270,34 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Apr2025 21:43:19.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Apr2025 21:44:41.781] [IO-Worker-44/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
 [30Apr2025 21:46:27.713] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[30Apr2025 21:47:59.114] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[30Apr2025 21:48:19.101] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[30Apr2025 21:48:19.107] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Apr2025 21:48:19.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Apr2025 21:50:12.870] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[30Apr2025 21:50:16.918] [Server thread/DEBUG] [pointblank/]: 16918 handling client fire request
+[30Apr2025 21:50:16.918] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 485606856 to 6
+[30Apr2025 21:50:16.918] [Server thread/DEBUG] [pointblank/]: 16918 - obtained hit result in 0ms
+[30Apr2025 21:50:16.919] [Server thread/DEBUG] [pointblank/]: 16919 obtained hit results
+[30Apr2025 21:50:16.919] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6cdc3d1e
+[30Apr2025 21:50:16.920] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/151, l='ServerLevel[world]', x=-183.17, y=60.91, z=183.28] sends hit scan notification to ServerPlayer['sigan_viendo01'/151, l='ServerLevel[world]', x=-183.17, y=60.91, z=183.28]
+[30Apr2025 21:50:17.718] [Server thread/DEBUG] [pointblank/]: 17718 handling client fire request
+[30Apr2025 21:50:17.718] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 485606856 to 5
+[30Apr2025 21:50:17.718] [Server thread/DEBUG] [pointblank/]: 17718 - obtained hit result in 0ms
+[30Apr2025 21:50:17.718] [Server thread/DEBUG] [pointblank/]: 17718 obtained hit results
+[30Apr2025 21:50:17.718] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@47596340
+[30Apr2025 21:50:17.720] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sigan_viendo01'/151, l='ServerLevel[world]', x=-183.17, y=60.54, z=183.65] sends hit scan notification to ServerPlayer['sigan_viendo01'/151, l='ServerLevel[world]', x=-183.17, y=60.54, z=183.65]
+[30Apr2025 21:51:33.067] [IO-Worker-55/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[30Apr2025 21:52:34.578] [IO-Worker-56/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[30Apr2025 21:52:49.415] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigan_viendo01 lost connection: Disconnected
+[30Apr2025 21:52:49.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 left the game
+[30Apr2025 21:52:49.422] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of sigan_viendo01
+[30Apr2025 21:52:49.423] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sigan_viendo01
+[30Apr2025 21:53:19.076] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[30Apr2025 21:53:19.079] [IO-Worker-56/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[30Apr2025 21:53:19.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Apr2025 21:53:19.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Apr2025 21:53:49.474] [Worker-Main-16/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-16 shutdown
+[30Apr2025 21:54:49.474] [Worker-Main-13/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-13 shutdown
+[30Apr2025 21:55:49.474] [Worker-Main-12/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-12 shutdown
+[30Apr2025 21:56:49.474] [Worker-Main-6/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-6 shutdown
