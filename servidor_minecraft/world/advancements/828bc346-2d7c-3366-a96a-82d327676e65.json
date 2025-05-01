@@ -7273,6 +7273,18 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/swamp_oak_wood": {
+    "criteria": {
+      "has_swamp_oak_log": "2025-05-01 23:09:55 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_planks": {
+    "criteria": {
+      "has_swamp_oak_log": "2025-05-01 23:09:55 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/dark_oak_pallet": {
     "criteria": {
       "has_planks": "2025-05-01 22:56:20 +0000"

@@ -82,6 +82,7 @@
       "minecraft:forest": "2025-04-26 03:13:37 +0000",
       "minecraft:deep_cold_ocean": "2025-05-01 03:08:47 +0000",
       "minecraft:ocean": "2025-05-01 03:29:49 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-05-01 23:04:09 +0000",
       "minecraft:deep_dark": "2025-04-26 03:44:25 +0000",
       "minecraft:plains": "2025-04-26 03:15:28 +0000"
     },
@@ -5311,6 +5312,12 @@
   "bloomingnature:recipes/swamp_oak_chest_boat": {
     "criteria": {
       "has_swamp_oak_planks": "2025-05-01 22:47:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
+    "criteria": {
+      "has_lily_pad": "2025-05-01 23:04:10 +0000"
     },
     "done": true
   },

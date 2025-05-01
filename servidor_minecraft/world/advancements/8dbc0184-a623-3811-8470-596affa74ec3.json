@@ -6083,6 +6083,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-05-01 23:08:54 +0000"
+    },
+    "done": true
+  },
   "bloomingnature:recipes/chestnut_fence_gate": {
     "criteria": {
       "has_chestnut_planks": "2025-05-01 22:11:55 +0000"
@@ -6104,6 +6110,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-05-01 22:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-01 23:08:54 +0000"
     },
     "done": true
   },
