@@ -4,6 +4,7 @@
 	owner: "984c4811-73c4-3e6e-8751-7c2a2f7b7ccc"
 	ranks: {
 		64c63124-ce40-32e5-ac7e-34fda48b4ffc: "member"
+		d66273eb-0975-3526-b00b-a5e2028314f4: "ally"
 		984c4811-73c4-3e6e-8751-7c2a2f7b7ccc: "owner"
 		f59533d1-310c-378e-bf12-657e6d2b2e2a: "member"
 	}
@@ -22,6 +23,8 @@
 		{ from: "f59533d1-310c-378e-bf12-657e6d2b2e2a", date: 1745635365126L, text: "{\"text\":\"xd\"}" }
 		{ from: "984c4811-73c4-3e6e-8751-7c2a2f7b7ccc", date: 1745690339106L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"AlonsoVanDeKap\"}]}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1745690342332L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"AlonsoVanDeKap\"}]}" }
+		{ from: "984c4811-73c4-3e6e-8751-7c2a2f7b7ccc", date: 1746121412384L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"ANGELXD12377\"}]}" }
+		{ from: "984c4811-73c4-3e6e-8751-7c2a2f7b7ccc", date: 1746121456328L, text: "{\"text\":\"la kgada\"}" }
 	]
 	extra: { }
 }
