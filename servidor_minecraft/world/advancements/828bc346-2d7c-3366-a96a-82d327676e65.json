@@ -76,6 +76,7 @@
     "criteria": {
       "minecraft:taiga": "2025-04-27 23:06:23 +0000",
       "minecraft:birch_forest": "2025-05-01 23:16:02 +0000",
+      "minecraft:savanna_plateau": "2025-05-01 23:36:40 +0000",
       "minecraft:river": "2025-04-27 23:08:00 +0000",
       "minecraft:stony_shore": "2025-04-27 23:25:44 +0000",
       "minecraft:dripstone_caves": "2025-05-01 23:22:04 +0000",
@@ -7278,30 +7279,6 @@
     },
     "done": true
   },
-  "bloomingnature:recipes/swamp_oak_wood": {
-    "criteria": {
-      "has_swamp_oak_log": "2025-05-01 23:09:55 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/hot_cocoa": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-01 23:34:32 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_planks": {
-    "criteria": {
-      "has_swamp_oak_log": "2025-05-01 23:09:55 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-01 23:34:10 +0000"
-    },
-    "done": true
-  },
   "bbb:recipes/dark_oak_pallet": {
     "criteria": {
       "has_planks": "2025-05-01 22:56:20 +0000"
@@ -7311,42 +7288,6 @@
   "bbb:recipes/dark_oak_frame": {
     "criteria": {
       "has_planks": "2025-05-01 22:56:20 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-01 23:34:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2025-05-01 23:22:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2025-05-01 23:34:10 +0000"
-    },
-    "done": true
-  },
-  "lootr:25loot": {
-    "criteria": {
-      "loot_stat": "2025-05-01 23:19:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef": {
-    "criteria": {
-      "has_beef": "2025-05-01 23:34:10 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/milk_bottle": {
-    "criteria": {
-      "has_milk_bucket": "2025-05-01 23:34:32 +0000"
     },
     "done": true
   },
@@ -7362,6 +7303,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-05-01 22:56:20 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_wood": {
+    "criteria": {
+      "has_swamp_oak_log": "2025-05-01 23:09:55 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_planks": {
+    "criteria": {
+      "has_swamp_oak_log": "2025-05-01 23:09:55 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-05-01 23:19:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-01 23:22:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2025-05-01 23:23:55 +0000"
@@ -7374,9 +7345,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
-      "has_log": "2025-05-01 22:56:20 +0000"
+      "has_any_ingredient": "2025-05-01 23:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-01 23:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-01 23:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-01 23:34:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-01 23:34:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-01 23:34:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-05-01 23:34:32 +0000"
     },
     "done": true
   },
@@ -7386,9 +7393,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+  "alexsmobs:alexsmobs/kangaroo": {
     "criteria": {
-      "has_beef": "2025-05-01 23:34:10 +0000"
+      "killed": "2025-05-01 23:38:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-05-01 23:43:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-05-01 23:43:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-05-01 23:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-01 23:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-01 23:43:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-05-01 23:43:12 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-05-01 23:43:12 +0000"
     },
     "done": true
   },

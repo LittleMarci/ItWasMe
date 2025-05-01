@@ -6053,21 +6053,21 @@
     },
     "done": true
   },
-  "bloomingnature:recipes/chestnut_fence": {
-    "criteria": {
-      "has_chestnut_planks": "2025-05-01 22:11:55 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/baked_cod_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-01 22:25:17 +0000"
-    },
-    "done": true
-  },
   "bloomingnature:recipes/chestnut_wood": {
     "criteria": {
       "has_chestnut_log": "2025-05-01 22:11:49 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_planks": {
+    "criteria": {
+      "has_chestnut_log": "2025-05-01 22:11:49 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_fence": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-01 22:11:55 +0000"
     },
     "done": true
   },
@@ -6083,57 +6083,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_flint": "2025-05-01 23:08:54 +0000"
-    },
-    "done": true
-  },
   "bloomingnature:recipes/chestnut_fence_gate": {
     "criteria": {
       "has_chestnut_planks": "2025-05-01 22:11:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-05-01 22:25:17 +0000"
-    },
-    "done": true
-  },
   "bloomingnature:recipes/chestnut_boat": {
     "criteria": {
       "has_chestnut_planks": "2025-05-01 22:11:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2025-05-01 22:25:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-05-01 23:08:54 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
-    "criteria": {
-      "has_lily_pad": "2025-05-01 22:13:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-05-01 22:25:17 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_planks": {
-    "criteria": {
-      "has_chestnut_log": "2025-05-01 22:11:49 +0000"
     },
     "done": true
   },
@@ -6176,6 +6134,48 @@
   "bloomingnature:recipes/chestnut_trapdoor": {
     "criteria": {
       "has_chestnut_planks": "2025-05-01 22:11:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
+    "criteria": {
+      "has_lily_pad": "2025-05-01 22:13:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-01 22:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-01 22:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-05-01 22:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-05-01 22:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-05-01 23:08:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-01 23:08:54 +0000"
     },
     "done": true
   },
