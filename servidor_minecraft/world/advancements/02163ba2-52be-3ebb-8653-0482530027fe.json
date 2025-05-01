@@ -74,8 +74,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-05-01 22:30:45 +0000",
       "minecraft:taiga": "2025-04-26 18:48:49 +0000",
       "minecraft:birch_forest": "2025-04-29 16:29:02 +0000",
+      "minecraft:beach": "2025-05-01 22:26:24 +0000",
       "minecraft:river": "2025-04-26 19:01:42 +0000",
       "minecraft:stony_shore": "2025-04-26 19:02:50 +0000",
       "minecraft:cold_ocean": "2025-04-26 19:12:20 +0000",
@@ -5476,6 +5478,7 @@
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
       "dirt": "2025-04-27 21:59:12 +0000",
+      "silt": "2025-05-01 22:29:00 +0000",
       "soul_soil": "2025-04-29 18:04:54 +0000"
     },
     "done": false
@@ -8033,6 +8036,30 @@
   "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
       "has_honeycomb": "2025-05-01 22:20:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-01 22:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-01 22:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-01 22:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-01 22:38:59 +0000"
     },
     "done": true
   },

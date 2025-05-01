@@ -5194,5 +5194,119 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/swamp_oak_wood": {
+    "criteria": {
+      "has_swamp_oak_log": "2025-05-01 22:48:43 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_trapdoor": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-01 22:47:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-05-01 22:46:10 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_planks": {
+    "criteria": {
+      "has_swamp_oak_log": "2025-05-01 22:48:43 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_button": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-01 22:47:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-05-01 22:46:10 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_fence": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-01 22:47:01 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_fence_gate": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-01 22:47:01 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_window": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-01 22:47:01 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_sign": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-01 22:47:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-05-01 22:46:10 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_door": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-01 22:47:01 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_chest_boat": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-01 22:47:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-01 22:21:50 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_slab": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-01 22:47:01 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_stairs": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-01 22:47:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-01 22:21:50 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_boat": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-01 22:47:01 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_hanging_sign": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-01 22:47:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -4297,9 +4297,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-01 22:23:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-01 22:23:13 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/mossy_cobblestone_layer": {
     "criteria": {
       "has_block": "2025-05-01 22:15:21 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-05-01 22:24:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-05-01 22:24:12 +0000"
     },
     "done": true
   },
@@ -4324,6 +4348,24 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-01 22:15:21 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/white_dye_from_foxglove_white": {
+    "criteria": {
+      "has_foxglove_white": "2025-05-01 22:27:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-05-01 22:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-01 22:23:13 +0000"
     },
     "done": true
   },
