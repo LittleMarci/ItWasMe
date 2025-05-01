@@ -82,6 +82,7 @@
       "minecraft:forest": "2025-04-27 23:07:46 +0000",
       "minecraft:deep_cold_ocean": "2025-04-30 21:33:34 +0000",
       "minecraft:ocean": "2025-05-01 03:29:39 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-05-01 23:01:01 +0000",
       "minecraft:plains": "2025-04-27 23:11:25 +0000"
     },
     "done": false
@@ -7269,6 +7270,36 @@
   "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
     "criteria": {
       "has_sign": "2025-05-01 04:28:57 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/dark_oak_pallet": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:56:20 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/dark_oak_frame": {
+    "criteria": {
+      "has_planks": "2025-05-01 22:56:20 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/dark_oak_beam": {
+    "criteria": {
+      "has_log": "2025-05-01 22:56:20 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/dark_oak_wall": {
+    "criteria": {
+      "has_logs": "2025-05-01 22:56:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-05-01 22:56:20 +0000"
     },
     "done": true
   },
