@@ -86,6 +86,7 @@
       "minecraft:ocean": "2025-05-01 03:29:39 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-01 23:01:01 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-01 23:15:40 +0000",
+      "minecraft:savanna": "2025-05-01 23:35:14 +0000",
       "minecraft:plains": "2025-04-27 23:11:25 +0000"
     },
     "done": false
@@ -1547,7 +1548,8 @@
     "criteria": {
       "cooked_cod": "2025-04-28 00:02:35 +0000",
       "bread": "2025-04-27 23:14:33 +0000",
-      "golden_apple": "2025-04-30 21:23:06 +0000"
+      "golden_apple": "2025-04-30 21:23:06 +0000",
+      "carrot": "2025-05-01 23:28:03 +0000"
     },
     "done": false
   },
@@ -7282,9 +7284,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-01 23:34:32 +0000"
+    },
+    "done": true
+  },
   "bloomingnature:recipes/swamp_oak_planks": {
     "criteria": {
       "has_swamp_oak_log": "2025-05-01 23:09:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-01 23:34:10 +0000"
     },
     "done": true
   },
@@ -7300,15 +7314,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-01 23:34:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-05-01 23:22:39 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-01 23:34:10 +0000"
+    },
+    "done": true
+  },
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2025-05-01 23:19:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-01 23:34:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-05-01 23:34:32 +0000"
     },
     "done": true
   },
@@ -7339,6 +7377,18 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-05-01 22:56:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2025-05-01 23:34:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-01 23:34:10 +0000"
     },
     "done": true
   },

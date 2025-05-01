@@ -7271,27 +7271,27 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
-    "criteria": {
-      "has_item": "2025-05-01 23:22:38 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-05-01 23:09:50 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/tree_fertilizer": {
+  "projectvibrantjourneys:recipes/building_blocks/stick_from_twigs": {
+    "criteria": {
+      "has_twigs": "2025-05-01 23:19:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-05-01 23:22:38 +0000"
     },
     "done": true
   },
-  "projectvibrantjourneys:recipes/building_blocks/stick_from_twigs": {
+  "create:recipes/misc/crafting/tree_fertilizer": {
     "criteria": {
-      "has_twigs": "2025-05-01 23:19:35 +0000"
+      "has_item": "2025-05-01 23:22:38 +0000"
     },
     "done": true
   },
@@ -7304,6 +7304,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-05-01 23:22:38 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/decorations/mossy_cobblestone_from_mossy_rocks": {
+    "criteria": {
+      "has_mossy_rocks": "2025-05-01 23:25:55 +0000"
     },
     "done": true
   },

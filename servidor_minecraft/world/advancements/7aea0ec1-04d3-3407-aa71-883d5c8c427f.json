@@ -87,6 +87,7 @@
       "minecraft:old_growth_spruce_taiga": "2025-05-01 23:04:09 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-01 23:15:41 +0000",
       "minecraft:deep_dark": "2025-04-26 03:44:25 +0000",
+      "minecraft:savanna": "2025-05-01 23:34:00 +0000",
       "minecraft:plains": "2025-04-26 03:15:28 +0000"
     },
     "done": false
@@ -5240,6 +5241,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-05-01 23:34:55 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/walnut_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-01 22:57:45 +0000"
@@ -5249,6 +5256,18 @@
   "bloomingnature:recipes/swamp_oak_planks": {
     "criteria": {
       "has_swamp_oak_log": "2025-05-01 22:48:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-01 23:33:32 +0000"
+    },
+    "done": true
+  },
+  "walkietalkie:recipes/diamond_walkietalkie": {
+    "criteria": {
+      "has_redstone": "2025-05-01 23:34:55 +0000"
     },
     "done": true
   },
@@ -5264,15 +5283,57 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2025-05-01 23:34:55 +0000"
+    },
+    "done": true
+  },
+  "walkietalkie:recipes/speaker": {
+    "criteria": {
+      "has_redstone": "2025-05-01 23:34:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2025-05-01 22:46:10 +0000"
     },
     "done": true
   },
+  "walkietalkie:recipes/golden_walkietalkie": {
+    "criteria": {
+      "has_redstone": "2025-05-01 23:34:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-05-01 23:34:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-05-01 23:34:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-05-01 23:34:55 +0000"
+    },
+    "done": true
+  },
   "bloomingnature:recipes/swamp_oak_fence": {
     "criteria": {
       "has_swamp_oak_planks": "2025-05-01 22:47:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2025-05-01 23:34:55 +0000"
     },
     "done": true
   },
@@ -5285,6 +5346,24 @@
   "ecologics:recipes/ecologics/coconut_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-01 22:57:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-05-01 23:34:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-05-01 23:34:55 +0000"
+    },
+    "done": true
+  },
+  "walkietalkie:recipes/iron_walkietalkie": {
+    "criteria": {
+      "has_redstone": "2025-05-01 23:34:55 +0000"
     },
     "done": true
   },
@@ -5306,11 +5385,41 @@
     },
     "done": true
   },
+  "walkietalkie:recipes/wooden_walkietalkie": {
+    "criteria": {
+      "has_redstone": "2025-05-01 23:34:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2025-05-01 23:34:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-05-01 23:34:55 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_monster_room": "2025-05-01 23:23:53 +0000"
     },
     "done": false
+  },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2025-05-01 23:34:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-05-01 23:34:55 +0000"
+    },
+    "done": true
   },
   "create:recipes/misc/crafting/materials/raw_zinc_block": {
     "criteria": {
@@ -5321,6 +5430,18 @@
   "bloomingnature:recipes/swamp_oak_door": {
     "criteria": {
       "has_swamp_oak_planks": "2025-05-01 22:47:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-05-01 23:34:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-05-01 23:34:55 +0000"
     },
     "done": true
   },
@@ -5342,6 +5463,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-05-01 23:34:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-05-01 23:34:55 +0000"
+    },
+    "done": true
+  },
   "bloomingnature:recipes/swamp_oak_slab": {
     "criteria": {
       "has_swamp_oak_planks": "2025-05-01 22:47:01 +0000"
@@ -5354,9 +5487,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-05-01 23:34:55 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:small_dungeon": {
     "criteria": {
       "in_better_monster_room": "2025-05-01 23:23:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-05-01 23:34:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-05-01 23:34:55 +0000"
+    },
+    "done": true
+  },
+  "walkietalkie:recipes/stone_walkietalkie": {
+    "criteria": {
+      "has_redstone": "2025-05-01 23:34:55 +0000"
     },
     "done": true
   },
@@ -5366,9 +5523,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-05-01 23:34:55 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/flowering_azalea_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-01 22:57:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-01 23:33:32 +0000"
     },
     "done": true
   },
@@ -5378,9 +5547,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-05-01 23:34:55 +0000"
+    },
+    "done": true
+  },
   "bloomingnature:recipes/swamp_oak_stairs": {
     "criteria": {
       "has_swamp_oak_planks": "2025-05-01 22:47:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2025-05-01 23:34:55 +0000"
     },
     "done": true
   },
@@ -5390,15 +5571,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-05-01 23:34:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2025-05-01 23:34:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-01 23:33:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-01 22:21:50 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-05-01 23:34:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-05-01 23:34:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-01 22:57:45 +0000"
+    },
+    "done": true
+  },
+  "walkietalkie:recipes/netherite_walkietalkie": {
+    "criteria": {
+      "has_redstone": "2025-05-01 23:34:55 +0000"
     },
     "done": true
   },
@@ -5426,6 +5643,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-05-01 23:34:55 +0000"
+    },
+    "done": true
+  },
   "bloomingnature:recipes/swamp_oak_hanging_sign": {
     "criteria": {
       "has_swamp_oak_planks": "2025-05-01 22:47:01 +0000"
@@ -5435,6 +5658,30 @@
   "refurbished_furniture:recipes/freezing/ice": {
     "criteria": {
       "has_ingredient": "2025-05-01 23:21:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2025-05-01 23:34:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-05-01 23:34:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2025-05-01 23:34:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-01 23:33:32 +0000"
     },
     "done": true
   },
