@@ -1578,3 +1578,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01May2025 04:28:06.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zerocalcare has made the advancement [Disme A Dozen]
 [01May2025 04:28:08.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 has made the advancement [Hunt and Gather]
 [01May2025 04:31:49.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zerocalcare moved wrongly!
+[01May2025 04:34:30.721] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
+[01May2025 04:35:00.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zerocalcare has made the advancement [Close Quarters]
+[01May2025 04:38:07.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zerocalcare has made the advancement [Crops of the Wild]
+[01May2025 04:42:01.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigan_viendo01) moved wrongly! 0.4894344444681735
+[01May2025 04:42:01.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigan_viendo01) moved wrongly! 0.7636702087763751
+[01May2025 04:42:01.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigan_viendo01) moved wrongly! 1.0182383726785247
+[01May2025 04:42:01.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigan_viendo01) moved wrongly! 0.2545729425359724
+[01May2025 04:42:01.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigan_viendo01) moved wrongly! 0.2545772433062865
+[01May2025 04:42:01.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of sigan_viendo01) moved wrongly! 0.25458111399947825
+[01May2025 04:50:48.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigan_viendo01 lost connection: Disconnected
+[01May2025 04:50:48.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 left the game
+[01May2025 04:50:48.398] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sigan_viendo01
+[01May2025 04:52:12.044] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zerocalcare lost connection: Disconnected
+[01May2025 04:52:12.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zerocalcare left the game
+[01May2025 04:52:12.046] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zerocalcare
