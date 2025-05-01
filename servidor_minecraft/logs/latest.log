@@ -1197,3 +1197,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01May2025 17:23:35.111] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from ANGELXD12377
 [01May2025 17:23:35.216] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ANGELXD12377 (18)
 [01May2025 17:23:35.218] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ANGELXD12377
+[01May2025 17:30:32.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANGELXD12377 has made the advancement [Sweet Dreams]
+[01May2025 17:32:06.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANGELXD12377 has made the advancement [Acquire Hardware]
+[01May2025 17:34:28.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANGELXD12377 has made the advancement [Diamonds!]
+[01May2025 17:39:38.415] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: A1lenSS[/127.241.76.144:41561] logged in with entity id 9437 at (-112.06954275323747, 23.0, 157.2339083969318)
+[01May2025 17:39:38.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A1lenSS joined the game
+[01May2025 17:39:38.610] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to A1lenSS
+[01May2025 17:39:39.584] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from A1lenSS
+[01May2025 17:39:39.627] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of A1lenSS (18)
+[01May2025 17:39:39.628] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to A1lenSS
