@@ -1,0 +1,17 @@
+{
+	id: "d66273eb-0975-3526-b00b-a5e2028314f4"
+	type: "player"
+	player_name: "ANGELXD12377"
+	ranks: {
+		d66273eb-0975-3526-b00b-a5e2028314f4: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ANGELXD12377"
+		"ftbteams:description": ""
+		"ftbteams:color": "#8359FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

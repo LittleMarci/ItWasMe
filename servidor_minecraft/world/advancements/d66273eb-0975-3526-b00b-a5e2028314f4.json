@@ -1,0 +1,165 @@
+{
+  "ecologics:recipes/ecologics/azalea_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 17:24:32 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-05-01 17:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-05-01 17:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 17:24:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 17:24:32 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-05-01 17:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 17:24:32 +0000"
+    },
+    "done": true
+  },
+  "overworld_netherite_ore:overworld_netherite": {
+    "criteria": {
+      "overworld_netherite_0": "2025-05-01 17:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 17:24:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 17:24:32 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 17:24:32 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/flowering_azalea_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 17:24:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 17:24:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-05-01 17:24:32 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 17:24:32 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/bamboo_wall": {
+    "criteria": {
+      "has_logs": "2025-05-01 17:23:34 +0000"
+    },
+    "done": true
+  },
+  "jeffs_cursed_walking_structures:jeffs_cursed_walking_structures": {
+    "criteria": {
+      "jeffs_cursed_walking_structures_0": "2025-05-01 17:23:34 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/bamboo_beam": {
+    "criteria": {
+      "has_log": "2025-05-01 17:23:34 +0000"
+    },
+    "done": true
+  },
+  "solonion:recipes/food_book": {
+    "criteria": {
+      "has_potato": "2025-05-01 17:23:34 +0000",
+      "has_book": "2025-05-01 17:23:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2025-05-01 17:23:35 +0000"
+    },
+    "done": true
+  },
+  "the_deep_void:the_deep_void_advancement": {
+    "criteria": {
+      "the_deep_void_advancement_0": "2025-05-01 17:23:34 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-05-01 17:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 17:24:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-01 17:24:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-05-01 17:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2025-05-01 17:23:36 +0000",
+      "minecraft:river": "2025-05-01 17:24:42 +0000",
+      "minecraft:stony_shore": "2025-05-01 17:25:07 +0000",
+      "minecraft:cold_ocean": "2025-05-01 17:25:56 +0000",
+      "minecraft:forest": "2025-05-01 17:24:25 +0000",
+      "minecraft:plains": "2025-05-01 17:25:10 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
