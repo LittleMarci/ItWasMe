@@ -8441,6 +8441,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-01 23:48:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/glass_from_framed_glass": {
     "criteria": {
       "has_item": "2025-05-01 23:45:15 +0000"
@@ -8462,6 +8468,12 @@
   "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
     "criteria": {
       "has_item": "2025-05-01 23:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-05-01 23:48:30 +0000"
     },
     "done": true
   },

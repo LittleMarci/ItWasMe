@@ -5700,5 +5700,23 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/baobab_planks": {
+    "criteria": {
+      "has_baobab_log": "2025-05-01 23:50:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-05-01 23:49:30 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_wood": {
+    "criteria": {
+      "has_baobab_log": "2025-05-01 23:50:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
