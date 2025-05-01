@@ -7363,5 +7363,17 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-01 18:08:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-05-01 18:09:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

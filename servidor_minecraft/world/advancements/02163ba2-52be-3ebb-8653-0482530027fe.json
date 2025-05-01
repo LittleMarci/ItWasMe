@@ -80,6 +80,7 @@
       "minecraft:stony_shore": "2025-04-26 19:02:50 +0000",
       "minecraft:cold_ocean": "2025-04-26 19:12:20 +0000",
       "minecraft:forest": "2025-04-26 18:51:42 +0000",
+      "minecraft:deep_cold_ocean": "2025-05-01 18:49:00 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-29 16:28:38 +0000",
       "minecraft:deep_dark": "2025-04-26 19:19:20 +0000",
       "minecraft:meadow": "2025-05-01 03:26:05 +0000",
@@ -7967,21 +7968,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/oak_cabinet": {
-    "criteria": {
-      "has_oak_trapdoor": "2025-05-01 04:21:33 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/frying/sweet_berry_jam": {
     "criteria": {
       "has_ingredient": "2025-05-01 04:19:34 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
-    "criteria": {
-      "has_lily_pad": "2025-05-01 04:21:52 +0000"
     },
     "done": true
   },
@@ -7994,6 +7983,18 @@
   "handcrafted:recipes/misc/berry_jam_jar": {
     "criteria": {
       "has_berry_jam_jar": "2025-05-01 04:19:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-05-01 04:21:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
+    "criteria": {
+      "has_lily_pad": "2025-05-01 04:21:52 +0000"
     },
     "done": true
   },
