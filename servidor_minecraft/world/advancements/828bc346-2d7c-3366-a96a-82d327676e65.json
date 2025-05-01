@@ -75,14 +75,17 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-04-27 23:06:23 +0000",
+      "minecraft:birch_forest": "2025-05-01 23:16:02 +0000",
       "minecraft:river": "2025-04-27 23:08:00 +0000",
       "minecraft:stony_shore": "2025-04-27 23:25:44 +0000",
+      "minecraft:dripstone_caves": "2025-05-01 23:22:04 +0000",
       "minecraft:grove": "2025-05-01 03:16:52 +0000",
       "minecraft:cold_ocean": "2025-04-27 23:28:22 +0000",
       "minecraft:forest": "2025-04-27 23:07:46 +0000",
       "minecraft:deep_cold_ocean": "2025-04-30 21:33:34 +0000",
       "minecraft:ocean": "2025-05-01 03:29:39 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-01 23:01:01 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-01 23:15:40 +0000",
       "minecraft:plains": "2025-04-27 23:11:25 +0000"
     },
     "done": false
@@ -7297,6 +7300,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-01 23:22:39 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-05-01 23:19:56 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/dark_oak_beam": {
     "criteria": {
       "has_log": "2025-05-01 22:56:20 +0000"
@@ -7306,6 +7321,18 @@
   "bbb:recipes/dark_oak_wall": {
     "criteria": {
       "has_logs": "2025-05-01 22:56:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-01 23:23:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-05-01 23:23:55 +0000"
     },
     "done": true
   },
