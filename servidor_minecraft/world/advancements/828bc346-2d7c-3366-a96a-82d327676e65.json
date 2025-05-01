@@ -77,9 +77,11 @@
       "minecraft:taiga": "2025-04-27 23:06:23 +0000",
       "minecraft:river": "2025-04-27 23:08:00 +0000",
       "minecraft:stony_shore": "2025-04-27 23:25:44 +0000",
+      "minecraft:grove": "2025-05-01 03:16:52 +0000",
       "minecraft:cold_ocean": "2025-04-27 23:28:22 +0000",
       "minecraft:forest": "2025-04-27 23:07:46 +0000",
       "minecraft:deep_cold_ocean": "2025-04-30 21:33:34 +0000",
+      "minecraft:ocean": "2025-05-01 03:29:39 +0000",
       "minecraft:plains": "2025-04-27 23:11:25 +0000"
     },
     "done": false
@@ -6363,9 +6365,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-01 03:15:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-01 03:15:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-05-01 02:55:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-05-01 03:40:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-01 03:40:21 +0000"
     },
     "done": true
   },
@@ -6399,9 +6425,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-01 03:15:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-01 03:15:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-01 03:15:40 +0000"
+    },
+    "done": true
+  },
   "toolbelt:recipes/belt": {
     "criteria": {
       "has_leather": "2025-05-01 02:55:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-05-01 03:40:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-05-01 03:40:21 +0000"
     },
     "done": true
   },
