@@ -6180,5 +6180,23 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/swamp_oak_wood": {
+    "criteria": {
+      "has_swamp_oak_log": "2025-05-02 00:54:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-05-02 00:54:26 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_planks": {
+    "criteria": {
+      "has_swamp_oak_log": "2025-05-02 00:54:40 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

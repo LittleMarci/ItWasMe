@@ -89,6 +89,7 @@
       "minecraft:old_growth_spruce_taiga": "2025-05-01 23:04:09 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-01 23:15:41 +0000",
       "minecraft:deep_dark": "2025-04-26 03:44:25 +0000",
+      "minecraft:meadow": "2025-05-02 00:53:18 +0000",
       "minecraft:savanna": "2025-05-01 23:34:00 +0000",
       "minecraft:plains": "2025-04-26 03:15:28 +0000"
     },
@@ -5767,6 +5768,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/baobab_trapdoor": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-02 00:48:51 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/acacia_layer": {
     "criteria": {
       "has_block": "2025-05-02 00:20:35 +0000"
@@ -5794,6 +5801,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-02 00:18:24 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_door": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-02 00:48:51 +0000"
     },
     "done": true
   },
@@ -5893,6 +5906,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-05-02 00:54:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
     "criteria": {
       "has_moss": "2025-05-01 23:55:40 +0000"
@@ -5932,6 +5951,18 @@
   "create:recipes/building_blocks/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-02 00:10:19 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_sign": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-02 00:48:51 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_button": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-02 00:48:51 +0000"
     },
     "done": true
   },
@@ -5998,6 +6029,12 @@
   "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-02 00:10:19 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_stairs": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-02 00:48:51 +0000"
     },
     "done": true
   },
@@ -6145,6 +6182,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/baobab_fence_gate": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-02 00:48:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-05-02 00:10:19 +0000"
@@ -6160,6 +6203,12 @@
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2025-05-02 00:20:35 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_window": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-02 00:48:51 +0000"
     },
     "done": true
   },
@@ -6199,6 +6248,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/baobab_chest_boat": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-02 00:48:51 +0000"
+    },
+    "done": true
+  },
   "bloomingnature:recipes/baobab_wood": {
     "criteria": {
       "has_baobab_log": "2025-05-01 23:50:47 +0000"
@@ -6235,9 +6290,21 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/baobab_boat": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-02 00:48:51 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-05-02 00:01:39 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_hanging_sign": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-02 00:48:51 +0000"
     },
     "done": true
   },
@@ -6505,9 +6572,21 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/baobab_slab": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-02 00:48:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-02 00:18:24 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_fence": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-02 00:48:51 +0000"
     },
     "done": true
   },
