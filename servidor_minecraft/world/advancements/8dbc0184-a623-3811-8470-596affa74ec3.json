@@ -6186,15 +6186,141 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/swamp_oak_trapdoor": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-02 01:01:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-05-02 00:54:26 +0000"
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-05-02 01:03:30 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-02 01:06:30 +0000"
+    },
+    "done": true
+  },
   "bloomingnature:recipes/swamp_oak_planks": {
     "criteria": {
       "has_swamp_oak_log": "2025-05-02 00:54:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-05-02 00:58:18 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_button": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-02 01:01:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-02 01:06:30 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_fence": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-02 01:01:38 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_fence_gate": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-02 01:01:38 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_window": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-02 01:01:38 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_sign": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-02 01:01:38 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_door": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-02 01:01:38 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_chest_boat": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-02 01:01:38 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_slab": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-02 01:01:38 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_stairs": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-02 01:01:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-02 00:58:18 +0000"
+    },
+    "done": true
+  },
+  "regrowth:rgroot/offlimits": {
+    "criteria": {
+      "has_shovel": "2025-05-02 01:04:44 +0000"
+    },
+    "done": false
+  },
+  "bloomingnature:recipes/swamp_oak_boat": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-02 01:01:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-05-02 00:58:18 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_hanging_sign": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-02 01:01:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-05-02 00:58:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-02 01:03:30 +0000"
     },
     "done": true
   },
