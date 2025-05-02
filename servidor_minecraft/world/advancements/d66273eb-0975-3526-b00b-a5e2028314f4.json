@@ -4156,9 +4156,10 @@
   },
   "regrowth:rgroot/offlimits": {
     "criteria": {
+      "has_traded": "2025-05-02 22:25:08 +0000",
       "has_shovel": "2025-05-01 18:11:32 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
@@ -5458,9 +5459,10 @@
   },
   "regrowth:rgroot/teardown": {
     "criteria": {
+      "has_traded": "2025-05-02 22:25:08 +0000",
       "has_wall": "2025-05-02 22:01:13 +0000"
     },
-    "done": false
+    "done": true
   },
   "decorative_blocks:recipes/building_blocks/spruce_beam": {
     "criteria": {
@@ -5540,6 +5542,12 @@
     },
     "done": true
   },
+  "regrowth:rgroot/rgroot": {
+    "criteria": {
+      "has_traded": "2025-05-02 22:25:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-02 21:11:14 +0000"
@@ -5588,6 +5596,12 @@
     },
     "done": true
   },
+  "regrowth:rgroot/saferhedges": {
+    "criteria": {
+      "has_traded": "2025-05-02 22:25:08 +0000"
+    },
+    "done": false
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-05-02 21:15:38 +0000"
@@ -5621,6 +5635,12 @@
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-02 21:11:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-02 22:25:08 +0000"
     },
     "done": true
   },

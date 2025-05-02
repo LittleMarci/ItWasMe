@@ -4101,7 +4101,9 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sugar_cane": "2025-05-01 02:38:27 +0000"
+      "sugar_cane": "2025-05-01 02:38:27 +0000",
+      "potato": "2025-05-02 22:31:09 +0000",
+      "carrot": "2025-05-02 22:30:48 +0000"
     },
     "done": false
   },
@@ -6855,6 +6857,12 @@
     },
     "done": true
   },
+  "regrowth:rgroot/teardown": {
+    "criteria": {
+      "has_traded": "2025-05-02 22:24:42 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-02 22:19:05 +0000"
@@ -6870,6 +6878,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-02 22:22:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-05-02 22:27:14 +0000"
     },
     "done": true
   },
@@ -6951,6 +6965,12 @@
     },
     "done": true
   },
+  "regrowth:rgroot/rgroot": {
+    "criteria": {
+      "has_traded": "2025-05-02 22:24:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-02 22:22:33 +0000"
@@ -7017,6 +7037,18 @@
     },
     "done": true
   },
+  "regrowth:rgroot/saferhedges": {
+    "criteria": {
+      "has_traded": "2025-05-02 22:24:42 +0000"
+    },
+    "done": false
+  },
+  "regrowth:rgroot/offlimits": {
+    "criteria": {
+      "has_traded": "2025-05-02 22:24:42 +0000"
+    },
+    "done": false
+  },
   "handcrafted:recipes/misc/stone_corner_trim": {
     "criteria": {
       "has_stone_corner_trim": "2025-05-02 22:19:05 +0000"
@@ -7068,6 +7100,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-02 22:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-02 22:24:42 +0000"
     },
     "done": true
   },
