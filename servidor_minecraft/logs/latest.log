@@ -2063,3 +2063,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02May2025 22:13:40.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANGELXD12377) moved wrongly! 0.2895550744842694
 [02May2025 22:13:40.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANGELXD12377) moved wrongly! 0.3259419654475266
 [02May2025 22:13:58.554] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02May2025 22:15:06.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonsoVanDeKap has made the advancement [A Seedy Place]
+[02May2025 22:15:36.275] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonsoVanDeKap lost connection: Timed out
+[02May2025 22:15:36.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonsoVanDeKap left the game
+[02May2025 22:15:36.276] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlonsoVanDeKap
+[02May2025 22:17:53.738] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@12091b67[id=<null>,name=AlonsoVanDeKap,properties={},legacy=false] (/127.248.23.195:46797) lost connection: Disconnected
+[02May2025 22:18:06.375] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A1lenSS lost connection: Disconnected
+[02May2025 22:18:06.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A1lenSS left the game
+[02May2025 22:18:06.376] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client A1lenSS
+[02May2025 22:18:07.839] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlonsoVanDeKap[/127.248.23.195:44569] logged in with entity id 1038760 at (-170.1498655291354, 64.0, 102.90137087966477)
+[02May2025 22:18:07.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonsoVanDeKap joined the game
+[02May2025 22:18:07.915] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to AlonsoVanDeKap
+[02May2025 22:18:09.187] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from AlonsoVanDeKap
+[02May2025 22:18:09.188] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AlonsoVanDeKap (18)
+[02May2025 22:18:09.188] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AlonsoVanDeKap
+[02May2025 22:20:38.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.bloomingnature.mod_boat (vehicle of Jetli2000) moved wrongly! 0.29065564959230983
+[02May2025 22:20:38.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.bloomingnature.mod_boat (vehicle of Jetli2000) moved wrongly! 0.39057205275270235
+[02May2025 22:24:42.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zerocalcare has made the advancement [What a Deal!]

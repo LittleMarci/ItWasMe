@@ -8270,6 +8270,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_slab_from_reinforced_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone_bricks": "2025-05-02 22:15:08 +0000"
+    },
+    "done": true
+  },
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-05-02 22:01:18 +0000"
@@ -8294,15 +8300,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_slab": {
+    "criteria": {
+      "has_block": "2025-05-02 22:15:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-05-02 22:00:05 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_cracked_stone_bricks": {
+    "criteria": {
+      "has_item": "2025-05-02 22:15:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_bacon": {
     "criteria": {
       "cooked_bacon": "2025-05-02 22:00:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_stairs_from_reinforced_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone_bricks": "2025-05-02 22:15:08 +0000"
     },
     "done": true
   },
@@ -8369,6 +8393,18 @@
   "refurbished_furniture:recipes/decorations/yellow_kitchen_drawer_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-02 22:03:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_stairs": {
+    "criteria": {
+      "has_block": "2025-05-02 22:15:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_wall": {
+    "criteria": {
+      "has_block": "2025-05-02 22:15:08 +0000"
     },
     "done": true
   },
@@ -8501,6 +8537,18 @@
   "refurbished_furniture:recipes/decorations/yellow_sofa_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-02 22:03:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_wall_from_reinforced_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone_bricks": "2025-05-02 22:15:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_stone_bricks_from_reinforced_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone_bricks": "2025-05-02 22:15:08 +0000"
     },
     "done": true
   },

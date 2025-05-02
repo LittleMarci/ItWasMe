@@ -5408,15 +5408,39 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_slab_from_reinforced_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone_bricks": "2025-05-02 22:14:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
     "criteria": {
       "has_moss": "2025-05-02 21:18:18 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_slab": {
+    "criteria": {
+      "has_block": "2025-05-02 22:14:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cracked_stone_bricks": {
+    "criteria": {
+      "has_item": "2025-05-02 22:14:59 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/fancy_painting": {
     "criteria": {
       "has_fancy_painting": "2025-05-02 22:02:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_stairs_from_reinforced_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone_bricks": "2025-05-02 22:14:59 +0000"
     },
     "done": true
   },
@@ -5480,6 +5504,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_stairs": {
+    "criteria": {
+      "has_block": "2025-05-02 22:14:59 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-02 22:04:35 +0000"
@@ -5495,6 +5525,12 @@
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-02 22:04:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_wall": {
+    "criteria": {
+      "has_block": "2025-05-02 22:14:59 +0000"
     },
     "done": true
   },
@@ -5612,9 +5648,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_wall_from_reinforced_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone_bricks": "2025-05-02 22:14:59 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
     "criteria": {
       "has_brown_mushroom": "2025-05-02 22:04:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_stone_bricks_from_reinforced_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone_bricks": "2025-05-02 22:14:59 +0000"
     },
     "done": true
   },
