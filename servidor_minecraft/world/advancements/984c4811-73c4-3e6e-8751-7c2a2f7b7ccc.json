@@ -7747,6 +7747,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-05-02 20:14:17 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/polished_andesite_layer": {
     "criteria": {
       "has_block": "2025-05-02 17:17:27 +0000"
@@ -8176,6 +8182,12 @@
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-02 17:44:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-05-02 20:14:17 +0000"
     },
     "done": true
   },
