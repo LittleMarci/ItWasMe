@@ -792,6 +792,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:zombified_piglin": "2025-05-02 19:31:15 +0000",
       "minecraft:zombie": "2025-04-26 04:40:52 +0000",
       "minecraft:drowned": "2025-04-26 18:36:27 +0000",
       "minecraft:zombie_villager": "2025-04-26 18:35:31 +0000"
@@ -7788,6 +7789,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-05-02 19:37:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
     "criteria": {
       "has_moss": "2025-05-02 19:24:00 +0000"
@@ -7797,6 +7804,12 @@
   "immersive_weathering:recipes/moss_clump": {
     "criteria": {
       "has_copper_block": "2025-05-02 19:24:00 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/pot": {
+    "criteria": {
+      "has_terracotta": "2025-05-02 19:37:18 +0000"
     },
     "done": true
   },
