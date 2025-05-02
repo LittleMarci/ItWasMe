@@ -8453,6 +8453,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/green_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2025-05-02 00:33:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2025-05-02 00:33:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/wooden_bracket": {
     "criteria": {
       "has_item": "2025-05-02 00:10:20 +0000"
@@ -8471,9 +8483,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2025-05-02 00:33:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/curiosities/minecart_coupling": {
     "criteria": {
       "has_item": "2025-05-02 00:10:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2025-05-02 00:33:14 +0000"
     },
     "done": true
   },
@@ -8492,6 +8516,12 @@
   "createdeco:recipes/decorations/andesite_bars": {
     "criteria": {
       "has_item": "2025-05-02 00:10:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2025-05-02 00:33:14 +0000"
     },
     "done": true
   },
@@ -8543,6 +8573,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2025-05-02 00:33:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/filter": {
     "criteria": {
       "has_item": "2025-05-02 00:10:20 +0000"
@@ -8591,6 +8627,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2025-05-02 00:33:14 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/blue_andesite_lamp": {
     "criteria": {
       "has_item": "2025-05-02 00:10:20 +0000"
@@ -8606,6 +8648,12 @@
   "createdeco:recipes/decorations/andesite_bars_overlay_from_stonecutting": {
     "criteria": {
       "has_item": "2025-05-02 00:10:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2025-05-02 00:33:14 +0000"
     },
     "done": true
   },
@@ -8699,6 +8747,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2025-05-02 00:33:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/sticky_mechanical_piston": {
     "criteria": {
       "has_item": "2025-05-02 00:10:20 +0000"
@@ -8720,6 +8774,12 @@
   "create:recipes/misc/crafting/kinetics/display_board": {
     "criteria": {
       "has_item": "2025-05-02 00:10:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2025-05-02 00:33:14 +0000"
     },
     "done": true
   },
@@ -8747,6 +8807,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2025-05-02 00:33:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2025-05-02 00:33:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/andesite_tunnel": {
     "criteria": {
       "has_item": "2025-05-02 00:10:20 +0000"
@@ -8756,6 +8828,12 @@
   "createdeco:recipes/decorations/andesite_support_wedge_from_stonecutting": {
     "criteria": {
       "has_item": "2025-05-02 00:10:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2025-05-02 00:33:14 +0000"
     },
     "done": true
   },
@@ -8780,6 +8858,12 @@
   "create:recipes/misc/crafting/logistics/andesite_funnel": {
     "criteria": {
       "has_item": "2025-05-02 00:10:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2025-05-02 00:33:14 +0000"
     },
     "done": true
   },
@@ -8810,6 +8894,12 @@
   "create:recipes/misc/crafting/kinetics/cogwheel": {
     "criteria": {
       "has_item": "2025-05-02 00:10:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2025-05-02 00:33:14 +0000"
     },
     "done": true
   },
