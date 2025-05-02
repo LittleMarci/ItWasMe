@@ -2688,6 +2688,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-04-26 05:17:07 +0000",
+      "apple": "2025-05-02 15:50:30 +0000",
       "cooked_cod": "2025-04-27 23:59:32 +0000",
       "bread": "2025-04-26 04:46:40 +0000",
       "golden_apple": "2025-04-28 03:07:27 +0000",
@@ -7095,6 +7096,30 @@
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2025-05-02 15:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-02 16:03:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-02 16:03:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-02 16:03:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-02 16:03:35 +0000"
     },
     "done": true
   },
