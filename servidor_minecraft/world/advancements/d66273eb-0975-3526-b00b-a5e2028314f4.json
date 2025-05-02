@@ -84,6 +84,7 @@
       "minecraft:cold_ocean": "2025-05-01 17:25:56 +0000",
       "minecraft:forest": "2025-05-01 17:24:25 +0000",
       "minecraft:deep_cold_ocean": "2025-05-02 21:12:34 +0000",
+      "minecraft:jungle": "2025-05-02 22:55:46 +0000",
       "minecraft:ocean": "2025-05-02 21:14:06 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-02 22:52:25 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-02 22:02:02 +0000",
@@ -5491,6 +5492,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-05-02 23:01:38 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/crafting/copycat_iron_door": {
+    "criteria": {
+      "has_item": "2025-05-02 23:00:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_stone_brick_stairs_from_reinforced_stone_bricks_stonecutting": {
     "criteria": {
       "has_reinforced_stone_bricks": "2025-05-02 22:14:59 +0000"
@@ -5519,6 +5532,12 @@
     "criteria": {
       "has_traded": "2025-05-02 22:25:08 +0000",
       "has_wall": "2025-05-02 22:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-05-02 23:01:38 +0000"
     },
     "done": true
   },
@@ -5633,6 +5652,12 @@
   "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-05-02 22:00:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-05-02 23:01:38 +0000"
     },
     "done": true
   },

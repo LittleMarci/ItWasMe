@@ -8016,6 +8016,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-05-02 22:57:53 +0000",
       "potato": "2025-05-02 22:37:31 +0000",
       "wheat": "2025-05-02 22:15:06 +0000"
     },
@@ -8039,15 +8040,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-02 22:57:50 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_oak_trapdoor": "2025-05-02 22:26:45 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-05-02 22:57:50 +0000"
+    },
+    "done": true
+  },
   "regrowth:rgroot/rgroot": {
     "criteria": {
       "has_traded": "2025-05-02 22:49:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-02 22:57:50 +0000"
     },
     "done": true
   },
