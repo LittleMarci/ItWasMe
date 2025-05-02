@@ -1862,3 +1862,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02May2025 20:19:34.143] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to A1lenSS
 [02May2025 20:20:24.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANGELXD12377 was slain by Zombie
 [02May2025 20:20:26.044] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02May2025 20:24:13.124] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigan_viendo01 lost connection: Disconnected
+[02May2025 20:24:13.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 left the game
+[02May2025 20:24:13.125] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sigan_viendo01
