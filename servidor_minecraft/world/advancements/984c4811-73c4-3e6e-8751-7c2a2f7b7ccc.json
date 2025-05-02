@@ -77,8 +77,10 @@
       "minecraft:taiga": "2025-04-26 02:21:33 +0000",
       "minecraft:deep_ocean": "2025-04-26 18:12:18 +0000",
       "minecraft:birch_forest": "2025-04-26 18:23:26 +0000",
+      "minecraft:beach": "2025-05-02 22:34:34 +0000",
       "minecraft:dark_forest": "2025-04-26 18:14:48 +0000",
       "minecraft:river": "2025-04-26 02:23:58 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-02 22:51:42 +0000",
       "minecraft:stony_shore": "2025-04-26 02:24:45 +0000",
       "minecraft:dripstone_caves": "2025-05-02 16:49:06 +0000",
       "minecraft:cold_ocean": "2025-04-26 02:30:28 +0000",
@@ -86,6 +88,7 @@
       "minecraft:lush_caves": "2025-04-26 18:21:28 +0000",
       "minecraft:deep_cold_ocean": "2025-04-26 18:12:10 +0000",
       "minecraft:ocean": "2025-04-26 18:13:00 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-02 22:52:14 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-02 16:45:22 +0000",
       "minecraft:deep_dark": "2025-04-26 05:00:53 +0000",
       "minecraft:meadow": "2025-04-26 18:29:06 +0000",
@@ -2165,6 +2168,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-29 16:56:48 +0000",
       "minecraft:zoglin": "2025-05-02 20:07:53 +0000",
+      "minecraft:creeper": "2025-05-02 22:39:48 +0000",
       "minecraft:zombified_piglin": "2025-05-02 19:30:26 +0000",
       "minecraft:wither_skeleton": "2025-04-29 17:59:48 +0000",
       "minecraft:husk": "2025-05-02 19:30:36 +0000",
@@ -8575,6 +8579,18 @@
       "has_reinforced_stone_bricks": "2025-05-02 22:15:08 +0000"
     },
     "done": true
+  },
+  "copycats:recipes/misc/crafting/copycat_iron_door": {
+    "criteria": {
+      "has_item": "2025-05-02 22:45:46 +0000"
+    },
+    "done": true
+  },
+  "regrowth:rgroot/teardown": {
+    "criteria": {
+      "has_wall": "2025-05-02 22:48:57 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

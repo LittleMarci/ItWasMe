@@ -5030,9 +5030,10 @@
   },
   "regrowth:rgroot/offlimits": {
     "criteria": {
+      "has_traded": "2025-05-02 22:49:03 +0000",
       "has_shovel": "2025-04-26 07:09:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
@@ -8008,12 +8009,14 @@
   },
   "regrowth:rgroot/teardown": {
     "criteria": {
+      "has_traded": "2025-05-02 22:49:03 +0000",
       "has_wall": "2025-05-02 22:02:54 +0000"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "potato": "2025-05-02 22:37:31 +0000",
       "wheat": "2025-05-02 22:15:06 +0000"
     },
     "done": false
@@ -8039,6 +8042,24 @@
   "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_oak_trapdoor": "2025-05-02 22:26:45 +0000"
+    },
+    "done": true
+  },
+  "regrowth:rgroot/rgroot": {
+    "criteria": {
+      "has_traded": "2025-05-02 22:49:03 +0000"
+    },
+    "done": true
+  },
+  "regrowth:rgroot/saferhedges": {
+    "criteria": {
+      "has_traded": "2025-05-02 22:49:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-02 22:49:03 +0000"
     },
     "done": true
   },

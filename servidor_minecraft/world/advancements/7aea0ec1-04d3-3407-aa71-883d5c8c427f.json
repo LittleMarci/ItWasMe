@@ -77,8 +77,10 @@
       "minecraft:taiga": "2025-04-26 03:13:15 +0000",
       "minecraft:birch_forest": "2025-05-01 23:16:05 +0000",
       "minecraft:savanna_plateau": "2025-05-01 23:36:52 +0000",
+      "minecraft:beach": "2025-05-02 22:34:42 +0000",
       "minecraft:stony_peaks": "2025-05-01 23:46:51 +0000",
       "minecraft:river": "2025-04-26 03:49:23 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-02 22:51:42 +0000",
       "minecraft:stony_shore": "2025-04-26 03:14:54 +0000",
       "minecraft:dripstone_caves": "2025-05-01 23:22:05 +0000",
       "minecraft:grove": "2025-04-26 03:58:46 +0000",
@@ -87,6 +89,7 @@
       "minecraft:deep_cold_ocean": "2025-05-01 03:08:47 +0000",
       "minecraft:ocean": "2025-05-01 03:29:49 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-01 23:04:09 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-02 22:52:22 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-01 23:15:41 +0000",
       "minecraft:deep_dark": "2025-04-26 03:44:25 +0000",
       "minecraft:meadow": "2025-05-02 00:53:18 +0000",
@@ -6767,6 +6770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-05-02 22:36:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-02 22:19:05 +0000"
@@ -6827,9 +6836,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-02 22:36:03 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/dark_oak_palisade": {
     "criteria": {
       "has_log": "2025-05-02 21:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-02 22:36:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-02 22:36:03 +0000"
     },
     "done": true
   },
@@ -6935,6 +6962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-02 22:41:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-05-02 22:19:05 +0000"
@@ -6989,6 +7022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-02 22:36:03 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/dark_oak_frame": {
     "criteria": {
       "has_planks": "2025-05-02 21:56:31 +0000"
@@ -7031,9 +7070,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2025-05-02 22:36:03 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/pillager_trophy": {
     "criteria": {
       "has_pillager_trophy": "2025-05-02 22:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-02 22:47:50 +0000"
     },
     "done": true
   },
@@ -7064,6 +7115,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-02 22:22:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-02 22:36:03 +0000"
     },
     "done": true
   },
@@ -7154,6 +7211,12 @@
   "handcrafted:recipes/misc/stone_pillar_trim": {
     "criteria": {
       "has_stone_pillar_trim": "2025-05-02 22:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-02 22:47:50 +0000"
     },
     "done": true
   },

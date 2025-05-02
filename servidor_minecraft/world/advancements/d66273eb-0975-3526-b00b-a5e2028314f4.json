@@ -76,13 +76,16 @@
     "criteria": {
       "minecraft:taiga": "2025-05-01 17:23:36 +0000",
       "minecraft:deep_ocean": "2025-05-02 21:14:54 +0000",
+      "minecraft:birch_forest": "2025-05-02 22:48:02 +0000",
       "minecraft:beach": "2025-05-02 21:16:36 +0000",
       "minecraft:river": "2025-05-01 17:24:42 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-02 22:51:43 +0000",
       "minecraft:stony_shore": "2025-05-01 17:25:07 +0000",
       "minecraft:cold_ocean": "2025-05-01 17:25:56 +0000",
       "minecraft:forest": "2025-05-01 17:24:25 +0000",
       "minecraft:deep_cold_ocean": "2025-05-02 21:12:34 +0000",
       "minecraft:ocean": "2025-05-02 21:14:06 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-02 22:52:25 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-02 22:02:02 +0000",
       "minecraft:meadow": "2025-05-02 19:20:15 +0000",
       "minecraft:plains": "2025-05-01 17:25:10 +0000"
@@ -2491,7 +2494,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-05-01 17:34:24 +0000"
+      "bread": "2025-05-01 17:34:24 +0000",
+      "golden_apple": "2025-05-02 22:42:22 +0000"
     },
     "done": false
   },
@@ -5367,6 +5371,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-02 22:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-02 22:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-02 22:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-02 22:35:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-02 21:11:14 +0000"
@@ -5379,9 +5407,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-02 22:35:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-02 21:11:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-02 22:35:41 +0000"
     },
     "done": true
   },
@@ -5421,9 +5461,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-02 22:35:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_stone_brick_slab": {
     "criteria": {
       "has_block": "2025-05-02 22:14:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-02 22:35:41 +0000"
     },
     "done": true
   },
@@ -5442,6 +5494,12 @@
   "securitycraft:recipes/building_blocks/reinforced_stone_brick_stairs_from_reinforced_stone_bricks_stonecutting": {
     "criteria": {
       "has_reinforced_stone_bricks": "2025-05-02 22:14:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-02 22:35:41 +0000"
     },
     "done": true
   },
@@ -5488,6 +5546,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-02 22:35:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2025-05-02 22:04:35 +0000"
@@ -5518,9 +5582,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-02 22:35:41 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
     "criteria": {
       "has_lily_pad": "2025-05-02 22:05:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-02 22:35:41 +0000"
     },
     "done": true
   },
@@ -5563,6 +5639,12 @@
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2025-05-02 19:57:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-02 22:35:41 +0000"
     },
     "done": true
   },
@@ -5707,6 +5789,12 @@
   "farmersdelight:recipes/building_blocks/onion_crate": {
     "criteria": {
       "has_onion": "2025-05-02 22:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-02 22:35:41 +0000"
     },
     "done": true
   },
