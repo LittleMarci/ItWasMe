@@ -2163,6 +2163,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-29 16:56:48 +0000",
+      "minecraft:zoglin": "2025-05-02 20:07:53 +0000",
       "minecraft:zombified_piglin": "2025-05-02 19:30:26 +0000",
       "minecraft:wither_skeleton": "2025-04-29 17:59:48 +0000",
       "minecraft:husk": "2025-05-02 19:30:36 +0000",
