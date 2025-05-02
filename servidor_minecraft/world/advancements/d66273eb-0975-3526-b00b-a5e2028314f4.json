@@ -75,10 +75,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-05-01 17:23:36 +0000",
+      "minecraft:deep_ocean": "2025-05-02 21:14:54 +0000",
+      "minecraft:beach": "2025-05-02 21:16:36 +0000",
       "minecraft:river": "2025-05-01 17:24:42 +0000",
       "minecraft:stony_shore": "2025-05-01 17:25:07 +0000",
       "minecraft:cold_ocean": "2025-05-01 17:25:56 +0000",
       "minecraft:forest": "2025-05-01 17:24:25 +0000",
+      "minecraft:deep_cold_ocean": "2025-05-02 21:12:34 +0000",
+      "minecraft:ocean": "2025-05-02 21:14:06 +0000",
       "minecraft:meadow": "2025-05-02 19:20:15 +0000",
       "minecraft:plains": "2025-05-01 17:25:10 +0000"
     },
@@ -4058,6 +4062,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:zombified_piglin": "2025-05-02 21:12:43 +0000",
       "minecraft:zombie": "2025-05-01 18:02:21 +0000",
       "minecraft:drowned": "2025-05-01 18:04:42 +0000",
       "minecraft:zombie_villager": "2025-05-01 18:41:57 +0000"
@@ -5348,9 +5353,33 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/azalea_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 21:11:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 21:11:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2025-05-02 19:57:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 21:11:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 21:11:14 +0000"
     },
     "done": true
   },
@@ -5360,9 +5389,123 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/walnut_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 21:11:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-05-02 21:18:18 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 21:11:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 21:11:14 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/moss_clump": {
+    "criteria": {
+      "has_copper_block": "2025-05-02 21:18:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-02 21:18:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 21:11:14 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2025-05-02 19:57:50 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/flowering_azalea_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 21:11:14 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-05-02 21:15:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-05-02 21:11:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-05-02 21:18:18 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-05-02 21:15:38 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/surface_moss": {
+    "criteria": {
+      "has_moss_block": "2025-05-02 21:18:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 21:11:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 21:11:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-02 21:11:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-02 21:18:18 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/moss_block": {
+    "criteria": {
+      "has_copper_block": "2025-05-02 21:18:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-05-02 21:18:18 +0000"
     },
     "done": true
   },

@@ -1936,3 +1936,59 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02May2025 21:03:12.981] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
 [02May2025 21:03:12.981] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=40,maxDay=40] to hordespawn on day 40
 [02May2025 21:03:12.981] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 40
+[02May2025 21:04:02.981] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 40
+[02May2025 21:04:02.982] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 40
+[02May2025 21:04:02.982] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[02May2025 21:04:02.982] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=40,maxDay=40] to hordespawn on day 40
+[02May2025 21:04:02.982] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 40
+[02May2025 21:04:52.992] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 40
+[02May2025 21:04:52.992] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 40
+[02May2025 21:04:52.992] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[02May2025 21:04:52.992] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=40,maxDay=40] to hordespawn on day 40
+[02May2025 21:04:52.992] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 40
+[02May2025 21:10:23.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Teleported ANGELXD12377 to A1lenSS]
+[02May2025 21:10:24.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANGELXD12377 was slain by A1lenSS
+[02May2025 21:10:26.543] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02May2025 21:15:38.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANGELXD12377 has made the advancement ['X' Marks the Spot]
+[02May2025 21:16:08.561] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-713, y=72, z=1680} but found not block entity block Block{minecraft:oak_leaves}[distance=5,persistent=false,waterlogged=false] at location
+[02May2025 21:16:08.562] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:oak_leaves}[distance=5,persistent=false,waterlogged=false] but failed at location BlockPos{x=-713, y=72, z=1680}
+[02May2025 21:17:49.619] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/934212, l='ServerLevel[world]', x=-689.50, y=70.00, z=1623.50]
+[02May2025 21:19:21.759] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zerocalcare[/127.113.95.101:43465] logged in with entity id 937423 at (-198.18292934026252, 63.0, 177.06812584831175)
+[02May2025 21:19:21.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zerocalcare joined the game
+[02May2025 21:19:21.881] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Zerocalcare
+[02May2025 21:19:22.679] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Zerocalcare
+[02May2025 21:19:22.683] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zerocalcare (18)
+[02May2025 21:19:22.684] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zerocalcare
+[02May2025 21:19:43.443] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[02May2025 21:19:43.443] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[02May2025 21:19:43.444] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[02May2025 21:19:43.444] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[02May2025 21:20:30.920] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/942003, l='ServerLevel[world]', x=-746.50, y=92.00, z=1747.50]
+[02May2025 21:20:33.440] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[02May2025 21:20:33.441] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[02May2025 21:20:33.441] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[02May2025 21:20:33.441] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[02May2025 21:20:49.322] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/943196, l='ServerLevel[world]', x=-720.50, y=92.00, z=1755.50]
+[02May2025 21:21:49.868] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/945681, l='ServerLevel[world]', x=-700.50, y=71.00, z=1613.50]
+[02May2025 21:21:50.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonsoVanDeKap was slain by Zombie
+[02May2025 21:21:51.745] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02May2025 21:22:09.549] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/946503, l='ServerLevel[world]', x=-696.50, y=75.00, z=1601.50]
+[02May2025 21:22:34.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANGELXD12377) moved wrongly! 0.2976352639700508
+[02May2025 21:22:34.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANGELXD12377) moved wrongly! 1.134087849727166
+[02May2025 21:22:34.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANGELXD12377) moved wrongly! 0.8320248692298264
+[02May2025 21:22:34.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANGELXD12377) moved wrongly! 1.2858617302506445
+[02May2025 21:22:34.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANGELXD12377) moved wrongly! 0.9146099626379964
+[02May2025 21:22:34.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANGELXD12377) moved wrongly! 0.6370857991180401
+[02May2025 21:22:34.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANGELXD12377) moved wrongly! 0.36736854976402356
+[02May2025 21:25:22.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zerocalcare has made the advancement [Enchanter]
+[02May2025 21:25:29.208] [ForkJoinPool.commonPool-worker-17/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[02May2025 21:25:29.208] [ForkJoinPool.commonPool-worker-17/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[02May2025 21:25:29.208] [ForkJoinPool.commonPool-worker-17/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[02May2025 21:25:29.208] [ForkJoinPool.commonPool-worker-17/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[02May2025 21:25:29.210] [ForkJoinPool.commonPool-worker-17/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[02May2025 21:25:29.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANGELXD12377> ddeas
+[02May2025 21:25:59.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANGELXD12377 was slain by Zerocalcare
+[02May2025 21:26:01.500] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02May2025 21:33:42.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zerocalcare was slain by Zombie
+[02May2025 21:33:42.374] [Server thread/WARN] [pointblank/]: Mismatching item in slot 3
+[02May2025 21:33:43.397] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.

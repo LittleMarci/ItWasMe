@@ -6650,9 +6650,9 @@
     },
     "done": true
   },
-  "farmersdelight:main/eat_comfort_food": {
+  "farmersdelight:main/place_cooking_pot": {
     "criteria": {
-      "comfort": "2025-05-02 01:43:56 +0000"
+      "cooking_pot": "2025-05-02 01:41:34 +0000"
     },
     "done": true
   },
@@ -6662,33 +6662,9 @@
     },
     "done": true
   },
-  "farmersdelight:main/place_cooking_pot": {
-    "criteria": {
-      "cooking_pot": "2025-05-02 01:41:34 +0000"
-    },
-    "done": true
-  },
   "railways:recipes/misc/crafting/smokestack_diesel": {
     "criteria": {
       "has_item": "2025-05-02 01:42:28 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/mixed_salad": {
-    "criteria": {
-      "has_bowl": "2025-05-02 01:43:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_bowl": "2025-05-02 01:43:45 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_campfire": {
-    "criteria": {
-      "campfire": "2025-05-02 01:42:41 +0000"
     },
     "done": true
   },
@@ -6710,12 +6686,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/nether_salad": {
-    "criteria": {
-      "has_bowl": "2025-05-02 01:43:45 +0000"
-    },
-    "done": true
-  },
   "railways:recipes/misc/crafting/smokestack_streamlined": {
     "criteria": {
       "has_item": "2025-05-02 01:42:28 +0000"
@@ -6731,6 +6701,72 @@
   "farmersdelight:recipes/decorations/stove": {
     "criteria": {
       "has_campfire": "2025-05-02 01:42:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-05-02 01:42:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-02 01:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-05-02 01:43:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-02 01:43:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-05-02 01:43:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-02 21:19:21 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-02 21:19:21 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-05-02 21:19:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-05-02 21:19:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-05-02 21:25:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-02 21:19:21 +0000"
     },
     "done": true
   },

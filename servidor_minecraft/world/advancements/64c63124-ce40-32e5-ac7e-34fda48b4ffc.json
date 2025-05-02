@@ -793,6 +793,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:zombified_piglin": "2025-05-02 19:31:15 +0000",
+      "minecraft:husk": "2025-05-02 21:01:12 +0000",
       "minecraft:zombie": "2025-04-26 04:40:52 +0000",
       "minecraft:drowned": "2025-04-26 18:36:27 +0000",
       "minecraft:zombie_villager": "2025-04-26 18:35:31 +0000"
@@ -7867,6 +7868,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-05-02 21:22:56 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-05-02 20:58:54 +0000"
@@ -7879,9 +7886,39 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-02 20:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-02 21:22:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-05-02 21:22:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-05-02 21:22:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-05-02 20:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-02 20:59:15 +0000"
     },
     "done": true
   },
