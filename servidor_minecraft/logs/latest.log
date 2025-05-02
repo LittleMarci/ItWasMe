@@ -2025,3 +2025,41 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02May2025 21:44:44.676] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [02May2025 21:51:53.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jetli2000 was slain by AlonsoVanDeKap
 [02May2025 21:51:55.278] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02May2025 21:56:39.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Set the weather to clear]
+[02May2025 21:56:46.832] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/996916, l='ServerLevel[world]', x=7.58, y=75.46, z=-348.00] died, message: 'Weaponsmith was slain by Warrior'
+[02May2025 21:57:02.572] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02May2025 21:58:58.107] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02May2025 21:58:58.756] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02May2025 21:59:22.417] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=78, y=40, z=556}
+[02May2025 21:59:22.431] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=72, y=40, z=553}
+[02May2025 21:59:25.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonsoVanDeKap has made the advancement [Hunt and Gather]
+[02May2025 21:59:59.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A1lenSS has made the advancement [Hunt and Gather]
+[02May2025 22:00:10.524] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02May2025 22:00:28.830] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02May2025 22:00:37.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANGELXD12377 has made the advancement [Crops of the Wild]
+[02May2025 22:01:13.353] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=79, y=40, z=555}
+[02May2025 22:01:13.354] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=81, y=40, z=555}
+[02May2025 22:01:13.355] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=83, y=45, z=555}
+[02May2025 22:01:13.380] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=82, y=45, z=544}
+[02May2025 22:01:13.381] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=82, y=40, z=545}
+[02May2025 22:01:18.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A1lenSS has made the advancement [Penteconter]
+[02May2025 22:02:21.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANGELXD12377 has made the advancement [Disme A Dozen]
+[02May2025 22:02:35.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AlonsoVanDeKap) moved wrongly! 0.2855900131533531
+[02May2025 22:02:35.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AlonsoVanDeKap) moved wrongly! 0.3388407903609618
+[02May2025 22:03:12.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Set the time to 1000]
+[02May2025 22:03:27.078] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/997956, l='ServerLevel[world]', x=42.87, y=78.00, z=-380.50] died, message: 'Farmer was slain by Zombie'
+[02May2025 22:04:18.982] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/997249, l='ServerLevel[world]', x=11.08, y=74.84, z=-344.14] died, message: 'Leatherworker was slain by Jetli2000'
+[02May2025 22:04:44.784] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-19, y=71, z=-339} BlockPos{x=-18, y=73, z=-339}
+[02May2025 22:04:44.831] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-19, y=71, z=-339} BlockPos{x=-18, y=73, z=-339}
+[02May2025 22:04:55.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AlonsoVanDeKap) moved wrongly! 0.4988030858849015
+[02May2025 22:04:55.990] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AlonsoVanDeKap) moved wrongly! 0.7587422994703843
+[02May2025 22:04:55.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AlonsoVanDeKap) moved wrongly! 1.0161692003875942
+[02May2025 22:05:29.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Teleported Zerocalcare to A1lenSS]
+[02May2025 22:07:35.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANGELXD12377) moved wrongly! 0.3950003554393504
+[02May2025 22:07:35.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANGELXD12377) moved wrongly! 0.5866982621640204
+[02May2025 22:08:48.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jetli2000 was slain by ANGELXD12377
+[02May2025 22:08:49.558] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02May2025 22:10:11.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zerocalcare) moved wrongly! 0.28770696006381513
+[02May2025 22:13:40.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANGELXD12377) moved wrongly! 0.2895550744842694
+[02May2025 22:13:40.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANGELXD12377) moved wrongly! 0.3259419654475266
+[02May2025 22:13:58.554] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
