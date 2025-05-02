@@ -6192,6 +6192,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-05-02 01:20:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-05-02 00:54:26 +0000"
@@ -6200,6 +6206,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-05-02 01:25:48 +0000",
       "wheat": "2025-05-02 01:03:30 +0000"
     },
     "done": false
@@ -6270,9 +6277,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-02 01:20:12 +0000"
+    },
+    "done": true
+  },
   "bloomingnature:recipes/swamp_oak_slab": {
     "criteria": {
       "has_swamp_oak_planks": "2025-05-02 01:01:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-05-02 01:16:38 +0000"
     },
     "done": true
   },
@@ -6285,6 +6304,18 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-05-02 00:58:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-05-02 01:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-02 01:20:38 +0000"
     },
     "done": true
   },
@@ -6321,6 +6352,18 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-05-02 01:03:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-05-02 01:20:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-05-02 01:20:38 +0000"
     },
     "done": true
   },
