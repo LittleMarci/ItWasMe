@@ -2308,3 +2308,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02May2025 23:46:11.075] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 50
 [02May2025 23:46:11.075] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 50
 [02May2025 23:46:11.076] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 50
+[02May2025 23:46:36.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[02May2025 23:46:58.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7207ms or 144 ticks behind
+[02May2025 23:47:17.953] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 50
+[02May2025 23:47:17.953] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 50
+[02May2025 23:47:17.953] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 50
+[02May2025 23:47:17.954] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 50
+[02May2025 23:47:17.954] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@2766a541]Can't spawn wave because max cap has been reached
+[02May2025 23:47:22.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8798ms or 175 ticks behind
+[02May2025 23:47:40.091] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2483ms or 49 ticks behind
+[02May2025 23:48:00.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5014ms or 100 ticks behind
+[02May2025 23:48:20.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5578ms or 111 ticks behind
+[02May2025 23:49:06.094] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieHorse['T2Pack'/1233330, l='ServerLevel[world]', x=-147.81, y=64.50, z=127.30] died: T2Pack was slain by AlonsoVanDeKap
+[02May2025 23:50:16.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2113ms or 42 ticks behind
+[02May2025 23:51:19.647] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieHorse['CANCERBERO'/1233530, l='ServerLevel[world]', x=-166.04, y=62.00, z=122.65] died: CANCERBERO was slain by AlonsoVanDeKap
+[02May2025 23:53:54.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonsoVanDeKap was slain by ANGELXD12377
+[02May2025 23:53:55.487] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
