@@ -77,15 +77,18 @@
       "minecraft:taiga": "2025-05-01 17:23:36 +0000",
       "minecraft:deep_ocean": "2025-05-02 21:14:54 +0000",
       "minecraft:birch_forest": "2025-05-02 22:48:02 +0000",
+      "minecraft:windswept_hills": "2025-05-02 23:11:16 +0000",
       "minecraft:beach": "2025-05-02 21:16:36 +0000",
       "minecraft:river": "2025-05-01 17:24:42 +0000",
       "minecraft:lukewarm_ocean": "2025-05-02 22:51:43 +0000",
       "minecraft:stony_shore": "2025-05-01 17:25:07 +0000",
+      "minecraft:swamp": "2025-05-02 23:13:30 +0000",
       "minecraft:cold_ocean": "2025-05-01 17:25:56 +0000",
       "minecraft:forest": "2025-05-01 17:24:25 +0000",
       "minecraft:deep_cold_ocean": "2025-05-02 21:12:34 +0000",
       "minecraft:jungle": "2025-05-02 22:55:46 +0000",
       "minecraft:ocean": "2025-05-02 21:14:06 +0000",
+      "minecraft:windswept_savanna": "2025-05-02 23:10:38 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-02 22:52:25 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-02 22:02:02 +0000",
       "minecraft:meadow": "2025-05-02 19:20:15 +0000",
@@ -5390,6 +5393,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_stone_pressure_plate": {
+    "criteria": {
+      "has_block": "2025-05-02 23:42:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-05-02 22:35:41 +0000"
@@ -5432,9 +5441,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_stone_bricks_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-05-02 23:42:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-05-02 22:00:06 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-05-02 23:09:51 +0000"
     },
     "done": true
   },
@@ -5456,9 +5477,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_stone_button": {
+    "criteria": {
+      "has_block": "2025-05-02 23:42:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
     "criteria": {
       "has_moss": "2025-05-02 21:18:18 +0000"
+    },
+    "done": true
+  },
+  "walkietalkie:recipes/diamond_walkietalkie": {
+    "criteria": {
+      "has_redstone": "2025-05-02 23:09:51 +0000"
     },
     "done": true
   },
@@ -5480,9 +5513,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/scanner_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2025-05-02 23:40:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_cracked_stone_bricks": {
     "criteria": {
       "has_item": "2025-05-02 22:14:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-05-02 23:14:14 +0000"
     },
     "done": true
   },
@@ -5498,9 +5543,39 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2025-05-02 23:09:51 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/crafting/copycat_iron_door": {
     "criteria": {
       "has_item": "2025-05-02 23:00:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_wall_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-05-02 23:42:38 +0000"
+    },
+    "done": true
+  },
+  "walkietalkie:recipes/speaker": {
+    "criteria": {
+      "has_redstone": "2025-05-02 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_bricks_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-05-02 23:42:38 +0000"
+    },
+    "done": true
+  },
+  "walkietalkie:recipes/golden_walkietalkie": {
+    "criteria": {
+      "has_redstone": "2025-05-02 23:09:51 +0000"
     },
     "done": true
   },
@@ -5516,6 +5591,30 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-05-02 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-05-02 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-05-02 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2025-05-02 23:09:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
       "has_onion": "2025-05-02 22:00:37 +0000"
@@ -5525,6 +5624,24 @@
   "ecologics:recipes/ecologics/coconut_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-02 21:11:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-05-02 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-05-02 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "walkietalkie:recipes/iron_walkietalkie": {
+    "criteria": {
+      "has_redstone": "2025-05-02 23:09:51 +0000"
     },
     "done": true
   },
@@ -5559,9 +5676,45 @@
     },
     "done": true
   },
+  "walkietalkie:recipes/wooden_walkietalkie": {
+    "criteria": {
+      "has_redstone": "2025-05-02 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2025-05-02 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_slab_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-05-02 23:42:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/keypad_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2025-05-02 23:40:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-05-02 23:09:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2025-05-02 22:00:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2025-05-02 23:09:51 +0000"
     },
     "done": true
   },
@@ -5577,6 +5730,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-05-02 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_stairs_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-05-02 23:42:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-05-02 22:00:37 +0000"
@@ -5589,9 +5754,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-05-02 23:09:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_stone_brick_stairs": {
     "criteria": {
       "has_block": "2025-05-02 22:14:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-05-02 23:09:51 +0000"
     },
     "done": true
   },
@@ -5631,6 +5808,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-05-02 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-05-02 23:09:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "onion": "2025-05-02 22:00:37 +0000"
@@ -5649,9 +5838,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-05-02 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-05-02 23:09:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-05-02 22:00:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-05-02 23:09:51 +0000"
     },
     "done": true
   },
@@ -5673,6 +5880,24 @@
     },
     "done": true
   },
+  "walkietalkie:recipes/stone_walkietalkie": {
+    "criteria": {
+      "has_redstone": "2025-05-02 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-05-02 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_normal_stone_slab": {
+    "criteria": {
+      "has_block": "2025-05-02 23:42:38 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/flowering_azalea_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-02 21:11:14 +0000"
@@ -5691,9 +5916,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_stone_bricks": {
+    "criteria": {
+      "has_block": "2025-05-02 23:42:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/dumplings": {
     "criteria": {
       "has_any_ingredient": "2025-05-02 22:00:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-05-02 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-05-02 23:09:59 +0000"
     },
     "done": true
   },
@@ -5703,11 +5946,47 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2025-05-02 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-02 23:14:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-05-02 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2025-05-02 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_stairs_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-05-02 23:42:38 +0000"
+    },
+    "done": true
+  },
   "regrowth:rgroot/saferhedges": {
     "criteria": {
       "has_traded": "2025-05-02 22:25:08 +0000"
     },
     "done": false
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_stairs": {
+    "criteria": {
+      "has_block": "2025-05-02 23:42:38 +0000"
+    },
+    "done": true
   },
   "lootr:1chest": {
     "criteria": {
@@ -5718,6 +5997,12 @@
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-02 22:00:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-05-02 23:09:51 +0000"
     },
     "done": true
   },
@@ -5733,6 +6018,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-05-02 23:09:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-05-02 22:04:35 +0000"
@@ -5742,6 +6033,30 @@
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-02 21:11:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_normal_stone_slab_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-05-02 23:42:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_smooth_stone": {
+    "criteria": {
+      "has_item": "2025-05-02 23:42:38 +0000"
+    },
+    "done": true
+  },
+  "walkietalkie:recipes/netherite_walkietalkie": {
+    "criteria": {
+      "has_redstone": "2025-05-02 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2025-05-02 23:21:16 +0000"
     },
     "done": true
   },
@@ -5775,6 +6090,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-05-02 23:14:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-05-02 23:09:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_stone_brick_wall_from_reinforced_stone_bricks_stonecutting": {
     "criteria": {
       "has_reinforced_stone_bricks": "2025-05-02 22:14:59 +0000"
@@ -5793,15 +6120,45 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-05-02 23:14:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2025-05-02 23:09:51 +0000"
+    },
+    "done": true
+  },
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2025-05-02 22:02:21 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-05-02 23:09:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2025-05-02 23:09:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2025-05-02 21:18:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-05-02 23:21:16 +0000"
     },
     "done": true
   },

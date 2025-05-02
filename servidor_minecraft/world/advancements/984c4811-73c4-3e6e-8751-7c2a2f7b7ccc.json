@@ -77,17 +77,20 @@
       "minecraft:taiga": "2025-04-26 02:21:33 +0000",
       "minecraft:deep_ocean": "2025-04-26 18:12:18 +0000",
       "minecraft:birch_forest": "2025-04-26 18:23:26 +0000",
+      "minecraft:windswept_hills": "2025-05-02 23:11:02 +0000",
       "minecraft:beach": "2025-05-02 22:34:34 +0000",
       "minecraft:dark_forest": "2025-04-26 18:14:48 +0000",
       "minecraft:river": "2025-04-26 02:23:58 +0000",
       "minecraft:lukewarm_ocean": "2025-05-02 22:51:42 +0000",
       "minecraft:stony_shore": "2025-04-26 02:24:45 +0000",
       "minecraft:dripstone_caves": "2025-05-02 16:49:06 +0000",
+      "minecraft:swamp": "2025-05-02 23:13:57 +0000",
       "minecraft:cold_ocean": "2025-04-26 02:30:28 +0000",
       "minecraft:forest": "2025-04-26 02:23:42 +0000",
       "minecraft:lush_caves": "2025-04-26 18:21:28 +0000",
       "minecraft:deep_cold_ocean": "2025-04-26 18:12:10 +0000",
       "minecraft:ocean": "2025-04-26 18:13:00 +0000",
+      "minecraft:windswept_savanna": "2025-05-02 23:10:33 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-02 22:52:14 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-02 16:45:22 +0000",
       "minecraft:deep_dark": "2025-04-26 05:00:53 +0000",
@@ -2143,6 +2146,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-04-26 05:37:12 +0000",
+      "cooked_beef": "2025-05-02 23:09:31 +0000",
       "apple": "2025-04-26 02:56:05 +0000",
       "potato": "2025-04-26 04:04:14 +0000",
       "bread": "2025-04-26 02:31:50 +0000",
@@ -8581,6 +8585,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-02 23:21:01 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/weathered_plate_iron": {
+    "criteria": {
+      "has_copper_block": "2025-05-02 23:08:22 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/crafting/copycat_iron_door": {
     "criteria": {
       "has_item": "2025-05-02 22:45:46 +0000"
@@ -8589,9 +8605,10 @@
   },
   "regrowth:rgroot/teardown": {
     "criteria": {
+      "has_traded": "2025-05-02 23:44:00 +0000",
       "has_wall": "2025-05-02 22:48:57 +0000"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
@@ -8599,9 +8616,75 @@
     },
     "done": true
   },
+  "regrowth:rgroot/rgroot": {
+    "criteria": {
+      "has_traded": "2025-05-02 23:44:00 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/blue_dye_from_bluebell": {
+    "criteria": {
+      "has_bluebell": "2025-05-02 23:16:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-02 23:05:02 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/waxed_exposed_plate_iron": {
+    "criteria": {
+      "has_copper_block": "2025-05-02 23:08:19 +0000"
+    },
+    "done": true
+  },
+  "regrowth:rgroot/saferhedges": {
+    "criteria": {
+      "has_traded": "2025-05-02 23:44:00 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-05-02 22:57:12 +0000"
+    },
+    "done": true
+  },
+  "regrowth:rgroot/offlimits": {
+    "criteria": {
+      "has_traded": "2025-05-02 23:44:00 +0000"
+    },
+    "done": false
+  },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2025-05-02 23:16:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-02 23:44:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-05-02 23:16:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-02 23:05:02 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/exposed_plate_iron": {
+    "criteria": {
+      "has_copper_block": "2025-05-02 23:08:19 +0000"
     },
     "done": true
   },

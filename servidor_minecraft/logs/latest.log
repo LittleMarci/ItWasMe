@@ -2193,3 +2193,118 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02May2025 23:02:20.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Teleported A1lenSS to ANGELXD12377]
 [02May2025 23:05:02.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A1lenSS has made the advancement [Ice Bucket Challenge]
 [02May2025 23:05:48.774] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02May2025 23:06:06.997] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jetli2000 lost connection: Disconnected
+[02May2025 23:06:06.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jetli2000 left the game
+[02May2025 23:06:06.998] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jetli2000
+[02May2025 23:08:36.918] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02May2025 23:09:33.211] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=459, y=-58, z=482}
+[02May2025 23:09:33.211] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=460, y=-58, z=482}
+[02May2025 23:09:33.211] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=461, y=-58, z=482}
+[02May2025 23:09:36.595] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=577, y=-58, z=482}
+[02May2025 23:09:59.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANGELXD12377 has made the advancement [Close Quarters]
+[02May2025 23:10:01.935] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02May2025 23:10:14.832] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=459, y=-58, z=482}
+[02May2025 23:10:14.833] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=460, y=-58, z=482}
+[02May2025 23:10:14.833] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=461, y=-58, z=482}
+[02May2025 23:13:24.240] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-158, y=56, z=129} BlockPos{x=-158, y=55, z=129}
+[02May2025 23:13:25.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=56, z=129} BlockPos{x=-156, y=55, z=129}
+[02May2025 23:14:43.451] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1156011, l='ServerLevel[world]', x=838.14, y=65.00, z=-3587.49] died, message: 'Villager was slain by Zombie'
+[02May2025 23:14:58.141] [ForkJoinPool.commonPool-worker-19/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[02May2025 23:14:58.142] [ForkJoinPool.commonPool-worker-19/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[02May2025 23:14:58.142] [ForkJoinPool.commonPool-worker-19/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[02May2025 23:14:58.142] [ForkJoinPool.commonPool-worker-19/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[02May2025 23:14:58.142] [ForkJoinPool.commonPool-worker-19/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[02May2025 23:14:58.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANGELXD12377> epera
+[02May2025 23:14:58.981] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/1156053, l='ServerLevel[world]', x=768.70, y=62.48, z=-3534.20] died, message: 'Farmer was slain by Zombie'
+[02May2025 23:16:32.016] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1161760, l='ServerLevel[world]', x=740.50, y=71.00, z=-3500.50]
+[02May2025 23:16:39.991] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02May2025 23:16:48.425] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02May2025 23:16:50.662] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02May2025 23:17:02.290] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02May2025 23:17:11.907] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02May2025 23:17:17.131] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02May2025 23:17:19.668] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1162897, l='ServerLevel[world]', x=786.50, y=71.00, z=-3460.50]
+[02May2025 23:17:51.471] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1163746, l='ServerLevel[world]', x=733.50, y=70.00, z=-3499.50]
+[02May2025 23:18:01.343] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02May2025 23:18:09.285] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02May2025 23:18:15.848] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1164884, l='ServerLevel[world]', x=741.50, y=71.00, z=-3501.50]
+[02May2025 23:18:20.010] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02May2025 23:18:21.754] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02May2025 23:18:33.177] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02May2025 23:18:44.762] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1166052, l='ServerLevel[world]', x=703.50, y=69.00, z=-3482.50]
+[02May2025 23:19:25.523] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02May2025 23:19:35.032] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02May2025 23:19:40.438] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/1157098, l='ServerLevel[world]', x=728.58, y=62.56, z=-3556.31] died, message: 'Farmer was slain by Zombie'
+[02May2025 23:19:58.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=843, y=64, z=-3462} BlockPos{x=846, y=64, z=-3460}
+[02May2025 23:19:58.930] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02May2025 23:20:05.123] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02May2025 23:20:32.026] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1169503, l='ServerLevel[world]', x=704.50, y=69.00, z=-3482.50]
+[02May2025 23:20:35.921] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1169606, l='ServerLevel[world]', x=732.50, y=70.00, z=-3497.50]
+[02May2025 23:20:47.865] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1169845, l='ServerLevel[world]', x=786.50, y=71.00, z=-3459.50]
+[02May2025 23:20:54.177] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02May2025 23:20:57.724] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02May2025 23:21:01.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A1lenSS has made the advancement [Best Friends Forever]
+[02May2025 23:21:12.519] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1170641, l='ServerLevel[world]', x=788.50, y=71.00, z=-3461.50]
+[02May2025 23:21:46.331] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02May2025 23:22:01.922] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1172189, l='ServerLevel[world]', x=788.50, y=71.00, z=-3459.50]
+[02May2025 23:22:03.989] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02May2025 23:22:39.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of A1lenSS) moved wrongly! 1.3611636248383547
+[02May2025 23:22:39.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of A1lenSS) moved wrongly! 1.356579430835609
+[02May2025 23:22:40.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of A1lenSS) moved wrongly! 1.3526682544170399
+[02May2025 23:22:42.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonsoVanDeKap was blown up by AlonsoVanDeKap
+[02May2025 23:22:43.856] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02May2025 23:23:35.018] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1175247, l='ServerLevel[world]', x=741.50, y=71.00, z=-3499.50]
+[02May2025 23:24:28.866] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02May2025 23:28:37.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANGELXD12377) moved wrongly! 0.27280088629731836
+[02May2025 23:28:37.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANGELXD12377) moved wrongly! 0.35882428134573274
+[02May2025 23:28:37.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ANGELXD12377) moved wrongly! 0.4448580476837378
+[02May2025 23:28:39.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of A1lenSS) moved wrongly! 0.29234929911058316
+[02May2025 23:28:39.851] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of A1lenSS) moved wrongly! 0.6466710266784048
+[02May2025 23:28:39.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of A1lenSS) moved wrongly! 1.001898080180581
+[02May2025 23:30:55.281] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/1205892, l='ServerLevel[world]', x=97.92, y=88.56, z=-359.98] died, message: 'Toolsmith was slain by Zombie'
+[02May2025 23:32:08.470] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1216333, l='ServerLevel[world]', x=222.50, y=73.00, z=-626.50]
+[02May2025 23:32:13.721] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1216723, l='ServerLevel[world]', x=133.50, y=88.00, z=-729.50]
+[02May2025 23:33:35.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Teleported AlonsoVanDeKap to A1lenSS]
+[02May2025 23:35:57.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A1lenSS was slain by A1lenSS
+[02May2025 23:35:57.733] [Server thread/WARN] [pointblank/]: Mismatching item in slot 2
+[02May2025 23:35:57.870] [Server thread/WARN] [pointblank/]: Mismatching item in slot 2
+[02May2025 23:35:59.383] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02May2025 23:36:05.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Teleported A1lenSS to AlonsoVanDeKap]
+[02May2025 23:37:54.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: T2Pack (vehicle of A1lenSS) moved wrongly! 0.36552369888016756
+[02May2025 23:37:54.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: T2Pack (vehicle of A1lenSS) moved wrongly! 0.3158750255416294
+[02May2025 23:37:54.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: T2Pack (vehicle of A1lenSS) moved wrongly! 0.2678036110727078
+[02May2025 23:37:55.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: T2Pack (vehicle of A1lenSS) moved wrongly! 0.32344021890449426
+[02May2025 23:37:55.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: T2Pack (vehicle of A1lenSS) moved wrongly! 0.3195000770328704
+[02May2025 23:37:55.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: T2Pack (vehicle of A1lenSS) moved wrongly! 0.26119575946100326
+[02May2025 23:37:55.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: T2Pack (vehicle of A1lenSS) moved wrongly! 0.33739347578733714
+[02May2025 23:37:55.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: T2Pack (vehicle of A1lenSS) moved wrongly! 0.7839254778888005
+[02May2025 23:37:55.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: T2Pack (vehicle of A1lenSS) moved wrongly! 1.2104798947934796
+[02May2025 23:37:55.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: T2Pack (vehicle of A1lenSS) moved wrongly! 1.589117865753451
+[02May2025 23:42:51.022] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@2766a541]Trying to start horde event on day 50 with nextDay 50 and time 10000
+[02May2025 23:42:51.023] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@e98ba38
+[02May2025 23:42:51.023] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 40
+[02May2025 23:42:51.023] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 40
+[02May2025 23:42:51.023] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[02May2025 23:42:51.023] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=40,maxDay=40] to hordespawn on day 40
+[02May2025 23:42:51.024] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 40
+[02May2025 23:42:51.071] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 50
+[02May2025 23:42:51.071] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 50
+[02May2025 23:42:51.071] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 50
+[02May2025 23:42:51.071] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 50
+[02May2025 23:43:41.076] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 50
+[02May2025 23:43:41.077] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 50
+[02May2025 23:43:41.077] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 50
+[02May2025 23:43:41.077] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 50
+[02May2025 23:44:00.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A1lenSS has made the advancement [What a Deal!]
+[02May2025 23:44:31.078] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 50
+[02May2025 23:44:31.078] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 50
+[02May2025 23:44:31.078] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 50
+[02May2025 23:44:31.078] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 50
+[02May2025 23:45:21.077] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 50
+[02May2025 23:45:21.077] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 50
+[02May2025 23:45:21.077] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 50
+[02May2025 23:45:21.078] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 50
+[02May2025 23:46:11.075] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 50
+[02May2025 23:46:11.075] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 50
+[02May2025 23:46:11.075] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 50
+[02May2025 23:46:11.076] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 50
