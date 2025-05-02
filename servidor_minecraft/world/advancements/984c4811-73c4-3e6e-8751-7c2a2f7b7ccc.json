@@ -8228,5 +8228,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-05-02 21:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-05-02 21:39:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

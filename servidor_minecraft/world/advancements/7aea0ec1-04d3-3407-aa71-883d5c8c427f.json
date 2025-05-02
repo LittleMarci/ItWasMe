@@ -3329,6 +3329,7 @@
       "chicken": "2025-04-27 22:29:32 +0000",
       "mutton": "2025-04-26 03:50:37 +0000",
       "bread": "2025-04-26 03:43:06 +0000",
+      "golden_apple": "2025-05-02 21:43:31 +0000",
       "rotten_flesh": "2025-04-26 03:45:35 +0000",
       "dried_kelp": "2025-04-27 22:34:42 +0000",
       "carrot": "2025-05-01 04:40:38 +0000"
@@ -6755,6 +6756,18 @@
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_lily_of_the_valley": "2025-05-02 21:19:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-05-02 21:31:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-02 21:31:55 +0000"
     },
     "done": true
   },
