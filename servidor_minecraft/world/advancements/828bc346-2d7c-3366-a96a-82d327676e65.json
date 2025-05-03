@@ -9294,9 +9294,27 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/spruce_palisade": {
+    "criteria": {
+      "has_log": "2025-05-03 22:14:59 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/spruce_pallet": {
+    "criteria": {
+      "has_planks": "2025-05-03 22:14:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/block_pocket_manager": {
     "criteria": {
       "has_redstone_block": "2025-05-03 21:18:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_oak_button": {
+    "criteria": {
+      "has_block": "2025-05-03 22:16:15 +0000"
     },
     "done": true
   },
@@ -9330,6 +9348,12 @@
     },
     "done": true
   },
+  "bbb:recipes/spruce_frame": {
+    "criteria": {
+      "has_planks": "2025-05-03 22:14:59 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/crafting/copycat_iron_door": {
     "criteria": {
       "has_item": "2025-05-03 21:58:03 +0000"
@@ -9339,6 +9363,30 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2025-05-03 22:00:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_oak_slab": {
+    "criteria": {
+      "has_block": "2025-05-03 22:16:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_oak_stairs": {
+    "criteria": {
+      "has_block": "2025-05-03 22:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-03 22:14:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_spruce_planks": {
+    "criteria": {
+      "has_log": "2025-05-03 22:15:08 +0000"
     },
     "done": true
   },
@@ -9369,6 +9417,12 @@
   "securitycraft:recipes/redstone/keypad_door_item": {
     "criteria": {
       "has_reinforced_door": "2025-05-03 21:58:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_oak_pressure_plate": {
+    "criteria": {
+      "has_block": "2025-05-03 22:16:15 +0000"
     },
     "done": true
   },
@@ -9408,6 +9462,12 @@
     },
     "done": true
   },
+  "bbb:recipes/spruce_beam": {
+    "criteria": {
+      "has_log": "2025-05-03 22:14:59 +0000"
+    },
+    "done": true
+  },
   "bloomingnature:recipes/baobab_boat": {
     "criteria": {
       "has_baobab_planks": "2025-05-03 21:52:45 +0000"
@@ -9420,9 +9480,27 @@
     },
     "done": true
   },
+  "bbb:recipes/spruce_wall": {
+    "criteria": {
+      "has_logs": "2025-05-03 22:14:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-03 21:23:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-03 22:14:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-03 22:15:08 +0000"
     },
     "done": true
   },
