@@ -116,6 +116,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:zombified_piglin": "2025-05-03 00:05:40 +0000",
       "minecraft:zombie": "2025-04-26 03:15:58 +0000",
       "minecraft:drowned": "2025-04-27 22:39:21 +0000",
       "minecraft:zombie_villager": "2025-05-02 23:15:34 +0000"
@@ -7052,6 +7053,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-03 00:15:33 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/sandcastle": {
     "criteria": {
       "has_seashell": "2025-05-02 23:23:47 +0000"
@@ -7181,6 +7188,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-02 22:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-03 00:15:33 +0000"
     },
     "done": true
   },
