@@ -9258,5 +9258,11 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2025-05-03 18:41:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
