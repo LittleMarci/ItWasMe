@@ -8870,27 +8870,105 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/kitchen_hood": {
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
-      "has_kitchen_hood": "2025-05-03 03:52:58 +0000"
+      "has_prismarine_shard": "2025-05-03 03:30:37 +0000"
     },
     "done": true
   },
-  "ecologics:recipes/ecologics/crab_meat_from_smoking": {
+  "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
-      "crab_meat": "2025-05-03 03:54:36 +0000"
+      "has_prismarine_shard": "2025-05-03 03:30:37 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/black_sheet": {
+  "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
-      "has_black_sheet": "2025-05-03 03:43:02 +0000"
+      "has_prismarine_shard": "2025-05-03 03:30:37 +0000"
     },
     "done": true
   },
-  "ecologics:recipes/ecologics/crab_meat_from_campfire_cooking": {
+  "handcrafted:recipes/misc/golden_thin_pot": {
     "criteria": {
-      "crab_meat": "2025-05-03 03:54:36 +0000"
+      "has_golden_thin_pot": "2025-05-03 03:31:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-03 03:31:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-05-03 03:31:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-05-03 03:31:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-05-03 03:31:48 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/moss": {
+    "criteria": {
+      "apple": "2025-05-03 03:39:46 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-05-03 03:41:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-05-03 03:42:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-03 03:42:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-05-03 03:42:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-05-03 03:42:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-05-03 03:42:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-05-03 03:42:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-05-03 03:42:51 +0000"
     },
     "done": true
   },
@@ -8912,129 +8990,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/black_cushion": {
-    "criteria": {
-      "has_black_cushion": "2025-05-03 03:43:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-05-03 03:42:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_glow_ink_sac": "2025-05-03 03:42:50 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/golden_thin_pot": {
-    "criteria": {
-      "has_golden_thin_pot": "2025-05-03 03:31:48 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:immersive_weathering/moss": {
-    "criteria": {
-      "apple": "2025-05-03 03:39:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_bricks": {
-    "criteria": {
-      "has_prismarine_shard": "2025-05-03 03:30:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-05-03 03:42:51 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_gray": {
     "criteria": {
       "has_gray_wool": "2025-05-03 03:42:53 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/kitchen_hood_pipe": {
-    "criteria": {
-      "has_kitchen_hood_pipe": "2025-05-03 03:52:58 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/grizzly_bear": {
-    "criteria": {
-      "killed_by": "2025-05-03 03:41:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2025-05-03 03:31:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-05-03 03:30:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2025-05-03 03:43:02 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorations/brazier": {
-    "criteria": {
-      "has_bar": "2025-05-03 03:52:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-05-03 03:42:51 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/squid_ink_pasta": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-03 03:42:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2025-05-03 03:43:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2025-05-03 03:42:24 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/golden_medium_pot": {
-    "criteria": {
-      "has_golden_medium_pot": "2025-05-03 03:31:48 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crocodile": {
-    "criteria": {
-      "killed_by": "2025-05-03 03:42:17 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/ecologics/crab_meat": {
-    "criteria": {
-      "crab_meat": "2025-05-03 03:54:36 +0000"
     },
     "done": true
   },
@@ -9044,15 +9002,39 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/golden_thick_pot": {
-    "criteria": {
-      "has_golden_thick_pot": "2025-05-03 03:31:48 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_gray_wool": "2025-05-03 03:42:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_sheet": {
+    "criteria": {
+      "has_gray_sheet": "2025-05-03 03:42:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_sheet": {
+    "criteria": {
+      "has_black_sheet": "2025-05-03 03:43:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_cushion": {
+    "criteria": {
+      "has_black_cushion": "2025-05-03 03:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-05-03 03:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-05-03 03:43:02 +0000"
     },
     "done": true
   },
@@ -9068,33 +9050,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-05-03 03:30:37 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/gray_sheet": {
-    "criteria": {
-      "has_gray_sheet": "2025-05-03 03:42:53 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_black": {
     "criteria": {
       "has_black_wool": "2025-05-03 03:43:02 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/golden_wide_pot": {
+  "handcrafted:recipes/misc/kitchen_hood": {
     "criteria": {
-      "has_golden_wide_pot": "2025-05-03 03:31:48 +0000"
+      "has_kitchen_hood": "2025-05-03 03:52:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-05-03 03:52:58 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/brazier": {
+    "criteria": {
+      "has_bar": "2025-05-03 03:52:58 +0000"
     },
     "done": true
   },
   "decorative_blocks:recipes/decorations/soul_brazier": {
     "criteria": {
       "has_bar": "2025-05-03 03:52:58 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/crab_meat_from_smoking": {
+    "criteria": {
+      "crab_meat": "2025-05-03 03:54:36 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/crab_meat_from_campfire_cooking": {
+    "criteria": {
+      "crab_meat": "2025-05-03 03:54:36 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/crab_meat": {
+    "criteria": {
+      "crab_meat": "2025-05-03 03:54:36 +0000"
     },
     "done": true
   },

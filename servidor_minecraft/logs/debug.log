@@ -16189,3 +16189,569 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03May2025 20:34:48.949] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-153, y=64, z=130} BlockPos{x=-152, y=64, z=133}
 [03May2025 20:34:48.998] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-153, y=64, z=130} BlockPos{x=-152, y=64, z=133}
 [03May2025 20:34:49.052] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-153, y=64, z=130} BlockPos{x=-152, y=64, z=133}
+[03May2025 20:37:46.491] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 20:37:46.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 20:37:46.619] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[03May2025 20:38:31.902] [Server thread/DEBUG] [pointblank/]: 11902 handling client fire request
+[03May2025 20:38:31.903] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1471759592 to 8
+[03May2025 20:38:31.906] [Server thread/DEBUG] [pointblank/]: 11906 - obtained hit result in 0ms
+[03May2025 20:38:31.906] [Server thread/DEBUG] [pointblank/]: 11906 - obtained hit result in 0ms
+[03May2025 20:38:31.906] [Server thread/DEBUG] [pointblank/]: 11906 - obtained hit result in 0ms
+[03May2025 20:38:31.907] [Server thread/DEBUG] [pointblank/]: 11907 - obtained hit result in 1ms
+[03May2025 20:38:31.907] [Server thread/DEBUG] [pointblank/]: 11907 - obtained hit result in 0ms
+[03May2025 20:38:31.907] [Server thread/DEBUG] [pointblank/]: 11907 - obtained hit result in 0ms
+[03May2025 20:38:31.907] [Server thread/DEBUG] [pointblank/]: 11907 - obtained hit result in 0ms
+[03May2025 20:38:31.907] [Server thread/DEBUG] [pointblank/]: 11907 - obtained hit result in 0ms
+[03May2025 20:38:31.907] [Server thread/DEBUG] [pointblank/]: 11907 - obtained hit result in 0ms
+[03May2025 20:38:31.907] [Server thread/DEBUG] [pointblank/]: 11907 - obtained hit result in 0ms
+[03May2025 20:38:31.907] [Server thread/DEBUG] [pointblank/]: 11907 - obtained hit result in 0ms
+[03May2025 20:38:31.907] [Server thread/DEBUG] [pointblank/]: 11907 - obtained hit result in 0ms
+[03May2025 20:38:31.907] [Server thread/DEBUG] [pointblank/]: 11907 - obtained hit result in 0ms
+[03May2025 20:38:31.907] [Server thread/DEBUG] [pointblank/]: 11907 - obtained hit result in 0ms
+[03May2025 20:38:31.907] [Server thread/DEBUG] [pointblank/]: 11907 - obtained hit result in 0ms
+[03May2025 20:38:31.907] [Server thread/DEBUG] [pointblank/]: 11907 - obtained hit result in 0ms
+[03May2025 20:38:31.907] [Server thread/DEBUG] [pointblank/]: 11907 - obtained hit result in 0ms
+[03May2025 20:38:31.907] [Server thread/DEBUG] [pointblank/]: 11907 - obtained hit result in 0ms
+[03May2025 20:38:31.907] [Server thread/DEBUG] [pointblank/]: 11907 - obtained hit result in 0ms
+[03May2025 20:38:31.907] [Server thread/DEBUG] [pointblank/]: 11907 - obtained hit result in 0ms
+[03May2025 20:38:31.907] [Server thread/DEBUG] [pointblank/]: 11907 - obtained hit result in 0ms
+[03May2025 20:38:31.907] [Server thread/DEBUG] [pointblank/]: 11907 - obtained hit result in 0ms
+[03May2025 20:38:31.907] [Server thread/DEBUG] [pointblank/]: 11907 - obtained hit result in 0ms
+[03May2025 20:38:31.907] [Server thread/DEBUG] [pointblank/]: 11907 - obtained hit result in 0ms
+[03May2025 20:38:31.907] [Server thread/DEBUG] [pointblank/]: 11907 - obtained hit result in 0ms
+[03May2025 20:38:31.907] [Server thread/DEBUG] [pointblank/]: 11907 - obtained hit result in 0ms
+[03May2025 20:38:31.907] [Server thread/DEBUG] [pointblank/]: 11907 - obtained hit result in 0ms
+[03May2025 20:38:31.907] [Server thread/DEBUG] [pointblank/]: 11907 - obtained hit result in 0ms
+[03May2025 20:38:31.907] [Server thread/DEBUG] [pointblank/]: 11907 - obtained hit result in 0ms
+[03May2025 20:38:31.907] [Server thread/DEBUG] [pointblank/]: 11907 - obtained hit result in 0ms
+[03May2025 20:38:31.907] [Server thread/DEBUG] [pointblank/]: 11907 obtained hit results
+[03May2025 20:38:31.907] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@124b20fe
+[03May2025 20:38:31.909] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:31.910] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60]
+[03May2025 20:38:31.910] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2aea2fd8
+[03May2025 20:38:31.911] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:31.911] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60]
+[03May2025 20:38:31.911] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5b5b82b6
+[03May2025 20:38:31.911] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:31.911] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60]
+[03May2025 20:38:31.911] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5b7d87f2
+[03May2025 20:38:31.912] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:31.912] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60]
+[03May2025 20:38:31.912] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@c7374e
+[03May2025 20:38:31.912] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:31.912] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60]
+[03May2025 20:38:31.912] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@11140f09
+[03May2025 20:38:31.913] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:31.913] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60]
+[03May2025 20:38:31.913] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@27ee0d3d
+[03May2025 20:38:31.913] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:31.913] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60]
+[03May2025 20:38:31.914] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1dae8d85
+[03May2025 20:38:31.914] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:31.914] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60]
+[03May2025 20:38:31.914] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3acd44e4
+[03May2025 20:38:31.914] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:31.914] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60]
+[03May2025 20:38:31.914] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@67bc28af
+[03May2025 20:38:31.915] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:31.915] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60]
+[03May2025 20:38:31.915] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@157ae7ea
+[03May2025 20:38:31.915] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:31.916] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60]
+[03May2025 20:38:31.916] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@411ce8bf
+[03May2025 20:38:31.916] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:31.916] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60]
+[03May2025 20:38:31.916] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@76afd26f
+[03May2025 20:38:31.917] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:31.917] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60]
+[03May2025 20:38:31.917] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7b447aaa
+[03May2025 20:38:31.917] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:31.917] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60]
+[03May2025 20:38:31.917] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7f70dfb1
+[03May2025 20:38:31.918] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:31.918] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60]
+[03May2025 20:38:31.918] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@275bd867
+[03May2025 20:38:31.918] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:31.918] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60]
+[03May2025 20:38:31.919] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@43f0f11e
+[03May2025 20:38:31.919] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:31.919] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60]
+[03May2025 20:38:31.919] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3b1c7fde
+[03May2025 20:38:31.932] [Server thread/DEBUG] [pointblank/]: Creating state 1256a7b3-6ef4-4dfe-9ce6-26b510ebb3ae
+[03May2025 20:38:31.937] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:31.938] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60]
+[03May2025 20:38:31.938] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@273c3b89
+[03May2025 20:38:31.938] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:31.938] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60]
+[03May2025 20:38:31.938] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3342da7b
+[03May2025 20:38:31.938] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:31.938] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60]
+[03May2025 20:38:31.938] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2ec73a87
+[03May2025 20:38:31.938] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:31.938] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60]
+[03May2025 20:38:31.938] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@22f913c0
+[03May2025 20:38:31.939] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:31.939] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60]
+[03May2025 20:38:31.939] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@64df8465
+[03May2025 20:38:31.939] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:31.939] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60]
+[03May2025 20:38:31.939] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@416b0b87
+[03May2025 20:38:31.939] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:31.939] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60]
+[03May2025 20:38:31.939] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@56ef022f
+[03May2025 20:38:31.939] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:31.939] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60]
+[03May2025 20:38:31.939] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3c627c21
+[03May2025 20:38:31.940] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:31.940] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60]
+[03May2025 20:38:31.940] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@24863b64
+[03May2025 20:38:31.940] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:31.940] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60]
+[03May2025 20:38:31.940] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3d282b40
+[03May2025 20:38:31.940] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:31.940] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60]
+[03May2025 20:38:31.940] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@13f8a8b0
+[03May2025 20:38:31.940] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:31.940] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60]
+[03May2025 20:38:31.940] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3cd45d9a
+[03May2025 20:38:31.941] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:31.941] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.06, y=64.00, z=117.60]
+[03May2025 20:38:35.381] [Server thread/DEBUG] [pointblank/]: 15381 handling client fire request
+[03May2025 20:38:35.381] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1471759592 to 7
+[03May2025 20:38:35.382] [Server thread/DEBUG] [pointblank/]: 15381 - obtained hit result in 0ms
+[03May2025 20:38:35.382] [Server thread/DEBUG] [pointblank/]: 15382 - obtained hit result in 0ms
+[03May2025 20:38:35.382] [Server thread/DEBUG] [pointblank/]: 15382 - obtained hit result in 0ms
+[03May2025 20:38:35.382] [Server thread/DEBUG] [pointblank/]: 15382 - obtained hit result in 0ms
+[03May2025 20:38:35.382] [Server thread/DEBUG] [pointblank/]: 15382 - obtained hit result in 0ms
+[03May2025 20:38:35.382] [Server thread/DEBUG] [pointblank/]: 15382 - obtained hit result in 0ms
+[03May2025 20:38:35.382] [Server thread/DEBUG] [pointblank/]: 15382 - obtained hit result in 0ms
+[03May2025 20:38:35.382] [Server thread/DEBUG] [pointblank/]: 15382 - obtained hit result in 0ms
+[03May2025 20:38:35.382] [Server thread/DEBUG] [pointblank/]: 15382 - obtained hit result in 0ms
+[03May2025 20:38:35.382] [Server thread/DEBUG] [pointblank/]: 15382 - obtained hit result in 0ms
+[03May2025 20:38:35.382] [Server thread/DEBUG] [pointblank/]: 15382 - obtained hit result in 0ms
+[03May2025 20:38:35.382] [Server thread/DEBUG] [pointblank/]: 15382 - obtained hit result in 0ms
+[03May2025 20:38:35.382] [Server thread/DEBUG] [pointblank/]: 15382 - obtained hit result in 0ms
+[03May2025 20:38:35.382] [Server thread/DEBUG] [pointblank/]: 15382 - obtained hit result in 0ms
+[03May2025 20:38:35.382] [Server thread/DEBUG] [pointblank/]: 15382 - obtained hit result in 0ms
+[03May2025 20:38:35.382] [Server thread/DEBUG] [pointblank/]: 15382 - obtained hit result in 0ms
+[03May2025 20:38:35.382] [Server thread/DEBUG] [pointblank/]: 15382 - obtained hit result in 0ms
+[03May2025 20:38:35.382] [Server thread/DEBUG] [pointblank/]: 15382 - obtained hit result in 0ms
+[03May2025 20:38:35.382] [Server thread/DEBUG] [pointblank/]: 15382 - obtained hit result in 0ms
+[03May2025 20:38:35.382] [Server thread/DEBUG] [pointblank/]: 15382 - obtained hit result in 0ms
+[03May2025 20:38:35.382] [Server thread/DEBUG] [pointblank/]: 15382 - obtained hit result in 0ms
+[03May2025 20:38:35.382] [Server thread/DEBUG] [pointblank/]: 15382 - obtained hit result in 0ms
+[03May2025 20:38:35.382] [Server thread/DEBUG] [pointblank/]: 15382 - obtained hit result in 0ms
+[03May2025 20:38:35.382] [Server thread/DEBUG] [pointblank/]: 15382 - obtained hit result in 0ms
+[03May2025 20:38:35.382] [Server thread/DEBUG] [pointblank/]: 15382 - obtained hit result in 0ms
+[03May2025 20:38:35.382] [Server thread/DEBUG] [pointblank/]: 15382 - obtained hit result in 0ms
+[03May2025 20:38:35.382] [Server thread/DEBUG] [pointblank/]: 15382 - obtained hit result in 0ms
+[03May2025 20:38:35.382] [Server thread/DEBUG] [pointblank/]: 15382 - obtained hit result in 0ms
+[03May2025 20:38:35.383] [Server thread/DEBUG] [pointblank/]: 15383 - obtained hit result in 1ms
+[03May2025 20:38:35.383] [Server thread/DEBUG] [pointblank/]: 15383 - obtained hit result in 0ms
+[03May2025 20:38:35.383] [Server thread/DEBUG] [pointblank/]: 15383 obtained hit results
+[03May2025 20:38:35.383] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@b3bd17a
+[03May2025 20:38:35.383] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:35.383] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02]
+[03May2025 20:38:35.384] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@470c64b
+[03May2025 20:38:35.384] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:35.384] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02]
+[03May2025 20:38:35.384] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@772483e8
+[03May2025 20:38:35.384] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:35.385] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02]
+[03May2025 20:38:35.385] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6f2e2545
+[03May2025 20:38:35.385] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:35.385] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02]
+[03May2025 20:38:35.385] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@36b50eb9
+[03May2025 20:38:35.385] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:35.385] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02]
+[03May2025 20:38:35.386] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6aa3557a
+[03May2025 20:38:35.386] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:35.386] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02]
+[03May2025 20:38:35.386] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@71f216aa
+[03May2025 20:38:35.386] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:35.386] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02]
+[03May2025 20:38:35.386] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6fe811dc
+[03May2025 20:38:35.387] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:35.387] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02]
+[03May2025 20:38:35.387] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@71361a5e
+[03May2025 20:38:35.387] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:35.387] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02]
+[03May2025 20:38:35.387] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@14e9987
+[03May2025 20:38:35.388] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:35.388] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02]
+[03May2025 20:38:35.388] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@60e89842
+[03May2025 20:38:35.388] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:35.388] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02]
+[03May2025 20:38:35.388] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4fa11372
+[03May2025 20:38:35.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:35.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02]
+[03May2025 20:38:35.390] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@e840432
+[03May2025 20:38:35.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:35.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02]
+[03May2025 20:38:35.390] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7b7326c4
+[03May2025 20:38:35.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:35.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02]
+[03May2025 20:38:35.390] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5ffd8b60
+[03May2025 20:38:35.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:35.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02]
+[03May2025 20:38:35.390] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1800296e
+[03May2025 20:38:35.390] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:35.391] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02]
+[03May2025 20:38:35.391] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@368b1bc8
+[03May2025 20:38:35.391] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:35.391] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02]
+[03May2025 20:38:35.391] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@542c5edb
+[03May2025 20:38:35.391] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:35.391] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02]
+[03May2025 20:38:35.391] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@67b969b5
+[03May2025 20:38:35.391] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:35.391] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02]
+[03May2025 20:38:35.391] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7eeb6775
+[03May2025 20:38:35.391] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:35.391] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02]
+[03May2025 20:38:35.391] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@10d0763b
+[03May2025 20:38:35.392] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:35.392] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02]
+[03May2025 20:38:35.392] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@26bc387c
+[03May2025 20:38:35.392] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:35.392] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02]
+[03May2025 20:38:35.392] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@a6409df
+[03May2025 20:38:35.392] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:35.392] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02]
+[03May2025 20:38:35.392] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2f111729
+[03May2025 20:38:35.392] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:35.392] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02]
+[03May2025 20:38:35.392] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3c63cd5e
+[03May2025 20:38:35.392] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:35.392] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02]
+[03May2025 20:38:35.392] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7bdb7d76
+[03May2025 20:38:35.393] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:35.393] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02]
+[03May2025 20:38:35.393] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@51dba923
+[03May2025 20:38:35.393] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:35.393] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02]
+[03May2025 20:38:35.393] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7654546e
+[03May2025 20:38:35.393] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:35.393] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02]
+[03May2025 20:38:35.393] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@54ff6ec7
+[03May2025 20:38:35.393] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:35.393] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02]
+[03May2025 20:38:35.393] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@746f89e3
+[03May2025 20:38:35.393] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-162.62, y=56.00, z=129.09]
+[03May2025 20:38:35.393] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-152.53, y=64.00, z=116.02]
+[03May2025 20:38:36.503] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1471759592 to 9
+[03May2025 20:39:07.547] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[03May2025 20:39:59.145] [Server thread/DEBUG] [pointblank/]: 99144 handling client fire request
+[03May2025 20:39:59.145] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1471759592 to 8
+[03May2025 20:39:59.145] [Server thread/DEBUG] [pointblank/]: 99145 - obtained hit result in 0ms
+[03May2025 20:39:59.145] [Server thread/DEBUG] [pointblank/]: 99145 - obtained hit result in 0ms
+[03May2025 20:39:59.145] [Server thread/DEBUG] [pointblank/]: 99145 - obtained hit result in 0ms
+[03May2025 20:39:59.145] [Server thread/DEBUG] [pointblank/]: 99145 - obtained hit result in 0ms
+[03May2025 20:39:59.145] [Server thread/DEBUG] [pointblank/]: 99145 - obtained hit result in 0ms
+[03May2025 20:39:59.145] [Server thread/DEBUG] [pointblank/]: 99145 - obtained hit result in 0ms
+[03May2025 20:39:59.145] [Server thread/DEBUG] [pointblank/]: 99145 - obtained hit result in 0ms
+[03May2025 20:39:59.145] [Server thread/DEBUG] [pointblank/]: 99145 - obtained hit result in 0ms
+[03May2025 20:39:59.145] [Server thread/DEBUG] [pointblank/]: 99145 - obtained hit result in 0ms
+[03May2025 20:39:59.145] [Server thread/DEBUG] [pointblank/]: 99145 - obtained hit result in 0ms
+[03May2025 20:39:59.145] [Server thread/DEBUG] [pointblank/]: 99145 - obtained hit result in 0ms
+[03May2025 20:39:59.145] [Server thread/DEBUG] [pointblank/]: 99145 - obtained hit result in 0ms
+[03May2025 20:39:59.145] [Server thread/DEBUG] [pointblank/]: 99145 - obtained hit result in 0ms
+[03May2025 20:39:59.145] [Server thread/DEBUG] [pointblank/]: 99145 - obtained hit result in 0ms
+[03May2025 20:39:59.145] [Server thread/DEBUG] [pointblank/]: 99145 - obtained hit result in 0ms
+[03May2025 20:39:59.145] [Server thread/DEBUG] [pointblank/]: 99145 - obtained hit result in 0ms
+[03May2025 20:39:59.145] [Server thread/DEBUG] [pointblank/]: 99145 - obtained hit result in 0ms
+[03May2025 20:39:59.145] [Server thread/DEBUG] [pointblank/]: 99145 - obtained hit result in 0ms
+[03May2025 20:39:59.145] [Server thread/DEBUG] [pointblank/]: 99145 - obtained hit result in 0ms
+[03May2025 20:39:59.146] [Server thread/DEBUG] [pointblank/]: 99146 - obtained hit result in 1ms
+[03May2025 20:39:59.146] [Server thread/DEBUG] [pointblank/]: 99146 - obtained hit result in 0ms
+[03May2025 20:39:59.146] [Server thread/DEBUG] [pointblank/]: 99146 - obtained hit result in 0ms
+[03May2025 20:39:59.146] [Server thread/DEBUG] [pointblank/]: 99146 - obtained hit result in 0ms
+[03May2025 20:39:59.146] [Server thread/DEBUG] [pointblank/]: 99146 - obtained hit result in 0ms
+[03May2025 20:39:59.146] [Server thread/DEBUG] [pointblank/]: 99146 - obtained hit result in 0ms
+[03May2025 20:39:59.146] [Server thread/DEBUG] [pointblank/]: 99146 - obtained hit result in 0ms
+[03May2025 20:39:59.146] [Server thread/DEBUG] [pointblank/]: 99146 - obtained hit result in 0ms
+[03May2025 20:39:59.146] [Server thread/DEBUG] [pointblank/]: 99146 - obtained hit result in 0ms
+[03May2025 20:39:59.146] [Server thread/DEBUG] [pointblank/]: 99146 - obtained hit result in 0ms
+[03May2025 20:39:59.146] [Server thread/DEBUG] [pointblank/]: 99146 - obtained hit result in 0ms
+[03May2025 20:39:59.146] [Server thread/DEBUG] [pointblank/]: 99146 obtained hit results
+[03May2025 20:39:59.146] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@52aff252
+[03May2025 20:39:59.147] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-151.30, y=65.00, z=129.62]
+[03May2025 20:39:59.147] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72]
+[03May2025 20:39:59.147] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@8101886
+[03May2025 20:39:59.148] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-151.30, y=65.00, z=129.62]
+[03May2025 20:39:59.148] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72]
+[03May2025 20:39:59.148] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@452ccfed
+[03May2025 20:39:59.148] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-151.30, y=65.00, z=129.62]
+[03May2025 20:39:59.149] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72]
+[03May2025 20:39:59.149] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7bd6550
+[03May2025 20:39:59.149] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-151.30, y=65.00, z=129.62]
+[03May2025 20:39:59.149] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72]
+[03May2025 20:39:59.149] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@244d81ed
+[03May2025 20:39:59.149] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-151.30, y=65.00, z=129.62]
+[03May2025 20:39:59.149] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72]
+[03May2025 20:39:59.149] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@88b5c2b
+[03May2025 20:39:59.150] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-151.30, y=65.00, z=129.62]
+[03May2025 20:39:59.150] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72]
+[03May2025 20:39:59.150] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@ba9f4b0
+[03May2025 20:39:59.150] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-151.30, y=65.00, z=129.62]
+[03May2025 20:39:59.150] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72]
+[03May2025 20:39:59.150] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@67528770
+[03May2025 20:39:59.151] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-151.30, y=65.00, z=129.62]
+[03May2025 20:39:59.151] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72]
+[03May2025 20:39:59.151] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2f58209e
+[03May2025 20:39:59.151] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-151.30, y=65.00, z=129.62]
+[03May2025 20:39:59.151] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72]
+[03May2025 20:39:59.151] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7d604b5a
+[03May2025 20:39:59.151] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-151.30, y=65.00, z=129.62]
+[03May2025 20:39:59.151] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72]
+[03May2025 20:39:59.152] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@39283c32
+[03May2025 20:39:59.152] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-151.30, y=65.00, z=129.62]
+[03May2025 20:39:59.152] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72]
+[03May2025 20:39:59.152] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4ab25560
+[03May2025 20:39:59.152] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-151.30, y=65.00, z=129.62]
+[03May2025 20:39:59.153] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72]
+[03May2025 20:39:59.153] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7a94fcc1
+[03May2025 20:39:59.153] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-151.30, y=65.00, z=129.62]
+[03May2025 20:39:59.153] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72]
+[03May2025 20:39:59.153] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@297a40f1
+[03May2025 20:39:59.153] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-151.30, y=65.00, z=129.62]
+[03May2025 20:39:59.153] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72]
+[03May2025 20:39:59.153] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@75f158b8
+[03May2025 20:39:59.154] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-151.30, y=65.00, z=129.62]
+[03May2025 20:39:59.154] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72]
+[03May2025 20:39:59.154] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@68753590
+[03May2025 20:39:59.154] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-151.30, y=65.00, z=129.62]
+[03May2025 20:39:59.154] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72]
+[03May2025 20:39:59.154] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@355aaeab
+[03May2025 20:39:59.156] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-151.30, y=65.00, z=129.62]
+[03May2025 20:39:59.156] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72]
+[03May2025 20:39:59.156] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4edc0d39
+[03May2025 20:39:59.156] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-151.30, y=65.00, z=129.62]
+[03May2025 20:39:59.156] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72]
+[03May2025 20:39:59.156] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3197a8c2
+[03May2025 20:39:59.156] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-151.30, y=65.00, z=129.62]
+[03May2025 20:39:59.156] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72]
+[03May2025 20:39:59.156] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@700fc2d5
+[03May2025 20:39:59.156] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-151.30, y=65.00, z=129.62]
+[03May2025 20:39:59.156] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72]
+[03May2025 20:39:59.156] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@10401589
+[03May2025 20:39:59.157] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-151.30, y=65.00, z=129.62]
+[03May2025 20:39:59.157] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72]
+[03May2025 20:39:59.157] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3e5b677d
+[03May2025 20:39:59.157] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-151.30, y=65.00, z=129.62]
+[03May2025 20:39:59.157] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72]
+[03May2025 20:39:59.157] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@320619cc
+[03May2025 20:39:59.157] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-151.30, y=65.00, z=129.62]
+[03May2025 20:39:59.157] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72]
+[03May2025 20:39:59.157] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3c116c33
+[03May2025 20:39:59.157] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-151.30, y=65.00, z=129.62]
+[03May2025 20:39:59.157] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72]
+[03May2025 20:39:59.157] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2cedda65
+[03May2025 20:39:59.158] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-151.30, y=65.00, z=129.62]
+[03May2025 20:39:59.158] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72]
+[03May2025 20:39:59.158] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@49e8300a
+[03May2025 20:39:59.158] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-151.30, y=65.00, z=129.62]
+[03May2025 20:39:59.158] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72]
+[03May2025 20:39:59.158] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4b228882
+[03May2025 20:39:59.158] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-151.30, y=65.00, z=129.62]
+[03May2025 20:39:59.158] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72]
+[03May2025 20:39:59.158] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7ce50521
+[03May2025 20:39:59.158] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-151.30, y=65.00, z=129.62]
+[03May2025 20:39:59.158] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72]
+[03May2025 20:39:59.158] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3e99d62a
+[03May2025 20:39:59.158] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-151.30, y=65.00, z=129.62]
+[03May2025 20:39:59.158] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72]
+[03May2025 20:39:59.158] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@36f9c993
+[03May2025 20:39:59.158] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['ANGELXD12377'/25, l='ServerLevel[world]', x=-151.30, y=65.00, z=129.62]
+[03May2025 20:39:59.158] [Server thread/DEBUG] [pointblank/]: ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72] sends hit scan notification to ServerPlayer['A1lenSS'/29318, l='ServerLevel[world]', x=-146.83, y=63.00, z=100.72]
+[03May2025 20:40:00.350] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1471759592 to 9
+[03May2025 20:40:35.445] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[03May2025 20:42:46.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 20:42:46.483] [IO-Worker-44/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[03May2025 20:42:46.484] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[03May2025 20:42:46.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 20:45:28.438] [IO-Worker-46/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[03May2025 20:45:38.316] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=128} BlockPos{x=-151, y=64, z=128}
+[03May2025 20:45:38.367] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=128} BlockPos{x=-151, y=64, z=128}
+[03May2025 20:45:38.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=128} BlockPos{x=-151, y=64, z=128}
+[03May2025 20:45:38.467] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=128} BlockPos{x=-151, y=64, z=128}
+[03May2025 20:45:38.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=128} BlockPos{x=-151, y=64, z=128}
+[03May2025 20:45:38.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=127} BlockPos{x=-151, y=64, z=128}
+[03May2025 20:45:38.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=127} BlockPos{x=-151, y=64, z=128}
+[03May2025 20:45:38.666] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=127} BlockPos{x=-151, y=64, z=128}
+[03May2025 20:45:38.818] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=126} BlockPos{x=-152, y=64, z=127}
+[03May2025 20:45:38.867] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=126} BlockPos{x=-152, y=64, z=127}
+[03May2025 20:45:38.917] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=126} BlockPos{x=-152, y=64, z=127}
+[03May2025 20:45:38.967] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=126} BlockPos{x=-152, y=64, z=127}
+[03May2025 20:45:39.028] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=125} BlockPos{x=-152, y=64, z=127}
+[03May2025 20:45:39.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=125} BlockPos{x=-152, y=64, z=127}
+[03May2025 20:45:39.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=125} BlockPos{x=-152, y=64, z=127}
+[03May2025 20:45:39.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=125} BlockPos{x=-152, y=64, z=127}
+[03May2025 20:45:39.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=125} BlockPos{x=-152, y=64, z=127}
+[03May2025 20:45:39.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=124} BlockPos{x=-152, y=64, z=127}
+[03May2025 20:45:39.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=124} BlockPos{x=-152, y=64, z=127}
+[03May2025 20:45:39.369] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=124} BlockPos{x=-152, y=64, z=127}
+[03May2025 20:45:39.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=124} BlockPos{x=-152, y=64, z=127}
+[03May2025 20:45:39.467] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=123} BlockPos{x=-152, y=64, z=127}
+[03May2025 20:45:39.518] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=123} BlockPos{x=-152, y=64, z=127}
+[03May2025 20:45:39.565] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=123} BlockPos{x=-152, y=64, z=127}
+[03May2025 20:45:39.618] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=123} BlockPos{x=-152, y=64, z=127}
+[03May2025 20:45:39.695] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=123} BlockPos{x=-152, y=64, z=127}
+[03May2025 20:45:39.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=122} BlockPos{x=-152, y=64, z=127}
+[03May2025 20:45:39.767] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=122} BlockPos{x=-152, y=64, z=127}
+[03May2025 20:45:39.817] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=122} BlockPos{x=-152, y=64, z=127}
+[03May2025 20:45:40.029] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=121} BlockPos{x=-152, y=64, z=122}
+[03May2025 20:45:40.067] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=121} BlockPos{x=-152, y=64, z=122}
+[03May2025 20:45:40.118] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=121} BlockPos{x=-152, y=64, z=122}
+[03May2025 20:45:40.866] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-154, y=64, z=121} BlockPos{x=-153, y=64, z=121}
+[03May2025 20:45:40.918] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-154, y=64, z=121} BlockPos{x=-153, y=64, z=121}
+[03May2025 20:45:40.996] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-154, y=64, z=121} BlockPos{x=-153, y=64, z=121}
+[03May2025 20:45:41.119] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-155, y=64, z=121} BlockPos{x=-154, y=64, z=121}
+[03May2025 20:45:41.167] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-155, y=64, z=121} BlockPos{x=-154, y=64, z=121}
+[03May2025 20:45:41.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-155, y=64, z=121} BlockPos{x=-154, y=64, z=121}
+[03May2025 20:45:41.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-155, y=64, z=121} BlockPos{x=-154, y=64, z=121}
+[03May2025 20:45:41.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=64, z=121} BlockPos{x=-154, y=64, z=121}
+[03May2025 20:45:41.369] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=64, z=121} BlockPos{x=-154, y=64, z=121}
+[03May2025 20:45:41.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=64, z=121} BlockPos{x=-154, y=64, z=121}
+[03May2025 20:45:41.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=64, z=121} BlockPos{x=-154, y=64, z=121}
+[03May2025 20:45:41.518] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-157, y=64, z=121} BlockPos{x=-154, y=64, z=121}
+[03May2025 20:45:41.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-157, y=64, z=121} BlockPos{x=-154, y=64, z=121}
+[03May2025 20:45:41.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-157, y=64, z=121} BlockPos{x=-154, y=64, z=121}
+[03May2025 20:45:41.667] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-157, y=64, z=121} BlockPos{x=-154, y=64, z=121}
+[03May2025 20:45:41.721] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-157, y=64, z=121} BlockPos{x=-154, y=64, z=121}
+[03May2025 20:45:41.767] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-158, y=64, z=121} BlockPos{x=-154, y=64, z=121}
+[03May2025 20:45:41.816] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-158, y=64, z=121} BlockPos{x=-154, y=64, z=121}
+[03May2025 20:45:41.867] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-158, y=64, z=121} BlockPos{x=-154, y=64, z=121}
+[03May2025 20:45:41.920] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-158, y=64, z=121} BlockPos{x=-154, y=64, z=121}
+[03May2025 20:45:41.995] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-158, y=64, z=121} BlockPos{x=-154, y=64, z=121}
+[03May2025 20:45:42.025] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=121} BlockPos{x=-154, y=64, z=121}
+[03May2025 20:45:42.067] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=121} BlockPos{x=-154, y=64, z=121}
+[03May2025 20:45:42.118] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=121} BlockPos{x=-154, y=64, z=121}
+[03May2025 20:45:42.167] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=121} BlockPos{x=-154, y=64, z=121}
+[03May2025 20:45:43.368] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=123} BlockPos{x=-159, y=64, z=122}
+[03May2025 20:45:43.419] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=123} BlockPos{x=-159, y=64, z=122}
+[03May2025 20:45:43.468] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=123} BlockPos{x=-159, y=64, z=122}
+[03May2025 20:45:43.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=124} BlockPos{x=-159, y=64, z=123}
+[03May2025 20:45:43.668] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=124} BlockPos{x=-159, y=64, z=123}
+[03May2025 20:45:43.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=124} BlockPos{x=-159, y=64, z=123}
+[03May2025 20:45:43.767] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=124} BlockPos{x=-159, y=64, z=123}
+[03May2025 20:45:43.817] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=125} BlockPos{x=-159, y=64, z=123}
+[03May2025 20:45:43.866] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=125} BlockPos{x=-159, y=64, z=123}
+[03May2025 20:45:43.919] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=125} BlockPos{x=-159, y=64, z=123}
+[03May2025 20:45:44.067] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=126} BlockPos{x=-159, y=64, z=125}
+[03May2025 20:45:44.117] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=126} BlockPos{x=-159, y=64, z=125}
+[03May2025 20:45:44.168] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=126} BlockPos{x=-159, y=64, z=125}
+[03May2025 20:45:44.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=126} BlockPos{x=-159, y=64, z=125}
+[03May2025 20:45:44.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=127} BlockPos{x=-159, y=64, z=125}
+[03May2025 20:45:44.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=127} BlockPos{x=-159, y=64, z=125}
+[03May2025 20:45:44.366] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=127} BlockPos{x=-159, y=64, z=125}
+[03May2025 20:45:44.516] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=128} BlockPos{x=-159, y=64, z=127}
+[03May2025 20:45:44.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=128} BlockPos{x=-159, y=64, z=127}
+[03May2025 20:45:44.623] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=128} BlockPos{x=-159, y=64, z=127}
+[03May2025 20:45:44.667] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=128} BlockPos{x=-159, y=64, z=127}
+[03May2025 20:45:44.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=129} BlockPos{x=-159, y=64, z=127}
+[03May2025 20:45:44.768] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=129} BlockPos{x=-159, y=64, z=127}
+[03May2025 20:45:44.806] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=129} BlockPos{x=-159, y=64, z=127}
+[03May2025 20:45:44.852] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=129} BlockPos{x=-159, y=64, z=127}
+[03May2025 20:45:44.948] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=129} BlockPos{x=-159, y=64, z=127}
+[03May2025 20:45:44.967] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=130} BlockPos{x=-159, y=64, z=127}
+[03May2025 20:45:45.025] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=130} BlockPos{x=-159, y=64, z=127}
+[03May2025 20:45:45.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=130} BlockPos{x=-159, y=64, z=127}
+[03May2025 20:45:45.117] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=130} BlockPos{x=-159, y=64, z=127}
+[03May2025 20:45:45.196] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=131} BlockPos{x=-159, y=64, z=127}
+[03May2025 20:45:45.219] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=131} BlockPos{x=-159, y=64, z=127}
+[03May2025 20:45:45.254] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=131} BlockPos{x=-159, y=64, z=127}
+[03May2025 20:45:45.319] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=131} BlockPos{x=-159, y=64, z=127}
+[03May2025 20:45:45.398] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=131} BlockPos{x=-159, y=64, z=127}
+[03May2025 20:45:45.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=132} BlockPos{x=-159, y=64, z=127}
+[03May2025 20:45:45.467] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=132} BlockPos{x=-159, y=64, z=127}
+[03May2025 20:45:45.521] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=132} BlockPos{x=-159, y=64, z=127}
+[03May2025 20:45:45.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=132} BlockPos{x=-159, y=64, z=127}
+[03May2025 20:45:45.619] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=133} BlockPos{x=-159, y=64, z=127}
+[03May2025 20:45:45.667] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=133} BlockPos{x=-159, y=64, z=127}
+[03May2025 20:45:45.718] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=133} BlockPos{x=-159, y=64, z=127}
+[03May2025 20:45:45.740] [IO-Worker-44/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[03May2025 20:45:45.867] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=134} BlockPos{x=-159, y=64, z=133}
+[03May2025 20:45:45.917] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=134} BlockPos{x=-159, y=64, z=133}
+[03May2025 20:45:45.967] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=134} BlockPos{x=-159, y=64, z=133}
+[03May2025 20:45:46.017] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=134} BlockPos{x=-159, y=64, z=133}
+[03May2025 20:45:46.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=135} BlockPos{x=-159, y=64, z=133}
+[03May2025 20:45:46.117] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=135} BlockPos{x=-159, y=64, z=133}
+[03May2025 20:45:46.170] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=135} BlockPos{x=-159, y=64, z=133}
+[03May2025 20:45:46.317] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=136} BlockPos{x=-159, y=64, z=135}
+[03May2025 20:45:46.367] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=136} BlockPos{x=-159, y=64, z=135}
+[03May2025 20:45:46.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=64, z=136} BlockPos{x=-159, y=64, z=135}
+[03May2025 20:45:48.117] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=64, z=137} BlockPos{x=-157, y=64, z=137}
+[03May2025 20:45:48.167] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=64, z=137} BlockPos{x=-157, y=64, z=137}
+[03May2025 20:45:48.223] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=64, z=137} BlockPos{x=-157, y=64, z=137}
+[03May2025 20:45:48.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=64, z=137} BlockPos{x=-157, y=64, z=137}
+[03May2025 20:45:48.345] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-155, y=64, z=137} BlockPos{x=-157, y=64, z=137}
+[03May2025 20:45:48.366] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-155, y=64, z=137} BlockPos{x=-157, y=64, z=137}
+[03May2025 20:45:48.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-155, y=64, z=137} BlockPos{x=-157, y=64, z=137}
+[03May2025 20:45:48.648] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-154, y=64, z=137} BlockPos{x=-155, y=64, z=137}
+[03May2025 20:45:48.666] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-154, y=64, z=137} BlockPos{x=-155, y=64, z=137}
+[03May2025 20:45:48.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-154, y=64, z=137} BlockPos{x=-155, y=64, z=137}
+[03May2025 20:45:48.766] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-154, y=64, z=137} BlockPos{x=-155, y=64, z=137}
+[03May2025 20:45:48.843] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-153, y=64, z=137} BlockPos{x=-155, y=64, z=137}
+[03May2025 20:45:48.867] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-153, y=64, z=137} BlockPos{x=-155, y=64, z=137}
+[03May2025 20:45:48.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-153, y=64, z=137} BlockPos{x=-155, y=64, z=137}
+[03May2025 20:45:48.952] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-153, y=64, z=137} BlockPos{x=-155, y=64, z=137}
+[03May2025 20:45:49.046] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-153, y=64, z=137} BlockPos{x=-155, y=64, z=137}
+[03May2025 20:45:49.071] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=137} BlockPos{x=-155, y=64, z=137}
+[03May2025 20:45:49.117] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=137} BlockPos{x=-155, y=64, z=137}
+[03May2025 20:45:49.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=137} BlockPos{x=-155, y=64, z=137}
+[03May2025 20:45:49.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=137} BlockPos{x=-155, y=64, z=137}
+[03May2025 20:45:49.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=64, z=137} BlockPos{x=-155, y=64, z=137}
+[03May2025 20:45:49.317] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-151, y=64, z=137} BlockPos{x=-155, y=64, z=137}
+[03May2025 20:45:49.367] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-151, y=64, z=137} BlockPos{x=-155, y=64, z=137}
+[03May2025 20:45:49.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-151, y=64, z=137} BlockPos{x=-155, y=64, z=137}
+[03May2025 20:45:49.467] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-151, y=64, z=137} BlockPos{x=-155, y=64, z=137}
+[03May2025 20:45:49.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-150, y=64, z=137} BlockPos{x=-155, y=64, z=137}
+[03May2025 20:45:49.568] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-150, y=64, z=137} BlockPos{x=-155, y=64, z=137}
+[03May2025 20:45:58.467] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=64, z=137} BlockPos{x=-144, y=64, z=137}
+[03May2025 20:45:58.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=64, z=137} BlockPos{x=-144, y=64, z=137}
+[03May2025 20:45:58.566] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=64, z=137} BlockPos{x=-144, y=64, z=137}
+[03May2025 20:45:58.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=64, z=137} BlockPos{x=-144, y=64, z=137}
+[03May2025 20:45:58.666] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-142, y=64, z=137} BlockPos{x=-144, y=64, z=137}
+[03May2025 20:45:58.716] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-142, y=64, z=137} BlockPos{x=-144, y=64, z=137}
+[03May2025 20:45:58.766] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-142, y=64, z=137} BlockPos{x=-144, y=64, z=137}
+[03May2025 20:45:58.817] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-142, y=64, z=137} BlockPos{x=-144, y=64, z=137}
+[03May2025 20:45:58.966] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-141, y=64, z=137} BlockPos{x=-142, y=64, z=137}
+[03May2025 20:45:59.017] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-141, y=64, z=137} BlockPos{x=-142, y=64, z=137}
+[03May2025 20:45:59.067] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-141, y=64, z=137} BlockPos{x=-142, y=64, z=137}
+[03May2025 20:45:59.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-141, y=64, z=137} BlockPos{x=-142, y=64, z=137}
+[03May2025 20:45:59.198] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-140, y=64, z=137} BlockPos{x=-142, y=64, z=137}
+[03May2025 20:45:59.224] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-140, y=64, z=137} BlockPos{x=-142, y=64, z=137}
+[03May2025 20:45:59.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-140, y=64, z=137} BlockPos{x=-142, y=64, z=137}
+[03May2025 20:45:59.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-139, y=64, z=137} BlockPos{x=-140, y=64, z=137}
+[03May2025 20:45:59.468] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-139, y=64, z=137} BlockPos{x=-140, y=64, z=137}
+[03May2025 20:45:59.518] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-139, y=64, z=137} BlockPos{x=-140, y=64, z=137}
+[03May2025 20:45:59.572] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-139, y=64, z=137} BlockPos{x=-140, y=64, z=137}
+[03May2025 20:46:01.115] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=64, z=134} BlockPos{x=-138, y=64, z=135}
+[03May2025 20:46:01.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=64, z=134} BlockPos{x=-138, y=64, z=135}
+[03May2025 20:46:01.215] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=64, z=134} BlockPos{x=-138, y=64, z=135}
+[03May2025 20:46:01.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=64, z=134} BlockPos{x=-138, y=64, z=135}
+[03May2025 20:46:01.347] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=64, z=134} BlockPos{x=-138, y=64, z=135}
+[03May2025 20:46:01.352] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=64, z=133} BlockPos{x=-138, y=64, z=135}
+[03May2025 20:46:01.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=64, z=133} BlockPos{x=-138, y=64, z=135}
+[03May2025 20:46:01.467] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=64, z=133} BlockPos{x=-138, y=64, z=135}
+[03May2025 20:46:01.620] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=64, z=132} BlockPos{x=-138, y=64, z=133}
+[03May2025 20:46:01.666] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=64, z=132} BlockPos{x=-138, y=64, z=133}
+[03May2025 20:46:01.721] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=64, z=132} BlockPos{x=-138, y=64, z=133}
+[03May2025 20:46:01.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=64, z=132} BlockPos{x=-138, y=64, z=133}
+[03May2025 20:46:01.818] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=64, z=131} BlockPos{x=-138, y=64, z=133}
+[03May2025 20:46:01.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=64, z=131} BlockPos{x=-138, y=64, z=133}
+[03May2025 20:46:01.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=64, z=131} BlockPos{x=-138, y=64, z=133}
+[03May2025 20:46:02.065] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=64, z=130} BlockPos{x=-138, y=64, z=131}
+[03May2025 20:46:02.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=64, z=130} BlockPos{x=-138, y=64, z=131}
+[03May2025 20:46:02.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=64, z=130} BlockPos{x=-138, y=64, z=131}
+[03May2025 20:46:02.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=64, z=130} BlockPos{x=-138, y=64, z=131}
+[03May2025 20:46:02.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=64, z=129} BlockPos{x=-138, y=64, z=131}
+[03May2025 20:46:02.316] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=64, z=129} BlockPos{x=-138, y=64, z=131}
+[03May2025 20:46:02.365] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=64, z=129} BlockPos{x=-138, y=64, z=131}
+[03May2025 20:46:02.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=64, z=129} BlockPos{x=-138, y=64, z=131}
+[03May2025 20:46:02.503] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=64, z=129} BlockPos{x=-138, y=64, z=131}
+[03May2025 20:46:02.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=64, z=128} BlockPos{x=-138, y=64, z=131}
+[03May2025 20:46:02.565] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=64, z=128} BlockPos{x=-138, y=64, z=131}
+[03May2025 20:46:02.616] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=64, z=128} BlockPos{x=-138, y=64, z=131}
+[03May2025 20:46:02.675] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=64, z=127} BlockPos{x=-138, y=64, z=131}
