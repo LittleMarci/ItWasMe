@@ -8798,5 +8798,35 @@
     },
     "done": true
   },
+  "regrowth:rgroot/teardown": {
+    "criteria": {
+      "has_traded": "2025-05-03 02:03:51 +0000"
+    },
+    "done": false
+  },
+  "regrowth:rgroot/rgroot": {
+    "criteria": {
+      "has_traded": "2025-05-03 02:03:51 +0000"
+    },
+    "done": true
+  },
+  "regrowth:rgroot/saferhedges": {
+    "criteria": {
+      "has_traded": "2025-05-03 02:03:51 +0000"
+    },
+    "done": false
+  },
+  "regrowth:rgroot/offlimits": {
+    "criteria": {
+      "has_traded": "2025-05-03 02:03:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-03 02:03:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

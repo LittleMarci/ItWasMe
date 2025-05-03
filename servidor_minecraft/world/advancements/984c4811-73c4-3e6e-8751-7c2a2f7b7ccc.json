@@ -8640,6 +8640,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-05-03 01:37:01 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:recipes/weathered_plate_iron": {
     "criteria": {
       "has_copper_block": "2025-05-02 23:08:22 +0000"
@@ -8674,6 +8680,12 @@
   "bloomingnature:recipes/chestnut_fence_gate": {
     "criteria": {
       "has_chestnut_planks": "2025-05-03 00:45:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-05-03 01:30:13 +0000"
     },
     "done": true
   },
@@ -8734,6 +8746,12 @@
   "bloomingnature:recipes/chestnut_slab": {
     "criteria": {
       "has_chestnut_planks": "2025-05-03 00:45:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-03 01:37:01 +0000"
     },
     "done": true
   },
@@ -8812,6 +8830,18 @@
   "bloomingnature:recipes/chestnut_door": {
     "criteria": {
       "has_chestnut_planks": "2025-05-03 00:45:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-05-03 01:37:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-05-03 01:37:01 +0000"
     },
     "done": true
   },
