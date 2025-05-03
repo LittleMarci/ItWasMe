@@ -15397,3 +15397,25 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03May2025 23:31:36.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 left the game
 [03May2025 23:31:36.314] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of sigan_viendo01
 [03May2025 23:31:36.316] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sigan_viendo01
+[03May2025 23:32:36.361] [Worker-Main-14/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-14 shutdown
+[03May2025 23:33:36.361] [Worker-Main-13/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-13 shutdown
+[03May2025 23:33:37.801] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[03May2025 23:33:37.801] [IO-Worker-47/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[03May2025 23:33:37.802] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[03May2025 23:33:37.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 23:33:37.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 23:33:37.949] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[03May2025 23:33:37.949] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[03May2025 23:34:36.361] [Worker-Main-15/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-15 shutdown
+[03May2025 23:35:36.361] [Worker-Main-4/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-4 shutdown
+[03May2025 23:36:36.361] [Worker-Main-8/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-8 shutdown
+[03May2025 23:37:36.361] [Worker-Main-3/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-3 shutdown
+[03May2025 23:38:36.361] [Worker-Main-7/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-7 shutdown
+[03May2025 23:38:37.749] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[03May2025 23:38:37.750] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[03May2025 23:38:37.752] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[03May2025 23:38:37.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 23:38:37.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 23:39:36.361] [Worker-Main-9/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-9 shutdown
+[03May2025 23:40:36.361] [Worker-Main-12/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-12 shutdown
+[03May2025 23:41:36.361] [Worker-Main-10/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-10 shutdown
