@@ -8029,141 +8029,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
+  "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
-      "has_leather": "2025-05-02 23:58:49 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_wood": {
-    "criteria": {
-      "has_swamp_oak_log": "2025-05-02 23:16:12 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_fence": {
-    "criteria": {
-      "has_chestnut_planks": "2025-05-03 00:38:26 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/stone_fence": {
-    "criteria": {
-      "has_block": "2025-05-02 23:11:59 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/creeper_trophy": {
-    "criteria": {
-      "has_creeper_trophy": "2025-05-02 23:11:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2025-05-02 23:58:49 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_trapdoor": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-05-02 23:16:19 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/birch_palisade": {
-    "criteria": {
-      "has_log": "2025-05-02 23:19:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-05-02 23:11:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2025-05-02 23:58:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/complete_catalogue": {
-    "criteria": {
-      "minecraft:red": "2025-05-03 00:17:45 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-05-03 00:17:45 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_planks": {
-    "criteria": {
-      "has_swamp_oak_log": "2025-05-02 23:16:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-05-02 23:19:59 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/vindicator_trophy": {
-    "criteria": {
-      "has_vindicator_trophy": "2025-05-02 23:11:59 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
-    "criteria": {
-      "has_stone": "2025-05-02 23:11:59 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_wood": {
-    "criteria": {
-      "has_chestnut_log": "2025-05-03 00:34:01 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_button": {
-    "criteria": {
-      "has_chestnut_planks": "2025-05-03 00:38:26 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_window": {
-    "criteria": {
-      "has_chestnut_planks": "2025-05-03 00:38:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2025-05-02 23:58:49 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_button": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-05-02 23:16:19 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/skeleton_trophy": {
-    "criteria": {
-      "has_skeleton_trophy": "2025-05-02 23:11:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2025-05-02 23:11:59 +0000"
+      "has_oak_trapdoor": "2025-05-02 22:26:45 +0000"
     },
     "done": true
   },
@@ -8179,9 +8047,33 @@
     },
     "done": true
   },
-  "toolbelt:recipes/pouch": {
+  "handcrafted:recipes/misc/wood_bowl": {
     "criteria": {
-      "has_leather": "2025-05-02 23:58:49 +0000"
+      "has_wood_bowl": "2025-05-02 22:33:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-05-02 22:33:59 +0000"
+    },
+    "done": true
+  },
+  "regrowth:rgroot/rgroot": {
+    "criteria": {
+      "has_traded": "2025-05-02 22:49:03 +0000"
+    },
+    "done": true
+  },
+  "regrowth:rgroot/saferhedges": {
+    "criteria": {
+      "has_traded": "2025-05-02 22:49:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-02 22:49:03 +0000"
     },
     "done": true
   },
@@ -8191,9 +8083,57 @@
     },
     "done": true
   },
-  "bloomingnature:recipes/swamp_oak_fence": {
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
     "criteria": {
-      "has_swamp_oak_planks": "2025-05-02 23:16:19 +0000"
+      "has_cabbage": "2025-05-02 22:57:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-02 22:57:50 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/stone_fence": {
+    "criteria": {
+      "has_block": "2025-05-02 23:11:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/creeper_trophy": {
+    "criteria": {
+      "has_creeper_trophy": "2025-05-02 23:11:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-02 23:11:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/vindicator_trophy": {
+    "criteria": {
+      "has_vindicator_trophy": "2025-05-02 23:11:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
+    "criteria": {
+      "has_stone": "2025-05-02 23:11:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_trophy": {
+    "criteria": {
+      "has_skeleton_trophy": "2025-05-02 23:11:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-05-02 23:11:59 +0000"
     },
     "done": true
   },
@@ -8203,27 +8143,9 @@
     },
     "done": true
   },
-  "bloomingnature:recipes/swamp_oak_fence_gate": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-05-02 23:16:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-05-03 00:53:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-02 23:11:59 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_window": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-05-02 23:16:19 +0000"
     },
     "done": true
   },
@@ -8233,57 +8155,15 @@
     },
     "done": true
   },
-  "bbb:recipes/birch_pallet": {
-    "criteria": {
-      "has_planks": "2025-05-02 23:19:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-02 23:11:59 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/oak_cabinet": {
-    "criteria": {
-      "has_oak_trapdoor": "2025-05-02 22:26:45 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_sign": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-05-02 23:16:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-02 23:11:59 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/keypad_item": {
-    "criteria": {
-      "has_stone_button": "2025-05-02 23:12:03 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
-    "criteria": {
-      "has_leather": "2025-05-02 23:58:49 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_fence_gate": {
-    "criteria": {
-      "has_chestnut_planks": "2025-05-03 00:38:26 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_boat": {
-    "criteria": {
-      "has_chestnut_planks": "2025-05-03 00:38:26 +0000"
     },
     "done": true
   },
@@ -8299,33 +8179,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/cabbage_crate": {
-    "criteria": {
-      "has_cabbage": "2025-05-02 22:57:50 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_door": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-05-02 23:16:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-05-02 23:11:59 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_chest_boat": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-05-02 23:16:19 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_slab": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-05-02 23:16:19 +0000"
     },
     "done": true
   },
@@ -8341,18 +8197,6 @@
     },
     "done": true
   },
-  "regrowth:rgroot/rgroot": {
-    "criteria": {
-      "has_traded": "2025-05-02 22:49:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-05-02 23:19:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-05-02 23:11:59 +0000"
@@ -8365,57 +8209,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/throw_trident": {
-    "criteria": {
-      "shot_trident": "2025-05-03 00:34:33 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/backpack": {
-    "criteria": {
-      "has_leather": "2025-05-02 23:58:49 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_planks": {
-    "criteria": {
-      "has_chestnut_log": "2025-05-03 00:34:01 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/dumplings": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-02 22:57:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2025-05-02 23:58:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
-    "criteria": {
-      "has_coast_armor_trim_smithing_template": "2025-05-03 00:53:58 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/evoker_trophy": {
     "criteria": {
       "has_evoker_trophy": "2025-05-02 23:11:59 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_stairs": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-05-02 23:16:19 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_slab": {
-    "criteria": {
-      "has_chestnut_planks": "2025-05-03 00:38:26 +0000"
     },
     "done": true
   },
@@ -8425,99 +8221,15 @@
     },
     "done": true
   },
-  "bloomingnature:recipes/chestnut_hanging_sign": {
-    "criteria": {
-      "has_chestnut_planks": "2025-05-03 00:38:26 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_stairs": {
-    "criteria": {
-      "has_chestnut_planks": "2025-05-03 00:38:26 +0000"
-    },
-    "done": true
-  },
-  "regrowth:rgroot/saferhedges": {
-    "criteria": {
-      "has_traded": "2025-05-02 22:49:03 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2025-05-02 23:58:49 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/stone_corner_trim": {
     "criteria": {
       "has_stone_corner_trim": "2025-05-02 23:11:59 +0000"
     },
     "done": true
   },
-  "bloomingnature:recipes/chestnut_sign": {
-    "criteria": {
-      "has_chestnut_planks": "2025-05-03 00:38:26 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/birch_beam": {
-    "criteria": {
-      "has_log": "2025-05-02 23:19:59 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/birch_frame": {
-    "criteria": {
-      "has_planks": "2025-05-02 23:19:59 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/birch_wall": {
-    "criteria": {
-      "has_logs": "2025-05-02 23:19:59 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_boat": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-05-02 23:16:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-05-02 23:11:59 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_chest_boat": {
-    "criteria": {
-      "has_chestnut_planks": "2025-05-03 00:38:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-05-02 22:49:03 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_door": {
-    "criteria": {
-      "has_chestnut_planks": "2025-05-03 00:38:26 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_hanging_sign": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-05-02 23:16:19 +0000"
-    },
-    "done": true
-  },
-  "toolbelt:recipes/belt": {
-    "criteria": {
-      "has_leather": "2025-05-02 23:58:49 +0000"
     },
     "done": true
   },
@@ -8539,9 +8251,297 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/wood_bowl": {
+  "bbb:recipes/stone_column": {
     "criteria": {
-      "has_wood_bowl": "2025-05-02 22:33:59 +0000"
+      "has_block": "2025-05-02 23:11:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2025-05-02 23:12:03 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_wood": {
+    "criteria": {
+      "has_swamp_oak_log": "2025-05-02 23:16:12 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_planks": {
+    "criteria": {
+      "has_swamp_oak_log": "2025-05-02 23:16:12 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_trapdoor": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-02 23:16:19 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_button": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-02 23:16:19 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_fence": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-02 23:16:19 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_fence_gate": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-02 23:16:19 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_window": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-02 23:16:19 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_sign": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-02 23:16:19 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_door": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-02 23:16:19 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_chest_boat": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-02 23:16:19 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_slab": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-02 23:16:19 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_stairs": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-02 23:16:19 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_boat": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-02 23:16:19 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_hanging_sign": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-05-02 23:16:19 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/birch_palisade": {
+    "criteria": {
+      "has_log": "2025-05-02 23:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-05-02 23:19:59 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_pallet": {
+    "criteria": {
+      "has_planks": "2025-05-02 23:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-02 23:19:59 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_beam": {
+    "criteria": {
+      "has_log": "2025-05-02 23:19:59 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_frame": {
+    "criteria": {
+      "has_planks": "2025-05-02 23:19:59 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_wall": {
+    "criteria": {
+      "has_logs": "2025-05-02 23:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-02 23:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-02 23:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-02 23:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-02 23:58:49 +0000"
+    },
+    "done": true
+  },
+  "toolbelt:recipes/pouch": {
+    "criteria": {
+      "has_leather": "2025-05-02 23:58:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-05-02 23:58:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-05-02 23:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-02 23:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-02 23:58:49 +0000"
+    },
+    "done": true
+  },
+  "toolbelt:recipes/belt": {
+    "criteria": {
+      "has_leather": "2025-05-02 23:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:red": "2025-05-03 00:17:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-03 00:17:45 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_wood": {
+    "criteria": {
+      "has_chestnut_log": "2025-05-03 00:34:01 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_planks": {
+    "criteria": {
+      "has_chestnut_log": "2025-05-03 00:34:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-05-03 00:34:33 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_fence": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 00:38:26 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_button": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 00:38:26 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_window": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 00:38:26 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_fence_gate": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 00:38:26 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_boat": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 00:38:26 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_slab": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 00:38:26 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_hanging_sign": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 00:38:26 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_stairs": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 00:38:26 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_sign": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 00:38:26 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_chest_boat": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 00:38:26 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_door": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 00:38:26 +0000"
     },
     "done": true
   },
@@ -8551,15 +8551,15 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/wood_plate": {
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_wood_plate": "2025-05-02 22:33:59 +0000"
+      "has_smithing_trim_template": "2025-05-03 00:53:58 +0000"
     },
     "done": true
   },
-  "bbb:recipes/stone_column": {
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
-      "has_block": "2025-05-02 23:11:59 +0000"
+      "has_coast_armor_trim_smithing_template": "2025-05-03 00:53:58 +0000"
     },
     "done": true
   },

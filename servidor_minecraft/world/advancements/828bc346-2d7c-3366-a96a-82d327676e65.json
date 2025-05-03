@@ -74,6 +74,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-05-03 02:36:39 +0000",
       "minecraft:taiga": "2025-04-27 23:06:23 +0000",
       "minecraft:birch_forest": "2025-05-01 23:16:02 +0000",
       "minecraft:savanna_plateau": "2025-05-01 23:36:40 +0000",
@@ -8825,6 +8826,84 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-05-03 02:03:51 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_fence": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 02:19:50 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_button": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 02:19:50 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_window": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 02:19:50 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_fence_gate": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 02:19:50 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_boat": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 02:19:50 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_slab": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 02:19:50 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_hanging_sign": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 02:19:50 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_stairs": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 02:19:50 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_sign": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 02:19:50 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_chest_boat": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 02:19:50 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_door": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 02:19:50 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_trapdoor": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 02:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-05-03 02:55:12 +0000"
     },
     "done": true
   },

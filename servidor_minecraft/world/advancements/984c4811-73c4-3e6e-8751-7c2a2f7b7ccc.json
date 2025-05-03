@@ -8585,73 +8585,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/grilled_salmon": {
-    "criteria": {
-      "has_salmon": "2025-05-03 00:39:11 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_fence": {
-    "criteria": {
-      "has_chestnut_planks": "2025-05-03 00:45:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/fishy_business": {
-    "criteria": {
-      "cod": "2025-05-03 00:34:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/complete_catalogue": {
-    "criteria": {
-      "minecraft:calico": "2025-05-03 00:39:26 +0000",
-      "minecraft:red": "2025-05-03 01:25:51 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-05-02 23:21:01 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_wood": {
-    "criteria": {
-      "has_chestnut_log": "2025-05-03 00:24:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2025-05-03 00:39:11 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_button": {
-    "criteria": {
-      "has_chestnut_planks": "2025-05-03 00:45:47 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_window": {
-    "criteria": {
-      "has_chestnut_planks": "2025-05-03 00:45:47 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/baking/sea_salt": {
-    "criteria": {
-      "has_ingredient": "2025-05-03 01:37:01 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:recipes/weathered_plate_iron": {
-    "criteria": {
-      "has_copper_block": "2025-05-02 23:08:22 +0000"
-    },
-    "done": true
-  },
   "copycats:recipes/misc/crafting/copycat_iron_door": {
     "criteria": {
       "has_item": "2025-05-02 22:45:46 +0000"
@@ -8665,39 +8598,123 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-05-03 00:39:11 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-05-02 22:57:12 +0000"
     },
     "done": true
   },
-  "bloomingnature:recipes/chestnut_fence_gate": {
+  "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
-      "has_chestnut_planks": "2025-05-03 00:45:47 +0000"
+      "has_bowl": "2025-05-02 22:57:12 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_lectern": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "has_bookshelf": "2025-05-03 01:30:13 +0000"
+      "obsidian": "2025-05-02 23:05:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-02 23:05:02 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/waxed_exposed_plate_iron": {
+    "criteria": {
+      "has_copper_block": "2025-05-02 23:08:19 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/exposed_plate_iron": {
+    "criteria": {
+      "has_copper_block": "2025-05-02 23:08:19 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/weathered_plate_iron": {
+    "criteria": {
+      "has_copper_block": "2025-05-02 23:08:22 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/blue_dye_from_bluebell": {
+    "criteria": {
+      "has_bluebell": "2025-05-02 23:16:21 +0000"
+    },
+    "done": true
+  },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2025-05-02 23:16:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-05-02 23:16:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-02 23:21:01 +0000"
+    },
+    "done": true
+  },
+  "regrowth:rgroot/rgroot": {
+    "criteria": {
+      "has_traded": "2025-05-02 23:44:00 +0000"
+    },
+    "done": true
+  },
+  "regrowth:rgroot/saferhedges": {
+    "criteria": {
+      "has_traded": "2025-05-02 23:44:00 +0000"
+    },
+    "done": false
+  },
+  "regrowth:rgroot/offlimits": {
+    "criteria": {
+      "has_traded": "2025-05-02 23:44:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-02 23:44:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-05-03 00:20:16 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_wood": {
+    "criteria": {
+      "has_chestnut_log": "2025-05-03 00:24:39 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_planks": {
+    "criteria": {
+      "has_chestnut_log": "2025-05-03 00:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-05-03 00:34:55 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-05-03 00:34:55 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_boat": {
-    "criteria": {
-      "has_chestnut_planks": "2025-05-03 00:45:47 +0000"
     },
     "done": true
   },
@@ -8713,45 +8730,76 @@
     },
     "done": true
   },
-  "regrowth:rgroot/rgroot": {
+  "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
-      "has_traded": "2025-05-02 23:44:00 +0000"
+      "has_any_ingredient": "2025-05-03 00:34:55 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/throw_trident": {
+  "farmersdelight:recipes/food/grilled_salmon": {
     "criteria": {
-      "shot_trident": "2025-05-03 00:20:16 +0000"
+      "has_salmon": "2025-05-03 00:39:11 +0000"
     },
     "done": true
   },
-  "bloomingnature:recipes/blue_dye_from_bluebell": {
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
-      "has_bluebell": "2025-05-02 23:16:21 +0000"
+      "has_salmon": "2025-05-03 00:39:11 +0000"
     },
     "done": true
   },
-  "bloomingnature:recipes/chestnut_planks": {
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
-      "has_chestnut_log": "2025-05-03 00:24:39 +0000"
+      "has_salmon": "2025-05-03 00:39:11 +0000"
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
+  "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
-      "obsidian": "2025-05-02 23:05:02 +0000"
+      "has_salmon": "2025-05-03 00:39:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:calico": "2025-05-03 00:39:26 +0000",
+      "minecraft:red": "2025-05-03 01:25:51 +0000"
+    },
+    "done": false
+  },
+  "bloomingnature:recipes/chestnut_fence": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 00:45:47 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_button": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 00:45:47 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_window": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 00:45:47 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_fence_gate": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 00:45:47 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_boat": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 00:45:47 +0000"
     },
     "done": true
   },
   "bloomingnature:recipes/chestnut_slab": {
     "criteria": {
       "has_chestnut_planks": "2025-05-03 00:45:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-05-03 01:37:01 +0000"
     },
     "done": true
   },
@@ -8767,51 +8815,9 @@
     },
     "done": true
   },
-  "immersive_weathering:recipes/waxed_exposed_plate_iron": {
-    "criteria": {
-      "has_copper_block": "2025-05-02 23:08:19 +0000"
-    },
-    "done": true
-  },
-  "regrowth:rgroot/saferhedges": {
-    "criteria": {
-      "has_traded": "2025-05-02 23:44:00 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/food/nether_salad": {
-    "criteria": {
-      "has_bowl": "2025-05-02 22:57:12 +0000"
-    },
-    "done": true
-  },
-  "regrowth:rgroot/offlimits": {
-    "criteria": {
-      "has_traded": "2025-05-02 23:44:00 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/cooking/fish_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-03 00:34:55 +0000"
-    },
-    "done": true
-  },
   "bloomingnature:recipes/chestnut_sign": {
     "criteria": {
       "has_chestnut_planks": "2025-05-03 00:45:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2025-05-03 00:39:11 +0000"
-    },
-    "done": true
-  },
-  "dummmmmmy:recipes/dummy_crafting": {
-    "criteria": {
-      "has_hay_block": "2025-05-02 23:16:54 +0000"
     },
     "done": true
   },
@@ -8821,15 +8827,33 @@
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-05-02 23:44:00 +0000"
-    },
-    "done": true
-  },
   "bloomingnature:recipes/chestnut_door": {
     "criteria": {
       "has_chestnut_planks": "2025-05-03 00:45:47 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_trapdoor": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 00:45:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-05-03 01:30:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-05-03 01:37:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-03 01:37:01 +0000"
     },
     "done": true
   },
@@ -8842,30 +8866,6 @@
   "refurbished_furniture:recipes/freezing/ice": {
     "criteria": {
       "has_ingredient": "2025-05-03 01:37:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wheat": {
-    "criteria": {
-      "has_hay_block": "2025-05-02 23:16:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-05-02 23:05:02 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_trapdoor": {
-    "criteria": {
-      "has_chestnut_planks": "2025-05-03 00:45:47 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:recipes/exposed_plate_iron": {
-    "criteria": {
-      "has_copper_block": "2025-05-02 23:08:19 +0000"
     },
     "done": true
   },
