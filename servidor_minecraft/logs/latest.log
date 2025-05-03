@@ -2308,3 +2308,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03May2025 18:51:33.958] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sigan_viendo01
 [03May2025 18:52:46.910] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-181, y=63, z=90} BlockPos{x=-181, y=64, z=90}
 [03May2025 18:52:46.960] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-181, y=63, z=90} BlockPos{x=-181, y=64, z=90}
+[03May2025 18:55:42.476] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xander_Aqp[/127.98.12.191:58307] logged in with entity id 170227 at (-154.26021540762784, 70.0, 125.83740327171763)
+[03May2025 18:55:42.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xander_Aqp joined the game
+[03May2025 18:55:42.539] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Xander_Aqp
+[03May2025 18:55:42.934] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Xander_Aqp
+[03May2025 18:55:42.934] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Xander_Aqp (18)
+[03May2025 18:55:42.935] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Xander_Aqp
+[03May2025 18:57:03.209] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlonsoVanDeKap lost connection: Disconnected
+[03May2025 18:57:03.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlonsoVanDeKap left the game
+[03May2025 18:57:03.210] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlonsoVanDeKap
