@@ -9098,5 +9098,11 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/stone_brick": {
+    "criteria": {
+      "has_copper_block": "2025-05-03 21:28:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
