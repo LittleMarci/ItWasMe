@@ -6789,6 +6789,12 @@
     },
     "done": true
   },
+  "psg:verylittlechemist": {
+    "criteria": {
+      "verylittlechemist_0": "2025-05-03 01:03:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-05-02 21:19:21 +0000"
@@ -6810,6 +6816,12 @@
   "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
     "criteria": {
       "has_stone": "2025-05-02 22:19:05 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_wood": {
+    "criteria": {
+      "has_chestnut_log": "2025-05-03 00:26:51 +0000"
     },
     "done": true
   },
@@ -7110,6 +7122,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-02 22:22:33 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_planks": {
+    "criteria": {
+      "has_chestnut_log": "2025-05-03 00:26:51 +0000"
     },
     "done": true
   },
