@@ -74,6 +74,3 @@ Loading immunity item list hordes:immunity_items
 Loaded immunity item cure:vaccine with duration 350
 Loading wearables protection list
 Loading wearables protection list hordes:immune_wearables
-[net.smileycorp.hordes.hordeevent.capability.HordeEvent@46be991a]Trying to start horde event on day 60 with nextDay 60 and time 10000
-Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@36fdc3e5
-[net.smileycorp.hordes.hordeevent.capability.HordeEvent@46be991a]Spawntable is empty, canceling event start.
