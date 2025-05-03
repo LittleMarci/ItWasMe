@@ -74,3 +74,12 @@ Loading immunity item list hordes:immunity_items
 Loaded immunity item cure:vaccine with duration 350
 Loading wearables protection list
 Loading wearables protection list hordes:immune_wearables
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@605e7580]Trying to start horde event on day 50 with nextDay 50 and time 10000
+Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@1c4c257
+Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}]}} to hordespawn on day 40
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@605e7580]Spawntable is empty, stopping wave spawn.
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@605e7580]Spawntable is empty, stopping wave spawn.
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@605e7580]Spawntable is empty, stopping wave spawn.
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@605e7580]Spawntable is empty, stopping wave spawn.
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@605e7580]Spawntable is empty, stopping wave spawn.
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@605e7580]Spawntable is empty, stopping wave spawn.
