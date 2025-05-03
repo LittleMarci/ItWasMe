@@ -9270,9 +9270,27 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/baobab_trapdoor": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-03 21:52:45 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_door": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-03 21:52:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-03 21:23:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-05-03 22:00:48 +0000"
     },
     "done": true
   },
@@ -9285,6 +9303,42 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-03 21:23:27 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_sign": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-03 21:52:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/scanner_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2025-05-03 21:58:13 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_button": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-03 21:52:45 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_stairs": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-03 21:52:45 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/crafting/copycat_iron_door": {
+    "criteria": {
+      "has_item": "2025-05-03 21:58:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-05-03 22:00:48 +0000"
     },
     "done": true
   },
@@ -9312,9 +9366,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/keypad_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2025-05-03 21:58:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-03 21:23:27 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_fence_gate": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-03 21:52:45 +0000"
     },
     "done": true
   },
@@ -9324,15 +9390,51 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/baobab_window": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-03 21:52:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-03 21:23:27 +0000"
     },
     "done": true
   },
+  "bloomingnature:recipes/baobab_chest_boat": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-03 21:52:45 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_boat": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-03 21:52:45 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_hanging_sign": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-03 21:52:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-03 21:23:27 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_slab": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-03 21:52:45 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/baobab_fence": {
+    "criteria": {
+      "has_baobab_planks": "2025-05-03 21:52:45 +0000"
     },
     "done": true
   },

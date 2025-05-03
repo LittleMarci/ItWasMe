@@ -2501,6 +2501,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-05-03 21:58:42 +0000",
+      "baked_potato": "2025-05-03 21:55:58 +0000",
+      "apple": "2025-05-03 21:46:36 +0000",
       "bread": "2025-05-01 17:34:24 +0000",
       "golden_apple": "2025-05-02 22:42:22 +0000"
     },
@@ -7061,6 +7064,168 @@
     },
     "done": true
   },
+  "projectvibrantjourneys:recipes/misc/brown_dye_from_light_brown_bark_mushroom": {
+    "criteria": {
+      "has_light_brown_bark_mushroom": "2025-05-03 20:17:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-05-03 20:32:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-03 20:32:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-03 20:32:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-03 20:32:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-03 20:32:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2025-05-03 20:32:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-03 20:32:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/bamboo_security_sea_raft": {
+    "criteria": {
+      "has_keypad_chest": "2025-05-03 20:37:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/cherry_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-05-03 20:37:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/dark_oak_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-05-03 20:37:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/acacia_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-05-03 20:37:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/birch_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-05-03 20:37:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/mangrove_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-05-03 20:37:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/jungle_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-05-03 20:37:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/spruce_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-05-03 20:37:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/oak_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-05-03 20:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-03 20:39:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-03 20:39:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-05-03 20:46:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-05-03 20:46:34 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/vitrified_sand": {
+    "criteria": {
+      "has_copper_block": "2025-05-03 20:51:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_stone_bricks": {
+    "criteria": {
+      "has_slab": "2025-05-03 21:02:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_oak_button": {
+    "criteria": {
+      "has_block": "2025-05-03 21:05:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_oak_slab": {
+    "criteria": {
+      "has_block": "2025-05-03 21:05:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_oak_stairs": {
+    "criteria": {
+      "has_block": "2025-05-03 21:05:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_oak_pressure_plate": {
+    "criteria": {
+      "has_block": "2025-05-03 21:05:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-03 21:11:52 +0000"
@@ -7073,33 +7238,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/green_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2025-05-03 21:30:36 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-05-03 21:11:52 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/black_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2025-05-03 21:30:36 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-03 21:11:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-05-03 20:32:04 +0000"
     },
     "done": true
   },
@@ -7115,12 +7262,6 @@
     },
     "done": true
   },
-  "projectvibrantjourneys:recipes/misc/brown_dye_from_light_brown_bark_mushroom": {
-    "criteria": {
-      "has_light_brown_bark_mushroom": "2025-05-03 20:17:47 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-03 21:11:52 +0000"
@@ -7130,18 +7271,6 @@
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-03 21:11:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2025-05-03 21:30:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/transportation/bamboo_security_sea_raft": {
-    "criteria": {
-      "has_keypad_chest": "2025-05-03 20:37:15 +0000"
     },
     "done": true
   },
@@ -7157,33 +7286,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/purple_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2025-05-03 21:30:36 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-05-03 21:11:52 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/transportation/cherry_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2025-05-03 20:37:15 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-05-03 21:11:52 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_oak_button": {
-    "criteria": {
-      "has_block": "2025-05-03 21:05:20 +0000"
     },
     "done": true
   },
@@ -7196,12 +7307,6 @@
   "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-05-03 21:11:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2025-05-03 21:30:36 +0000"
     },
     "done": true
   },
@@ -7247,21 +7352,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-05-03 20:32:04 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-03 21:11:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2025-05-03 21:30:36 +0000"
     },
     "done": true
   },
@@ -7277,39 +7370,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_oak_slab": {
-    "criteria": {
-      "has_block": "2025-05-03 21:05:20 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_oak_stairs": {
-    "criteria": {
-      "has_block": "2025-05-03 21:05:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-05-03 20:32:04 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
-    "criteria": {
-      "has_book": "2025-05-03 20:32:04 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-03 21:11:52 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/transportation/dark_oak_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2025-05-03 20:37:15 +0000"
     },
     "done": true
   },
@@ -7322,18 +7385,6 @@
   "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-03 21:11:52 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/transportation/acacia_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2025-05-03 20:37:15 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2025-05-03 21:30:36 +0000"
     },
     "done": true
   },
@@ -7352,12 +7403,6 @@
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-05-03 21:11:52 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_oak_pressure_plate": {
-    "criteria": {
-      "has_block": "2025-05-03 21:05:20 +0000"
     },
     "done": true
   },
@@ -7385,12 +7430,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2025-05-03 21:30:36 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-03 21:11:52 +0000"
@@ -7400,12 +7439,6 @@
   "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-05-03 21:11:52 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_chiseled_stone_bricks": {
-    "criteria": {
-      "has_slab": "2025-05-03 21:02:09 +0000"
     },
     "done": true
   },
@@ -7421,21 +7454,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/transportation/birch_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2025-05-03 20:37:15 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_black_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-03 21:11:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-05-03 20:46:34 +0000"
     },
     "done": true
   },
@@ -7451,27 +7472,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-05-03 20:39:05 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/transportation/mangrove_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2025-05-03 20:37:15 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-05-03 21:11:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-05-03 20:32:04 +0000"
     },
     "done": true
   },
@@ -7484,12 +7487,6 @@
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-03 21:11:52 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:recipes/vitrified_sand": {
-    "criteria": {
-      "has_copper_block": "2025-05-03 20:51:43 +0000"
     },
     "done": true
   },
@@ -7511,69 +7508,15 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/stackable_book": {
-    "criteria": {
-      "has_stackable_book": "2025-05-03 20:32:04 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2025-05-03 21:30:36 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/white_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2025-05-03 21:30:36 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2025-05-03 21:30:36 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/framed_glass_pane": {
     "criteria": {
       "has_ingredient": "2025-05-03 21:11:52 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/transportation/jungle_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2025-05-03 20:37:15 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_black_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-05-03 21:11:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/red_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2025-05-03 21:30:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/transportation/spruce_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2025-05-03 20:37:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-05-03 20:39:05 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-05-03 20:32:04 +0000"
     },
     "done": true
   },
@@ -7595,51 +7538,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2025-05-03 21:30:36 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/lime_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2025-05-03 21:30:36 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-03 21:11:52 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2025-05-03 21:30:36 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
     "criteria": {
       "has_item": "2025-05-03 21:11:52 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/transportation/oak_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2025-05-03 20:37:15 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2025-05-03 21:30:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/stuffed_potato": {
-    "criteria": {
-      "has_baked_potato": "2025-05-03 20:46:34 +0000"
     },
     "done": true
   },
@@ -7658,6 +7565,300 @@
   "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-05-03 21:11:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2025-05-03 21:30:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2025-05-03 21:30:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2025-05-03 21:30:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2025-05-03 21:30:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2025-05-03 21:30:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2025-05-03 21:30:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2025-05-03 21:30:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2025-05-03 21:30:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2025-05-03 21:30:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2025-05-03 21:30:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2025-05-03 21:30:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2025-05-03 21:30:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2025-05-03 21:30:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2025-05-03 21:30:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2025-05-03 21:30:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2025-05-03 21:30:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-03 21:52:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-03 21:52:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-03 21:52:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-03 21:52:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-03 22:03:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-05-03 22:03:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-03 22:09:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-05-03 22:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-03 22:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-03 22:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-03 22:09:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-05-03 22:09:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-05-03 22:09:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-05-03 22:09:53 +0000"
+    },
+    "done": true
+  },
+  "table_top_craft:root": {
+    "criteria": {
+      "get_chess_piece": "2025-05-03 22:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-03 22:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-03 22:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-03 22:09:53 +0000"
+    },
+    "done": true
+  },
+  "table_top_craft:the_hoarding_begins": {
+    "criteria": {
+      "ChessPieceFigure": "2025-05-03 22:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-03 22:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-05-03 22:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-03 22:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-03 22:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-03 22:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-03 22:09:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-05-03 22:09:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-05-03 22:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-03 22:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-03 22:09:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-05-03 22:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-03 22:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-03 22:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-03 22:09:53 +0000"
     },
     "done": true
   },
