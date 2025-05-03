@@ -1207,3 +1207,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03May2025 23:04:20.283] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of sigan_viendo01 (18)
 [03May2025 23:04:20.288] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to sigan_viendo01
 [03May2025 23:04:22.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[03May2025 23:20:27.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigan_viendo01 moved wrongly!
+[03May2025 23:20:36.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigan_viendo01 moved wrongly!
+[03May2025 23:25:56.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 starved to death
+[03May2025 23:26:35.771] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[03May2025 23:29:23.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigan_viendo01 moved wrongly!
+[03May2025 23:31:36.308] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigan_viendo01 lost connection: Disconnected
+[03May2025 23:31:36.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 left the game
+[03May2025 23:31:36.316] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sigan_viendo01
