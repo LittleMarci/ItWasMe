@@ -8591,6 +8591,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/chestnut_wood": {
+    "criteria": {
+      "has_chestnut_log": "2025-05-03 00:24:39 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:recipes/weathered_plate_iron": {
     "criteria": {
       "has_copper_block": "2025-05-02 23:08:22 +0000"
@@ -8622,9 +8628,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-05-03 00:20:16 +0000"
+    },
+    "done": true
+  },
   "bloomingnature:recipes/blue_dye_from_bluebell": {
     "criteria": {
       "has_bluebell": "2025-05-02 23:16:21 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_planks": {
+    "criteria": {
+      "has_chestnut_log": "2025-05-03 00:24:39 +0000"
     },
     "done": true
   },

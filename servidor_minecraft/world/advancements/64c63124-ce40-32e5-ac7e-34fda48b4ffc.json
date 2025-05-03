@@ -8083,6 +8083,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:red": "2025-05-03 00:17:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-03 00:17:45 +0000"
+    },
+    "done": true
+  },
   "bloomingnature:recipes/swamp_oak_planks": {
     "criteria": {
       "has_swamp_oak_log": "2025-05-02 23:16:12 +0000"
