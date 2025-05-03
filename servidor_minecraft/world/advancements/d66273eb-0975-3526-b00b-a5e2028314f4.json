@@ -7796,6 +7796,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/glass_pane_from_framed_glass_pane": {
+    "criteria": {
+      "has_item": "2025-05-03 22:24:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-03 22:09:53 +0000"

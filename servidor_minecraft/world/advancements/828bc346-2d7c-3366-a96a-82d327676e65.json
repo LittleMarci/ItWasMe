@@ -9342,6 +9342,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_oak_planks": {
+    "criteria": {
+      "has_log": "2025-05-03 22:23:07 +0000"
+    },
+    "done": true
+  },
   "bloomingnature:recipes/baobab_stairs": {
     "criteria": {
       "has_baobab_planks": "2025-05-03 21:52:45 +0000"
@@ -9525,6 +9531,12 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-03 21:23:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-03 22:23:07 +0000"
     },
     "done": true
   },

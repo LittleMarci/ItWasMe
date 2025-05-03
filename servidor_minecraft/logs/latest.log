@@ -3286,3 +3286,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03May2025 22:14:07.202] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-149, y=59, z=117} BlockPos{x=-150, y=59, z=117}
 [03May2025 22:22:05.803] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-139, y=56, z=108} BlockPos{x=-139, y=56, z=109}
 [03May2025 22:22:05.859] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-139, y=56, z=108} BlockPos{x=-139, y=56, z=109}
+[03May2025 22:29:41.401] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A1lenSS lost connection: Disconnected
+[03May2025 22:29:41.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A1lenSS left the game
+[03May2025 22:29:41.402] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client A1lenSS
+[03May2025 22:37:31.844] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ANGELXD12377 lost connection: Disconnected
+[03May2025 22:37:31.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANGELXD12377 left the game
+[03May2025 22:37:31.845] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ANGELXD12377
