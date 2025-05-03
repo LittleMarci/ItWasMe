@@ -6759,6 +6759,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/chestnut_fence": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 01:24:46 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/stone_fence": {
     "criteria": {
       "has_block": "2025-05-02 22:19:05 +0000"
@@ -6831,9 +6837,21 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/chestnut_button": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 01:24:46 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/dark_oak_pallet": {
     "criteria": {
       "has_planks": "2025-05-02 21:56:31 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_window": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 01:24:46 +0000"
     },
     "done": true
   },
@@ -6990,6 +7008,18 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-02 22:22:33 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_fence_gate": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 01:24:46 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_boat": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 01:24:46 +0000"
     },
     "done": true
   },
@@ -7155,6 +7185,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/chestnut_slab": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 01:24:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-02 22:22:33 +0000"
@@ -7167,15 +7203,33 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "flint_knife": "2025-05-03 01:19:56 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/pillager_trophy": {
     "criteria": {
       "has_pillager_trophy": "2025-05-02 22:19:05 +0000"
     },
     "done": true
   },
+  "bloomingnature:recipes/chestnut_hanging_sign": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 01:24:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-05-02 22:47:50 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_stairs": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 01:24:46 +0000"
     },
     "done": true
   },
@@ -7200,6 +7254,12 @@
   "bbb:recipes/dark_oak_beam": {
     "criteria": {
       "has_log": "2025-05-02 21:56:31 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_sign": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 01:24:46 +0000"
     },
     "done": true
   },
@@ -7251,6 +7311,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/chestnut_chest_boat": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 01:24:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-02 22:22:33 +0000"
@@ -7272,6 +7338,12 @@
   "projectvibrantjourneys:recipes/misc/orange_dye_from_orange_bark_mushroom": {
     "criteria": {
       "has_orange_bark_mushroom": "2025-05-02 22:00:01 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_door": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 01:24:46 +0000"
     },
     "done": true
   },
@@ -7332,6 +7404,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-02 22:22:33 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_trapdoor": {
+    "criteria": {
+      "has_chestnut_planks": "2025-05-03 01:24:46 +0000"
     },
     "done": true
   },
