@@ -8029,6 +8029,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-02 23:58:49 +0000"
+    },
+    "done": true
+  },
   "bloomingnature:recipes/swamp_oak_wood": {
     "criteria": {
       "has_swamp_oak_log": "2025-05-02 23:16:12 +0000"
@@ -8047,6 +8053,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-02 23:58:49 +0000"
+    },
+    "done": true
+  },
   "bloomingnature:recipes/swamp_oak_trapdoor": {
     "criteria": {
       "has_swamp_oak_planks": "2025-05-02 23:16:19 +0000"
@@ -8062,6 +8074,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-02 23:11:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-02 23:58:49 +0000"
     },
     "done": true
   },
@@ -8086,6 +8104,12 @@
   "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
     "criteria": {
       "has_stone": "2025-05-02 23:11:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-02 23:58:49 +0000"
     },
     "done": true
   },
@@ -8116,6 +8140,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-05-02 22:33:59 +0000"
+    },
+    "done": true
+  },
+  "toolbelt:recipes/pouch": {
+    "criteria": {
+      "has_leather": "2025-05-02 23:58:49 +0000"
     },
     "done": true
   },
@@ -8197,6 +8227,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-05-02 23:58:49 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/stone_pillar": {
     "criteria": {
       "has_stone": "2025-05-02 23:11:59 +0000"
@@ -8275,9 +8311,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-05-02 23:58:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/dumplings": {
     "criteria": {
       "has_any_ingredient": "2025-05-02 22:57:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-02 23:58:49 +0000"
     },
     "done": true
   },
@@ -8304,6 +8352,12 @@
       "has_traded": "2025-05-02 22:49:03 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-02 23:58:49 +0000"
+    },
+    "done": true
   },
   "handcrafted:recipes/misc/stone_corner_trim": {
     "criteria": {
@@ -8350,6 +8404,12 @@
   "bloomingnature:recipes/swamp_oak_hanging_sign": {
     "criteria": {
       "has_swamp_oak_planks": "2025-05-02 23:16:19 +0000"
+    },
+    "done": true
+  },
+  "toolbelt:recipes/belt": {
+    "criteria": {
+      "has_leather": "2025-05-02 23:58:49 +0000"
     },
     "done": true
   },
