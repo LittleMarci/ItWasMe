@@ -9098,6 +9098,24 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/stone_brick": {
+    "criteria": {
+      "has_copper_block": "2025-05-03 21:28:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/scanner_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2025-05-03 21:54:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/keypad_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2025-05-03 21:54:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2025-05-03 21:54:19 +0000"
@@ -9125,12 +9143,6 @@
   "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
     "criteria": {
       "has_sign": "2025-05-03 21:54:19 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/scanner_door_item": {
-    "criteria": {
-      "has_reinforced_door": "2025-05-03 21:54:15 +0000"
     },
     "done": true
   },
@@ -9176,18 +9188,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/keypad_item": {
-    "criteria": {
-      "has_stone_button": "2025-05-03 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/keypad_door_item": {
-    "criteria": {
-      "has_reinforced_door": "2025-05-03 21:54:15 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
     "criteria": {
       "has_sign": "2025-05-03 21:54:19 +0000"
@@ -9197,12 +9197,6 @@
   "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
     "criteria": {
       "has_sign": "2025-05-03 21:54:19 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:recipes/stone_brick": {
-    "criteria": {
-      "has_copper_block": "2025-05-03 21:28:08 +0000"
     },
     "done": true
   },
@@ -9251,6 +9245,12 @@
   "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
     "criteria": {
       "has_sign": "2025-05-03 21:54:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2025-05-03 22:05:41 +0000"
     },
     "done": true
   },
