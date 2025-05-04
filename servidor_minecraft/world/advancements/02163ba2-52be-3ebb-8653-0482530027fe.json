@@ -8987,6 +8987,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/copper_support_wedge": {
+    "criteria": {
+      "has_item": "2025-05-04 16:41:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_press": {
     "criteria": {
       "has_item": "2025-05-04 16:22:47 +0000"
@@ -9023,15 +9029,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-04 16:50:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-05-04 16:25:52 +0000"
     },
     "done": true
   },
+  "createdeco:recipes/decorations/red_copper_lamp": {
+    "criteria": {
+      "has_item": "2025-05-04 16:41:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
     "criteria": {
       "has_item": "2025-05-04 16:22:47 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_bars_overlay": {
+    "criteria": {
+      "has_item": "2025-05-04 16:41:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-04 17:01:18 +0000"
     },
     "done": true
   },
@@ -9044,6 +9074,12 @@
   "railways:recipes/misc/crafting/track_switch_andesite": {
     "criteria": {
       "has_item": "2025-05-04 16:22:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-04 16:50:43 +0000"
     },
     "done": true
   },
@@ -9065,6 +9101,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/scanner_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2025-05-04 16:37:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_cracked_stone_bricks": {
     "criteria": {
       "has_item": "2025-05-04 16:11:58 +0000"
@@ -9074,6 +9116,30 @@
   "create:recipes/misc/crafting/kinetics/mechanical_piston": {
     "criteria": {
       "has_item": "2025-05-04 16:22:47 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_sheet_metal": {
+    "criteria": {
+      "has_item": "2025-05-04 16:41:02 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_catwalk_railing_forge": {
+    "criteria": {
+      "has_item": "2025-05-04 16:41:02 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/crafting/copycat_iron_door": {
+    "criteria": {
+      "has_item": "2025-05-04 17:06:05 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_mesh_fence": {
+    "criteria": {
+      "has_item": "2025-05-04 16:41:02 +0000"
     },
     "done": true
   },
@@ -9113,9 +9179,27 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/green_copper_lamp": {
+    "criteria": {
+      "has_item": "2025-05-04 16:41:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/keypad_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2025-05-04 16:37:34 +0000"
+    },
+    "done": true
+  },
   "create:copper_casing": {
     "criteria": {
       "0": "2025-05-04 16:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-04 16:50:43 +0000"
     },
     "done": true
   },
@@ -9137,6 +9221,12 @@
     },
     "done": true
   },
+  "bbb:recipes/polished_andesite_layer": {
+    "criteria": {
+      "has_block": "2025-05-04 16:50:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_stone_brick_wall": {
     "criteria": {
       "has_block": "2025-05-04 16:11:58 +0000"
@@ -9149,6 +9239,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/yellow_copper_lamp": {
+    "criteria": {
+      "has_item": "2025-05-04 16:41:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/clutch": {
     "criteria": {
       "has_item": "2025-05-04 16:22:47 +0000"
@@ -9158,6 +9254,12 @@
   "create:recipes/misc/crafting/kinetics/depot": {
     "criteria": {
       "has_item": "2025-05-04 16:22:47 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-05-04 16:40:56 +0000"
     },
     "done": true
   },
@@ -9179,6 +9281,18 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/copper_catwalk_forge": {
+    "criteria": {
+      "has_item": "2025-05-04 16:41:02 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/blue_copper_lamp": {
+    "criteria": {
+      "has_item": "2025-05-04 16:41:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_stone_brick_wall_from_reinforced_stone_bricks_stonecutting": {
     "criteria": {
       "has_reinforced_stone_bricks": "2025-05-04 16:11:58 +0000"
@@ -9194,6 +9308,12 @@
   "securitycraft:recipes/building_blocks/reinforced_chiseled_stone_bricks_from_reinforced_stone_bricks_stonecutting": {
     "criteria": {
       "has_reinforced_stone_bricks": "2025-05-04 16:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-04 16:50:43 +0000"
     },
     "done": true
   },
