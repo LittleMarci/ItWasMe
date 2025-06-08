@@ -11,6 +11,72 @@
     },
     "done": true
   },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-06-08 21:58:40 +0000"
+    },
+    "done": true
+  },
+  "mobs_of_mythology:mobs_of_mythology": {
+    "criteria": {
+      "tick": "2025-06-08 21:58:40 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-06-08 21:58:40 +0000"
+    },
+    "done": true
+  },
+  "archon:root": {
+    "criteria": {
+      "tick": "2025-06-08 21:58:40 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:root": {
+    "criteria": {
+      "instant_granted": "2025-06-08 21:58:40 +0000"
+    },
+    "done": true
+  },
+  "things:root": {
+    "criteria": {
+      "tick": "2025-06-08 21:58:40 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:root": {
+    "criteria": {
+      "always": "2025-06-08 21:58:40 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-06-08 21:58:40 +0000"
+    },
+    "done": true
+  },
+  "more_rpg_content:root": {
+    "criteria": {
+      "always": "2025-06-08 21:58:40 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-06-08 21:58:40 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:wiki": {
+    "criteria": {
+      "instant_granted": "2025-06-08 21:58:40 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/calcium_carbonate": {
     "criteria": {
       "has_carbon": "2025-06-08 21:58:41 +0000",
@@ -21,18 +87,6 @@
   "croptopia:recipes/campfire_toast": {
     "criteria": {
       "has_bread": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "betternether:root": {
-    "criteria": {
-      "welcome": "2025-06-08 21:58:43 +0000"
-    },
-    "done": true
-  },
-  "betterend:root": {
-    "criteria": {
-      "welcome": "2025-06-08 21:58:43 +0000"
     },
     "done": true
   },
@@ -54,27 +108,9 @@
     },
     "done": true
   },
-  "betterdungeons:root": {
-    "criteria": {
-      "always": "2025-06-08 21:58:40 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:biomes/discover_all_biomes": {
-    "criteria": {
-      "bumbling_beepartments": "2025-06-08 21:58:43 +0000"
-    },
-    "done": false
-  },
   "techreborn:recipes/centrifuge/hydrogen_cell": {
     "criteria": {
       "has_hydrogen": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "mobs_of_mythology:mobs_of_mythology": {
-    "criteria": {
-      "tick": "2025-06-08 21:58:40 +0000"
     },
     "done": true
   },
@@ -99,12 +135,6 @@
   "herbalbrews:main/root": {
     "criteria": {
       "seeds": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "betterdeserttemples:root": {
-    "criteria": {
-      "always": "2025-06-08 21:58:40 +0000"
     },
     "done": true
   },
@@ -159,12 +189,6 @@
     },
     "done": true
   },
-  "archon:root": {
-    "criteria": {
-      "tick": "2025-06-08 21:58:40 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/compressor/compressed_plantball_from_plantball": {
     "criteria": {
       "has_plantball": "2025-06-08 21:58:41 +0000"
@@ -183,21 +207,9 @@
     },
     "done": true
   },
-  "the_bumblezone:root": {
-    "criteria": {
-      "instant_granted": "2025-06-08 21:58:40 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/centrifuge/helium_cell": {
     "criteria": {
       "has_helium": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "beachparty:main/root": {
-    "criteria": {
-      "example_criterion": "2025-06-08 21:58:43 +0000"
     },
     "done": true
   },
@@ -240,18 +252,6 @@
   "frostiful:recipes/combat/armor/fur_padded_chainmail_boots": {
     "criteria": {
       "has_fur_armor": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:sparse_jungle": "2025-06-08 21:58:43 +0000"
-    },
-    "done": false
-  },
-  "things:root": {
-    "criteria": {
-      "tick": "2025-06-08 21:58:40 +0000"
     },
     "done": true
   },
@@ -364,12 +364,6 @@
     },
     "done": true
   },
-  "rpg_series:root": {
-    "criteria": {
-      "always": "2025-06-08 21:58:40 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/centrifuge/calcium_carbonate_cell": {
     "criteria": {
       "has_calcium_carbonate": "2025-06-08 21:58:41 +0000"
@@ -440,22 +434,10 @@
     },
     "done": true
   },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2025-06-08 21:58:40 +0000"
-    },
-    "done": true
-  },
   "ae2wtlib:recipes/wireless_universal_terminal/ae": {
     "criteria": {
       "has_wit": "2025-06-08 21:58:41 +0000",
       "has_wpt": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "more_rpg_content:root": {
-    "criteria": {
-      "always": "2025-06-08 21:58:40 +0000"
     },
     "done": true
   },
@@ -464,12 +446,6 @@
       "has_wit": "2025-06-08 21:58:41 +0000",
       "has_wpt": "2025-06-08 21:58:41 +0000",
       "has_wct": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:parent": {
-    "criteria": {
-      "load_in_world": "2025-06-08 21:58:43 +0000"
     },
     "done": true
   },
@@ -499,18 +475,6 @@
     },
     "done": true
   },
-  "lootr:root": {
-    "criteria": {
-      "always_true": "2025-06-08 21:58:40 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:wiki": {
-    "criteria": {
-      "instant_granted": "2025-06-08 21:58:40 +0000"
-    },
-    "done": true
-  },
   "brewery:main/root": {
     "criteria": {
       "seeds": "2025-06-08 21:58:41 +0000"
@@ -527,6 +491,42 @@
     "criteria": {
       "has_lithium": "2025-06-08 21:58:41 +0000",
       "has_wolframium": "2025-06-08 21:58:41 +0000"
+    },
+    "done": true
+  },
+  "betternether:root": {
+    "criteria": {
+      "welcome": "2025-06-08 21:58:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2025-06-08 21:58:43 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:biomes/discover_all_biomes": {
+    "criteria": {
+      "bumbling_beepartments": "2025-06-08 21:58:43 +0000"
+    },
+    "done": false
+  },
+  "beachparty:main/root": {
+    "criteria": {
+      "example_criterion": "2025-06-08 21:58:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sparse_jungle": "2025-06-08 21:58:43 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2025-06-08 21:58:43 +0000"
     },
     "done": true
   },
