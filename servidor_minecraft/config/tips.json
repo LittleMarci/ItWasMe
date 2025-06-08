@@ -1,15 +1,5 @@
 {
-  "defaultCycleTime": 8000,
-  "ignoredNamespaces": [
-    "tipsmod"
-  ],
-  "ignoredTips": [],
-  "hideUnlocalizedTips": false,
-  "tipRenderWidthPercent": 0.35,
-  "defaultTitle": {
-    "bold": true,
-    "underlined": true,
-    "color": "red",
-    "text": "CW Survival Tips"
-  }
+  "defaultCycleTime": 5000,
+  "ignoredNamespaces": [],
+  "ignoredTips": []
 }

@@ -10,4 +10,3 @@ mutant_skeleton_spawn_weight = 0.05
 #Weight for mutant zombie spawns as a percentage of the vanilla zombie spawn weight. Mutants can spawn in every biome and dimension where their vanilla counterparts can be found.
 #Range: 0.0 ~ 20.0
 mutant_zombie_spawn_weight = 0.05
-
