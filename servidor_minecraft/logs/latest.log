@@ -3057,3 +3057,30 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 25 more
+[23:01:36] [Server thread/INFO]: [Handshake] Sending channel query
+[23:01:37] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[23:01:37] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[23:01:37] [Server thread/INFO]: A1lenSS[/127.106.178.60:56027] logged in with entity id 1226 at (-2.5, 67.0, 3.5)
+[23:01:37] [Server thread/INFO]: Sending server config values to client
+[23:01:37] [Server thread/INFO]: Syncing config to A1lenSS (984c4811-73c4-3e6e-8751-7c2a2f7b7ccc)
+[23:01:37] [Server thread/INFO]: Loading config from file...
+[23:01:37] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[23:01:37] [Server thread/INFO]: A1lenSS joined the game
+[23:01:37] [Server thread/INFO]: Loading Configs for Sortilege
+[23:01:37] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[23:01:37] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[23:01:37] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[23:01:37] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[23:01:38] [Server thread/INFO]: Updating all forceload tickets for 984c4811-73c4-3e6e-8751-7c2a2f7b7ccc
+[23:01:38] [Server thread/INFO]: PLAYER_JOIN
+[23:01:38] [Server thread/INFO]: add_player wand
+[23:01:38] [Server thread/INFO]: config sent
+[23:01:39] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[23:01:39] [Netty Epoll Server IO #5/INFO]: Channel update: A1lenSS -> default
+[23:01:39] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player A1lenSS. Claiming: GRAVE / Robbing: INVENTORY
+[23:02:27] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of A1lenSS accepted server config.
+[23:03:03] [Server thread/INFO]: <A1lenSS> tmr la kgada
+[23:03:11] [Server thread/INFO]: A1lenSS lost connection: Timed out
+[23:03:11] [Server thread/INFO]: A1lenSS left the game
+[23:03:11] [Server thread/INFO]: remove player wand
+[23:03:11] [Server thread/INFO]: Updating all forceload tickets for 984c4811-73c4-3e6e-8751-7c2a2f7b7ccc
