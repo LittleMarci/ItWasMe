@@ -1,0 +1,12 @@
+{
+	id: "2C06FFC152A1C51E"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ item: "minecraft:golden_apple" }
+		{ count: 32, item: "minecraft:oak_log" }
+		{ count: 4, item: "minecraft:iron_block" }
+		{ count: 4, item: "born_in_chaos_v1:phantom_powder" }
+	]
+	title: "loot_table 1"
+}

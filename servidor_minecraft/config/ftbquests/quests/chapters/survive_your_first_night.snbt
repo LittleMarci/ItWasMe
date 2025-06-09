@@ -1,0 +1,676 @@
+{
+	autofocus_id: "672B9103CC8C493F"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "survive_your_first_night"
+	group: ""
+	icon: "minecraft:lime_concrete_powder"
+	id: "5AB16C8B0BF2BDCE"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["672B9103CC8C493F"]
+			hide_until_deps_complete: true
+			id: "327CB9E3039201BB"
+			rewards: [
+				{
+					count: 5
+					id: "2448A59923FE90EB"
+					item: "minecraft:bread"
+					type: "item"
+				}
+				{
+					id: "7A966D1348B86D43"
+					item: "minecraft:apple"
+					type: "item"
+				}
+			]
+			size: 1.0d
+			subtitle: "You reached for the nearest tree, tearing away the wood with your bare hands. It was rough, splintering beneath your grip, but you pushed through. Wood was survival. Wood was fire. Wood was shelter. The sun was still high, but you knew it wouldn't last forever."
+			tasks: [{
+				consume_items: false
+				count: 16L
+				id: "56716E969833FA71"
+				item: {
+					Count: 1
+					id: "minecraft:oak_log"
+					tag: { }
+				}
+				match_nbt: false
+				only_from_crafting: false
+				title: "Objective: Get 16 oak logs"
+				type: "item"
+			}]
+			title: "Get some wood to start your world!"
+			x: -10.5d
+			y: -11.5d
+		}
+		{
+			dependencies: ["327CB9E3039201BB"]
+			hide_until_deps_complete: true
+			id: "6B8236F16B876C54"
+			rewards: [{
+				count: 20
+				id: "567EA0256505F851"
+				item: "minecraft:oak_planks"
+				type: "item"
+			}]
+			subtitle: "With the wood gathered, you turned to the earth itself. Stone. Solid, unyielding, but necessary. With aching hands, you tore into the ground, prying loose jagged chunks of cobblestone. It wasn't much, but it would be enough. A foundation for survival. A means to defend yourself."
+			tasks: [{
+				consume_items: false
+				count: 8L
+				id: "202E6CF94B24AF57"
+				item: "minecraft:cobblestone"
+				match_nbt: false
+				only_from_crafting: false
+				title: "Objective: Get 8 cobblestone blocks"
+				type: "item"
+			}]
+			title: "Get some cobblestone!"
+			x: -10.5d
+			y: -13.5d
+		}
+		{
+			dependencies: ["595DB7011FC86756"]
+			hide_until_deps_complete: true
+			id: "46D7BF76DDFC8CB7"
+			rewards: [{
+				count: 8
+				id: "0E42ECDA0DC5661B"
+				item: "minecraft:coal"
+				type: "item"
+			}]
+			subtitle: "You chipped away at the stone, uncovering the dull gleam of raw iron beneath the surface."
+			tasks: [{
+				consume_items: false
+				count: 3L
+				id: "7BF07457D762CDC8"
+				item: "minecraft:raw_iron"
+				match_nbt: false
+				only_from_crafting: false
+				title: "Objective: Get 3 raw irons"
+				type: "item"
+			}]
+			title: "Get your first iron!"
+			x: -9.0d
+			y: -17.5d
+		}
+		{
+			dependencies: ["0657B018BC8460F8"]
+			hide_until_deps_complete: true
+			id: "694A387992A828FB"
+			rewards: [
+				{
+					count: 2
+					id: "39773242FC90B741"
+					item: "minecraft:cooked_beef"
+					type: "item"
+				}
+				{
+					id: "23DF7CE47F984CA3"
+					type: "xp"
+					xp: 32
+				}
+			]
+			subtitle: "The moment your eyes closed, the world shifted. A whisper. A shadow. A fleeting presence at the edge of your vision. The air felt suffocating, as if something ancient had been disturbed."
+			tasks: [{
+				advancement: "minecraft:adventure/sleep_in_bed"
+				criterion: ""
+				icon: "minecraft:red_bed"
+				id: "6CFA0DFF1EA311F8"
+				title: "Objective: Sleep in your new bed!"
+				type: "advancement"
+			}]
+			title: "Sleep through the night!"
+			x: -6.699999999999999d
+			y: -24.0d
+		}
+		{
+			dependencies: ["4F4E5EA0C20CA918"]
+			hide_until_deps_complete: true
+			id: "0657B018BC8460F8"
+			subtitle: "The next day, you sought to fortify yourself. A bed, soft and warm, seemed to promise safety. You welcomed the embrace of sleep, hoping to escape the unease that gnawed at your mind. But sleep brought no peace."
+			tasks: [{
+				consume_items: false
+				count: 3L
+				id: "3F7C9084BAED1204"
+				item: {
+					Count: 1
+					id: "minecraft:white_wool"
+					tag: { }
+				}
+				only_from_crafting: false
+				title: "Objective: Get 3 white wool blocks"
+				type: "item"
+			}]
+			title: "Find a sheep and get wool from it!"
+			x: -6.699999999999999d
+			y: -22.0d
+		}
+		{
+			dependencies: ["46D7BF76DDFC8CB7"]
+			hide_until_deps_complete: true
+			id: "78BCF4021D1C5924"
+			rewards: [
+				{
+					id: "48AC44D7DC87762C"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					count: 2
+					id: "559EA7AF9845E001"
+					item: "minecraft:cooked_chicken"
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			size: 1.3d
+			subtitle: "Hauling your prize back to the surface, you built a furnace, feeding it fuel and watching as the iron melted away, reshaped into something stronger."
+			tasks: [{
+				consume_items: false
+				count: 3L
+				id: "2DBD954C896C0A65"
+				item: "minecraft:iron_ingot"
+				match_nbt: false
+				only_from_crafting: false
+				title: "Objective: Get 3 iron ingots"
+				type: "item"
+			}]
+			title: "Acquire iron ingots from a furnace!"
+			x: -6.85d
+			y: -18.8d
+		}
+		{
+			dependencies: ["6B8236F16B876C54"]
+			hide_until_deps_complete: true
+			id: "18F3BD816EF58557"
+			rewards: [
+				{
+					id: "32D4A661B3C54A94"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					count: 3
+					id: "6D0E536F0D00B173"
+					item: "minecraft:bread"
+					type: "item"
+				}
+			]
+			subtitle: "You fashioned your first crude sword, its rough edges barely enough to cut."
+			tasks: [{
+				consume_items: false
+				id: "0AC57FB15D769822"
+				item: {
+					Count: 1
+					id: "minecraft:stone_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				match_nbt: false
+				only_from_crafting: false
+				title: "Objective: Craft a stone sword"
+				type: "item"
+			}]
+			title: "Make your first weapon!"
+			x: -12.0d
+			y: -15.5d
+		}
+		{
+			dependencies: ["6B8236F16B876C54"]
+			hide_until_deps_complete: true
+			id: "595DB7011FC86756"
+			rewards: [
+				{
+					count: 8
+					id: "233E507B871553C3"
+					item: "minecraft:torch"
+					type: "item"
+				}
+				{
+					id: "0510BC5A38E8E68C"
+					item: {
+						Count: 1
+						id: "minecraft:leather_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Then, with a sturdier pickaxe in hand, you descended into the depths. The mines were cold and eerily quiet, only for the distant sound of dripping water breaking the silence."
+			tasks: [{
+				consume_items: false
+				id: "490BAE414B95E742"
+				item: {
+					Count: 1
+					id: "minecraft:stone_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				match_nbt: false
+				only_from_crafting: false
+				title: "Objective: Craft a stone pickaxe"
+				type: "item"
+			}]
+			title: "Make a cobblestone pickaxe!"
+			x: -9.0d
+			y: -15.5d
+		}
+		{
+			dependencies: ["18F3BD816EF58557"]
+			hide_until_deps_complete: true
+			icon: "minecraft:cooked_beef"
+			id: "0F5DA2A5E96B1446"
+			rewards: [
+				{
+					count: 3
+					id: "7596B815D995DD68"
+					item: "minecraft:beef"
+					type: "item"
+				}
+				{
+					id: "1853AF2C0175667F"
+					type: "xp"
+					xp: 10
+				}
+			]
+			subtitle: "Your first meal was hard-won. A cow stood glazing in the field, oblivious to your presence. You hesitated only for a moment before striking it down, its flesh providing sustenance, its leather a promise of future protection. The air felt heavier as you moved on. Something was watching."
+			tasks: [{
+				entity: "minecraft:cow"
+				id: "5D894C53BF3FAF52"
+				title: "Objective: Kill 1 cow"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Cows are a good food source!"
+			x: -12.0d
+			y: -17.5d
+		}
+		{
+			dependencies: ["78BCF4021D1C5924"]
+			dependency_requirement: "one_completed"
+			hide_until_deps_complete: true
+			id: "4F4E5EA0C20CA918"
+			rewards: [
+				{
+					id: "1006A32B5EE44E6D"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					count: 2
+					id: "77A9E37B245D2729"
+					item: "minecraft:cooked_porkchop"
+					type: "item"
+				}
+			]
+			subtitle: "You held the blade in your hands—cold, sharp, reassuring. An iron sword, a true weapon. Just in time."
+			tasks: [{
+				consume_items: false
+				id: "4B0B20EE37D5AFE3"
+				item: {
+					Count: 1
+					id: "minecraft:iron_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				match_nbt: false
+				only_from_crafting: false
+				title: "Objective: Craft an iron sword"
+				type: "item"
+			}]
+			title: "Upgrade your weapon!"
+			x: -8.7d
+			y: -20.5d
+		}
+		{
+			dependencies: [
+				"0F5DA2A5E96B1446"
+				"4F4E5EA0C20CA918"
+			]
+			hide_until_deps_complete: true
+			icon: "minecraft:rotten_flesh"
+			id: "34A3386C7C555835"
+			rewards: [
+				{
+					id: "61E08FB9EB78FCB4"
+					type: "xp"
+					xp: 32
+				}
+				{
+					count: 2
+					id: "3BD70BA0A7228FED"
+					item: "minecraft:gold_ingot"
+					type: "item"
+				}
+			]
+			subtitle: "As night fell, the land transformed. Shapes moved within the darkness—slow, shuffling figures, dragging themselves closer. A zombie groaned, its hollow eyes locking onto you. Heart pounding, you raised your blade and fought. Each swing cut through rotting flesh, each victory another breath survived. But the undead were not the only threats lurking in the darkness."
+			tasks: [{
+				entity: "minecraft:zombie"
+				id: "16EBEC81AB9DD84D"
+				title: "Objective: Kill 1 zombie"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Kill your first monster!"
+			x: -11.7d
+			y: -20.5d
+		}
+		{
+			dependencies: ["5518CB1ED7B38C7D"]
+			hide_until_deps_complete: true
+			icon: "minecraft:grass"
+			id: "1CDBD848433CC300"
+			rewards: [
+				{
+					id: "24C8F4A1435663C0"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 8
+					id: "41B7BA99FA8F5183"
+					item: "minecraft:wheat_seeds"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "7078163DD016C903"
+					item: "minecraft:wheat"
+					type: "item"
+				}
+			]
+			subtitle: "In the days that followed, you attempted to distract yourself. You worked the land, tilling the soil with a wooden hoe, planting seeds, and watching them sprout. The cycle of life felt reassuring, but the sense of unease never fully faded."
+			tasks: [
+				{
+					consume_items: false
+					id: "7E5950BBD4A7B3C6"
+					item: {
+						Count: 1
+						id: "minecraft:wooden_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					only_from_crafting: false
+					title: "Objective 1: Craft a wooden hoe"
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "74FF569448D57321"
+					item: "minecraft:wheat_seeds"
+					only_from_crafting: false
+					title: "Objective 2: Get 1 wheat seed"
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "36171013F95A168A"
+					item: "minecraft:wheat"
+					only_from_crafting: false
+					title: "Objective 3: Grow 1 wheat"
+					type: "item"
+				}
+			]
+			title: "Make a garden!"
+			x: -5.5d
+			y: -28.0d
+		}
+		{
+			dependencies: ["78BCF4021D1C5924"]
+			hide_until_deps_complete: true
+			id: "2CB96E7ECC1F01F8"
+			rewards: [
+				{
+					count: 2
+					id: "7BC43F10906852F6"
+					item: "minecraft:oak_sapling"
+					type: "item"
+				}
+				{
+					id: "5A56E5CFF4CF9331"
+					type: "xp"
+					xp: 10
+				}
+			]
+			subtitle: "As you wandered, hunger gnawed at you once more. You tore through the leaves of a tree, and there it was—a single red apple, vibrant against the dull green. It was small comfort, but comfort nonetheless. You took a bite, its sweetness a fleeting relief from the unease creeping into your bones."
+			tasks: [{
+				consume_items: false
+				id: "6924BF89CD7D75C6"
+				item: "minecraft:apple"
+				only_from_crafting: false
+				title: "Objective: Get 1 apple"
+				type: "item"
+			}]
+			title: "Get an apple!"
+			x: -3.1999999999999993d
+			y: -19.0d
+		}
+		{
+			dependencies: [
+				"30EDA6E6DC94CECC"
+				"2CB96E7ECC1F01F8"
+			]
+			hide_until_deps_complete: true
+			id: "0E7D691CB1C147FC"
+			rewards: [{
+				exclude_from_claim_all: true
+				icon: "minecraft:ender_chest"
+				id: "4ED1ED44181687F3"
+				table_id: 5493175552888794680L
+				type: "choice"
+			}]
+			subtitle: "One day, you crafted a golden apple, the shining fruit warm in your grasp. A prize of resilience. A token of survival. But as you held it, a thought crept into your mind unbidden: was survival truly guaranteed?"
+			tasks: [{
+				consume_items: false
+				id: "246D6C206EAD8AD1"
+				item: "minecraft:golden_apple"
+				match_nbt: false
+				only_from_crafting: false
+				title: "Objective: Craft 1 golden apple"
+				type: "item"
+			}]
+			title: "Craft a golden apple!"
+			x: -1.1999999999999993d
+			y: -21.0d
+		}
+		{
+			dependencies: ["78BCF4021D1C5924"]
+			hide_until_deps_complete: true
+			id: "30EDA6E6DC94CECC"
+			rewards: [
+				{
+					id: "760E74FE97F29BCD"
+					item: "minecraft:ender_pearl"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "75CD845D2AB03236"
+					item: "minecraft:pumpkin_pie"
+					type: "item"
+				}
+				{
+					id: "086C84AEBAC828B4"
+					type: "xp"
+					xp: 30
+				}
+			]
+			subtitle: "Even when you dug deep into the mines, retrieving gleaming gold from the earth, a chill ran through you. The tunnels whispered back at you, unseen voices slipping through the cracks in the stone."
+			tasks: [{
+				consume_items: false
+				count: 8L
+				id: "4782E52A1605A12E"
+				item: "minecraft:gold_ingot"
+				only_from_crafting: false
+				title: "Objective: Get 8 gold ingots"
+				type: "item"
+			}]
+			title: "Go to your gold mines!"
+			x: -4.199999999999999d
+			y: -21.0d
+		}
+		{
+			dependencies: ["694A387992A828FB"]
+			hide_until_deps_complete: true
+			id: "5518CB1ED7B38C7D"
+			rewards: [
+				{
+					id: "6B235A001AF1B603"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					count: 5
+					id: "6160B8309C257C54"
+					item: "minecraft:golden_carrot"
+					type: "item"
+				}
+			]
+			subtitle: "You woke up with a jolt, breathless. The sun was rising, yet the morning light felt dim, almost wrong. Perhaps it was just exhaustion, or perhaps... something had changed."
+			tasks: [{
+				icon: "minecraft:sunflower"
+				id: "786A4E94269F88F4"
+				stat: "minecraft:sleep_in_bed"
+				title: "Objective: Survive the night by sleeping"
+				type: "stat"
+				value: 1
+			}]
+			title: "Successfuly survive the night!"
+			x: -6.699999999999999d
+			y: -26.0d
+		}
+		{
+			dependencies: ["34A3386C7C555835"]
+			hide_until_deps_complete: true
+			id: "6B8B950ECCE5B3DA"
+			rewards: [
+				{
+					count: 10
+					id: "0035D7F4EBCEA727"
+					item: "minecraft:cooked_salmon"
+					type: "item"
+				}
+				{
+					id: "4701DD06B2E646BA"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 6
+					id: "520EE3A84CE37C30"
+					item: "minecraft:iron_ingot"
+					type: "item"
+				}
+			]
+			size: 1.0d
+			subtitle: "You spent the night battling the horrors that emerged from the depths, felling creatures one by one. But the unease never left you. The moment the first rays of dawn peeked over the horizon, you fled inside. Something about this night felt unnatural."
+			tasks: [{
+				icon: "minecraft:spawner"
+				id: "2FB7FA6B1AD75042"
+				stat: "minecraft:mob_kills"
+				title: "Objective: Kill 25 mobs"
+				type: "stat"
+				value: 25
+			}]
+			title: "Use your sword to kill more mobs!"
+			x: -14.0d
+			y: -23.35d
+		}
+		{
+			dependencies: ["672B9103CC8C493F"]
+			id: "04B4CBE661010A02"
+			invisible: true
+			rewards: [
+				{
+					id: "378137660280A360"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+				{
+					id: "16EDF8EFB68F5E56"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+			]
+			subtitle: "Then it happened. Your first death. You weren't sure what killed you. A fall into darkness? A clawed hand in the night? A force unseen, lurking just beyond your comprehension? You only knew one thing for certain. It won't be your last."
+			tasks: [{
+				icon: "minecraft:skeleton_skull"
+				id: "0088D1F51AEC3113"
+				optional_task: true
+				stat: "minecraft:deaths"
+				title: "Secret Objective: Die once"
+				type: "stat"
+				value: 1
+			}]
+			title: "Secret Quest: Happens to the best of us"
+			x: -8.0d
+			y: -11.5d
+		}
+		{
+			description: [""]
+			icon: "minecraft:wither_skeleton_skull"
+			id: "672B9103CC8C493F"
+			rewards: [{
+				auto: "enabled"
+				description: ""
+				icon: "minecraft:lime_concrete_powder"
+				id: "196319F28DC094EC"
+				title: "Welcome to Chapter 1!"
+				type: "toast"
+			}]
+			shape: "square"
+			size: 1.5d
+			subtitle: "The cold wind brushed against your skin as you stood alone in an unfamiliar land. The world stretched before you, an untouched wilderness filled with towering trees and rolling hills. You had nothing but your own instincts to rely on. You needed to act fast."
+			tasks: [{
+				icon: "minecraft:lime_concrete_powder"
+				id: "594C284B72E0D45D"
+				stat: "minecraft:play_time"
+				title: "Chapter 1 is now unlocked!"
+				type: "stat"
+				value: 1
+			}]
+			title: "Welcome to Chapter 1 of Cave Horror Project!"
+			x: -10.5d
+			y: -9.25d
+		}
+		{
+			dependencies: ["78BCF4021D1C5924"]
+			hide_until_deps_complete: true
+			id: "3E7E5C8553E55A1A"
+			rewards: [{
+				advancement: "minecraft:story/root"
+				auto: "enabled"
+				criterion: ""
+				icon: { Count: 2, id: "minecraft:yellow_concrete_powder" }
+				id: "6F730383AF971E35"
+				title: "You can now start with Chapter 2 quests!"
+				type: "advancement"
+			}]
+			shape: "square"
+			size: 1.5d
+			subtitle: "As the days passed, survival became a fragile routine. You had crafted weapons, built shelter, and fought through the terrors of the night. You dug deep into the earth, wresting iron and stone from its grasp, always pushing forward despite the unease that lingered at the edge of your thoughts. Yet, even with a warm bed and food to fill your stomach, the world around you felt... wrong. Each breath carried a hint of dread, each shadow seemed to stretch too far. Still, you pressed on. You thought you were prepared—stronger, smarter, better equipped. But deep down, you knew this was only the beginning. The world's darkest secrets were still waiting beneath your feet. And soon... you would be forced to face them in Chapter 2."
+			tasks: [{
+				icon: { Count: 2, id: "minecraft:yellow_concrete_powder" }
+				id: "03DE763FDF135AB1"
+				stat: "minecraft:play_time"
+				title: "Chapter 2 is now available!"
+				type: "stat"
+				value: 1
+			}]
+			title: "Chapter 2 is now available!"
+			x: -5.25d
+			y: -17.0d
+		}
+	]
+	subtitle: ["Chapter 1 contains 17 Normal Quests and 1 Secret Quest!"]
+	title: "A False Sense of Security [Chapter 1]"
+}

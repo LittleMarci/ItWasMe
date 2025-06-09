@@ -1,0 +1,12 @@
+{
+	id: "2CD1BA306A56B033"
+	loot_size: 1
+	order_index: 5
+	rewards: [
+		{ item: "minecraft:enchanted_golden_apple" }
+		{ count: 7, item: "farmersrespite:strong_apple_cider" }
+		{ item: "minecraft:totem_of_undying" }
+		{ item: "minecraft:diamond_block" }
+	]
+	title: "loot_table 6"
+}

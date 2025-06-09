@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "showOnlyOneTime": true,
+  "chatMessage": false,
+  "showCreator": true,
+  "customStructureName": {
+    "minecraft:swamp_hut": "a_cat:cat_hut"
+  },
+  "dontShowAll": [
+    "minecraft:",
+    "dimdungeons:"
+  ],
+  "dontShow": [
+    "minecraft:plains_village",
+    "minecraft:desert_village",
+    "born_in_chaos_v1:dark_tower_plain",
+    "horror_element_mod:fortified_church",
+    "graveyard:small_graveyard",
+    "horror_element_mod:laboratory",
+    "horror_element_mod:graveyard",
+    "arphex:termite_hill",
+    "graveyard:small_grave"
+  ]
+}

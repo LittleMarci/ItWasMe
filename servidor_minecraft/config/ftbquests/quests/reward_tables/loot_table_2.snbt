@@ -1,0 +1,12 @@
+{
+	id: "133724EB8A14DA0F"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{ count: 2, item: "minecraft:golden_apple" }
+		{ count: 4, item: "minecraft:diamond" }
+		{ count: 4, item: "minecraft:obsidian" }
+		{ count: 10, item: "farmersdelight:bacon_sandwich" }
+	]
+	title: "loot_table 2"
+}

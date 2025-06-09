@@ -1,532 +1,367 @@
 {
-  "spellbladenext:spellblades/root": {
+  "mcwbiomesoplenty:recipes/umbran_fences": {
     "criteria": {
-      "always": "2025-06-08 21:58:40 +0000"
+      "has_acacia": "2025-06-09 01:53:17 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2025-06-09 01:53:17 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:theundeadchallenges": {
+    "criteria": {
+      "theundeadchallenges_0": "2025-06-09 01:53:18 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/origin_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-09 01:53:17 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2025-06-09 01:53:17 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2025-06-09 01:53:17 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2025-06-08 21:58:40 +0000"
+      "unlock_right_away": "2025-06-09 01:53:18 +0000"
     },
     "done": true
   },
-  "betterdungeons:root": {
+  "mcwfences:recipes/jungle": {
     "criteria": {
-      "always": "2025-06-08 21:58:40 +0000"
+      "has_jungle": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "mobs_of_mythology:mobs_of_mythology": {
+  "mcwfences:recipes/mangrove": {
     "criteria": {
-      "tick": "2025-06-08 21:58:40 +0000"
+      "has_mangrove": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "betterdeserttemples:root": {
+  "mcwfences:recipes/warped": {
     "criteria": {
-      "always": "2025-06-08 21:58:40 +0000"
+      "has_warped": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "archon:root": {
+  "mcwfences:recipes/metal": {
     "criteria": {
-      "tick": "2025-06-08 21:58:40 +0000"
+      "has_deepslate": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "the_bumblezone:root": {
+  "mcwbiomesoplenty:recipes/redwood_hedge": {
     "criteria": {
-      "instant_granted": "2025-06-08 21:58:40 +0000"
+      "has_birch": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "things:root": {
+  "mcwbiomesoplenty:recipes/empyreal_hedge": {
     "criteria": {
-      "tick": "2025-06-08 21:58:40 +0000"
+      "has_birch": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "rpg_series:root": {
+  "mcwbiomesoplenty:recipes/flowering_oak_hedge": {
     "criteria": {
-      "always": "2025-06-08 21:58:40 +0000"
+      "has_birch": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "dungeons_arise:wda_root": {
+  "mcwfences:recipes/nether": {
     "criteria": {
-      "WDA": "2025-06-08 21:58:40 +0000"
+      "has_nether_brick": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "more_rpg_content:root": {
+  "mcwbiomesoplenty:recipes/redwood_fences": {
     "criteria": {
-      "always": "2025-06-08 21:58:40 +0000"
+      "has_acacia": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "lootr:root": {
+  "mcwbiomesoplenty:recipes/palm_fences": {
     "criteria": {
-      "always_true": "2025-06-08 21:58:40 +0000"
+      "has_acacia": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "the_bumblezone:wiki": {
+  "mcwbiomesoplenty:recipes/hellbark_fences": {
     "criteria": {
-      "instant_granted": "2025-06-08 21:58:40 +0000"
+      "has_acacia": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/chemical_reactor/calcium_carbonate": {
+  "mcwbiomesoplenty:recipes/magic_fences": {
     "criteria": {
-      "has_carbon": "2025-06-08 21:58:41 +0000",
-      "has_calcium": "2025-06-08 21:58:41 +0000"
+      "has_acacia": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/campfire_toast": {
+  "mcwfences:recipes/bamboo": {
     "criteria": {
-      "has_bread": "2025-06-08 21:58:41 +0000"
+      "has_bamboo": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "advancednetherite:recipes/netherite_diamond_block": {
+  "mcwbiomesoplenty:recipes/jacaranda_fences": {
     "criteria": {
-      "has_ingredients": "2025-06-08 21:58:41 +0000"
+      "has_acacia": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_crafting": {
+  "mcwbiomesoplenty:recipes/willow_fences": {
     "criteria": {
-      "has_wct": "2025-06-08 21:58:41 +0000"
+      "has_acacia": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "seasonsextras:recipes/season_calendar": {
+  "mcwfences:recipes/spruce": {
     "criteria": {
-      "has_clock": "2025-06-08 21:58:41 +0000"
+      "has_spruce": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/hydrogen_cell": {
+  "mcwbiomesoplenty:recipes/pine_hedge": {
     "criteria": {
-      "has_hydrogen": "2025-06-08 21:58:41 +0000"
+      "has_birch": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/cheeseburger": {
+  "mcwbiomesoplenty:recipes/willow_hedge": {
     "criteria": {
-      "has_bread": "2025-06-08 21:58:41 +0000"
+      "has_birch": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/food/toast_from_smoking_bread": {
+  "mcwbiomesoplenty:recipes/maple_fences": {
     "criteria": {
-      "has_bread": "2025-06-08 21:58:41 +0000"
+      "has_acacia": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "ae2wtlib:recipes/wireless_pattern_encoding_terminal": {
+  "mcwbiomesoplenty:recipes/dead_fences": {
     "criteria": {
-      "has_wt": "2025-06-08 21:58:41 +0000"
+      "has_acacia": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "herbalbrews:main/root": {
+  "mcwbiomesoplenty:recipes/rainbow_birch_hedge": {
     "criteria": {
-      "seeds": "2025-06-08 21:58:41 +0000"
+      "has_birch": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "frostiful:recipes/combat/armor/ice_skates": {
+  "endofherobrine:story/root": {
     "criteria": {
-      "has_fur_boots": "2025-06-08 21:58:41 +0000"
+      "requirement": "2025-06-09 01:53:43 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/chemical_reactor/methane": {
+  "mcwbiomesoplenty:recipes/fir_fences": {
     "criteria": {
-      "has_hydrogen": "2025-06-08 21:58:41 +0000",
-      "has_carbon": "2025-06-08 21:58:41 +0000"
+      "has_acacia": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/chemical_reactor/sodium_sulfide": {
+  "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
-      "has_sulfur": "2025-06-08 21:58:41 +0000",
-      "has_sodium": "2025-06-08 21:58:41 +0000"
+      "bornin_chaos_0": "2025-06-09 01:53:18 +0000"
     },
     "done": true
   },
-  "advancednetherite:recipes/netherite_emerald_block": {
+  "mcwfences:recipes/birch": {
     "criteria": {
-      "has_ingredients": "2025-06-08 21:58:41 +0000"
+      "has_birch": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/distillation_tower/diesel": {
+  "mcwbiomesoplenty:recipes/red_maple_hedge": {
     "criteria": {
-      "has_oil": "2025-06-08 21:58:41 +0000"
+      "has_birch": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/chemical_reactor/nitro_diesel": {
+  "mcwfences:recipes/stone": {
     "criteria": {
-      "has_diesel": "2025-06-08 21:58:41 +0000",
-      "has_glyceryl": "2025-06-08 21:58:41 +0000"
+      "has_stone": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "advancednetherite:recipes/netherite_gold_block": {
+  "mcwfences:recipes/end": {
     "criteria": {
-      "has_ingredients": "2025-06-08 21:58:41 +0000"
+      "has_end_brick": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/sulfur_cell": {
+  "mcwbiomesoplenty:recipes/orange_maple_hedge": {
     "criteria": {
-      "has_sulfur": "2025-06-08 21:58:41 +0000"
+      "has_birch": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/compressor/compressed_plantball_from_plantball": {
+  "mcwbiomesoplenty:recipes/jacaranda_hedge": {
     "criteria": {
-      "has_plantball": "2025-06-08 21:58:41 +0000"
+      "has_birch": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_encoding": {
+  "mcwbiomesoplenty:recipes/snowblossom_hedge": {
     "criteria": {
-      "has_wpt": "2025-06-08 21:58:41 +0000"
+      "has_birch": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/vacuum_freezer/helium": {
+  "mcwbiomesoplenty:recipes/yellow_maple_hedge": {
     "criteria": {
-      "has_heliumplasma": "2025-06-08 21:58:41 +0000"
+      "has_birch": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/helium_cell": {
+  "mcwbiomesoplenty:recipes/palm_hedge": {
     "criteria": {
-      "has_helium": "2025-06-08 21:58:41 +0000"
+      "has_birch": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/food/toast_from_bread": {
+  "mcwbiomesoplenty:recipes/pine_fences": {
     "criteria": {
-      "has_bread": "2025-06-08 21:58:41 +0000"
+      "has_acacia": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "frostiful:recipes/combat/armor/fur_padded_chainmail_helmet": {
+  "mcwfences:recipes/sandstone": {
     "criteria": {
-      "has_fur_armor": "2025-06-08 21:58:41 +0000"
+      "has_sand": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/chemical_reactor/sodium_persulfate": {
+  "mcwfences:recipes/acacia": {
     "criteria": {
-      "has_sodium_sulfide": "2025-06-08 21:58:41 +0000"
+      "has_acacia": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/chemical_reactor/nitro_carbon": {
+  "mcwfences:recipes/oak": {
     "criteria": {
-      "has_nitrogen": "2025-06-08 21:58:41 +0000"
+      "has_oak": "2025-06-09 01:53:17 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/cypress_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-09 01:53:17 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-09 01:53:17 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mud_brick": {
+    "criteria": {
+      "has_qq": "2025-06-09 01:53:17 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 01:53:17 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-09 01:53:17 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2025-06-09 01:53:17 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2025-06-09 01:53:44 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-09 01:53:17 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2025-06-09 01:53:17 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_fences": {
+    "criteria": {
+      "has_acacia": "2025-06-09 01:53:17 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/magic_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
   "farmersdelight:main/root": {
     "criteria": {
-      "seeds": "2025-06-08 21:58:41 +0000"
+      "seeds": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
-  "frostiful:recipes/combat/armor/fur_padded_chainmail_chestplate": {
+  "mcwbiomesoplenty:recipes/empyreal_fences": {
     "criteria": {
-      "has_fur_armor": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/combat/armor/fur_padded_chainmail_boots": {
-    "criteria": {
-      "has_fur_armor": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/bread": {
-    "criteria": {
-      "has_bread": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "create:root": {
-    "criteria": {
-      "0": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_access": {
-    "criteria": {
-      "has_wit": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "naturalist:recipes/food/cooked_egg": {
-    "criteria": {
-      "has_eggs": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "seasonsextras:recipes/tinted_greenhouse_glass": {
-    "criteria": {
-      "has_glass": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/combat/armor/armored_ice_skates": {
-    "criteria": {
-      "has_fur_boots": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipes/wireless_pattern_access_terminal": {
-    "criteria": {
-      "has_wt": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/deuterium_cell": {
-    "criteria": {
-      "has_deuterium": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/misc/snowflake_banner_pattern": {
-    "criteria": {
-      "has_packed_snowball": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "seasonsextras:recipes/greenhouse_glass": {
-    "criteria": {
-      "has_glass": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/combat/armor/fur_padded_chainmail_leggings": {
-    "criteria": {
-      "has_fur_armor": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "vinery:main/root": {
-    "criteria": {
-      "seeds": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/netherite_iron_block": {
-    "criteria": {
-      "has_ingredients": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/glyceryl": {
-    "criteria": {
-      "has_nitro_carbon": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/netherite_ingots": {
-    "criteria": {
-      "has_ingredients": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/fusion_reactor/platinum_dust": {
-    "criteria": {
-      "has_beryllium": "2025-06-08 21:58:41 +0000",
-      "has_wolframium": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/silicon_plate": {
-    "criteria": {
-      "has_silicon": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/nitrogen_dioxide": {
-    "criteria": {
-      "has_nitrogen": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/calcium_carbonate_cell": {
-    "criteria": {
-      "has_calcium_carbonate": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipes/magnet_card": {
-    "criteria": {
-      "has_wct": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/nitrofuel": {
-    "criteria": {
-      "has_oil": "2025-06-08 21:58:41 +0000",
-      "has_nitrogen": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/water": {
-    "criteria": {
-      "has_hydrogen": "2025-06-08 21:58:41 +0000",
-      "has_compressed_air": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "seasonsextras:recipes/season_detector": {
-    "criteria": {
-      "has_detector": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/nitrocoal_fuel": {
-    "criteria": {
-      "has_glyceryl": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "seasonsextras:recipes/crop_season_tester": {
-    "criteria": {
-      "has_iron": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/lava_cell": {
-    "criteria": {
-      "has_lava": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/sulfuric_acid": {
-    "criteria": {
-      "has_sulfur": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipes/wireless_universal_terminal/ce": {
-    "criteria": {
-      "has_wpt": "2025-06-08 21:58:41 +0000",
-      "has_wct": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipes/wireless_universal_terminal/ca": {
-    "criteria": {
-      "has_wit": "2025-06-08 21:58:41 +0000",
-      "has_wct": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipes/wireless_universal_terminal/ae": {
-    "criteria": {
-      "has_wit": "2025-06-08 21:58:41 +0000",
-      "has_wpt": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipes/quantum_bridge_card": {
-    "criteria": {
-      "has_wit": "2025-06-08 21:58:41 +0000",
-      "has_wpt": "2025-06-08 21:58:41 +0000",
-      "has_wct": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "seasonsextras:recipes/air_conditioning": {
-    "criteria": {
-      "has_furnace": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/fusion_reactor/helium_plasma": {
-    "criteria": {
-      "has_helium3": "2025-06-08 21:58:41 +0000",
-      "has_deuterium": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/titanium_ingot": {
-    "criteria": {
-      "has_titanium_dust": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/fusion_reactor/helium3": {
-    "criteria": {
-      "has_tritium": "2025-06-08 21:58:41 +0000",
-      "has_deuterium": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "brewery:main/root": {
-    "criteria": {
-      "seeds": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/compressed_plantball_from_melon_slices": {
-    "criteria": {
-      "has_melon_slice": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/fusion_reactor/iridium_ore": {
-    "criteria": {
-      "has_lithium": "2025-06-08 21:58:41 +0000",
-      "has_wolframium": "2025-06-08 21:58:41 +0000"
-    },
-    "done": true
-  },
-  "betternether:root": {
-    "criteria": {
-      "welcome": "2025-06-08 21:58:43 +0000"
-    },
-    "done": true
-  },
-  "betterend:root": {
-    "criteria": {
-      "welcome": "2025-06-08 21:58:43 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:biomes/discover_all_biomes": {
-    "criteria": {
-      "bumbling_beepartments": "2025-06-08 21:58:43 +0000"
-    },
-    "done": false
-  },
-  "beachparty:main/root": {
-    "criteria": {
-      "example_criterion": "2025-06-08 21:58:43 +0000"
+      "has_acacia": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:sparse_jungle": "2025-06-08 21:58:43 +0000"
+      "minecraft:birch_forest": "2025-06-09 01:53:18 +0000"
     },
     "done": false
   },
-  "regions_unexplored:parent": {
+  "mcwbiomesoplenty:recipes/dead_hedge": {
     "criteria": {
-      "load_in_world": "2025-06-08 21:58:43 +0000"
+      "has_birch": "2025-06-09 01:53:17 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_hedge": {
+    "criteria": {
+      "has_birch": "2025-06-09 01:53:17 +0000"
     },
     "done": true
   },

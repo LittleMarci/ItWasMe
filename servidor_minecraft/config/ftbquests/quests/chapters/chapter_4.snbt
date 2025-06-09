@@ -1,0 +1,913 @@
+{
+	autofocus_id: "309F4A94B4F3B89F"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chapter_4"
+	group: ""
+	icon: { Count: 4, id: "minecraft:red_concrete_powder" }
+	id: "479E55C84E178653"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["212710499611A21D"]
+			hide_until_deps_complete: true
+			id: "309F4A94B4F3B89F"
+			rewards: [{
+				auto: "enabled"
+				description: ""
+				icon: { Count: 4, id: "minecraft:red_concrete_powder" }
+				id: "3830653512F880CB"
+				title: "Welcome to Chapter 4!"
+				type: "toast"
+			}]
+			shape: "square"
+			size: 1.5d
+			subtitle: "The air feels heavier now. After everything you've endured—Herobrine's haunting presence, swarms of mutated creatures, and mysterious relics—you sense something far darker waiting ahead. The voices are louder, their whispers gnawing at the edges of your mind. It’s no longer just survival. It’s war."
+			tasks: [{
+				icon: { Count: 4, id: "minecraft:red_concrete_powder" }
+				id: "3C63A67C549E1F12"
+				stat: "minecraft:play_time"
+				title: "Chapter 4 is now unlocked!"
+				type: "stat"
+				value: 1
+			}]
+			title: "Welcome to Chapter 4 of Cave Horror Project!"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["309F4A94B4F3B89F"]
+			hide_until_deps_complete: true
+			id: "540301189007049C"
+			rewards: [
+				{
+					count: 6
+					id: "2902E32350032086"
+					item: "farmersdelight:pumpkin_slice"
+					type: "item"
+				}
+				{
+					id: "36E881BCE2570648"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:power"
+								lvl: 4s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "You make your way to an eerie forest, where the trees twist unnaturally, their skeletal branches reaching toward the crimson sky. The Sir Pumpkinhead awaits, a towering, malevolent figure with glowing eyes and a menacing staff. His laughter echoes through the woods as the ground beneath your feet trembles. The fight is brutal—fire rains down, shadowy tendrils reach for you, and his strikes feel like they could tear the very soul from your body. But you stand your ground, and with one final blow, the creature collapses into a pile of smoldering vines."
+			tasks: [{
+				consume_items: false
+				id: "5D3435AA3A2802F2"
+				item: {
+					Count: 1
+					id: "born_in_chaos_v1:pumpkinstaffa"
+					tag: {
+						Damage: 0
+					}
+				}
+				only_from_crafting: false
+				title: "Objective: Kill Sir Pumpkinhead and obtain the Pumpkin Staff"
+				type: "item"
+			}]
+			title: "Harvest of Shadows"
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["540301189007049C"]
+			hide_until_deps_complete: true
+			id: "0A90856A476D3633"
+			rewards: [{
+				id: "32A72DB91ADDE027"
+				type: "xp"
+				xp: 15
+			}]
+			subtitle: "Among the remains, you find two powerful artifacts: the Pumpkin Staff and the Fel Lamp. As you grasp the staff, its dark power courses through you, and the Fel Lamp hums ominously in your hand. When you light it, a spectral horse materializes, bound to serve you. Its hollow eyes stare straight ahead, waiting for your next command."
+			tasks: [{
+				consume_items: false
+				id: "2CD203C5CB306C87"
+				item: "born_in_chaos_v1:fel_lamp"
+				only_from_crafting: false
+				title: "Objective: Use the Fel Lamp to summon Sir Pumpkinhead's spectral horse"
+				type: "item"
+			}]
+			title: "The Phantom Ride"
+			x: 1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["540301189007049C"]
+			hide_until_deps_complete: true
+			id: "15B510907CF2E3A6"
+			rewards: [{
+				count: 2
+				id: "1CBA660FB4D248B9"
+				item: {
+					Count: 1
+					id: "minecraft:enchanted_book"
+					tag: {
+						StoredEnchantments: [{
+							id: "minecraft:fortune"
+							lvl: 1s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "You take a breath, but the voices return—more urgent, more insistent. They speak of growing stronger. Thirty levels of experience will be necessary for the battles to come. Enchantments could be the difference between victory and death. So, you delve deeper into forgotten dungeons, slay powerful beasts, and mine the earth for rare treasures until you reach the strength you need."
+			tasks: [{
+				id: "0124AD9D50E8D845"
+				points: false
+				title: "Objective: Reach level 30 for the best enchantments"
+				type: "xp"
+				value: 30L
+			}]
+			title: "Master of Enchantment"
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["4229C454694ADC67"]
+			hide_until_deps_complete: true
+			id: "1CFDB0F4483227C0"
+			rewards: [
+				{
+					id: "67E3812CFB242997"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					count: 3
+					id: "29C3DEFC033A764E"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+			]
+			subtitle: "You discover the Bane of the Darkness, a mysterious crafting material imbued with ancient magic. Simply holding it grants you immunity to the dreadful Darkness and Terror effect."
+			tasks: [{
+				consume_items: false
+				id: "6B7A9F1340B29C2C"
+				item: "arphex:bane_of_the_darkness"
+				only_from_crafting: false
+				title: "Objective: Craft the Bane Of The Darkness"
+				type: "item"
+			}]
+			title: "The Bane of Shadows"
+			x: -1.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["15B510907CF2E3A6"]
+			hide_until_deps_complete: true
+			id: "4229C454694ADC67"
+			rewards: [
+				{
+					id: "22B093565A2DFFEC"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					count: 8
+					id: "11683CA3B73A7486"
+					item: "minecraft:gold_ingot"
+					type: "item"
+				}
+			]
+			subtitle: "Your journey then takes a strange turn. You craft the Mantle of Vitality, an essential material made from an enchanted golden apple. Though it’s merely a crafting component, you feel its protective aura reinforcing your strength and resilience, preparing you for the challenges ahead."
+			tasks: [{
+				consume_items: false
+				id: "1D28C25089B7917A"
+				item: "arphex:mantle_of_vitality"
+				only_from_crafting: false
+				title: "Objective: Craft the Mantle Of Vitality"
+				type: "item"
+			}]
+			title: "Mantle of Life"
+			x: -1.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["540301189007049C"]
+			description: ["Getting full Tier 3 Chitin Armour set grants you a powerful damage reduction bonus."]
+			hide_until_deps_complete: true
+			id: "721CA952B18A2C63"
+			optional: true
+			rewards: [{
+				count: 2
+				id: "2B1B1B4346BA771B"
+				item: {
+					Count: 1
+					id: "minecraft:potion"
+					tag: {
+						Potion: "minecraft:strong_strength"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "With your new power, you decide it’s time to upgrade your armor. The Tier 3 Chitin Leggings are your next goal—crafted from the hardened remains of deadly creatures, they offer unparalleled protection. Piece by piece, your armor set comes together, granting you a 40% damage reduction. You feel invincible, yet the darkness still watches… waiting."
+			tasks: [{
+				consume_items: false
+				id: "1F1E32109B0F8993"
+				item: "arphex:chitin_armour_tier_3_leggings"
+				only_from_crafting: false
+				optional_task: true
+				title: "Objective: Craft Tier 3 Chitin Leggings"
+				type: "item"
+			}]
+			title: "Armored Salvation"
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["1CFDB0F4483227C0"]
+			hide_until_deps_complete: true
+			id: "2149A20DAF7D3218"
+			rewards: [{
+				exclude_from_claim_all: true
+				icon: "minecraft:ender_chest"
+				id: "5BB7B4995397A46E"
+				table_id: 3229567124906618931L
+				type: "choice"
+			}]
+			subtitle: "But there’s no time for rest. The Spider Moth awaits. This abomination, a twisted mix of arachnid and moth, lurks in the depths. Following the whispers, you gather the materials for a dark ritual: Soul Sand and Mangled Spider Flesh, placed carefully before lighting the pyre. The ground quakes, and the air fills with an ear-piercing shriek as the Spider Moth emerges, its wings buzzing violently, eyes glowing with rage. "
+			tasks: [{
+				entity: "arphex:spider_moth"
+				icon: "arphex:spider_moth_spawn_egg"
+				id: "76BC49737B1F0D3E"
+				title: "Objective: Summon and defeat the Spider Moth boss"
+				type: "kill"
+				value: 1L
+			}]
+			title: "The Spider Moth's Curse"
+			x: -1.5d
+			y: -11.0d
+		}
+		{
+			dependencies: ["2149A20DAF7D3218"]
+			hide_until_deps_complete: true
+			id: "29A70B310DC48852"
+			rewards: [{
+				id: "1F35C36DFDD87719"
+				type: "xp"
+				xp: 20
+			}]
+			subtitle: "The battle is relentless. The Spider Moth soars into the air, spitting webs that cling to your limbs, slowing your movements. Its venom burns your veins, and its screeches pierce your mind like needles. But you refuse to fall. With every strike of your blade, the creature weakens until, at last, it crashes to the ground in a heap of broken wings and shattered legs. From its remains, you take the Abyssal Crystal—a shard pulsing with dark energy."
+			tasks: [{
+				consume_items: false
+				id: "29CC98D87ACD49B6"
+				item: "arphex:abyssal_crystal"
+				only_from_crafting: false
+				title: "Objective: Obtain the Abyssal Crystal from the Spider Moth"
+				type: "item"
+			}]
+			title: "Abyssal Heart"
+			x: -3.0d
+			y: -12.5d
+		}
+		{
+			dependencies: ["29A70B310DC48852"]
+			hide_until_deps_complete: true
+			id: "4495E7BF8F3BB358"
+			rewards: [{
+				icon: "minecraft:ender_chest"
+				id: "5FF6AB91324E51B4"
+				table_id: 3172504193309197598L
+				type: "random"
+			}]
+			subtitle: "The time has come to create your most powerful weapon yet: the Abyssal Blade. Combining the Abyssal Crystal, Bane of the Darkness, Mantle of Vitality, and a Netherite Sword, you forge a weapon that hums with deadly power. The Abyssal Blade is more than just a sword—it’s a symbol of everything you’ve survived so far."
+			tasks: [{
+				consume_items: false
+				id: "1401697D102626AD"
+				item: "arphex:abyssal_blade"
+				only_from_crafting: false
+				title: "Objective: Craft the Abyssal Blade"
+				type: "item"
+			}]
+			title: "Blade of the Abyss"
+			x: -3.0d
+			y: -14.5d
+		}
+		{
+			dependencies: ["2149A20DAF7D3218"]
+			hide_until_deps_complete: true
+			id: "5A4922EE9900C605"
+			rewards: [{
+				id: "6BDD6751CD9D056B"
+				type: "xp"
+				xp: 15
+			}]
+			subtitle: "The next step in your journey calls you to collect 12 Eyes of Ender and follow their trail to the Stronghold."
+			tasks: [{
+				consume_items: false
+				count: 12L
+				id: "5AECF8F8AA903D83"
+				item: "minecraft:ender_eye"
+				only_from_crafting: false
+				title: "Objective: Make 12 Eyes of Ender"
+				type: "item"
+			}]
+			title: "Eyes of the Void"
+			x: 0.0d
+			y: -12.5d
+		}
+		{
+			dependencies: ["5A4922EE9900C605"]
+			hide_until_deps_complete: true
+			id: "1E03DDAF7C1340A3"
+			rewards: [
+				{
+					id: "22850EAC299424BC"
+					type: "xp"
+					xp: 20
+				}
+				{
+					id: "3123893E096EA262"
+					item: "minecraft:apple"
+					type: "item"
+				}
+			]
+			subtitle: "As you travel across vast landscapes, throwing each Eye into the air, you can feel the tension mounting. You know what lies ahead."
+			tasks: [{
+				id: "0A46781A6C5885BB"
+				structure: "minecraft:stronghold"
+				title: "Objective: Find the Stronghold"
+				type: "structure"
+			}]
+			title: "Path to the Stronghold"
+			x: 0.0d
+			y: -14.5d
+		}
+		{
+			dependencies: ["1E03DDAF7C1340A3"]
+			hide_until_deps_complete: true
+			id: "5736A6AF905DC863"
+			rewards: [
+				{
+					count: 64
+					id: "799B4D0A81FEF972"
+					item: "minecraft:cobblestone"
+					type: "item"
+				}
+				{
+					id: "37BE8193A1E5DABB"
+					item: "minecraft:carved_pumpkin"
+					type: "item"
+				}
+			]
+			subtitle: "The End Portal looms in the depths of the Stronghold, its swirling void beckoning you forward. With a deep breath, you step through the portal and find yourself in The End—a bleak, endless void ruled by the ancient Ender Dragon."
+			tasks: [{
+				dimension: "minecraft:the_end"
+				id: "6096873B25C6625F"
+				title: "Objective: Enter the End Portal"
+				type: "dimension"
+			}]
+			title: "The Final Gateway"
+			x: 0.0d
+			y: -16.5d
+		}
+		{
+			dependencies: ["5736A6AF905DC863"]
+			hide_until_deps_complete: true
+			id: "022B1E9CE08EAB1E"
+			rewards: [{
+				id: "517CB11C177D8FE3"
+				item: "minecraft:golden_apple"
+				type: "item"
+			}]
+			subtitle: "The dragon’s roar shakes the sky as it circles overhead. Its eyes burn with fury, and its wings stir massive gusts of wind that nearly throw you off the obsidian platform. This is no ordinary beast. You fight with everything you have, dodging its breath, striking at its exposed moments, and enduring the assault from swarms of Endermen. With a final swing of your blade, the dragon lets out a deafening cry before exploding into a cascade of light. You’ve done it. The skies are clear once again—for now."
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				id: "2C72E530A2AD3142"
+				title: "Objective: Kill the Ender Dragon"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Dragon's Descent"
+			x: 0.0d
+			y: -18.5d
+		}
+		{
+			dependencies: ["309F4A94B4F3B89F"]
+			description: ["Unlockable only after completing a Secret Quest: Lost Treasure in Chapter 3."]
+			id: "13F5F4F87222E6A5"
+			invisible: true
+			rewards: [
+				{
+					count: 2
+					id: "12FC1737F1C73F39"
+					item: "minecraft:enchanted_golden_apple"
+					type: "item"
+				}
+				{
+					id: "3024FD4F089B77B7"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					exclude_from_claim_all: true
+					icon: "minecraft:ender_chest"
+					id: "0BAB49A1AB0E8DFD"
+					table_id: 3229567124906618931L
+					type: "choice"
+				}
+			]
+			subtitle: "A full suit of Netherite Armor is essential for what lies ahead. Without it, the player stands no chance against the coming darkness. Even tho you might soon need something even stronger."
+			tasks: [
+				{
+					consume_items: false
+					id: "4575ABF2227600A9"
+					item: {
+						Count: 1
+						id: "minecraft:netherite_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					only_from_crafting: false
+					title: "Objective 1: Make a Netherite Helmet"
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "66C43DF4DE4BEA4E"
+					item: {
+						Count: 1
+						id: "minecraft:netherite_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					only_from_crafting: false
+					title: "Objective 2: Make a Netherite Chestplate"
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "201F246A63C098F7"
+					item: {
+						Count: 1
+						id: "minecraft:netherite_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					only_from_crafting: false
+					title: "Objective 3: Make Netherite Leggings"
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "02CE91515896BAA8"
+					item: {
+						Count: 1
+						id: "minecraft:netherite_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					only_from_crafting: false
+					title: "Objective 4: Make Netherite Boots"
+					type: "item"
+				}
+			]
+			title: "Secret Quest: Forged in Darkness"
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["0A90856A476D3633"]
+			hide_until_deps_complete: true
+			id: "7AA537605B3D9A7C"
+			rewards: [
+				{
+					id: "6451F57FB308D452"
+					type: "xp"
+					xp: 15
+				}
+				{
+					count: 32
+					id: "74B741884636DCD6"
+					item: "minecraft:brick"
+					type: "item"
+				}
+			]
+			subtitle: "A strange calm washes over you, yet it feels fragile—like the world is holding its breath. You try to shake the unease, focusing on the simple comforts of home. The warm crackle of your newly built Stove fills the air as you prepare meals."
+			tasks: [{
+				consume_items: false
+				id: "0265295AE91455B3"
+				item: "farmersdelight:stove"
+				only_from_crafting: false
+				title: "Objective: Craft a Stove"
+				type: "item"
+			}]
+			title: "Home Comforts"
+			x: 1.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["7AA537605B3D9A7C"]
+			hide_until_deps_complete: true
+			id: "667423B7B5BFA2B0"
+			rewards: [
+				{
+					id: "4A7B76677B457341"
+					type: "xp"
+					xp: 20
+				}
+				{
+					count: 10
+					id: "41F54632A42F6FE0"
+					item: "minecraft:egg"
+					type: "item"
+				}
+			]
+			subtitle: "You craft a Cooking Pot and Skillet, determined to cook something hearty to ward off the lingering dread."
+			tasks: [
+				{
+					consume_items: false
+					id: "70DDFCDB62CFCF00"
+					item: "farmersdelight:cooking_pot"
+					only_from_crafting: false
+					title: "Objective 1: Craft a Cooking Pot"
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "02D853CC0465CE98"
+					item: {
+						Count: 1
+						id: "farmersdelight:skillet"
+						tag: {
+							Damage: 0
+						}
+					}
+					only_from_crafting: false
+					title: "Objective 2: Craft a Skillet"
+					type: "item"
+				}
+			]
+			title: "Tools for Cooking"
+			x: 1.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["667423B7B5BFA2B0"]
+			hide_until_deps_complete: true
+			id: "74A4E475FE76133F"
+			rewards: [{
+				id: "5260AEA33F3F7F3A"
+				item: "farmersdelight:shepherds_pie_block"
+				type: "item"
+			}]
+			subtitle: "The scent of Vegetable Soup and Stuffed Pumpkin brings a sense of normalcy, even if only for a while."
+			tasks: [
+				{
+					consume_items: false
+					id: "6BF27A13F4216889"
+					item: "farmersdelight:vegetable_soup"
+					only_from_crafting: false
+					title: "Objective 1: Cook a Vegetable Soup"
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "015E32564A7DD116"
+					item: "farmersdelight:stuffed_pumpkin_block"
+					only_from_crafting: false
+					title: "Objective 2: Cook a Stuffed Pumpkin"
+					type: "item"
+				}
+			]
+			title: "Hearty Feast"
+			x: 1.5d
+			y: -11.0d
+		}
+		{
+			dependencies: ["74A4E475FE76133F"]
+			hide_until_deps_complete: true
+			id: "11031830C232C76E"
+			rewards: [
+				{
+					count: 6
+					id: "3689C1BBA3B749FC"
+					item: "farmersdelight:tomato"
+					type: "item"
+				}
+				{
+					count: 6
+					id: "4E65689F328C5A31"
+					item: "farmersdelight:onion"
+					type: "item"
+				}
+				{
+					count: 6
+					id: "0EE7315DEF3E2F0B"
+					item: "farmersdelight:cabbage"
+					type: "item"
+				}
+			]
+			subtitle: "The harvest season is coming to an end. You move through your fields, carefully picking the last of the Tomatoes, Onions, and Cabbages, storing them neatly in crates. You can almost feel the weight of the battles behind you lifting as you work."
+			tasks: [
+				{
+					consume_items: false
+					id: "31575FF6825B64CD"
+					item: "farmersdelight:tomato_crate"
+					only_from_crafting: false
+					title: "Objective 1: Craft a Tomato Crate"
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "03495EA8E5CD6BDF"
+					item: "farmersdelight:onion_crate"
+					only_from_crafting: false
+					title: "Objective 2: Craft an Onion Crate"
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6E8A495677AC685C"
+					item: "farmersdelight:cabbage_crate"
+					only_from_crafting: false
+					title: "Objective 3: Craft a Cabbage Crate"
+					type: "item"
+				}
+			]
+			title: "Harvest Season"
+			x: 3.0d
+			y: -12.5d
+		}
+		{
+			dependencies: ["11031830C232C76E"]
+			hide_until_deps_complete: true
+			id: "7FEF0432853DEC31"
+			rewards: [
+				{
+					count: 12
+					id: "5EB7CE9089D0C1F5"
+					item: "minecraft:ice"
+					type: "item"
+				}
+				{
+					id: "59ED10F44B67DD9F"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "In a rare moment of peace, you treat yourself to a refreshing Melon Popsicle, savoring its sweetness. For a fleeting moment, it feels like everything might be okay. But in the back of your mind, you know it’s not over. Something dark stirs in the distance—watching, waiting."
+			tasks: [{
+				consume_items: false
+				count: 5L
+				id: "3BBE153DC7CF5065"
+				item: "farmersdelight:melon_popsicle"
+				only_from_crafting: false
+				title: "Objective: Craft 5 Melon Popsicles"
+				type: "item"
+			}]
+			title: "Frozen Treats"
+			x: 3.0d
+			y: -14.5d
+		}
+		{
+			dependencies: ["022B1E9CE08EAB1E"]
+			description: [""]
+			hide_until_deps_complete: true
+			id: "2EC6F341E5D3B6D0"
+			rewards: [{
+				auto: "enabled"
+				description: ""
+				icon: { Count: 5, id: "minecraft:magenta_concrete_powder" }
+				id: "6D4F7CB732625A0B"
+				title: "You can now start with Chapter 5 quests!"
+				type: "toast"
+			}]
+			shape: "square"
+			size: 1.5d
+			subtitle: "As Chapter 4 draws to a close, you stand on the brink of something far greater. The Abyssal Blade hums with dark energy, and the world is fractured beyond repair. Visions of new horrors appear—massive, ancient beasts, and darkened realms that you're destined to explore."
+			tasks: [{
+				icon: { Count: 5, id: "minecraft:magenta_concrete_powder" }
+				id: "4D36C6A0AFC486C6"
+				stat: "minecraft:play_time"
+				title: "Chapter 5 is now available"
+				type: "stat"
+				value: 1
+			}]
+			title: "Chapter 5 is now available!"
+			x: 0.0d
+			y: -20.5d
+		}
+		{
+			dependencies: ["309F4A94B4F3B89F"]
+			id: "4596AE1DC9B4BEBF"
+			invisible: true
+			rewards: [
+				{
+					id: "7FB88C3BEC0AA268"
+					item: {
+						Count: 1
+						id: "born_in_chaos_v1:nightmare_scythe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2667402377D70C80"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			subtitle: "A strange creature summoned through a hidden ritual, revealing new secrets about Lord Pumpkinhead’s origins."
+			tasks: [{
+				advancement: "born_in_chaos_v1:scarecrow"
+				criterion: ""
+				id: "7749837527077C71"
+				title: "Objective: Summon a Pumpkin Spirit"
+				type: "advancement"
+			}]
+			title: "Secret Quest: Spirit of the Patch"
+			x: 3.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["309F4A94B4F3B89F"]
+			description: ["Completing this quest will unlock a secret quest in Chapter 5 once it releases!"]
+			id: "628F3ADB69B00D44"
+			invisible: true
+			rewards: [
+				{
+					count: 3
+					id: "4770C1E44C10D642"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+				{
+					id: "435D37B244494E3D"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+			subtitle: "A rare and dangerous material said to be forged in realms beyond comprehension. It holds unimaginable power, but at what cost?"
+			tasks: [{
+				consume_items: false
+				id: "3B37B06AD33A2E98"
+				item: "born_in_chaos_v1:dark_metal_ingot"
+				only_from_crafting: false
+				title: "Objective: Obtain 1 Dark Metal Ingot"
+				type: "item"
+			}]
+			title: "Secret Quest: Metal from Darkness"
+			x: -3.5d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"309F4A94B4F3B89F"
+				"579D430C5114B4E3"
+			]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "1F13B6E9AFC2B880"
+			rewards: [{
+				id: "6A8F6005154BD367"
+				item: {
+					Count: 1
+					id: "minecraft:goat_horn"
+					tag: {
+						instrument: "minecraft:dream_goat_horn"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "While exploring, you stumble upon a ruined stable with rusted chains and claw marks across its wooden frame. An eerie feeling washes over you as you find a single, untouched Iron Horse Armor lying in the wreckage. Why is it still here? Who—or what—left it behind?"
+			tasks: [{
+				consume_items: false
+				id: "711503287746F7B8"
+				item: "minecraft:iron_horse_armor"
+				only_from_crafting: false
+				title: "Objective: Obtain an Iron Horse Armor"
+				type: "item"
+			}]
+			title: "Steelbound Protection"
+			x: -6.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["1F13B6E9AFC2B880"]
+			hide_until_deps_complete: true
+			id: "4F05C7155758C91A"
+			rewards: [
+				{
+					count: 10
+					id: "05C0ADE5BEDE262D"
+					item: "minecraft:gunpowder"
+					type: "item"
+				}
+				{
+					id: "4B623343B9866B3B"
+					type: "xp"
+					xp: 10
+				}
+			]
+			subtitle: "Seeking distraction, you decide to prepare some explosives. The idea of blowing apart a cursed structure or collapsing a tunnel feels... reassuring. You craft TNT, the sound of the gunpowder pouring into the casing oddly comforting. But deep down, you know no amount of firepower can erase what’s lurking in the dark."
+			tasks: [{
+				consume_items: false
+				count: 6L
+				id: "168DC67F3AB16350"
+				item: "minecraft:tnt"
+				only_from_crafting: false
+				title: "Objective: Craft 6x TNT"
+				type: "item"
+			}]
+			title: "Boom Boom Surprise"
+			x: -6.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["4F05C7155758C91A"]
+			hide_until_deps_complete: true
+			id: "7E1B2AC5CA87940C"
+			rewards: [
+				{
+					id: "16EF1666C0453D9C"
+					item: "minecraft:tropical_fish_bucket"
+					type: "item"
+				}
+				{
+					id: "16528BD8F0996634"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			subtitle: "To lighten the mood, you go to a cave pool and spot a lone Axolotl swimming aimlessly. Something about its tiny, clueless face amuses you, so you scoop it into a bucket. A friend in these haunted lands? It’s a ridiculous thought, but maybe it helps. Maybe."
+			tasks: [{
+				consume_items: false
+				id: "645829C6CD1192F9"
+				item: "minecraft:axolotl_bucket"
+				only_from_crafting: false
+				title: "Objective: Befriend an Axolotl (catch it in a bucket)"
+				type: "item"
+			}]
+			title: "Find a Friend"
+			x: -6.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["7E1B2AC5CA87940C"]
+			hide_until_deps_complete: true
+			id: "785BD90E407A45A8"
+			rewards: [{
+				count: 3
+				id: "53998E3DDD3E0904"
+				item: "farmersdelight:smoked_ham"
+				type: "item"
+			}]
+			subtitle: "You make a Red Sleeping Bag next, hoping for some rest. But when you close your eyes, sleep does not come. Instead, you hear whispers. The watching eyes are still here. Staring. Waiting."
+			tasks: [{
+				consume_items: false
+				id: "6CC1E71E7A8DF0D9"
+				item: "comforts:sleeping_bag_red"
+				only_from_crafting: false
+				title: "Objective: Craft a Red Sleeping Bag"
+				type: "item"
+			}]
+			title: "Nomadic Rest"
+			x: -6.0d
+			y: -13.0d
+		}
+		{
+			dependencies: ["785BD90E407A45A8"]
+			hide_until_deps_complete: true
+			id: "2E173BE16998C707"
+			rewards: [{
+				id: "11E6EC58C01B3E6C"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			subtitle: "Hunger gnaws at you, and in desperation, you cook some Bat Meat over a fire. The smell is unsettling—almost metallic, almost... rotten. Still, you eat. But as you chew, the whispers grow louder. The darkness is closing in again. Something knows you’re here. And it’s hungry too."
+			tasks: [{
+				consume_items: false
+				count: 3L
+				id: "4B141FF464BB2457"
+				item: { Count: 3, id: "dropthemeat:cooked_bat" }
+				only_from_crafting: false
+				title: "Objective: Cook 3x Bat Meat"
+				type: "item"
+			}]
+			title: "Unholy Feast"
+			x: -6.0d
+			y: -15.0d
+		}
+	]
+	subtitle: ["Chapter 4 contains 18 Normal Quests, 3 Secret Quests and a Secret Quest Road with 5 Quests!"]
+	title: "Whispers of the Abyss [Chapter 4]"
+}

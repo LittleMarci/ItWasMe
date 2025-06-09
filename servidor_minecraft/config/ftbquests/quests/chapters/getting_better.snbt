@@ -1,0 +1,779 @@
+{
+	autofocus_id: "27019A7FF1DA23DC"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "getting_better"
+	group: ""
+	icon: { Count: 2, id: "minecraft:yellow_concrete_powder" }
+	id: "5CE5EDA0B5886B55"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["27019A7FF1DA23DC"]
+			hide_until_deps_complete: true
+			id: "4C028F13F52AE20D"
+			rewards: [{
+				count: 3
+				id: "3E4A63B4E16ABFBA"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			shape: "circle"
+			size: 1.0d
+			subtitle: "The iron pickaxe felt heavy in your hands—a symbol of progress and a tool for unlocking the earth's deeper secrets. With it, you could tear into the harder stone below, revealing treasures long hidden."
+			tasks: [{
+				consume_items: false
+				id: "2B6FB57EA9B3B906"
+				item: {
+					Count: 1
+					id: "minecraft:iron_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				only_from_crafting: false
+				title: "Objective: Craft an iron pickaxe"
+				type: "item"
+			}]
+			title: "Tools of Progress"
+			x: -8.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["397C840919B76779"]
+			hide_until_deps_complete: true
+			id: "7A51903B64DF6BC7"
+			rewards: [
+				{
+					id: "048975F8882CE8F1"
+					item: "farmersdelight:noodle_soup"
+					type: "item"
+				}
+				{
+					id: "782CD2F02C3E9074"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+			]
+			subtitle: "Then you saw it—a flicker of blue light in the gloom. A diamond, glittering like a promise of hope. But was it a gift or a trap?"
+			tasks: [{
+				consume_items: false
+				id: "3ED4507BB2627FE0"
+				item: "minecraft:diamond"
+				only_from_crafting: false
+				title: "Objective: Get 1 Diamond"
+				type: "item"
+			}]
+			title: "A Shimmer in the Dark"
+			x: -6.5d
+			y: -8.5d
+		}
+		{
+			dependencies: ["7A51903B64DF6BC7"]
+			hide_until_deps_complete: true
+			id: "7FC62490A4966A66"
+			rewards: [{
+				id: "3A5D431D66B6E391"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			subtitle: "With trembling hands, you forged your first diamond pickaxe—a tool worthy of the greatest miners. The possibilities felt endless. You were ready to face the hardest materials the world could offer."
+			tasks: [{
+				consume_items: false
+				id: "0EBEACA8D4439DAF"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				only_from_crafting: false
+				title: "Objective: Craft a Diamond Pickaxe"
+				type: "item"
+			}]
+			title: "The Pickaxe of Legends"
+			x: -5.0d
+			y: -10.5d
+		}
+		{
+			dependencies: ["7FC62490A4966A66"]
+			hide_until_deps_complete: true
+			id: "64B0BAFA3D2C33FD"
+			rewards: [{
+				count: 20
+				id: "583A62505A707EB7"
+				item: "minecraft:spectral_arrow"
+				type: "item"
+			}]
+			subtitle: "The deeper you dug, the more you sensed... something. The silence felt unnatural, too perfect. Then you found it—obsidian. Dark and smooth, almost unnatural in its texture. Obsidian was powerful, but breaking it was no easy task. With your diamond pickaxe, you began the slow process of gathering the strange, hard stone."
+			tasks: [{
+				consume_items: false
+				count: 10L
+				id: "58A879086857F9CC"
+				item: "minecraft:obsidian"
+				only_from_crafting: false
+				title: "Objective: Get 10 Obsidian"
+				type: "item"
+			}]
+			title: "Black as Night"
+			x: -5.0d
+			y: -12.5d
+		}
+		{
+			dependencies: ["4C028F13F52AE20D"]
+			hide_until_deps_complete: true
+			id: "397C840919B76779"
+			rewards: [
+				{
+					id: "3F874C631A099C60"
+					type: "xp"
+					xp: 25
+				}
+				{
+					id: "0651603FA3AE4D7B"
+					item: "minecraft:tnt"
+					type: "item"
+				}
+			]
+			subtitle: "You ventured deeper, past Y-level 0, into a land of dark stone—cobbled deepslate, dense and unyielding. The air was thick, the light dim. Beneath the weight of the world above, you carved out a path."
+			tasks: [{
+				consume_items: false
+				count: 64L
+				id: "0A518CDA2E3CB7B1"
+				item: "minecraft:cobbled_deepslate"
+				only_from_crafting: false
+				title: "Objective: Get 64 Cobbled Deepslate"
+				type: "item"
+			}]
+			title: "The Depths Below"
+			x: -8.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["64B0BAFA3D2C33FD"]
+			hide_until_deps_complete: true
+			id: "236C2D3A8FEA3D67"
+			rewards: [
+				{
+					count: 3
+					id: "107FC0AEFD18CD63"
+					item: "minecraft:book"
+					type: "item"
+				}
+				{
+					id: "2BFD43303D42AF61"
+					type: "xp"
+					xp: 10
+				}
+			]
+			subtitle: "You combined the obsidian with diamonds and a single book. Suddenly, you felt a surge of energy—the enchanting table thrummed with arcane power."
+			tasks: [{
+				consume_items: false
+				id: "6C8487F713596F2C"
+				item: "minecraft:enchanting_table"
+				only_from_crafting: false
+				title: "Objective: Craft an Enchanting Table"
+				type: "item"
+			}]
+			title: "A Whisper of Power"
+			x: -5.0d
+			y: -14.5d
+		}
+		{
+			dependencies: [
+				"7A51903B64DF6BC7"
+				"236C2D3A8FEA3D67"
+			]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "minecraft:diamond_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "1101004B2F097B09"
+			rewards: [
+				{
+					count: 2
+					id: "4216518B7B46C205"
+					item: "minecraft:diamond_ore"
+					type: "item"
+				}
+				{
+					id: "2C5478F0C98CC806"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "14C9323FC0A6B51E"
+					item: {
+						Count: 1
+						id: "minecraft:potion"
+						tag: {
+							Potion: "minecraft:regeneration"
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Armed with magic and reinforced by diamonds, you started to feel... almost invincible. But deep down, you knew it woudn't be enough. Not yet. You gathered more diamonds, forging them into armor—each piece a shield against the horrors lurking in the shadows."
+			tasks: [
+				{
+					consume_items: false
+					id: "26BBA8BB28B24ABA"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					only_from_crafting: false
+					title: "Objective 1: Craft a Diamond Helmet"
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "37C45BE72392E2AA"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					only_from_crafting: false
+					title: "Objective 2: Craft a Diamond Chestplate"
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "7EDE0D1BC3DD4768"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					only_from_crafting: false
+					title: "Objective 3: Craft Diamond Leggings"
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6F33D518A5E9A0F8"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					only_from_crafting: false
+					title: "Objective 4: Craft Diamond Boots"
+					type: "item"
+				}
+			]
+			title: "Suit Up"
+			x: -8.0d
+			y: -10.5d
+		}
+		{
+			dependencies: ["1101004B2F097B09"]
+			hide_until_deps_complete: true
+			id: "52A13604C2A6B8E0"
+			rewards: [
+				{
+					id: "1875DE9BE378F3A9"
+					item: "farmersrespite:rose_hip_pie"
+					type: "item"
+				}
+				{
+					id: "0373FC9F4B0EA306"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "4ED360C08A8DEABF"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:looting"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Your simple sword was no longer enough. You crafted a diamond longsword, its edge sharper and deadlier than anything you had wielded before."
+			tasks: [{
+				consume_items: false
+				id: "31BB286073BE6364"
+				item: {
+					Count: 1
+					id: "dixtas_armory:diamond_longsword"
+					tag: {
+						Damage: 0
+					}
+				}
+				only_from_crafting: false
+				title: "Objective: Craft a Diamond Longsword"
+				type: "item"
+			}]
+			title: "Blade of Precision"
+			x: -8.0d
+			y: -12.5d
+		}
+		{
+			dependencies: ["27019A7FF1DA23DC"]
+			description: ["Completing this quest unlocks a Secret Quest in Chapter 3."]
+			id: "310A2C77D4C016D8"
+			invisible: true
+			rewards: [{
+				id: "59A625F81914C580"
+				item: "minecraft:enchanted_golden_apple"
+				type: "item"
+			}]
+			subtitle: "Among your experiments with diamond weapons, you crafted a diamond battle axe—slower than a sword, but devastating in its power."
+			tasks: [{
+				consume_items: false
+				id: "1087C00082EA806D"
+				item: {
+					Count: 1
+					id: "dixtas_armory:diamond_battle_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				only_from_crafting: false
+				title: "Objective: Craft a Diamond Battle Axe"
+				type: "item"
+			}]
+			title: "Secret Quest: The Axe of Destruction"
+			x: -10.5d
+			y: -4.5d
+		}
+		{
+			dependencies: [
+				"236C2D3A8FEA3D67"
+				"2FEA2648662A52A6"
+			]
+			hide_until_deps_complete: true
+			id: "3D958D214F74E36B"
+			rewards: [
+				{
+					id: "3901F9594823A8DB"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:sharpness"
+								lvl: 3s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "06C36B9CB463357A"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:efficiency"
+								lvl: 3s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "You placed your weapon on the enchanting table, offering it to the strange, glowing runes. It whispered promises of power. You accepted."
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "minecraft:enchanted_book"
+					tag: {
+						StoredEnchantments: [{
+							id: "minecraft:protection"
+							lvl: 4s
+						}]
+					}
+				}
+				id: "3DBBDDB927EF235B"
+				stat: "minecraft:enchant_item"
+				title: "Objective: Enchant an Item"
+				type: "stat"
+				value: 1
+			}]
+			title: "The First Enchantment"
+			x: -3.5d
+			y: -16.0d
+		}
+		{
+			dependencies: ["397C840919B76779"]
+			hide_until_deps_complete: true
+			id: "01F662E05E248681"
+			rewards: [
+				{
+					count: 2
+					id: "0CEEEB48D6E24277"
+					item: "minecraft:cooked_rabbit"
+					type: "item"
+				}
+				{
+					id: "00E545FB9D38A178"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					count: 8
+					id: "56C6669C011D6A0A"
+					item: "minecraft:oak_log"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "0A7945EECDD56BAE"
+					item: "minecraft:iron_ingot"
+					type: "item"
+				}
+			]
+			subtitle: "In your search for resources, you stumbled upon an abandoned mineshaft. The wooden beams groaned under the weight of the earth. You were not alone down here."
+			tasks: [{
+				icon: "minecraft:chest_minecart"
+				id: "7DA658FC3CC329E3"
+				structure: "minecraft:mineshaft"
+				title: "Objective: Find an Abandoned Mineshaft"
+				type: "structure"
+			}]
+			title: "Ghost of the Past"
+			x: -10.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["27019A7FF1DA23DC"]
+			description: ["Completing this quest unlocks a Secret Quest in Chapter 3."]
+			id: "748B04628CA2AFE6"
+			invisible: true
+			rewards: [
+				{
+					count: 2
+					id: "56DE28948E8E9192"
+					item: "minecraft:pumpkin_seeds"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "1B52D1BBC9AFBBB0"
+					item: "minecraft:melon_seeds"
+					type: "item"
+				}
+				{
+					id: "2A0D60364DBA5ABA"
+					item: "minecraft:name_tag"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "19F981B89A209087"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+			]
+			subtitle: "For some, farming was a way of life. For you, it became an obsession. You crafted a diamond hoe, preparing to turn the earth into your ally."
+			tasks: [{
+				consume_items: false
+				id: "629975349DD20156"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				only_from_crafting: false
+				title: "Objective: Craft a Diamond Hoe"
+				type: "item"
+			}]
+			title: "Secret Quest: Master of the Fields"
+			x: -5.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["236C2D3A8FEA3D67"]
+			hide_until_deps_complete: true
+			id: "2FEA2648662A52A6"
+			rewards: [
+				{
+					id: "0F6A974C89D72288"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					count: 4
+					id: "4B052EC381B0B223"
+					item: "minecraft:gold_ingot"
+					type: "item"
+				}
+			]
+			subtitle: "Without lapis, the enchanting table was nothing more than a relic. You needed to seek it out."
+			tasks: [{
+				consume_items: false
+				count: 16L
+				id: "7D5EA565BA665A9E"
+				item: "minecraft:lapis_lazuli"
+				only_from_crafting: false
+				title: "Objective: Get 16 Lapis Lazuli"
+				type: "item"
+			}]
+			title: "The Key to Enchantment"
+			x: -6.5d
+			y: -16.0d
+		}
+		{
+			dependencies: [
+				"7A51903B64DF6BC7"
+				"01F662E05E248681"
+			]
+			hide_until_deps_complete: true
+			id: "3040B6759BEEADB7"
+			rewards: [{
+				icon: "minecraft:ender_chest"
+				id: "374AA12B1D512BDE"
+				table_id: 3600346670507867016L
+				type: "random"
+			}]
+			subtitle: "Deeper still, you reached the Deep Dark biome. The air grew colder, the ground covered in a strange blue substance—sculk. Far in the distance, you saw the towering ruins of an Ancient City, a place filled with treasures... and something far worse."
+			tasks: [{
+				icon: "minecraft:sculk_shrieker"
+				id: "1751AB22BA163B2F"
+				structure: "minecraft:ancient_city"
+				title: "Objective: Find an Ancient City"
+				type: "structure"
+			}]
+			title: "The Heart of Darkness"
+			x: -11.0d
+			y: -10.5d
+		}
+		{
+			dependencies: ["52A13604C2A6B8E0"]
+			hide_until_deps_complete: true
+			icon: { Count: 3, id: "minecraft:orange_concrete_powder" }
+			id: "6E477B7D795D82D5"
+			rewards: [{
+				auto: "enabled"
+				description: ""
+				icon: { Count: 3, id: "minecraft:orange_concrete_powder" }
+				id: "12498EC5BF05E3E8"
+				title: "You can now start with Chapter 3 quests!"
+				type: "toast"
+			}]
+			shape: "square"
+			size: 1.5d
+			subtitle: "The deeper you ventured, the more the world seemed to turn against you. The shadows grew darker. The whispers became louder. But you pressed on, determined to conquer whatever lay ahead. Chapter 3 awaited—if you survived long enough to reach it."
+			tasks: [{
+				icon: { Count: 3, id: "minecraft:orange_concrete_powder" }
+				id: "2563066060BF4C8F"
+				stat: "minecraft:play_time"
+				title: "Chapter 3 is now available!"
+				type: "stat"
+				value: 1
+			}]
+			x: -8.0d
+			y: -14.5d
+		}
+		{
+			dependencies: ["3E7E5C8553E55A1A"]
+			hide_until_deps_complete: true
+			id: "27019A7FF1DA23DC"
+			rewards: [{
+				auto: "enabled"
+				description: ""
+				icon: { Count: 2, id: "minecraft:yellow_concrete_powder" }
+				id: "28747C2E51EF8B86"
+				title: "Welcome to Chapter 2!"
+				type: "toast"
+			}]
+			shape: "square"
+			size: 1.5d
+			subtitle: "The false comfort of your early survival faded quickly. The world grew darker, colder, and far more dangerous. With each step forward, you felt the earth beneath your feet changing—pulling you deeper into the unknown. Your instincts told you to turn back, but curiosity drove you onward."
+			tasks: [{
+				icon: { Count: 2, id: "minecraft:yellow_concrete_powder" }
+				id: "589BF12137477C73"
+				stat: "minecraft:play_time"
+				title: "Chapter 2 is now unlocked!"
+				type: "stat"
+				value: 1
+			}]
+			title: "Welcome to Chapter 2 of Cave Horror Project!"
+			x: -8.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7A51903B64DF6BC7"]
+			hide_until_deps_complete: true
+			id: "47FF5B68EAFEE400"
+			rewards: [
+				{
+					count: 16
+					id: "00F53973032B4C1A"
+					item: "minecraft:spectral_arrow"
+					type: "item"
+				}
+				{
+					id: "14344F6E9AC59910"
+					item: "alexsmobs:cooked_catfish"
+					type: "item"
+				}
+			]
+			subtitle: "The wooden door you had was flimsy, barely a barrier against whatever lurked in the night. With trembling hands, you forged an iron door, its cold surface bringing little comfort but offering a stronger defense. As you set it in place, you swore you heard something on the other side—scratching, faint breathing—but when you peeked through a crack, nothing was there."
+			tasks: [{
+				consume_items: false
+				id: "3B96DD07A4EBFE20"
+				item: "minecraft:iron_door"
+				only_from_crafting: false
+				title: "Objective: Craft an Iron Door"
+				type: "item"
+			}]
+			title: "Locked Away"
+			x: -3.5d
+			y: -8.5d
+		}
+		{
+			dependencies: ["47FF5B68EAFEE400"]
+			hide_until_deps_complete: true
+			id: "63367EA19F61A8F8"
+			rewards: [
+				{
+					count: 2
+					id: "67A546FF235BE335"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+				{
+					id: "4EB63C7FD8EE11E9"
+					item: "minecraft:ender_chest"
+					type: "item"
+				}
+			]
+			subtitle: "You ventured deeper into the caves, the torchlight flickering against jagged stone. After what felt like hours, your pickaxe struck something precious—diamond ore, gleaming like a trapped star. But as you collected it, a distant wail echoed through the cavern, sending a shiver down your spine. Were you truly alone?"
+			tasks: [{
+				consume_items: false
+				id: "1F947756E25FFE80"
+				item: "minecraft:diamond_ore"
+				only_from_crafting: false
+				title: "Objective: Obtain a Diamond Ore"
+				type: "item"
+			}]
+			title: "Shining in the Dark"
+			x: -2.0d
+			y: -10.5d
+		}
+		{
+			dependencies: ["63367EA19F61A8F8"]
+			hide_until_deps_complete: true
+			id: "77744D78F178CEDE"
+			rewards: [
+				{
+					id: "6133F31170B3F2F5"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					id: "1886AFC349A47868"
+					item: "refurbished_furniture:oak_drawer"
+					type: "item"
+				}
+			]
+			subtitle: "The caves weren’t empty. Bats fluttered wildly, their chaotic movements unsettling in the dim light. Their squeaks were almost... unnatural. One of them dived too close, and instinct took over. With a quick strike, it fell lifeless to the ground. But as it did, you swore its final shriek sounded like a whisper—something spoken in a voice that wasn’t yours."
+			tasks: [{
+				entity: "minecraft:bat"
+				id: "01F1FB8E1B8DA8E6"
+				title: "Objective: Kill 1x Bat"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Silent Wings, Dark Whispers"
+			x: -2.0d
+			y: -12.5d
+		}
+		{
+			dependencies: ["77744D78F178CEDE"]
+			hide_until_deps_complete: true
+			id: "0611E769E0854D3D"
+			rewards: [{
+				count: 21
+				id: "71A9A3E90029E479"
+				item: "minecraft:paper"
+				type: "item"
+			}]
+			subtitle: "The road to civilization was long and treacherous, but you finally reached a village. It was a quiet, eerie place—too quiet. The villagers stared at you with empty expressions, their trades conducted in silence. Something was off. One of them handed you an item without asking for anything in return, their hand trembling slightly. Before you could question it, they hurried away, glancing nervously at the surrounding darkness."
+			tasks: [{
+				advancement: "minecraft:adventure/trade"
+				criterion: ""
+				id: "3805B210AF57654B"
+				title: "Objective: Trade with a Villager"
+				type: "advancement"
+			}]
+			title: "A Deal with the Living"
+			x: -2.0d
+			y: -14.5d
+		}
+		{
+			dependencies: ["0611E769E0854D3D"]
+			hide_until_deps_complete: true
+			icon: "minecraft:campfire"
+			id: "370E2A38F76CA1FD"
+			rewards: [
+				{
+					id: "3825EDD47852A7E2"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					id: "7C196EDA781812BF"
+					item: "refurbished_furniture:dark_oak_storage_jar"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "1FB04B31363B8922"
+					item: "farmersrespite:strong_green_tea"
+					type: "item"
+				}
+			]
+			subtitle: "A strange path led you into the forest, where you stumbled upon an abandoned campsite. The fire was still smoldering, yet no one was there. Torn tents, claw marks on the trees—something had been here, and it hadn’t left peacefully.Further ahead, you found it. A house, old and decayed, standing alone among the trees. The windows were broken, the door slightly ajar. A single candle flickered inside, casting moving shadows that didn’t match the stillness of the room. As you stepped closer, the air grew heavier, the cold biting into your skin. You weren’t sure if you should enter, but something was drawing you in—something that had been waiting."
+			tasks: [
+				{
+					icon: "minecraft:campfire"
+					id: "345E0CDF8BC350E0"
+					structure: "spooky_campsite:spooky_campsite"
+					title: "Objective: Find a Spooky Campsite"
+					type: "structure"
+				}
+				{
+					icon: "graveyard:leaning_skeleton"
+					id: "74274C3DF62209DF"
+					structure: "haunted_house:haunted_house"
+					title: "Objective: Find a Haunted House"
+					type: "structure"
+				}
+			]
+			title: "Remnants of the Cursed"
+			x: -2.0d
+			y: -16.5d
+		}
+	]
+	subtitle: ["Chapter 2 contains 17 Normal Quests and 2 Secret Quests!"]
+	title: "Into the Deep [Chapter 2]"
+}

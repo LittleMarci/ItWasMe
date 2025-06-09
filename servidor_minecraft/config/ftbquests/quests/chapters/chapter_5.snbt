@@ -1,0 +1,875 @@
+{
+	autofocus_id: "40749FF809ABE206"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chapter_5"
+	group: ""
+	icon: { Count: 5, id: "minecraft:magenta_concrete_powder" }
+	id: "20B8460191FB75CD"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["40749FF809ABE206"]
+			description: ["&o\"Without power, without tools, you are nothing in the dark.\"&r"]
+			hide_until_deps_complete: true
+			icon: "refurbished_furniture:wrench"
+			id: "61C1614B91A242D0"
+			rewards: [
+				{
+					id: "174CAEAF4D47740B"
+					type: "xp"
+					xp: 5
+				}
+				{
+					count: 16
+					id: "6A6A42F8813FF866"
+					item: "minecraft:iron_ingot"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "692FC439000D8D9C"
+					item: "minecraft:redstone"
+					type: "item"
+				}
+			]
+			subtitle: "You realize your survival depends on building new defenses. With trembling hands, you craft a Workbench, a Light Electricity Generator, and a Wrench to power them. For a brief moment, your shelter hums to life with soft energy... but deep down, you know no amount of light can reach the darkness clawing its way closer."
+			tasks: [
+				{
+					consume_items: false
+					id: "216C7CF1E7F4D293"
+					item: "refurbished_furniture:workbench"
+					only_from_crafting: false
+					title: "Objective 1: Craft a Workbench"
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "53B38B3B2A89E181"
+					item: "refurbished_furniture:light_electricity_generator"
+					only_from_crafting: false
+					title: "Objective 2: Craft a Light Electricity Generator"
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "644F7F77F99140BC"
+					item: "refurbished_furniture:wrench"
+					only_from_crafting: false
+					title: "Objective 3: Craft a Wrench"
+					type: "item"
+				}
+			]
+			title: "First Sparks of Survival"
+			x: -1.0d
+			y: -33.0d
+		}
+		{
+			dependencies: ["61C1614B91A242D0"]
+			description: ["&o\"When the walls close in, a whisper of cold air keeps your mind intact.\"&r"]
+			hide_until_deps_complete: true
+			id: "6E1D6DF7A14E1631"
+			rewards: [
+				{
+					count: 5
+					id: "1DEDCEEADFB7A7F2"
+					item: "minecraft:cooked_chicken"
+					type: "item"
+				}
+				{
+					id: "252D2AC5CC91974B"
+					item: "refurbished_furniture:light_lightswitch"
+					type: "item"
+				}
+			]
+			subtitle: "Seeking some illusion of comfort, you install a Light Ceiling Fan, hoping its rhythmic turning will calm your frayed nerves. But the blades only seem to stir the shadows into forms you don't want to recognize."
+			tasks: [{
+				consume_items: false
+				id: "5C04C43975B6C314"
+				item: "refurbished_furniture:oak_light_ceiling_fan"
+				match_nbt: false
+				only_from_crafting: false
+				title: "Objective: Craft a Light Ceiling Fan"
+				type: "item"
+			}]
+			title: "Cold Breath of Sanity"
+			x: -1.0d
+			y: -35.0d
+		}
+		{
+			dependencies: ["40749FF809ABE206"]
+			description: ["&o\"It watches... waiting for the wrong touch. Harvest carefully.\"&r"]
+			hide_until_deps_complete: true
+			id: "4FC8DEF8FB725CCC"
+			rewards: [
+				{
+					count: 8
+					id: "37A3FCC475C6D236"
+					item: "minecraft:string"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "6D712B54872926B9"
+					item: "minecraft:cobweb"
+					type: "item"
+				}
+			]
+			subtitle: "Then, you stumble across a grotesque horror — a Spider Egg, pulsating with faint life. Carefully, you extract it with Silk Touch, feeling its warmth pulse against your skin. Something inside stirs, waiting. Watching."
+			tasks: [{
+				consume_items: false
+				id: "30D42041BABBD838"
+				item: "biomesoplenty:spider_egg"
+				only_from_crafting: false
+				title: "Objective: Obtain a Spider Egg"
+				type: "item"
+			}]
+			title: "The Spider's Cradle"
+			x: 1.0d
+			y: -33.0d
+		}
+		{
+			dependencies: ["74FA3ED2B819D929"]
+			description: ["&o\"Capture the howling remains and turn them into a weapon against the unknown.\"&r"]
+			hide_until_deps_complete: true
+			icon: "born_in_chaos_v1:phantom_bomb"
+			id: "73DEEBCCA14C51A2"
+			rewards: [
+				{
+					count: 2
+					id: "4271A55616C3CB45"
+					item: "born_in_chaos_v1:phantom_bomb"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "5959EEF796B95223"
+					item: "minecraft:gunpowder"
+					type: "item"
+				}
+			]
+			subtitle: "You kill it — barely — and from its remains, you craft a Phantom Bomb, a weapon made from unnatural matter that feels... wrong in your hands."
+			tasks: [
+				{
+					consume_items: false
+					id: "473D2716C4E64B65"
+					item: "born_in_chaos_v1:phantom_powder"
+					only_from_crafting: false
+					title: "Objective: Obtain Phantom Powder"
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "71AB6A1CBBF15F16"
+					item: "born_in_chaos_v1:phantom_bomb"
+					only_from_crafting: false
+					title: "Objective: Craft a Phantom Bomb"
+					type: "item"
+				}
+			]
+			title: "Weapon of the Damned"
+			x: 3.0d
+			y: -38.0d
+		}
+		{
+			dependencies: ["5033308D94C41DBF"]
+			description: ["&o\"It comes without warning. Death, sudden and unseen.\"&r"]
+			hide_until_deps_complete: true
+			icon: "born_in_chaos_v1:phantom_creeper_spawn_egg"
+			id: "74FA3ED2B819D929"
+			rewards: [{
+				exclude_from_claim_all: true
+				icon: "minecraft:ender_chest"
+				id: "05AC1F1A00C8DA37"
+				table_id: 3172504193309197598L
+				type: "choice"
+			}]
+			subtitle: "The silence is broken by a distant, distorted screech. You turn just in time to see a Phantom Creeper, phasing between existence like a ghostly bomb."
+			tasks: [{
+				entity: "born_in_chaos_v1:phantom_creeper_copy"
+				id: "06865A9F901B22B2"
+				title: "Objective: Kill 1x Phantom Creeper"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Ghosts That Creep"
+			x: 3.0d
+			y: -36.0d
+		}
+		{
+			dependencies: ["4FC8DEF8FB725CCC"]
+			description: ["&o\"The earth writhes with unseen mouths. Find their nest.\"&r"]
+			hide_until_deps_complete: true
+			id: "5033308D94C41DBF"
+			rewards: [
+				{
+					count: 16
+					id: "5BB45352A57BF622"
+					item: "minecraft:dirt"
+					type: "item"
+				}
+				{
+					id: "5C43457A56216905"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			subtitle: "The air shudders with each step you take, as if reality itself weakens."
+			tasks: [{
+				id: "3BDEA140FD63498E"
+				structure: "arphex:termite_hill"
+				title: "Objective: Locate a Termite Hill"
+				type: "structure"
+			}]
+			title: "The Hive Beneath"
+			x: 1.0d
+			y: -35.0d
+		}
+		{
+			dependencies: ["5033308D94C41DBF"]
+			description: ["&o\"Crush the workers, and you weaken the hive's heart.\"&r"]
+			hide_until_deps_complete: true
+			icon: "arphex:termite_tunneler_worker_spawn_egg"
+			id: "73473C45292D1553"
+			rewards: [
+				{
+					count: 3
+					id: "23F9FD0E0FB71C05"
+					item: "arphex:chitin"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "0AB24AF529AEF101"
+					item: "arphex:giant_spinneret"
+					type: "item"
+				}
+			]
+			subtitle: "You follow tunnels underground and discover a Termite Hill, swarming with Tunneler Workers. Their grotesque mandibles snap hungrily at your legs as you fight them off."
+			tasks: [{
+				entity: "arphex:termite_tunneler_worker"
+				id: "02885588978EB004"
+				title: "Objective: Kill 3x Termite Tunneler Worker"
+				type: "kill"
+				value: 3L
+			}]
+			title: "Culling the Workers"
+			x: 1.0d
+			y: -37.0d
+		}
+		{
+			dependencies: ["73473C45292D1553"]
+			description: ["&o\"Buried deep, she rules with rot and madness. Find her. End her.\"&r"]
+			hide_until_deps_complete: true
+			icon: "arphex:termite_tunneler_queen_spawn_egg"
+			id: "54EAE15D18CD42F0"
+			rewards: [
+				{
+					count: 2
+					id: "3CE5AB43026E30C8"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "58550E3FDE5A34B7"
+					item: "born_in_chaos_v1:dark_metal_ingot"
+					type: "item"
+				}
+			]
+			subtitle: "Deep beneath the mound, their Queen awaits — a grotesque, bloated creature fused with earth and decay. You slay her, and the ground itself seems to groan in pain."
+			tasks: [{
+				entity: "arphex:termite_tunneler_queen"
+				id: "46975DBBA66F5099"
+				title: "Objective: Kill a Termite Tunneler Queen!"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Queen of Rot and Earth"
+			x: 1.0d
+			y: -39.0d
+		}
+		{
+			dependencies: ["54EAE15D18CD42F0"]
+			description: ["&o\"With every strike, carve your escape from the nightmare.\"&r"]
+			hide_until_deps_complete: true
+			id: "213EF3AD1D741B8B"
+			rewards: [
+				{
+					id: "6085F463AFF257D1"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:efficiency"
+								lvl: 3s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "687FA7A79F816024"
+					type: "xp"
+					xp: 20
+				}
+			]
+			subtitle: "Her death unlocks ancient technology lost in time: a blueprint for the Tectonic Tunneler, a mighty pickaxe capable of carving tunnels like claws raking flesh."
+			tasks: [{
+				consume_items: false
+				id: "3C12EF8A68D7CAFA"
+				item: {
+					Count: 1
+					id: "arphex:tectonic_tunneler"
+					tag: {
+						Damage: 0
+					}
+				}
+				only_from_crafting: false
+				title: "Objective: Craft a Tectonic Tunneler"
+				type: "item"
+			}]
+			title: "Tectonic Awakening"
+			x: 1.0d
+			y: -41.0d
+		}
+		{
+			dependencies: ["213EF3AD1D741B8B"]
+			description: ["&o\"Shape the darkness itself into a weapon. Only then can you go deeper.\"&r"]
+			hide_until_deps_complete: true
+			id: "10044121346BA083"
+			rewards: [
+				{
+					id: "2ED7B0328DC87EB7"
+					item: "minecraft:netherite_ingot"
+					type: "item"
+				}
+				{
+					count: 8
+					id: "68B66401875A105D"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+			]
+			subtitle: "But it isn't enough. You forge it further into an Abyssal Pickaxe, feeling it hum with a hunger that mirrors your own growing madness."
+			tasks: [{
+				consume_items: false
+				id: "29A0DD2C8BAED868"
+				item: "arphex:abyssal_pickaxe"
+				only_from_crafting: false
+				type: "item"
+			}]
+			title: "Abyssal Descent"
+			x: 1.0d
+			y: -43.0d
+		}
+		{
+			dependencies: ["73DEEBCCA14C51A2"]
+			description: ["&o\"Carve a smile where there should be none.\"&r"]
+			hide_until_deps_complete: true
+			id: "0E16285BB612A28F"
+			rewards: [
+				{
+					id: "027F797774E28F05"
+					item: "minecraft:carved_pumpkin"
+					type: "item"
+				}
+				{
+					id: "198A3010DCC38DCB"
+					item: "born_in_chaos_v1:evil_carved_pumpkin"
+					type: "item"
+				}
+			]
+			subtitle: "The nights worsen. You carve a Black Carved Pumpkin, its eyes almost seeming to bleed darkness into the floor."
+			tasks: [{
+				consume_items: false
+				id: "49B80E5ED428F3C3"
+				item: "ls_djl:black_carved_pumpkin"
+				only_from_crafting: false
+				title: "Objective: Craft a Black Carved Pumpkin"
+				type: "item"
+			}]
+			title: "The Blackened Gourd"
+			x: 3.0d
+			y: -40.0d
+		}
+		{
+			dependencies: ["74FA3ED2B819D929"]
+			description: ["&o\"They lived. Now they feed you.\"&r"]
+			hide_until_deps_complete: true
+			icon: "dropthemeat:cooked_villager"
+			id: "01735ACE9192A0DA"
+			rewards: [
+				{
+					count: 5
+					id: "5C34B9E95D60338F"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "4F662EE08182E99B"
+					item: {
+						Count: 1
+						id: "minecraft:potion"
+						tag: {
+							Potion: "minecraft:invisibility"
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "You fall upon villagers next — friends you once traded with — now, driven by whispers, you harvest their Noses and Cooked Flesh, feeling your morality slip like sand between your fingers."
+			tasks: [
+				{
+					consume_items: false
+					count: 2L
+					id: "4A9FBD9B3E9A7EBD"
+					item: "dropthemeat:villager_nose"
+					only_from_crafting: false
+					title: "Objective: Obtain 2x Villager Nose"
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					id: "4888CF1FFB65D101"
+					item: "dropthemeat:cooked_villager"
+					only_from_crafting: false
+					title: "Objective: Obtain 4x Cooked Villager"
+					type: "item"
+				}
+			]
+			title: "Harvest of the Cursed"
+			x: 5.0d
+			y: -37.0d
+		}
+		{
+			dependencies: ["6E1D6DF7A14E1631"]
+			description: ["&o\"Walls can crumble... or they can stand unbroken.\"&r"]
+			hide_until_deps_complete: true
+			id: "7AB415F4EDC1A9F0"
+			rewards: [{
+				count: 8
+				id: "72FBE30D310E86C8"
+				item: "securitycraft:reinforced_stone"
+				type: "item"
+			}]
+			subtitle: "Your shelter transforms into a fortress of dread. You can no longer rely on mere walls; with trembling hands, you use the Universal Block Reinforcer to seal every surface, every crack, every weak point. Yet even stone and metal seem fragile under the weight of the fear that stalks you."
+			tasks: [{
+				consume_items: false
+				id: "7D85B484A93A0534"
+				item: {
+					Count: 1
+					id: "securitycraft:universal_block_reinforcer_lvl1"
+					tag: {
+						Damage: 0
+					}
+				}
+				only_from_crafting: false
+				title: "Objective: Craft a LvL1 Universal Block Reinforcer"
+				type: "item"
+			}]
+			title: "Defender's Gambit"
+			x: -1.0d
+			y: -37.0d
+		}
+		{
+			dependencies: ["7AB415F4EDC1A9F0"]
+			description: ["&o\"What you cannot see can still be watched. Build your own eyes.\"&r"]
+			hide_until_deps_complete: true
+			id: "20E687D3E11A3501"
+			rewards: [
+				{
+					count: 4
+					id: "1B6634A1B2CBF066"
+					item: "minecraft:repeater"
+					type: "item"
+				}
+				{
+					id: "29394C7814132D47"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			subtitle: "You install a Camera Monitor and rig up Security Cameras across every hallway and entrance. But they offer no comfort — only horror."
+			tasks: [{
+				consume_items: false
+				id: "4062BD61E582C64A"
+				item: "securitycraft:camera_monitor"
+				only_from_crafting: false
+				title: "Objective: Craft a Camera Monitor"
+				type: "item"
+			}]
+			title: "Watching Through the Static"
+			x: -1.0d
+			y: -39.0d
+		}
+		{
+			dependencies: ["20E687D3E11A3501"]
+			description: ["&o\"Fix your gaze upon the blind corners of your nightmare.\"&r"]
+			hide_until_deps_complete: true
+			id: "7CCF94F3DBB15F38"
+			rewards: [
+				{
+					count: 2
+					id: "54F713FC176462EE"
+					item: "securitycraft:security_camera"
+					type: "item"
+				}
+				{
+					id: "519599226B2937D7"
+					type: "xp"
+					xp: 25
+				}
+			]
+			subtitle: "The screens flicker with static, showing brief, distorted glimpses: hulking shapes crawling just out of sight, shifting shadows too massive to belong to anything human. Every creak of the walls feels like a whisper against your spine. You realize the real terror is not what you see… it's what you almost see. It is not enough. It is never enough."
+			tasks: [{
+				consume_items: false
+				id: "7DA8ECEC06ECB4B8"
+				item: "securitycraft:security_camera"
+				only_from_crafting: false
+				title: "Objective: Craft a Security Camera"
+				type: "item"
+			}]
+			title: "Eyes in the Shadows"
+			x: -1.0d
+			y: -41.0d
+		}
+		{
+			dependencies: ["0E16285BB612A28F"]
+			description: ["&o\"When the body is too heavy to carry, it brings the ground down with it.\"&r"]
+			hide_until_deps_complete: true
+			icon: "undead_revamp2:theheavy_spawn_egg"
+			id: "0976C93E174C565B"
+			rewards: [
+				{
+					id: "5C6994CBF37ACCAA"
+					item: "minecraft:totem_of_undying"
+					type: "item"
+				}
+				{
+					id: "2989B15A2B07BA79"
+					item: {
+						Count: 1
+						id: "graveyard:bone_dagger"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "One night, as a heavy fog rolls in, you face The Heavy — a massive undead abomination that crashes through the mist."
+			tasks: [{
+				entity: "undead_revamp2:theheavy"
+				id: "6CF78C733FA80B5A"
+				title: "Objective: Kill 1x The Heavy"
+				type: "kill"
+				value: 1L
+			}]
+			title: "The Heavy Hunger"
+			x: 3.0d
+			y: -42.0d
+		}
+		{
+			dependencies: ["0976C93E174C565B"]
+			description: ["&o\"Cheat death... but know that every favor has its cost.\"&r"]
+			hide_until_deps_complete: true
+			id: "7A4AFC51F7A9728F"
+			rewards: [{
+				id: "49EB98926A886804"
+				item: "minecraft:enchanted_golden_apple"
+				type: "item"
+			}]
+			subtitle: "You fight tooth and nail, barely surviving, and in desperation, you craft the Death Totem — a cursed artifact that steals your hunger in exchange for saving your life."
+			tasks: [{
+				consume_items: false
+				id: "2057A0E8E1DB70F7"
+				item: "born_in_chaos_v1:death_totem"
+				only_from_crafting: false
+				title: "Objective: Craft a Death Totem"
+				type: "item"
+			}]
+			title: "Bargain of the Death Totem"
+			x: 3.0d
+			y: -44.5d
+		}
+		{
+			dependencies: [
+				"10044121346BA083"
+				"7A4AFC51F7A9728F"
+			]
+			dependency_requirement: "one_completed"
+			description: ["&o\"It does not cut flesh. It devours the very essence of life.\"&r"]
+			hide_until_deps_complete: true
+			id: "6EA92C730D7BCD6C"
+			rewards: [
+				{
+					id: "12B119E847EB3EBB"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:unbreaking"
+								lvl: 3s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6C1A412C4B380BCD"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+			subtitle: "You forge the Dark Warblade, a weapon as black as your dreams, and it throbs with the stolen souls of everything you’ve slain."
+			tasks: [{
+				consume_items: false
+				id: "2787631D3AE462AC"
+				item: {
+					Count: 1
+					id: "born_in_chaos_v1:darkwarblade"
+					tag: {
+						Damage: 0
+					}
+				}
+				only_from_crafting: false
+				title: "Objective: Craft a Dark Warblade"
+				type: "item"
+			}]
+			title: "Dark Warblade of the Enduring"
+			x: 0.0d
+			y: -46.0d
+		}
+		{
+			dependencies: ["6DA0849A9588C9FE"]
+			description: ["&o\"Lower, deeper, darker. Beneath the crust, monsters fester.\"&r"]
+			hide_until_deps_complete: true
+			id: "2E85CF5073D4B850"
+			rewards: [
+				{
+					id: "04835A806F55C3F0"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+				{
+					count: 2
+					id: "508A412AE5E90C6B"
+					item: "arphex:heavy_chitin"
+					type: "item"
+				}
+			]
+			subtitle: "Here, in the deep layers beneath the surface, you find it: an Arthropleura Abomination — a centipede larger than buildings, plated in nightmarish chitin. You fight, you bleed, you almost break."
+			tasks: [{
+				consume_items: false
+				id: "5CC62B6BC697118D"
+				item: "arphex:heavy_chitin"
+				only_from_crafting: false
+				title: "Objective: Obtain Heavy Chitin"
+				type: "item"
+			}]
+			title: "Chitin of the Abomination"
+			x: -1.0d
+			y: -50.5d
+		}
+		{
+			dependencies: ["2E85CF5073D4B850"]
+			description: ["&o\"Clad yourself in what the nightmare could not destroy.\"&r"]
+			hide_until_deps_complete: true
+			id: "15025B8FF9982F9F"
+			rewards: [
+				{
+					id: "0C1FB0AD9011ECF7"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:protection"
+								lvl: 4s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5D413F0D3F97D2DC"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:mending"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					icon: "minecraft:ender_chest"
+					id: "2C02CCE7EB44BA1E"
+					table_id: 5493175552888794680L
+					type: "random"
+				}
+			]
+			subtitle: "From its corpse, you extract Heavy Chitin — resilient, alien. With this, you forge the Juggernaut Chestplate, armor heavy enough to slow your heart, strong enough to bear the crushing weight of what is still to come."
+			tasks: [{
+				consume_items: false
+				id: "0E628B0D65174815"
+				item: "arphex:juggernaut_chestplate"
+				only_from_crafting: false
+				title: "Objective: Craft a Juggernaut Chestplate"
+				type: "item"
+			}]
+			title: "Juggernaut's Embrace"
+			x: -1.0d
+			y: -52.5d
+		}
+		{
+			dependencies: ["40749FF809ABE206"]
+			description: ["&o\"The darkness acknowledges your strength... To forge darkness is to invite it into your soul. Craft what should not exist.\"&r"]
+			id: "4227933E8B31B74C"
+			invisible: true
+			rewards: [{
+				id: "0A7E5F7C05348397"
+				item: "minecraft:enchanted_golden_apple"
+				type: "item"
+			}]
+			subtitle: "The Darkness knows your name now. It creeps closer with every breath you take. You feel it in the chill of the wind, hear it whisper behind crumbling walls. Only by forging weapons infused with its own cursed essence can you hope to resist its pull. Ten Banes, ten markers of your defiance — but also, ten invitations for what lurks beyond the black veil to find you faster. Are you prepared to become what you fear?"
+			tasks: [{
+				consume_items: false
+				count: 10L
+				id: "4F0310A5816DB7F9"
+				item: "arphex:bane_of_the_darkness"
+				only_from_crafting: false
+				title: "Objective: Craft 10x Bane Of The Darkness"
+				type: "item"
+			}]
+			title: "Bane of All Light"
+			x: -3.0d
+			y: -33.0d
+		}
+		{
+			dependencies: ["40749FF809ABE206"]
+			description: ["&o\"In the deepest waters, something broken watches... and waits. The waters fall silent... for now.\"&r"]
+			icon: "alexsmobs:blobfish"
+			id: "2BD4770C34D86E61"
+			invisible: true
+			rewards: [
+				{
+					count: 5
+					id: "7BEF67549990452F"
+					item: "refurbished_furniture:cooked_meatlovers_pizza"
+					type: "item"
+				}
+				{
+					id: "5DD2C60FD1B040E1"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+			]
+			subtitle: "In the rotting waterways and flooded caverns, something festers — a grotesque creature twisted beyond nature's design. It waits, a bloated mockery of life, its mouth stretching open beneath the stagnant surface. The Blobfish is more than it appears; it's a living omen, a harbinger of the drowned and forgotten. Find it. Slay it. But beware... for the water remembers those who disturb its ancient silence."
+			tasks: [{
+				entity: "alexsmobs:blobfish"
+				id: "75B42FBAD0A9795E"
+				title: "Objective: Kill 1x Blobfish"
+				type: "kill"
+				value: 1L
+			}]
+			title: "The Maw Beneath Still Waters"
+			x: 3.0d
+			y: -33.0d
+		}
+		{
+			dependencies: ["6EA92C730D7BCD6C"]
+			description: ["&o\"It pulls you where no sane soul would ever walk willingly.\"&r"]
+			hide_until_deps_complete: true
+			id: "6DA0849A9588C9FE"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					icon: "minecraft:ender_chest"
+					id: "631BAE647DB1F3F3"
+					table_id: 1384616004492253711L
+					type: "choice"
+				}
+				{
+					icon: "minecraft:ender_chest"
+					id: "7CE5E9DCA2D87F1F"
+					table_id: 3229567124906618931L
+					type: "random"
+				}
+			]
+			subtitle: "But then... the Compass begins to crawl. Literally. Twisting in your hands, it points the way to a place not meant for the living: the Crawling Castle. You cross into a new dimension — a place of absolute terror, where the sky is a heaving mass of tendrils and the ground pulses like breathing flesh."
+			tasks: [{
+				consume_items: false
+				id: "58453AE7350EB71C"
+				item: "arphex:crawling_compass"
+				only_from_crafting: false
+				title: "Objective: Craft a Crawling Compass"
+				type: "item"
+			}]
+			title: "Whispers of the Crawling Compass"
+			x: -1.0d
+			y: -48.0d
+		}
+		{
+			dependencies: ["2EC6F341E5D3B6D0"]
+			hide_until_deps_complete: true
+			id: "40749FF809ABE206"
+			rewards: [{
+				description: ""
+				icon: { Count: 5, id: "minecraft:magenta_concrete_powder" }
+				id: "67E7DF284E8FBB62"
+				title: "Welcome to Chapter 5!"
+				type: "toast"
+			}]
+			shape: "square"
+			size: 1.5d
+			subtitle: "The strange artifacts from the Pumpkin Spirit still whisper in your mind. Sleep is fleeting now — fractured by nightmares, by shapes in the walls that stretch closer each time you blink."
+			tasks: [{
+				icon: { Count: 5, id: "minecraft:magenta_concrete_powder" }
+				id: "048D45398D871FB9"
+				stat: "minecraft:play_time"
+				title: "Chapter 5 is now unlocked!"
+				type: "stat"
+				value: 1
+			}]
+			title: "Welcome to Chapter 5 of Cave Horror Project!"
+			x: 0.0d
+			y: -30.75d
+		}
+		{
+			dependencies: ["15025B8FF9982F9F"]
+			hide_until_deps_complete: true
+			id: "5D500DA6BB980544"
+			rewards: [{
+				description: ""
+				icon: { Count: 6, id: "minecraft:purple_concrete_powder" }
+				id: "5696D5378389E99A"
+				title: "Get ready for Chapter 6!"
+				type: "toast"
+			}]
+			shape: "square"
+			size: 1.5d
+			subtitle: "But deep beneath the Crawling Castle... Something stirs. Something watches. Something waits."
+			tasks: [{
+				icon: { Count: 6, id: "minecraft:purple_concrete_powder" }
+				id: "502D8979789F0763"
+				stat: "minecraft:play_time"
+				title: "Chapter 6 will be available soon!"
+				type: "stat"
+				value: 1
+			}]
+			x: -1.0d
+			y: -55.0d
+		}
+	]
+	subtitle: ["Chapter 5 contains 21 Normal Quests and 2 Secret Quests!"]
+	title: "Descent into the Crawling Madness [Chapter 5]"
+}

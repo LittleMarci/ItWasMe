@@ -1,0 +1,24 @@
+{
+	id: "4C3BAE0FAECBEE38"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{
+			type: "xp"
+			xp: 50
+		}
+		{
+			item: {
+				Count: 1
+				id: "minecraft:iron_pickaxe"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ count: 2, item: "minecraft:obsidian" }
+		{ count: 10, item: "minecraft:gold_ingot" }
+		{ count: 5, item: "minecraft:emerald" }
+	]
+	title: "loot_table 3"
+}

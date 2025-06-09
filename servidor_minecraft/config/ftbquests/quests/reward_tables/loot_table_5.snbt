@@ -1,0 +1,15 @@
+{
+	id: "7086F9D72F51E80B"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{ count: 3, item: "minecraft:diamond" }
+		{ item: "minecraft:netherite_scrap" }
+		{ count: 2, item: "minecraft:iron_block" }
+		{
+			type: "xp_levels"
+			xp_levels: 2
+		}
+	]
+	title: "loot_table 5"
+}

@@ -1,0 +1,919 @@
+{
+	autofocus_id: "62AA80CD55F8544C"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chapter_3"
+	group: ""
+	icon: { Count: 3, id: "minecraft:orange_concrete_powder" }
+	id: "3328E05D5D6EE0BD"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["62AA80CD55F8544C"]
+			hide_until_deps_complete: false
+			id: "4843C573186F6D19"
+			rewards: [{
+				id: "790B98F6490CD1AD"
+				item: {
+					Count: 1
+					id: "minecraft:golden_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "The portal hums ominously behind you, the only link to the overworld. You glance back, half tempted to return to safety, but something compels you to press on. The crimson landscape is eerily silent at first, but as you venture deeper, you hear the crackling of flames and distant, inhuman shrieks echoing through the desolation."
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				id: "127A681CF30C40DF"
+				title: "Objective: Visit the Nether"
+				type: "dimension"
+			}]
+			title: "The Fiery Gate"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4843C573186F6D19"]
+			hide_until_deps_complete: true
+			id: "45BB968F2E435A91"
+			rewards: [{
+				id: "0B9DB1D37983CB9D"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "Your first goal is to explore and gather your bearings. You collect fragments of glowstone, their faint light a fleeting comfort in the overwhelming darkness. But as you reach out to harvest the glowing crystals, shadows move in the corner of your vision. You whip around, but nothing is there—just the endless emptiness. For now."
+			tasks: [{
+				consume_items: false
+				count: 8L
+				id: "3D3E452408FD00C7"
+				item: "minecraft:glowstone_dust"
+				only_from_crafting: false
+				title: "Objective: Obtain 8 Glowstone Dust"
+				type: "item"
+			}]
+			title: "Light in the Darkness"
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["45BB968F2E435A91"]
+			hide_until_deps_complete: true
+			id: "4BA8D89DFA53CB01"
+			rewards: [
+				{
+					id: "6D2975A9AB312644"
+					item: "farmersrespite:rose_hip_tea"
+					type: "item"
+				}
+				{
+					id: "69BECF36B2D0E32B"
+					item: "dropthemeat:cooked_allay"
+					type: "item"
+				}
+			]
+			subtitle: "After hours of wandering, the Nether Fortress finally appears on the horizon, its towering blackened spires cutting into the crimson sky. Its architecture is twisted, like a monument to forgotten horrors. You feel a chill despite the heat, an overwhelming sense of dread gnawing at your resolve."
+			tasks: [{
+				id: "6AF7879AFBCB3931"
+				structure: "minecraft:fortress"
+				title: "Objective: Locate a Nether Fortress"
+				type: "structure"
+			}]
+			title: "Fortress of Doom"
+			x: 2.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["4BA8D89DFA53CB01"]
+			hide_until_deps_complete: true
+			id: "133C087942120397"
+			rewards: [
+				{
+					id: "2853A2C350F6E3B2"
+					item: {
+						Count: 1
+						id: "minecraft:lingering_potion"
+						tag: {
+							Potion: "minecraft:fire_resistance"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4F02834ABEA40FE5"
+					type: "xp"
+					xp: 10
+				}
+			]
+			subtitle: "Inside the fortress, the corridors twist and turn, leading to dead ends or sudden drops into the lava below. Blazes hover in the distance, their bodies wreathed in fire. You steel yourself and charge forward, dodging bursts of flame. The battle is relentless, but you push through, striking them down one by one."
+			tasks: [{
+				consume_items: false
+				count: 6L
+				id: "61057117D81D782B"
+				item: "minecraft:blaze_powder"
+				only_from_crafting: false
+				title: "Objective: Obtain 6 Blaze Powder"
+				type: "item"
+			}]
+			title: "Fury of the Blaze"
+			x: 2.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["62AA80CD55F8544C"]
+			description: ["Completing this quest will unlock a Secret Quest in Chapter 5 in future update!"]
+			id: "5E79789BC7F11EB6"
+			invisible: true
+			rewards: [
+				{
+					id: "515E89F52E9E78F6"
+					item: "farmersrespite:blazing_chili"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "71A8DC763E61CB31"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+				{
+					id: "3414FFA4FE49A929"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					icon: "minecraft:ender_chest"
+					id: "175BEDF94D0D3DED"
+					table_id: 3600346670507867016L
+					type: "random"
+				}
+			]
+			subtitle: "Among the shadows, you sense other eyes watching. Wither Skeletons stalk you in the darkness, their hollow eyes glowing faintly. You strike one down, and as its body crumbles, a skull remains—cold and cursed. You hesitate before picking it up, feeling a surge of dark energy."
+			tasks: [{
+				consume_items: false
+				id: "0AF9EB99D12CE2A2"
+				item: "minecraft:wither_skeleton_skull"
+				only_from_crafting: false
+				title: "Objective: Obtain 1 Wither Skeleton Skull"
+				type: "item"
+			}]
+			title: "Secret Quest: Cursed Skull"
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["62AA80CD55F8544C"]
+			description: ["Completing this quest unlocks a secret quest in Chapter 4!"]
+			id: "4966A45349BBD315"
+			invisible: true
+			rewards: [
+				{
+					id: "6571BFDB417FE0B6"
+					item: "minecraft:enchanted_golden_apple"
+					type: "item"
+				}
+				{
+					id: "7CAF14871361492C"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			subtitle: "But for the keen-eyed adventurer, there's more buried deep within the Nether’s darkened depths. If you happen to dig deeper—far beneath the burning netherrack—you may uncover Ancient Debris, a rare and forgotten material of immense power. However, this discovery comes at a cost. The air grows heavier, and the Nether itself seems to whisper in protest as you disturb what should have remained buried. The heat intensifies, and shadows flicker at the edges of your vision. Was something watching you? Or was that just your imagination?"
+			tasks: [{
+				consume_items: false
+				id: "4D798AAB7170525E"
+				item: "minecraft:ancient_debris"
+				only_from_crafting: false
+				title: "Objective: Find 1 Ancient Debris"
+				type: "item"
+			}]
+			title: "Secret Quest: Lost Treasure"
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["45BB968F2E435A91"]
+			hide_until_deps_complete: true
+			icon: "arphex:butterfly_bewitcher_spawn_egg"
+			id: "5F26D9AA9756843B"
+			rewards: [{
+				id: "4F2E48EC186452AD"
+				type: "xp"
+				xp: 20
+			}]
+			subtitle: "These encounters leave you shaken, as whispers seem to follow you wherever you go. Strange symbols appear etched into rocks, and animals behave erratically, fleeing from unseen forces. Hallucinations grow stronger. You find some butterflies in a forest which makes you a bit calmer for now."
+			tasks: [{
+				entity: "arphex:butterfly_bewitcher"
+				id: "647F29331F1F4BBD"
+				title: "Objective: Kill 1 Butterfly Bewitcher"
+				type: "kill"
+				value: 1L
+			}]
+			title: "The Bewitching Butterfly"
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["722289B42F1D416D"]
+			hide_until_deps_complete: true
+			id: "3C56B438CE0F0233"
+			rewards: [{
+				id: "4F52069441AA5D92"
+				item: "minecraft:totem_of_undying"
+				type: "item"
+			}]
+			subtitle: "The forest seems almost relieved when you leave the burning ant burrows behind, but that relief is short-lived. A loud, droning hum fills the air, vibrating in your bones. A massive shadow passes overhead, darting between the treetops. You’ve heard stories of the Hornet Harbinger Giant, but nothing could have prepared you for its terrifying presence. The hornet is enormous, with wings that shimmer like dark glass and a jagged stinger capable of piercing the toughest armor. It circles above you, waiting for the perfect moment to strike. When it finally attacks, it’s with brutal precision—a whirlwind of venom and wings. Each blow from its stinger sends shockwaves through your body, and its speed makes it nearly impossible to predict."
+			tasks: [{
+				entity: "arphex:hornet_harbinger_giant"
+				icon: "arphex:hornet_harbinger_giant_spawn_egg"
+				id: "27E2E4F0693D7D88"
+				title: "Objective: Kill 1 Hornet Harbinger Giant"
+				type: "kill"
+				value: 1L
+			}]
+			title: "The Giant Hornet"
+			x: -2.0d
+			y: -11.5d
+		}
+		{
+			dependencies: ["2976AAB4A562081A"]
+			hide_until_deps_complete: true
+			id: "1391855EB7C7067F"
+			rewards: [{
+				count: 6
+				id: "3AA299BB429780C2"
+				item: "minecraft:golden_carrot"
+				type: "item"
+			}]
+			subtitle: "The ground beneath your feet feels scorched, and strange burrows litter the landscape. A faint crackling sound echoes in the distance, accompanied by the smell of burning wood. You’ve stumbled upon the domain of the Ant Arsonists, fearsome creatures with smoldering mandibles and molten veins running through their bodies. It’s not long before the Ant Arsonist Workers notice your presence. These vicious creatures are quick and relentless, their charred bodies radiating heat as they swarm toward you with singular purpose. The battle is intense—embers flying everywhere as they set the ground ablaze in their fury. After a fierce struggle, you manage to take down one of the workers, its death marked by a burst of ash and flame."
+			tasks: [{
+				entity: "arphex:ant_arsonist_worker"
+				icon: "arphex:ant_arsonist_worker_spawn_egg"
+				id: "3E7A0502A23566D2"
+				title: "Objective: Kill 1 Ant Arsonist Worker"
+				type: "kill"
+				value: 1L
+			}]
+			title: "The Ant's Wrath"
+			x: -2.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["227414BD43F3A6D4"]
+			hide_until_deps_complete: true
+			id: "7C51833238EAF3B4"
+			rewards: [
+				{
+					count: 2
+					id: "31D285A57AA5710B"
+					item: "farmersrespite:rose_hip_pie_slice"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "28F4E8E3110CAF52"
+					item: "minecraft:rabbit_hide"
+					type: "item"
+				}
+			]
+			subtitle: "But every time you close your eyes to rest, you see his face. Watching. Waiting. You shake it off as exhaustion. Or is it?"
+			tasks: [{
+				consume_items: false
+				id: "6FE76C63A2BAD51C"
+				item: "ls_spooky_foods:magma_cookie"
+				only_from_crafting: false
+				title: "Objective: Craft a Magma Cookie"
+				type: "item"
+			}]
+			title: "The Magma Treat"
+			x: 3.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["5F26D9AA9756843B"]
+			hide_until_deps_complete: true
+			id: "2976AAB4A562081A"
+			rewards: [
+				{
+					count: 2
+					id: "319722E684C324A1"
+					item: "arphex:chitin"
+					type: "item"
+				}
+				{
+					id: "3A70304EC3F1882F"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			subtitle: "Further into the forest, you encounter the Beetle Bulwark and Millipede Marauder, massive insects whose exoskeletons yield chitin, a material stronger than anything you’ve encountered."
+			tasks: [{
+				consume_items: false
+				count: 6L
+				id: "455D9BA1E8B9EE91"
+				item: "arphex:chitin"
+				only_from_crafting: false
+				title: "Objective: Obtain 8 Chitin"
+				type: "item"
+			}]
+			title: "Chitin Collector"
+			x: -2.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["1391855EB7C7067F"]
+			hide_until_deps_complete: true
+			id: "722289B42F1D416D"
+			rewards: [{
+				id: "7D2356D15E6C894D"
+				type: "xp"
+				xp: 20
+			}]
+			subtitle: "The remains of the Ant Arsonists contain something strange—Burning Glands, searing hot to the touch and pulsing with fiery energy. You collect the glands carefully, each one glowing with a malevolent light. It becomes clear that these creatures are driven by an insatiable hunger for destruction, leaving trails of scorched earth in their wake. The more you encounter them, the clearer it becomes that they are not simply defending their territory—something far darker is at play. As you gather the Burning Essence, you feel the heat seeping into your skin, an ominous reminder of the creatures’ volatile power. Every step in their fiery domain feels more dangerous than the last."
+			tasks: [{
+				consume_items: false
+				count: 3L
+				id: "18A651B529634C1E"
+				item: "arphex:burning_glands"
+				only_from_crafting: false
+				title: "Objective: Obtain 3 Burning Glands"
+				type: "item"
+			}]
+			title: "Burning Essence"
+			x: -2.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["415D5027E7B71CB5"]
+			hide_until_deps_complete: true
+			id: "481F5644FCB896C9"
+			rewards: [
+				{
+					id: "2DDA42A88E4DFF26"
+					item: "minecraft:enchanted_golden_apple"
+					type: "item"
+				}
+				{
+					id: "7BB20DFF7C9B65DE"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			subtitle: "It happens without warning. You step into a cavern that seems untouched by the chaos—silent, still, and suffocatingly dark. You don’t see the Spider Snatcher at first. Its webbing is everywhere, hanging from the ceiling like rotting flesh. The air is thick with the stench of decay, and you can feel the weight of something massive watching you from the shadows. Then you see it—eight eyes glowing in the dark. Its body is grotesque, covered in thick, chitinous armor. It doesn’t move immediately. It watches, its mandibles twitching in anticipation."
+			tasks: [{
+				entity: "arphex:spider_snatcher"
+				icon: "arphex:spider_snatcher_spawn_egg"
+				id: "14D6462541585418"
+				title: "Objective: Kill 1 Spider Snatcher miniboss"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Snatcher in the Shadows"
+			x: -0.5d
+			y: -15.5d
+		}
+		{
+			dependencies: ["046A523C10408D4D"]
+			hide_until_deps_complete: true
+			id: "77C9289425D8C269"
+			rewards: [{
+				icon: "minecraft:ender_chest"
+				id: "50C3541F687B2C37"
+				table_id: 8108442881734338571L
+				type: "random"
+			}]
+			subtitle: "Back at your makeshift shelter, you study the Giant Spinneret. Its fibers are unlike anything you’ve ever seen, pulsating faintly with dark energy. With careful precision, you craft the Black Widow Bow. It feels alive in your hands, humming with power. As you string the bow for the first time, a voice whispers in your ear: “The shadows grow stronger.” You whirl around—no one’s there."
+			tasks: [{
+				consume_items: false
+				id: "42A1C2DCF9194C76"
+				item: "arphex:black_widow_bow"
+				only_from_crafting: false
+				title: "Objective: Craft a Black Widow Bow"
+				type: "item"
+			}]
+			title: "Widow's Fang"
+			x: 3.0d
+			y: -17.0d
+		}
+		{
+			dependencies: ["3C56B438CE0F0233"]
+			hide_until_deps_complete: true
+			id: "415D5027E7B71CB5"
+			rewards: [{
+				id: "6B057D2958C46146"
+				type: "xp"
+				xp: 15
+			}]
+			subtitle: "The fight pushes you to your limits, every second a struggle for survival. You dodge, strike, and fall back repeatedly, each hit leaving you weaker. But with perseverance and a bit of luck, you land the final blow. The giant hornet lets out a deafening screech before collapsing in a heap, its wings twitching one last time. In its remains, you find a Necrotic Fang, a rare and deadly relic. Its presence fills you with equal parts dread and awe. You’ve survived the hornet’s wrath, but something tells you this victory is just the beginning of much greater horrors to come."
+			tasks: [{
+				consume_items: false
+				id: "3185F5E8E52D7ED8"
+				item: "arphex:necrotic_fang"
+				only_from_crafting: false
+				title: "Objective: Obtain 1 Necrotic Fang"
+				type: "item"
+			}]
+			title: "Necrotic Fang"
+			x: -0.5d
+			y: -13.5d
+		}
+		{
+			dependencies: ["481F5644FCB896C9"]
+			hide_until_deps_complete: true
+			id: "046A523C10408D4D"
+			rewards: [{
+				id: "53089CC34209DC85"
+				type: "xp"
+				xp: 15
+			}]
+			subtitle: "When it finally attacks, it’s like a nightmare come to life. It moves with terrifying speed, wrapping webbing around your legs and dragging you toward its lair. You hack at the webs, panic rising as it pulls you closer. Its screech is deafening, echoing through the cavern like the wail of the damned. You manage to break free, but the battle is far from over. It lunges at you again and again, each attack more brutal than the last. When you finally strike it down, it lets out a final, piercing scream before collapsing into a heap of twitching legs. As you pry the Giant Spinneret from its body, you can’t shake the feeling that something far worse is watching from the shadows."
+			tasks: [{
+				consume_items: false
+				id: "7872EE88D59C3EA6"
+				item: "arphex:giant_spinneret"
+				only_from_crafting: false
+				title: "Objective: Obtain 1 Giant Spinneret"
+				type: "item"
+			}]
+			title: "Venomous Prize"
+			x: 1.0d
+			y: -17.0d
+		}
+		{
+			dependencies: ["133C087942120397"]
+			hide_until_deps_complete: true
+			id: "4C7DFAFFAA3354AD"
+			rewards: [{
+				count: 4
+				id: "37E89E1F8233233A"
+				item: "minecraft:soul_sand"
+				type: "item"
+			}]
+			subtitle: "Deeper into the fortress, you find patches of Nether Wart growing in the dim light. Its gnarled roots seem to pulse with life as you harvest it."
+			tasks: [{
+				consume_items: false
+				count: 4L
+				id: "54A8108ECF7FAC66"
+				item: "minecraft:nether_wart"
+				only_from_crafting: false
+				title: "Objective: Collect 4 Nether Wart"
+				type: "item"
+			}]
+			title: "Crimson Harvest"
+			x: 1.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["4C7DFAFFAA3354AD"]
+			hide_until_deps_complete: true
+			id: "47537E4292A2AFEE"
+			rewards: [{
+				id: "4BF5923EEA224422"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			subtitle: "With the supplies in hand, you retreat to a safe corner and begin brewing potions."
+			tasks: [{
+				consume_items: false
+				id: "224DFD00A34599F2"
+				item: "minecraft:brewing_stand"
+				only_from_crafting: false
+				title: "Objective: Craft a Brewing Stand"
+				type: "item"
+			}]
+			title: "Alchemist's Tools"
+			x: 1.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["47537E4292A2AFEE"]
+			hide_until_deps_complete: true
+			id: "2A6DBFB58A1A8582"
+			rewards: [
+				{
+					id: "5933B0AA28E22FE5"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+				{
+					id: "754BFD42A541845A"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			subtitle: "Fire Resistance, Strength… anything that might give you an edge against the terrors lurking ahead. Each potion brings a fleeting sense of power, but you know it won’t be enough for what’s coming."
+			tasks: [
+				{
+					consume_items: false
+					id: "101203DE0A350672"
+					item: {
+						Count: 1
+						id: "minecraft:potion"
+						tag: {
+							Potion: "minecraft:strength"
+						}
+					}
+					only_from_crafting: false
+					title: "Objective 1: Brew a Potion of Strength"
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "278D21FA2A90FBCE"
+					item: {
+						Count: 1
+						id: "minecraft:potion"
+						tag: {
+							Potion: "minecraft:fire_resistance"
+						}
+					}
+					only_from_crafting: false
+					title: "Objective 2: Brew a Potion of Fire Resistance"
+					type: "item"
+				}
+			]
+			title: "Experimental Brews"
+			x: 1.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["133C087942120397"]
+			hide_until_deps_complete: true
+			id: "227414BD43F3A6D4"
+			rewards: [{
+				id: "40D3C55395F9725F"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "The Nether’s glowing caverns hold veins of shimmering quartz embedded in the crimson walls. You carefully mine these crystals, their radiant glow illuminating the dark. Gathering quartz feels almost peaceful compared to the hostile environment around you—but the tranquility is deceptive. Every mined block seems to echo in the silence, stirring something unseen in the distance."
+			tasks: [{
+				consume_items: false
+				count: 16L
+				id: "33E39CB50B61950B"
+				item: "minecraft:quartz"
+				only_from_crafting: false
+				title: "Objective: Obtain 16 Nether Quartz"
+				type: "item"
+			}]
+			title: "Nether Quartz Crafter"
+			x: 3.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["62AA80CD55F8544C"]
+			id: "2788C7F5F137AEB3"
+			invisible: true
+			rewards: [
+				{
+					id: "7AE5D777BC3C746D"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					count: 5
+					id: "4816421CF4FED3BF"
+					item: "minecraft:gold_ingot"
+					type: "item"
+				}
+			]
+			subtitle: "As you explore the depths of the Nether, a strange sense of dread fills the air. Suddenly, a lone Zombified Piglin stumbles into view, its hollow eyes locked on you. Though it seems harmless at first, something about this one feels… wrong. Driven by a strange compulsion, you strike it down. Instantly, the silence of the Nether erupts into chaos—Piglin screams echo from every direction. You’ve broken the ancient truce, and now the Piglins will not rest until vengeance is theirs. You must escape quickly, but their rage will haunt you in every dark corridor of the Nether from this moment on."
+			tasks: [{
+				entity: "minecraft:zombified_piglin"
+				id: "20FF9863DEBDFDFF"
+				title: "Objective: Kill 1 Zombified Piglin"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Secret Quest: Piglin Rage"
+			x: -2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3C56B438CE0F0233"]
+			hide_until_deps_complete: true
+			id: "0BEFE00055F62E42"
+			rewards: [
+				{
+					id: "11837BDF85124646"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					id: "60D624BBAA8D4BC2"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+			]
+			subtitle: "With enough chitin in your possession, the next step is clear—you must craft your first piece of armor.The Tier 1 Chitin Helmet is a marvel of natural protection. Shaped from the curved plates of chitin, it fits snugly, providing exceptional defense without sacrificing mobility. As you wear it, you notice an odd sensation, almost as if the helmet is adapting to you, strengthening in response to your presence. But this is only the beginning."
+			tasks: [{
+				consume_items: false
+				id: "7765E8918D4A080B"
+				item: {
+					Count: 1
+					id: "arphex:chitin_armour_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				only_from_crafting: false
+				title: "Objective: Craft a Tier 1 Chitin Helmet"
+				type: "item"
+			}]
+			title: "Chitin Armour"
+			x: -3.5d
+			y: -13.5d
+		}
+		{
+			dependencies: ["0BEFE00055F62E42"]
+			hide_until_deps_complete: true
+			id: "67A1A857C466DA8B"
+			rewards: [{
+				exclude_from_claim_all: true
+				icon: "minecraft:ender_chest"
+				id: "54A30A3A8314019E"
+				table_id: 5493175552888794680L
+				type: "choice"
+			}]
+			subtitle: "The path to improving the armor is more complex. The Tier 2 Chitin Chestplate requires advanced craftsmanship and the use of the Smithing Table. Combining the Tier 1 chestplate with additional pieces of refined chitin transforms it into something far greater—a chestplate that feels nearly indestructible."
+			tasks: [{
+				consume_items: false
+				id: "7F9FD08BFA8AE764"
+				item: {
+					Count: 1
+					id: "arphex:chitin_armour_tier_2_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				only_from_crafting: false
+				title: "Objective: Craft a Tier 2 Chitin Chestplate"
+				type: "item"
+			}]
+			title: "Damage Reduction with Chitin"
+			x: -3.5d
+			y: -15.5d
+		}
+		{
+			dependencies: ["7C51833238EAF3B4"]
+			hide_until_deps_complete: true
+			id: "2AD70AAF84F8915B"
+			rewards: [
+				{
+					id: "0187440DB8D29BFC"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "3ED07A88A1457DD6"
+					item: "arphex:chitin"
+					type: "item"
+				}
+			]
+			subtitle: "You return to the overworld, eager to leave the horrors of the Nether behind. But the world is… wrong. The sky is darker than it should be, the air thick with an unnatural chill. Determined to stay focused, you press on, gathering what you can to prepare for the growing threat. You craft a backpack to carry essential supplies, knowing you'll need every advantage for what's to come."
+			tasks: [{
+				consume_items: false
+				id: "4A4CC66E0ED24467"
+				item: "backpacked:backpack"
+				only_from_crafting: false
+				title: "Objective: Craft a Backpack"
+				type: "item"
+			}]
+			title: "Pack Light"
+			x: 3.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["7C51833238EAF3B4"]
+			hide_until_deps_complete: true
+			id: "579C9A0AC9A10329"
+			rewards: [
+				{
+					id: "1ABEA253499596E7"
+					item: "farmersrespite:strong_black_tea"
+					type: "item"
+				}
+				{
+					id: "059A7FC8041FA3E5"
+					item: "alexsmobs:cooked_lobster_tail"
+					type: "item"
+				}
+			]
+			subtitle: "You take some food with you and head out back to Overworld. Suddenly you see something. You follow it, mesmerized, as it whispers secrets in a language you can’t understand. Your vision blurs, and for a moment, you feel like you’re walking through two realities at once—the Nether and… something else."
+			tasks: [{
+				consume_items: false
+				count: 3L
+				id: "540E3AD744003E26"
+				item: "nethersdelight:hoglin_sirloin"
+				only_from_crafting: false
+				title: "Objective: Cook 3 Hoglin Sirloin"
+				type: "item"
+			}]
+			title: "Feast of the Hoglin"
+			x: 5.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["579C9A0AC9A10329"]
+			hide_until_deps_complete: true
+			id: "2108A554A26720F0"
+			rewards: [
+				{
+					count: 2
+					id: "28AADA747C3C52BC"
+					item: "born_in_chaos_v1:pieceofdarkmetal"
+					type: "item"
+				}
+				{
+					id: "02359AA6F7F9E681"
+					item: "born_in_chaos_v1:shattered_skull"
+					type: "item"
+				}
+			]
+			subtitle: "Back in the overworld, strange things begin to happen—shadows shift unnaturally, and faint whispers fill the air. As dusk falls, a Spirit materializes before you, its glowing form chilling the very air around it. These ghostly remnants are not illusions but forgotten souls trapped between realms."
+			tasks: [{
+				consume_items: false
+				id: "39DF813C8AE93A65"
+				item: "born_in_chaos_v1:ethereal_spirit"
+				only_from_crafting: false
+				title: "Objective: Obtain an Ethereal Spirit"
+				type: "item"
+			}]
+			title: "Spirit of the Chaos"
+			x: 5.0d
+			y: -13.5d
+		}
+		{
+			dependencies: ["2108A554A26720F0"]
+			hide_until_deps_complete: true
+			id: "754623987129AFF8"
+			rewards: [{
+				id: "2BD7FEB06C33CFD7"
+				type: "xp"
+				xp: 15
+			}]
+			subtitle: "You reach out to touch the spirit, and suddenly you’re standing in a dark forest back in the overworld. A cabin appears in front of you. You hear a voice inside—your own voice, calling for help. Then you’re suddenly back, and the spirit gone. You hold its essence in your hands, but you’re left with a chilling thought: What if it wasn’t a hallucination?"
+			tasks: [{
+				consume_items: false
+				id: "344D3C54ED75EFE4"
+				item: "refurbished_furniture:raw_vegetable_pizza"
+				only_from_crafting: false
+				title: "Objective: Craft a Vegetable Pizza"
+				type: "item"
+			}]
+			title: "The Forbidden Pizza"
+			x: 5.0d
+			y: -16.0d
+		}
+		{
+			dependencies: ["2AD70AAF84F8915B"]
+			description: ["Completing this quest unlocks a Secret Quest Road in Chapter 4!"]
+			hide_until_deps_complete: true
+			id: "579D430C5114B4E3"
+			rewards: [{
+				icon: "minecraft:ender_chest"
+				id: "15CE7AC7F796472F"
+				table_id: 1384616004492253711L
+				type: "random"
+			}]
+			subtitle: "As you wander deeper into the Nether, the world itself seems to shift. The ground beneath you trembles, and shadows begin to close in. Then you see him. Just for a moment. Standing atop a distant hill, staring directly at you with lifeless, glowing eyes. You blink, and he’s gone. Your breath quickens. Your heart pounds. But you push forward, convinced it was a hallucination—or at least, that’s what you tell yourself."
+			tasks: [{
+				id: "762D93C6746D8779"
+				observe_type: 5
+				timer: 0L
+				title: "Objective: Observe Herobrine from up close"
+				to_observe: "endofherobrine:lurker"
+				type: "observation"
+			}]
+			title: "THE WATCHING EYES"
+			x: 3.0d
+			y: -14.5d
+		}
+		{
+			dependencies: ["6E477B7D795D82D5"]
+			hide_until_deps_complete: true
+			id: "62AA80CD55F8544C"
+			rewards: [{
+				auto: "enabled"
+				description: ""
+				icon: { Count: 3, id: "minecraft:orange_concrete_powder" }
+				id: "66D3AE777E1038C7"
+				title: "Welcome to Chapter 3!"
+				type: "toast"
+			}]
+			shape: "square"
+			size: 1.5d
+			subtitle: "The portal crackles and glows with ominous energy. You hesitate for a moment, feeling the unnatural pull of the Nether beyond. The air around you grows colder as your hand reaches out. You take a deep breath, bracing yourself for what lies ahead. As you step through, the world shifts—color drains from your surroundings, replaced by crimson skies and the oppressive heat of the Nether.Ash falls like snow, and the ground beneath your feet feels like it's alive, throbbing with the heartbeat of something ancient and malevolent. The atmosphere suffocates you with dread, and you realize that this place is more than just a different dimension—it's a realm of chaos and despair."
+			tasks: [{
+				icon: { Count: 3, id: "minecraft:orange_concrete_powder" }
+				id: "246BEE790F12B437"
+				stat: "minecraft:play_time"
+				title: "Chapter 3 is now unlocked!"
+				type: "stat"
+				value: 1
+			}]
+			title: "Welcome to Chapter 3 of Cave Horror Project!"
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["310A2C77D4C016D8"]
+			description: ["Unlockable only after completing a Secret Quest: The Axe of Destruction in Chapter 2."]
+			hide_until_deps_complete: true
+			id: "5FECB568695C825A"
+			invisible: true
+			rewards: [
+				{
+					count: 2
+					id: "370EB6893B18835D"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+				{
+					id: "14353209D5E6CC93"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+			subtitle: "In the depths of a murky river, your reflection flickers on the water’s surface before vanishing into the shadows below. There’s something lurking there—a presence you can’t quite see, but feel. As you wade into the water, a sudden flash of light pierces the gloom, and a Drowned lunges at you, wielding a Trident with deadly precision. The weapon it holds is ancient, forged by unknown hands and imbued with the power of the seas. Only those brave enough to face these drowned warriors can hope to claim it. The battle is fierce, but in the end, the Trident is yours—a relic of forgotten depths. Its weight feels perfect in your hands, as if it was meant for you."
+			tasks: [{
+				consume_items: false
+				id: "2F076F75C416A382"
+				item: {
+					Count: 1
+					id: "minecraft:trident"
+					tag: {
+						Damage: 0
+					}
+				}
+				only_from_crafting: false
+				title: "Objective: Obtain a Trident"
+				type: "item"
+			}]
+			title: "Secret Quest: Underwater Weapon"
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["748B04628CA2AFE6"]
+			description: ["Unlockable only after completing a Secret Quest: Master of the Fields in Chapter 2."]
+			hide_until_deps_complete: true
+			id: "0172DA8FAA85290B"
+			invisible: true
+			rewards: [
+				{
+					id: "55C73CA8A6ABD54F"
+					item: "farmersdelight:bacon_and_eggs"
+					type: "item"
+				}
+				{
+					id: "115A9426CC9FEF4A"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			subtitle: "After everything you’ve endured, there’s an odd comfort in returning to something simple. Amongst your gathered supplies, you find a fresh egg. A strange thought crosses your mind—what if you cooked it?"
+			tasks: [{
+				consume_items: false
+				id: "5A6741494FF60FC4"
+				item: "farmersdelight:fried_egg"
+				only_from_crafting: false
+				title: "Objective: Make a Fried Egg"
+				type: "item"
+			}]
+			title: "Secret Quest: Fried Chicken"
+			x: 2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["77C9289425D8C269"]
+			hide_until_deps_complete: true
+			id: "212710499611A21D"
+			rewards: [{
+				auto: "enabled"
+				description: ""
+				icon: { Count: 4, id: "minecraft:red_concrete_powder" }
+				id: "3CB0C42B7B04915D"
+				title: "You can now start with Chapter 4 quests!"
+				type: "toast"
+			}]
+			shape: "square"
+			size: 1.5d
+			subtitle: "The sense of dread is stronger than ever. You clutch your Black Widow Bow tightly, knowing that something far worse than the Spider Snatcher is waiting for you. The shadows are closing in, and Herobrine’s warning echoes in your mind. You’ve gone too far. The darkness is coming. But it’s too late to turn back now."
+			tasks: [{
+				icon: { Count: 4, id: "minecraft:red_concrete_powder" }
+				id: "670B34ADFB599497"
+				stat: "minecraft:play_time"
+				title: "Chapter 4 is now available!"
+				type: "stat"
+				value: 1
+			}]
+			title: "Chapter 4 is now available!"
+			x: 4.5d
+			y: -18.5d
+		}
+	]
+	subtitle: ["Chapter 3 contains 25 Normal Quests and 5 Secret Quests!"]
+	title: "Shadows in the Nether [Chapter 3]"
+}

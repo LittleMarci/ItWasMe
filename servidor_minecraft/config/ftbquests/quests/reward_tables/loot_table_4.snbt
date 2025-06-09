@@ -1,0 +1,22 @@
+{
+	id: "31F70038ABE1BB88"
+	loot_size: 1
+	order_index: 3
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "minecraft:enchanted_book"
+				tag: {
+					StoredEnchantments: [{
+						id: "minecraft:protection"
+						lvl: 3s
+					}]
+				}
+			}
+		}
+		{ count: 3, item: "minecraft:echo_shard" }
+		{ item: "minecraft:name_tag" }
+	]
+	title: "loot_table 4"
+}

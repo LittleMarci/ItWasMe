@@ -1,0 +1,47 @@
+
+["Server and Client"]
+	#enable spawning of the man
+	enable_spawning = true
+	#minimum duration of spawning in ticks
+	min_spawn_rate = 5000.0
+	#maximum duration of spawning in ticks
+	max_spawn_rate = 20000.0
+	#if true, it shows a jumpscare image when killed
+	jumpscare = true
+	#minimum duration of getting chased in ticks
+	min_chase_duration = 400.0
+	#maximum duration of getting chased in ticks
+	max_chase_duration = 1000.0
+	#if true, it can climb vertical blocks
+	climbing = true
+	#minimum radius in blocks before it despawns
+	vanish_distance = 40.0
+	#if true, it can also spawn during the day
+	spawn_at_day = false
+	#if true, the player gets the darkness effect when starts getting chased
+	darkness_effect = true
+	#the duration in ticks of the darkness effect
+	darkness_effect_duration = 100.0
+	#if true, it can break doors and glass/glass panes while it chases the player
+	break_blocks = true
+	#if true, it will summon fake lightnings when despawning or spawning
+	lightnings = true
+	#if true, it will play one of five spawn sounds when spawning or getting closer
+	spawn_sounds = true
+	#the duration in ticks until it will get closer when not looked at
+	stage1_spawn_rate = 1000.0
+	#the duration in ticks until it will start chasing the player when not looked at
+	stage2_spawn_rate = 1800.0
+	#if true, the man will use the old chase mechanic
+	old_stalk_mechanic = false
+	#the structures as well as the dimension will be disabled and the man spawns normally in your world. Create a new world when disabled
+	legacy_man = false
+	#the man will search the nearest player on lost sight and when close enough, destroy neccessary blocks to get the player
+	search_mechanic = false
+	#The max hardness of a block which the man will be able to break, set to -1.0 to disable
+	block_hardness = -1.0
+	#The max hardness of a block which the man will be able to break when searching for the player
+	block_hardness_search = -1.0
+	#The time in ticks for how long the man needs to break a block (higher value = lower speed)
+	block_break_timer = 10.0
+
