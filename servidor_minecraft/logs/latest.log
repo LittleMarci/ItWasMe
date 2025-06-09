@@ -5872,3 +5872,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [09Jun2025 02:00:29.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made A1lenSS a server operator
 [09Jun2025 02:00:46.775] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=55, z=-19} BlockPos{x=-9, y=64, z=-16}
 [09Jun2025 02:00:52.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A1lenSS has made the advancement [Getting an Upgrade]
+[09Jun2025 02:01:36.733] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13, y=68, z=-16} BlockPos{x=-12, y=66, z=-23}
+[09Jun2025 02:01:38.386] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=55, z=-19} BlockPos{x=-9, y=64, z=-16}
+[09Jun2025 02:01:48.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlitox_x1 has made the advancement [Getting an Upgrade]
+[09Jun2025 02:01:59.921] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13, y=68, z=-16} BlockPos{x=-13, y=63, z=-14}
+[09Jun2025 02:01:59.972] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13, y=68, z=-16} BlockPos{x=-14, y=63, z=-14}
+[09Jun2025 02:02:12.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlitox_x1 has made the advancement [Stone Age]
+[09Jun2025 02:04:17.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A1lenSS has made the advancement [Stone Age]
+[09Jun2025 02:06:44.226] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-16, y=71, z=-44}
+[09Jun2025 02:10:55.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlitox_x1 has made the advancement [Acquire Hardware]
+[09Jun2025 02:11:09.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 has made the advancement [Acquire Hardware]
