@@ -6015,3 +6015,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [09Jun2025 03:52:18.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 was slain by Scorpion Striker
 [09Jun2025 03:52:24.425] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-7, y=70, z=-295}
 [09Jun2025 03:52:57.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 withered away whilst fighting Scorpion Striker
+[09Jun2025 03:53:23.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 was slain by Scorpion Striker
+[09Jun2025 04:00:21.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 has made the advancement [Diamonds!]
+[09Jun2025 04:01:30.425] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=53, y=65, z=-354}
+[09Jun2025 04:02:43.656] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: A1lenSS[/127.117.105.103:51133] logged in with entity id 42862 at (45.69999998807907, 66.0, -348.69999998807907)
+[09Jun2025 04:02:43.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A1lenSS joined the game
+[09Jun2025 04:02:43.933] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of A1lenSS (18)
+[09Jun2025 04:02:43.935] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to A1lenSS
+[09Jun2025 04:06:45.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlitox_x1 has made the advancement [Suit Up]
+[09Jun2025 04:08:50.585] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carlitox_x1 lost connection: Disconnected
+[09Jun2025 04:08:50.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlitox_x1 left the game
+[09Jun2025 04:08:50.586] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client carlitox_x1
+[09Jun2025 04:08:50.633] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Jun2025 04:10:40.925] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=54, y=68, z=-308}
