@@ -1,0 +1,17 @@
+{
+	id: "f246ac00-458f-4b66-a042-56d8140c5a16"
+	type: "party"
+	owner: "984c4811-73c4-3e6e-8751-7c2a2f7b7ccc"
+	ranks: {
+		984c4811-73c4-3e6e-8751-7c2a2f7b7ccc: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "miedo"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5D59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1749439055640L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"A1lenSS\"}]}" }]
+	extra: { }
+}

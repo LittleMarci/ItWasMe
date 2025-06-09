@@ -929,6 +929,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-06-09 03:17:41 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_cooler": {
     "criteria": {
       "has_planks": "2025-06-09 01:55:44 +0000"
@@ -1529,6 +1535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-06-09 03:14:58 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/hellbark_windows": {
     "criteria": {
       "has_the_recipe": "2025-06-09 02:29:17 +0000"
@@ -1700,6 +1712,12 @@
   "securitycraft:recipes/misc/reinforced_oak_fence": {
     "criteria": {
       "has_stick": "2025-06-09 01:58:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-06-09 03:14:58 +0000"
     },
     "done": true
   },
@@ -2232,6 +2250,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-06-09 03:22:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-06-09 02:11:09 +0000"
@@ -2569,6 +2593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-06-09 03:22:34 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_bath": {
     "criteria": {
       "has_iron_ingot": "2025-06-09 02:11:09 +0000"
@@ -2656,6 +2686,12 @@
   "refurbished_furniture:recipes/misc/workbench": {
     "criteria": {
       "has_planks": "2025-06-09 01:55:44 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_whispering": {
+    "criteria": {
+      "has_logs": "2025-06-09 03:22:34 +0000"
     },
     "done": true
   },
@@ -2812,6 +2848,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-06-09 02:24:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-06-09 03:14:58 +0000"
     },
     "done": true
   },
@@ -3049,6 +3091,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-06-09 03:14:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-06-09 02:09:36 +0000"
@@ -3175,6 +3223,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-06-09 03:22:34 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2025-06-09 02:16:00 +0000"
@@ -3196,6 +3250,12 @@
   "mcwtrpdoors:recipes/oak/oak_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-09 02:29:17 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-06-09 03:00:24 +0000"
     },
     "done": true
   },
@@ -3457,6 +3517,12 @@
   "mcwbridges:recipes/dark_oak_rail_bridge": {
     "criteria": {
       "has_planks": "2025-06-09 02:24:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-06-09 03:17:41 +0000"
     },
     "done": true
   },
