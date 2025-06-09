@@ -5906,3 +5906,24 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [09Jun2025 02:25:21.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 has made the advancement [Condemned To Die]
 [09Jun2025 02:25:41.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlitox_x1 has made the advancement [Sweet Dreams]
 [09Jun2025 02:25:52.669] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=69, z=-15}
+[09Jun2025 02:33:27.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 was slain by Possessed Sheep
+[09Jun2025 02:36:14.488] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: A1lenSS[/127.117.105.103:57839] logged in with entity id 14391 at (67.69999998807907, 76.0, -461.3084220092803)
+[09Jun2025 02:36:14.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A1lenSS joined the game
+[09Jun2025 02:36:14.757] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of A1lenSS (18)
+[09Jun2025 02:36:14.757] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to A1lenSS
+[09Jun2025 02:37:08.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A1lenSS has made the advancement [Sweet Dreams]
+[09Jun2025 02:37:15.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 has made the advancement [Sweet Dreams]
+[09Jun2025 02:37:35.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlitox_x1 has reached the goal [Feeling Watched]
+[09Jun2025 02:38:12.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 was slain by Man From The Fog
+[09Jun2025 02:38:49.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 has made the advancement [Monster Hunter]
+[09Jun2025 02:38:56.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A1lenSS was slain by The Damned
+[09Jun2025 02:38:56.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A1lenSS has made the advancement [Condemned To Die]
+[09Jun2025 02:39:54.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 has reached the goal [Fighting Nightmares]
+[09Jun2025 02:39:55.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 has made the advancement [Dark Metallurgy]
+[09Jun2025 02:40:04.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Created team [miedo]]
+[09Jun2025 02:40:11.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Added A1lenSS to team [miedo]]
+[09Jun2025 02:40:13.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Added carlitox_x1 to team [miedo]]
+[09Jun2025 02:40:15.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Added sigan_viendo01 to team [miedo]]
+[09Jun2025 02:40:25.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [A1lenSS: Disabled friendly fire for team [miedo]]
+[09Jun2025 02:41:52.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A1lenSS was slain by The Moonflower
+[09Jun2025 02:41:56.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 was slain by The Moonflower
