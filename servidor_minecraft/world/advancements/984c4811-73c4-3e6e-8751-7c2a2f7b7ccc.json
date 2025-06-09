@@ -3425,5 +3425,11 @@
     },
     "done": true
   },
+  "the_knocker:cant_sleep": {
+    "criteria": {
+      "cant_sleep_0": "2025-06-09 04:24:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -6028,3 +6028,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [09Jun2025 04:08:50.586] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client carlitox_x1
 [09Jun2025 04:08:50.633] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [09Jun2025 04:10:40.925] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=54, y=68, z=-308}
+[09Jun2025 04:29:14.375] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=54, y=64, z=-300}
+[09Jun2025 04:32:43.981] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigan_viendo01 lost connection: Disconnected
+[09Jun2025 04:32:43.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 left the game
+[09Jun2025 04:32:43.983] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sigan_viendo01
+[09Jun2025 04:32:49.680] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: A1lenSS lost connection: Disconnected
+[09Jun2025 04:32:49.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A1lenSS left the game
+[09Jun2025 04:32:49.681] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client A1lenSS
