@@ -12040,3 +12040,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [09Jun2025 04:32:49.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A1lenSS left the game
 [09Jun2025 04:32:49.681] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of A1lenSS
 [09Jun2025 04:32:49.681] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client A1lenSS
+[09Jun2025 04:37:37.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 04:37:37.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 04:42:37.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 04:42:37.690] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
