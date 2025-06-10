@@ -5702,3 +5702,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Jun2025 01:21:51.434] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=73, z=-378} BlockPos{x=53, y=71, z=-382}
 [10Jun2025 01:21:51.445] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=73, z=-378} BlockPos{x=53, y=71, z=-382}
 [10Jun2025 01:27:53.539] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=20, y=65, z=-356}
+[10Jun2025 01:34:46.294] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigan_viendo01 lost connection: Disconnected
+[10Jun2025 01:34:46.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 left the game
+[10Jun2025 01:34:46.297] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sigan_viendo01

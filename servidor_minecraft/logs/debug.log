@@ -9560,3 +9560,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Jun2025 01:31:22.244] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['sigan_viendo01'/57, l='ServerLevel[world]', x=41.90, y=61.00, z=-344.54], dimensionLocationPath overworld
 [10Jun2025 01:31:22.244] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['sigan_viendo01'/57, l='ServerLevel[world]', x=41.90, y=61.00, z=-344.54] in list []
 [10Jun2025 01:31:22.594] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['sigan_viendo01'/57, l='ServerLevel[world]', x=41.90, y=61.00, z=-344.54]
+[10Jun2025 01:32:10.839] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/11873, l='ServerLevel[world]', x=39.65, y=64.48, z=-348.73], dimensionLocationPath overworld
+[10Jun2025 01:32:10.839] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/11873, l='ServerLevel[world]', x=39.65, y=64.48, z=-348.73] in list []
+[10Jun2025 01:32:11.389] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/11873, l='ServerLevel[world]', x=39.52, y=64.00, z=-348.13, removed=DISCARDED]
+[10Jun2025 01:33:15.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 01:33:15.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jun2025 01:34:46.294] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sigan_viendo01 lost connection: Disconnected
+[10Jun2025 01:34:46.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 left the game
+[10Jun2025 01:34:46.296] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of sigan_viendo01
+[10Jun2025 01:34:46.297] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sigan_viendo01
+[10Jun2025 01:38:15.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 01:38:15.461] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
