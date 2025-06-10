@@ -5683,3 +5683,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Jun2025 00:43:30.913] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to sigan_viendo01
 [10Jun2025 00:44:26.342] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=60, y=65, z=-364}
 [10Jun2025 00:55:32.540] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=33, y=65, z=-323}
+[10Jun2025 01:05:17.239] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=47, y=68, z=-298}
+[10Jun2025 01:06:07.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sigan_viendo01 has made the advancement [The Parrots and the Bats]
+[10Jun2025 01:12:18.239] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=5, y=65, z=-343}
+[10Jun2025 01:18:48.289] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=149, y=78, z=-344}
+[10Jun2025 01:21:41.948] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=30, y=71, z=-376} BlockPos{x=33, y=69, z=-377}
+[10Jun2025 01:21:41.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=30, y=71, z=-376} BlockPos{x=33, y=69, z=-377}
+[10Jun2025 01:21:50.779] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=73, z=-378} BlockPos{x=53, y=71, z=-382}
+[10Jun2025 01:21:50.829] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=73, z=-378} BlockPos{x=53, y=71, z=-382}
+[10Jun2025 01:21:50.877] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=73, z=-378} BlockPos{x=53, y=71, z=-382}
+[10Jun2025 01:21:51.207] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=73, z=-378} BlockPos{x=53, y=71, z=-382}
+[10Jun2025 01:21:51.210] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=73, z=-378} BlockPos{x=53, y=71, z=-382}
+[10Jun2025 01:21:51.246] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=73, z=-378} BlockPos{x=53, y=71, z=-382}
+[10Jun2025 01:21:51.247] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=73, z=-378} BlockPos{x=53, y=71, z=-382}
+[10Jun2025 01:21:51.247] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=73, z=-378} BlockPos{x=53, y=71, z=-382}
+[10Jun2025 01:21:51.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=73, z=-378} BlockPos{x=53, y=71, z=-382}
+[10Jun2025 01:21:51.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=73, z=-378} BlockPos{x=53, y=71, z=-382}
+[10Jun2025 01:21:51.434] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=73, z=-378} BlockPos{x=53, y=71, z=-382}
+[10Jun2025 01:21:51.445] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=73, z=-378} BlockPos{x=53, y=71, z=-382}

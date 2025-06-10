@@ -3043,6 +3043,8 @@
       "cooked_porkchop": "2025-06-09 02:21:27 +0000",
       "cooked_mutton": "2025-06-09 02:42:32 +0000",
       "cooked_beef": "2025-06-09 04:06:40 +0000",
+      "apple": "2025-06-10 01:02:03 +0000",
+      "bread": "2025-06-10 01:15:25 +0000",
       "rotten_flesh": "2025-06-09 02:16:21 +0000",
       "cooked_chicken": "2025-06-09 04:00:25 +0000"
     },
@@ -4762,6 +4764,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/curtains": {
+    "criteria": {
+      "has_wood": "2025-06-10 01:14:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2025-06-10 00:54:53 +0000"
@@ -4780,15 +4788,57 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-06-10 00:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-06-10 01:06:07 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2025-06-10 01:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-06-10 01:06:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-06-10 01:14:39 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-06-10 00:54:53 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2025-06-10 01:15:01 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-06-10 00:54:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-06-10 01:14:39 +0000"
     },
     "done": true
   },
@@ -4801,6 +4851,24 @@
   "refurbished_furniture:recipes/misc/constructing/door_mat": {
     "criteria": {
       "has_wheat": "2025-06-10 00:54:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-06-10 01:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-06-10 01:14:39 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2025-06-10 01:14:39 +0000"
     },
     "done": true
   },
