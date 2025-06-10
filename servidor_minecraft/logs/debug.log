@@ -9389,3 +9389,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Jun2025 00:48:15.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Jun2025 00:51:00.142] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/2462, l='ServerLevel[world]', x=28.31, y=67.56, z=-318.58], dimensionLocationPath overworld
 [10Jun2025 00:51:01.989] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/2462, l='ServerLevel[world]', x=26.92, y=66.00, z=-317.23, removed=DISCARDED]
+[10Jun2025 00:53:15.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 00:53:15.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jun2025 00:55:32.540] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=33, y=65, z=-323}
+[10Jun2025 00:58:15.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 00:58:15.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
